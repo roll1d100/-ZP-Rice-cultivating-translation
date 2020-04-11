@@ -3,7 +3,7 @@
 
 プルリクエストを送った場合は以下にのURLに連絡をよろしくお願いします。
 
-
+https://steamcommunity.com/sharedfiles/filedetails/?id=2056650055
 
 翻訳者の皆様にお手数おかけして申し訳ございません。
 既存の翻訳をシステムの再構築で壊わしました。
