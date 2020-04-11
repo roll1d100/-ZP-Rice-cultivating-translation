@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealFine -->
+
+  <ZP_SaltGrilledFish.label>魚の塩焼き</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>塩をまぶした魚を串にさし直火で焼いたもの。焼いた魚の旨味を堪能できる一品。</ZP_SaltGrilledFish.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_Sasimi.label>刺身</ZP_Sasimi.label>
+  <ZP_Sasimi.description>新鮮な生魚を食べやすい大きさに切りお皿に盛り合わせたもの。</ZP_Sasimi.description>
+
+  <ZP_SteamedFish.label>魚の煮付け</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>魚を軽く茹でた後に調味料で味をつけ煮付けた食べ物。</ZP_SteamedFish.description>
+
+  <ZP_Oden.label>おでん</ZP_Oden.label>
+  <ZP_Oden.description>コンニャク、大根、ちくわを出汁で長時間煮込んだ煮込み料理。</ZP_Oden.description>
+
+
+</LanguageData>
