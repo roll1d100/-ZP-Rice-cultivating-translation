@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZPRecycleApparel.label>服装のリサイクル</ZPRecycleApparel.label>
+  <ZPRecycleApparel.description>限られた資源を有効に活用するためにリサイクルする。</ZPRecycleApparel.description>
+  <ZPRecycleApparel.jobString>リサイクル中</ZPRecycleApparel.jobString>
+
+  <BurnZipangu.label>副産物を焼却する</BurnZipangu.label>
+  <BurnZipangu.description>副産物を焼却する。</BurnZipangu.description>
+  <BurnZipangu.jobString>副産物を焼却する。</BurnZipangu.jobString>
+
+  <BurnZipangu2nd.label>副産物を大量焼却する。</BurnZipangu2nd.label>
+  <BurnZipangu2nd.description>副産物を大量焼却する。</BurnZipangu2nd.description>
+  <BurnZipangu2nd.jobString>副産物を大量焼却する。</BurnZipangu2nd.jobString>
+
+
+</LanguageData>

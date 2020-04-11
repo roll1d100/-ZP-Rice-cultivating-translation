@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 簡単な食事 単品 -->
+
+  <CookKorokke4.label>コロッケx4</CookKorokke4.label>
+  <CookKorokke4.description>コロッケを４個作る</CookKorokke4.description>
+  <CookKorokke4.jobString>コロッケを作成中。</CookKorokke4.jobString>
+
+
+</LanguageData>
