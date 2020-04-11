@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HedBadBreath.label>口臭</HedBadBreath.label>
+  <HedBadBreath.description>時間が経てば収まるが、社交に影響が出る。</HedBadBreath.description>
+
+  <HedFull.label>満腹で体が重い・・・</HedFull.label>
+  <HedFull.description>時間が経てば収まるが、移動速度が落ちる。</HedFull.description>
+
+  <HedSpicy.label>辛いんじゃあああああああ!!</HedSpicy.label>
+  <HedSpicy.description>時間が経てば収まるが、あまりの辛さに皮膚が鋭敏になり痛みに弱くなる。</HedSpicy.description>
+
+
+</LanguageData>
