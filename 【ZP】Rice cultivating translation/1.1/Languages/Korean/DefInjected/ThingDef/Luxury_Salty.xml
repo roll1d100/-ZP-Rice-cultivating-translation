@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 塩味 -->
+
+  <ZP_RiceCracker.label>煎餅</ZP_RiceCracker.label>
+  <ZP_RiceCracker.description>【特産品】とても歯ごたえのあるお菓子。醤油、味噌等で好きな味付けを楽しもう。</ZP_RiceCracker.description>
+
+  <ZP_BoiledEdamame.label>塩茹で枝豆</ZP_BoiledEdamame.label>
+  <ZP_BoiledEdamame.description>枝豆を塩茹でした日本の定番おつまみ。暑い日に冷えたビールのお供にすることが多い。</ZP_BoiledEdamame.description>
+
+  <ZP_Yakitori.label>焼き鳥</ZP_Yakitori.label>
+  <ZP_Yakitori.description>肉を一口大に切った後に串に刺して焼いた日本の定番おつまみ。味は塩かタレを選べます。</ZP_Yakitori.description>
+
+  <ZP_Hiyayakko.label>冷奴</ZP_Hiyayakko.label>
+  <ZP_Hiyayakko.description>豆腐に薬味をのせ醤油をかけたシンプルな料理。酒の肴やおかずに1品足したい時に便利。</ZP_Hiyayakko.description>
+
+  <ZP_Misotanpo.label>みそたんぽ</ZP_Misotanpo.label>
+  <ZP_Misotanpo.description>焼いたたんぽに味噌をつけたもの。秋田県の郷土料理。</ZP_Misotanpo.description>
+
+
+</LanguageData>

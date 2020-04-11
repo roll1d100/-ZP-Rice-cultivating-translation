@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 調味料 -->
+
+  <ZP_Salt.label>天然塩</ZP_Salt.label>
+  <ZP_Salt.description>料理に使える塩。</ZP_Salt.description>
+
+  <ZP_Spice.label>香辛料</ZP_Spice.label>
+  <ZP_Spice.description>料理に使える香辛料</ZP_Spice.description>
+
+  <ZP_Mizuame.label>水飴</ZP_Mizuame.label>
+  <ZP_Mizuame.description>伝統的な甘味料。\n原料となる米の種類や加工方法により、黄金色から赤銅色を呈する。\n砂糖が普及する前は日本全国どこでも利用されていた。</ZP_Mizuame.description>
+
+  <ZP_Vinegar.label>酢</ZP_Vinegar.label>
+  <ZP_Vinegar.description>料理に使える酢。</ZP_Vinegar.description>
+
+  <ZP_SoySauce.label>醤油</ZP_SoySauce.label>
+  <ZP_SoySauce.description>料理に使える醤油</ZP_SoySauce.description>
+
+  <ZP_Miso.label>味噌</ZP_Miso.label>
+  <ZP_Miso.description>料理に使える味噌</ZP_Miso.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_SoupStock.label>出汁</ZP_SoupStock.label>
+  <ZP_SoupStock.description>肉や野菜から作った出汁。</ZP_SoupStock.description>
+
+
+</LanguageData>

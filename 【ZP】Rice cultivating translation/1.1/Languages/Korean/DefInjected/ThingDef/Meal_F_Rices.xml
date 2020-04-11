@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealFine -->
+
+  <ZP_BRBento.label>日の丸弁当(雑穀)</ZP_BRBento.label>
+  <ZP_BRBento.description>【特産品】どこでも食べれるお弁当。</ZP_BRBento.description>
+
+  <ZP_WRBento.label>日の丸弁当</ZP_WRBento.label>
+  <ZP_WRBento.description>【特産品】どこでも食べれる白米のお弁当。</ZP_WRBento.description>
+
+  <ZP_BRTKG.label>卵かけご飯(玄米)</ZP_BRTKG.label>
+  <ZP_BRTKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</ZP_BRTKG.description>
+
+  <ZP_WRTKG.label>卵かけご飯</ZP_WRTKG.label>
+  <ZP_WRTKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</ZP_WRTKG.description>
+
+  <ZP_BRGyudon.label>肉丼(玄米)</ZP_BRGyudon.label>
+  <ZP_BRGyudon.description>ご飯の上にがっつり肉を盛り付けたどんぶり。</ZP_BRGyudon.description>
+
+  <ZP_WRGyudon.label>肉丼</ZP_WRGyudon.label>
+  <ZP_WRGyudon.description>ご飯の上にがっつり肉を盛り付けた白米のどんぶり。</ZP_WRGyudon.description>
+
+  <ZP_GRTakikomi.label>炊き込みご飯</ZP_GRTakikomi.label>
+  <ZP_GRTakikomi.description>もち米と具を一緒に炊き込んで作るご飯。</ZP_GRTakikomi.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_NattoRice.label>納豆ごはん</ZP_NattoRice.label>
+  <ZP_NattoRice.description>ご飯の上に納豆を盛り付けたシンプルなどんぶり。</ZP_NattoRice.description>
+
+  <ZP_SalmonRiceBall.label>鮭おにぎり</ZP_SalmonRiceBall.label>
+  <ZP_SalmonRiceBall.description>【特産品】塩味のきいた鮭の入ったちょっと豪華なおにぎり。</ZP_SalmonRiceBall.description>
+
+  <ZP_TempuraRiceBall.label>天むす</ZP_TempuraRiceBall.label>
+  <ZP_TempuraRiceBall.description>【特産品】天ぷらの入ったちょっと豪華なおにぎり。</ZP_TempuraRiceBall.description>
+
+
+</LanguageData>

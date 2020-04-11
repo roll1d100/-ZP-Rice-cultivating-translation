@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 畳 -->
+
+  <ZP_Rug_TatamiG.label>畳</ZP_Rug_TatamiG.label>
+  <ZP_Rug_TatamiG.description>【Size：1×2】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiG.description>
+  <ZP_Rug_TatamiG_Blueprint.label>畳 (blueprint)</ZP_Rug_TatamiG_Blueprint.label>
+  <ZP_Rug_TatamiG_Blueprint_Install.label>畳 (blueprint)</ZP_Rug_TatamiG_Blueprint_Install.label>
+  <ZP_Rug_TatamiG_Frame.label>畳 (building)</ZP_Rug_TatamiG_Frame.label>
+  <ZP_Rug_TatamiG_Frame.description>【Size：1×2】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiG_Frame.description>
+
+  <ZP_Rug_TatamiHG.label>半畳</ZP_Rug_TatamiHG.label>
+  <ZP_Rug_TatamiHG.description>【Size：1×1】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiHG.description>
+  <ZP_Rug_TatamiHG_Blueprint.label>半畳 (blueprint)</ZP_Rug_TatamiHG_Blueprint.label>
+  <ZP_Rug_TatamiHG_Blueprint_Install.label>半畳 (blueprint)</ZP_Rug_TatamiHG_Blueprint_Install.label>
+  <ZP_Rug_TatamiHG_Frame.label>半畳 (building)</ZP_Rug_TatamiHG_Frame.label>
+  <ZP_Rug_TatamiHG_Frame.description>【Size：1×1】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiHG_Frame.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_Rug_Tatami4HG.label>4.5畳</ZP_Rug_Tatami4HG.label>
+  <ZP_Rug_Tatami4HG.description>【Size：3×3】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami4HG.description>
+  <ZP_Rug_Tatami4HG_Blueprint.label>4.5畳 (blueprint)</ZP_Rug_Tatami4HG_Blueprint.label>
+  <ZP_Rug_Tatami4HG_Blueprint_Install.label>4.5畳 (blueprint)</ZP_Rug_Tatami4HG_Blueprint_Install.label>
+  <ZP_Rug_Tatami4HG_Frame.label>4.5畳 (building)</ZP_Rug_Tatami4HG_Frame.label>
+  <ZP_Rug_Tatami4HG_Frame.description>【Size：3×3】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami4HG_Frame.description>
+
+  <ZP_Rug_Tatami8G.label>8畳</ZP_Rug_Tatami8G.label>
+  <ZP_Rug_Tatami8G.description>【Size：4×4】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami8G.description>
+  <ZP_Rug_Tatami8G_Blueprint.label>8畳 (blueprint)</ZP_Rug_Tatami8G_Blueprint.label>
+  <ZP_Rug_Tatami8G_Blueprint_Install.label>8畳 (blueprint)</ZP_Rug_Tatami8G_Blueprint_Install.label>
+  <ZP_Rug_Tatami8G_Frame.label>8畳 (building)</ZP_Rug_Tatami8G_Frame.label>
+  <ZP_Rug_Tatami8G_Frame.description>【Size：4×4】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami8G_Frame.description>
+
+  <ZP_Rug_Tatami12HG.label>12.5畳</ZP_Rug_Tatami12HG.label>
+  <ZP_Rug_Tatami12HG.description>【Size：5×5】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami12HG.description>
+  <ZP_Rug_Tatami12HG_Blueprint.label>12.5畳 (blueprint)</ZP_Rug_Tatami12HG_Blueprint.label>
+  <ZP_Rug_Tatami12HG_Blueprint_Install.label>12.5畳 (blueprint)</ZP_Rug_Tatami12HG_Blueprint_Install.label>
+  <ZP_Rug_Tatami12HG_Frame.label>12.5畳 (building)</ZP_Rug_Tatami12HG_Frame.label>
+  <ZP_Rug_Tatami12HG_Frame.description>【Size：5×5】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami12HG_Frame.description>
+
+  <ZP_Rug_Tatami18G.label>18畳</ZP_Rug_Tatami18G.label>
+  <ZP_Rug_Tatami18G.description>【Size：6×6】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami18G.description>
+  <ZP_Rug_Tatami18G_Blueprint.label>18畳 (blueprint)</ZP_Rug_Tatami18G_Blueprint.label>
+  <ZP_Rug_Tatami18G_Blueprint_Install.label>18畳 (blueprint)</ZP_Rug_Tatami18G_Blueprint_Install.label>
+  <ZP_Rug_Tatami18G_Frame.label>18畳 (building)</ZP_Rug_Tatami18G_Frame.label>
+  <ZP_Rug_Tatami18G_Frame.description>【Size：6×6】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami18G_Frame.description>
+
+
+</LanguageData>

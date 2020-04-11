@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米類 -->
+
+  <RawRice.label>rice</RawRice.label>
+  <RawRice.description>Raw rice.</RawRice.description>
+
+  <ZP_RawBrownRice.label>玄米</ZP_RawBrownRice.label>
+  <ZP_RawBrownRice.description>脱穀して籾を外すことで栄養価が高い玄米を食べることが出来る。</ZP_RawBrownRice.description>
+
+  <WhiteRice.label>White rice</WhiteRice.label>
+  <WhiteRice.description>Rice that has been thoroughly threshed and polished.\nNutrients are lost in the process of polishing, but the taste improves superbly.</WhiteRice.description>
+
+  <ZP_RawGlutinousRice.label>もち米</ZP_RawGlutinousRice.label>
+  <ZP_RawGlutinousRice.description>もちもちとした食感のお米。凍り餅の原料となる。</ZP_RawGlutinousRice.description>
+
+
+</LanguageData>
