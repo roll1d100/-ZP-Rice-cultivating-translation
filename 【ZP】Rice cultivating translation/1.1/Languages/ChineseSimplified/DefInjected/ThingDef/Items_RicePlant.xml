@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Inaho.label>稲穂</Inaho.label>
+  <Inaho.description>白米を美味しく食べるための五箇条\n１、【脱穀】稲穂を脱穀して籾米と藁にわける\n２、【籾摺り】籾米を籾摺りして玄米と籾殻にわける\n３、【精米】玄米を精米機にかけて白米と米ぬかにわける\n４、【調理】美味しく調理をする\n５、【食事】大地の恵みに感謝していただきます!!</Inaho.description>
+
+  <Inaho_Mochi.label>稲穂(もち米)</Inaho_Mochi.label>
+  <Inaho_Mochi.description>もち米を美味しく食べるための四箇条\n１、【脱穀】稲穂(もち米)を脱穀して籾米(もち米)と藁にわける\n２、【籾摺り】籾米(もち米)を籾摺りしてもち米と籾殻にわける\n３、【調理】美味しく調理をする\n４、【食事】大地の恵みに感謝していただきます!!</Inaho_Mochi.description>
+
+  <RiceMomi.label>籾米</RiceMomi.label>
+  <RiceMomi.description>籾付きのお米。このまま食べることは出来ないので籾摺りしよう!!\n籾摺りすることで、玄米と副産物が手に入る。</RiceMomi.description>
+
+  <RiceMomi_Mochi.label>籾米(もち米)</RiceMomi_Mochi.label>
+  <RiceMomi_Mochi.description>籾付きのもち米。このまま食べることは出来ないので籾摺りしよう!!\n籾摺りすることで、もち米と副産物が手に入る。</RiceMomi_Mochi.description>
+
+  <Straw.label>藁</Straw.label>
+  <Straw.description>脱穀したさいの副産物。\n動物の飼料、肥料、燃料または工芸品など様々な場面で活躍する。</Straw.description>
+
+  <Chaff.label>籾殻</Chaff.label>
+  <Chaff.description>籾摺りをしたさいの副産物。\n使い道は肥料、燃料、動物の飼料などに加工できる。</Chaff.description>
+
+  <RiceBran.label>米ぬか</RiceBran.label>
+  <RiceBran.description>玄米を精米したさいの副産物。\n使い道は主に肥料、燃料、動物の飼料(低栄養)など。</RiceBran.description>
+
+  <RiceByproduct.label>副産物袋</RiceByproduct.label>
+  <RiceByproduct.description>米ぬかと籾殻が詰まってる袋。堆肥や動物の飼料に加工できる。\n農作物加工所で米ぬかや籾殻に再仕分けできる。</RiceByproduct.description>
+
+
+</LanguageData>

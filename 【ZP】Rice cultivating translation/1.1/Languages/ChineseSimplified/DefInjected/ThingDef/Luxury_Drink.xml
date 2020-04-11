@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Misosiru.label>味噌汁</ZP_Misosiru.label>
+  <ZP_Misosiru.description>日本の代表的な汁物料理。毎日飲むことで健康効果も期待できる。</ZP_Misosiru.description>
+  <ZP_Misosiru.ingestible.ingestCommandString>Drink {0}</ZP_Misosiru.ingestible.ingestCommandString>
+  <ZP_Misosiru.ingestible.ingestReportString>Drinking {0}.</ZP_Misosiru.ingestible.ingestReportString>
+
+  <ZP_SoyMilkShake.label>豆乳シェイク</ZP_SoyMilkShake.label>
+  <ZP_SoyMilkShake.description>豆乳に果物を入れて混ぜることで誰でも飲みやすくした飲料。毎日飲むことで健康効果も期待できる。</ZP_SoyMilkShake.description>
+  <ZP_SoyMilkShake.ingestible.ingestCommandString>Drink {0}</ZP_SoyMilkShake.ingestible.ingestCommandString>
+  <ZP_SoyMilkShake.ingestible.ingestReportString>Drinking {0}.</ZP_SoyMilkShake.ingestible.ingestReportString>
+
+
+</LanguageData>

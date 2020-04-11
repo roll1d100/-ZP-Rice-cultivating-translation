@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米類 -->
+
+  <ZP_PrantRice.label>稲</ZP_PrantRice.label>
+  <ZP_PrantRice.description>畑で育成できる米。\n白米を食べるまでの手間隙は大変だが愛情をもって育てたお米は衣食住様々な事に活用できる。研究が進めば品種改良もできる優れた穀物。</ZP_PrantRice.description>
+
+  <ZP_PrantUplandRice.label>陸稲</ZP_PrantUplandRice.label>
+  <ZP_PrantUplandRice.description>畑で育成できる米。熱に強く65℃まで成長できる。\n収穫の早さを重視しかつ収穫量が微増できた品種。</ZP_PrantUplandRice.description>
+
+  <ZP_PrantWetlandRice.label>水稲</ZP_PrantWetlandRice.label>
+  <ZP_PrantWetlandRice.description>水田で育成できる米。\n稲穂に大量の米を実らすために改良したが、成長速度が犠牲になった品種。</ZP_PrantWetlandRice.description>
+
+  <ZP_PrantGlutinousRice.label>もち米</ZP_PrantGlutinousRice.label>
+  <ZP_PrantGlutinousRice.description>畑と水田で育成できる米。凍り餅の原材料。\nもちもちとした食感を追求した品種。</ZP_PrantGlutinousRice.description>
+
+
+</LanguageData>

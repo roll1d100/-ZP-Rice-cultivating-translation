@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealSimple -->
+
+  <ZP_BRGohan.label>ご飯(雑穀)</ZP_BRGohan.label>
+  <ZP_BRGohan.description>オカズが欲しいなんて言わずにお米そのままの味を楽しもう!!</ZP_BRGohan.description>
+
+  <ZP_WRGohan.label>ご飯</ZP_WRGohan.label>
+  <ZP_WRGohan.description>白米をじっくりと楽しむためにお椀によそられた最高の1杯</ZP_WRGohan.description>
+
+  <ZP_BROnigiri.label>おにぎり(雑穀)</ZP_BROnigiri.label>
+  <ZP_BROnigiri.description>【特産品】どこでも食べれる塩味のきいたおにぎり</ZP_BROnigiri.description>
+
+  <ZP_WROnigiri.label>おにぎり</ZP_WROnigiri.label>
+  <ZP_WROnigiri.description>【特産品】どこでも食べれる塩味のきいた白米のおにぎり</ZP_WROnigiri.description>
+
+
+</LanguageData>
