@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Prep_Flour10.label>穀物粉x10</Prep_Flour10.label>
+  <Prep_Flour10.description>穀物をひいて粉にする。</Prep_Flour10.description>
+  <Prep_Flour10.jobString>穀物粉を作成中。。</Prep_Flour10.jobString>
+
+  <Prep_Flour50.label>穀物粉x50</Prep_Flour50.label>
+  <Prep_Flour50.description>穀物をひいて粉にする。</Prep_Flour50.description>
+  <Prep_Flour50.jobString>穀物粉を作成中。。</Prep_Flour50.jobString>
+
+
+  <!-- add 1.1 -->
+
+  <Prep_Flour100.label>穀物粉x100</Prep_Flour100.label>
+  <Prep_Flour100.description>穀物をひいて粉にする。</Prep_Flour100.description>
+  <Prep_Flour100.jobString>穀物粉を作成中。。</Prep_Flour100.jobString>
+
+  <Prep_Flour300.label>穀物粉x300</Prep_Flour300.label>
+  <Prep_Flour300.description>穀物をひいて粉にする。</Prep_Flour300.description>
+  <Prep_Flour300.jobString>穀物粉を作成中。。</Prep_Flour300.jobString>
+
+  <Prep_Soymilk10.label>豆乳x10</Prep_Soymilk10.label>
+  <Prep_Soymilk10.description>豆を潰して豆乳を作る。</Prep_Soymilk10.description>
+  <Prep_Soymilk10.jobString>豆乳を作成中。。</Prep_Soymilk10.jobString>
+
+  <Prep_Soymilk50.label>豆乳x50</Prep_Soymilk50.label>
+  <Prep_Soymilk50.description>豆を潰して豆乳を作る。</Prep_Soymilk50.description>
+  <Prep_Soymilk50.jobString>豆乳を作成中。。</Prep_Soymilk50.jobString>
+
+  <Prep_Soymilk100.label>豆乳x100</Prep_Soymilk100.label>
+  <Prep_Soymilk100.description>豆を潰して豆乳を作る。</Prep_Soymilk100.description>
+  <Prep_Soymilk100.jobString>豆乳を作成中。。</Prep_Soymilk100.jobString>
+
+  <Prep_Soymilk300.label>豆乳x300</Prep_Soymilk300.label>
+  <Prep_Soymilk300.description>豆を潰して豆乳を作る。</Prep_Soymilk300.description>
+  <Prep_Soymilk300.jobString>豆乳を作成中。。</Prep_Soymilk300.jobString>
+
+
+</LanguageData>
