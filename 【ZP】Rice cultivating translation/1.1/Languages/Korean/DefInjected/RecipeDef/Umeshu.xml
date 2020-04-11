@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- All add 1.1 -->
+
+  <Make_UmeshuUnfinished.label>梅酒(未完成)×25</Make_UmeshuUnfinished.label>
+  <Make_UmeshuUnfinished.description>梅酒の原料である梅酒(未完成)を作る。</Make_UmeshuUnfinished.description>
+  <Make_UmeshuUnfinished.jobString>梅酒(未完成)を作成中。</Make_UmeshuUnfinished.jobString>
+
+
+</LanguageData>

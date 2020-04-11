@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- All add 1.1 -->
+
+  <MakeITRiceMomi10.label>稲穂を籾米にするx10</MakeITRiceMomi10.label>
+  <MakeITRiceMomi10.description>脱穀して籾米と藁にわける。</MakeITRiceMomi10.description>
+  <MakeITRiceMomi10.jobString>稲穂を脱穀する</MakeITRiceMomi10.jobString>
+
+  <MakeITRiceMomi50.label>稲穂を籾米にするx50</MakeITRiceMomi50.label>
+  <MakeITRiceMomi50.description>脱穀して籾米と藁にわける。</MakeITRiceMomi50.description>
+  <MakeITRiceMomi50.jobString>稲穂を脱穀する</MakeITRiceMomi50.jobString>
+
+  <MakeITRiceMomi100.label>稲穂を籾米にするx100</MakeITRiceMomi100.label>
+  <MakeITRiceMomi100.description>脱穀して籾米と藁にわける。</MakeITRiceMomi100.description>
+  <MakeITRiceMomi100.jobString>稲穂を脱穀する</MakeITRiceMomi100.jobString>
+
+  <MakeITRiceMomi300.label>稲穂を籾米にするx300</MakeITRiceMomi300.label>
+  <MakeITRiceMomi300.description>脱穀して籾米と藁にわける。</MakeITRiceMomi300.description>
+  <MakeITRiceMomi300.jobString>稲穂を脱穀する</MakeITRiceMomi300.jobString>
+
+
+  <!-- 工業時代  籾米(もち米)×1.5 -->
+
+  <MakeITGlutinousMomi10.label>稲穂(もち米)を籾米(もち米)にするx10</MakeITGlutinousMomi10.label>
+  <MakeITGlutinousMomi10.description>脱穀して籾米(もち米)と藁にわける。</MakeITGlutinousMomi10.description>
+  <MakeITGlutinousMomi10.jobString>稲穂を脱穀する</MakeITGlutinousMomi10.jobString>
+
+  <MakeITGlutinousMomi50.label>稲穂(もち米)を籾米(もち米)にするx50</MakeITGlutinousMomi50.label>
+  <MakeITGlutinousMomi50.description>脱穀して籾米(もち米)と藁にわける。</MakeITGlutinousMomi50.description>
+  <MakeITGlutinousMomi50.jobString>稲穂を脱穀する</MakeITGlutinousMomi50.jobString>
+
+  <MakeITGlutinousMomi100.label>稲穂(もち米)を籾米(もち米)にするx100</MakeITGlutinousMomi100.label>
+  <MakeITGlutinousMomi100.description>脱穀して籾米(もち米)と藁にわける。</MakeITGlutinousMomi100.description>
+  <MakeITGlutinousMomi100.jobString>稲穂を脱穀する</MakeITGlutinousMomi100.jobString>
+
+  <MakeITGlutinousMomi300.label>稲穂(もち米)を籾米(もち米)にするx300</MakeITGlutinousMomi300.label>
+  <MakeITGlutinousMomi300.description>脱穀して籾米(もち米)と藁にわける。</MakeITGlutinousMomi300.description>
+  <MakeITGlutinousMomi300.jobString>稲穂を脱穀する</MakeITGlutinousMomi300.jobString>
+
+
+</LanguageData>
