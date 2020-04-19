@@ -8,27 +8,27 @@
     <packageId>tosenbo.Ricecultivatingtranslation</packageId>
     <modDependencies>
         <li>
-            <packageId>RimWorldsoudanzyo.ResourcePackCore</packageId>
-            <displayName>ResourcePackCore</displayName>
-            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1543671683</steamWorkshopUrl>
-            <downloadUrl></downloadUrl>
-        </li>
-        <li>
             <packageId>eagle0600.expandableFermenting</packageId>
             <displayName>Expandable Fermenting and Processing</displayName>
             <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=955850576</steamWorkshopUrl>
             <downloadUrl></downloadUrl>
         </li>
         <li>
+            <packageId>RimWorldsoudanzyo.ResourcePackCore</packageId>
+            <displayName>ResourcePackCore</displayName>
+            <steamWorkshopUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=1543671683</steamWorkshopUrl>
+            <downloadUrl></downloadUrl>
+        </li>
+        <li>
             <packageId>tosenbo.Ricecultivatingcivilization</packageId>
             <displayName>【ZP】Rice cultivating civilization【1.1】</displayName>
-            <steamWorkshopUrl></steamWorkshopUrl>
+            <steamWorkshopUrl>https://steamcommunity.com/workshop/filedetails/?id=2056631665</steamWorkshopUrl>
             <downloadUrl></downloadUrl>
         </li>
     </modDependencies>
     <loadAfter>
-        <li>RimWorldsoudanzyo.ResourcePackCore</li>
         <li>eagle0600.expandableFermenting</li>
+        <li>RimWorldsoudanzyo.ResourcePackCore</li>
         <li>tosenbo.Ricecultivatingcivilization</li>
     </loadAfter>
     <description>
