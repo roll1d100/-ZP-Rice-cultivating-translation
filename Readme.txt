@@ -1,16 +1,16 @@
 
-yZPzRice cultivating translation
+ï¿½yZPï¿½zRice cultivating translation
 
-ƒvƒ‹ƒŠƒNƒGƒXƒg‚ð‘—‚Á‚½ê‡‚ÍˆÈ‰º‚É‚ÌURL‚É˜A—‚ð‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·B
+ï¿½vï¿½ï¿½ï¿½ï¿½ï¿½Nï¿½Gï¿½Xï¿½gï¿½ð‘—‚ï¿½ï¿½ï¿½ï¿½ê‡ï¿½ÍˆÈ‰ï¿½ï¿½É‚ï¿½URLï¿½É˜Aï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ë‚µï¿½ï¿½ï¿½ï¿½ï¿½è‚¢ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½B
 
 
 
-–|–óŽÒ‚ÌŠF—l‚É‚¨Žè”‚¨‚©‚¯‚µ‚Ä\‚µ–ó‚²‚´‚¢‚Ü‚¹‚ñB
-Šù‘¶‚Ì–|–ó‚ðƒVƒXƒeƒ€‚ÌÄ\’z‚Å‰ó‚í‚µ‚Ü‚µ‚½B
-vr1.1—p‚ÉV‚µ‚­–|–ó‚ð’Šo‚µ‚½‚Ì‚ÅAì‹Æ‚ÍŽn‚ß‚©‚ç‚É‚È‚è‚Ü‚·B
-Œ»Ý“o˜^‚³‚ê‚Ä‚¢‚é–|–óƒtƒ@ƒCƒ‹‚Í‰ß‹Ž‚É’ñ‹Ÿ‚ª‚ ‚Á‚½‚à‚Ì‚Å‚·B
-•Ê‚ÌŒ¾Œê‚ª—~‚µ‚¢ê‡‚Í‰pŒê‚Ì–|–óƒtƒ@ƒCƒ‹‚ðƒ_ƒEƒ“ƒ[ƒh‚µ‚Äƒtƒ@ƒCƒ‹–¼‚ðƒŠƒl[ƒ€‚µ‚ÄŽg—p‚µ‚Ä‚­‚¾‚³‚¢B
-‰ß‹Ž‚Ì–|–ó“à—e‚ðŠm”F‚µ‚½‚¢ê‡‚Í‚¨Žè”‚Å‚·‚ªvr1.0‚ÌMod‚ðƒ_ƒEƒ“ƒ[ƒh‚µ‚ÄŠm”F‚µ‚Ä‚­‚¾‚³‚¢B
+ï¿½|ï¿½ï¿½Ò‚ÌŠFï¿½lï¿½É‚ï¿½ï¿½è”ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä\ï¿½ï¿½ï¿½ó‚²‚ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½ï¿½B
+ï¿½ï¿½ï¿½ï¿½ï¿½Ì–|ï¿½ï¿½ï¿½ï¿½Vï¿½Xï¿½eï¿½ï¿½ï¿½ÌÄ\ï¿½zï¿½Å‰ï¿½í‚µï¿½Ü‚ï¿½ï¿½ï¿½ï¿½B
+vr1.1ï¿½pï¿½ÉVï¿½ï¿½ï¿½ï¿½ï¿½|ï¿½ï¿½ð’Šoï¿½ï¿½ï¿½ï¿½ï¿½Ì‚ÅAï¿½ï¿½Æ‚ÍŽnï¿½ß‚ï¿½ï¿½ï¿½É‚È‚ï¿½Ü‚ï¿½ï¿½B
+ï¿½ï¿½ï¿½Ý“oï¿½^ï¿½ï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½|ï¿½ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½Í‰ß‹ï¿½ï¿½É’ñ‹Ÿ‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ì‚Å‚ï¿½ï¿½B
+ï¿½Ê‚ÌŒï¿½ï¿½ê‚ªï¿½~ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½Í‰pï¿½ï¿½Ì–|ï¿½ï¿½tï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½ï¿½ï¿½Äƒtï¿½@ï¿½Cï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ÄŽgï¿½pï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
+ï¿½ß‹ï¿½ï¿½Ì–|ï¿½ï¿½ï¿½ï¿½eï¿½ï¿½ï¿½mï¿½Fï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ê‡ï¿½Í‚ï¿½ï¿½è”ï¿½Å‚ï¿½ï¿½ï¿½vr1.0ï¿½ï¿½Modï¿½ï¿½ï¿½_ï¿½Eï¿½ï¿½ï¿½ï¿½ï¿½[ï¿½hï¿½ï¿½ï¿½ÄŠmï¿½Fï¿½ï¿½ï¿½Ä‚ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½B
 
 
 ======= Google Translation =======
@@ -27,11 +27,11 @@ If you need another language, download the English translation file and rename t
 If you want to check the past translation contents, please download the vr1.0 Mod and check it.
 
 
-yZPzRice cultivating civilizationy1.0z
+ï¿½yZPï¿½zRice cultivating civilizationï¿½y1.0ï¿½z
 https://steamcommunity.com/sharedfiles/filedetails/?id=1610302046
 
-yZPzJapanese bread
+ï¿½yZPï¿½zJapanese bread
 https://steamcommunity.com/sharedfiles/filedetails/?id=1673638912
 
-y1.1zAnimalstrawbed
+ï¿½y1.1ï¿½zAnimalstrawbed
 https://steamcommunity.com/sharedfiles/filedetails/?id=2000940558
