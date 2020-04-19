@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- All add 1.1 -->
+
+  <Hediffs_CookingLv1.label>Ryōri Knowledge Lv.1</Hediffs_CookingLv1.label>
+  <Hediffs_CookingLv1.description>Tip 1: Level 3 & 4 of Ryōri (Cooking) Knowledge grant permamnent buffs!</Hediffs_CookingLv1.description>
+  <Hediffs_CookingLv1.stages.0.label></Hediffs_CookingLv1.stages.0.label>
+
+  <Hediffs_CookingLv2.label>Ryōri Knowledge Lv.2</Hediffs_CookingLv2.label>
+  <Hediffs_CookingLv2.description>Tip 2: Experience values can vary depending on what meal is consumed.</Hediffs_CookingLv2.description>
+  <Hediffs_CookingLv2.stages.0.label></Hediffs_CookingLv2.stages.0.label>
+
+  <Hediffs_Cooking.label>Ryōri Knowledge</Hediffs_Cooking.label>
+  <Hediffs_Cooking.description>Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Cooking.description>
+  <Hediffs_Cooking.stages.0.label>initial</Hediffs_Cooking.stages.0.label>
+  <Hediffs_Cooking.stages.1.label>Lv.3</Hediffs_Cooking.stages.1.label>
+  <Hediffs_Cooking.stages.2.label>Lv.4 Max</Hediffs_Cooking.stages.2.label>
+
+
+</LanguageData>
