@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealFine -->
+
+  <CookUdon4.label>うどんx4</CookUdon4.label>
+  <CookUdon4.description>うどんにお好みで肉類と野菜を盛り合わせる。</CookUdon4.description>
+  <CookUdon4.jobString>うどんを作成中。</CookUdon4.jobString>
+
+  <CookOkonomiyaki4.label>お好み焼x4</CookOkonomiyaki4.label>
+  <CookOkonomiyaki4.description>穀物粉,味付け肉,キャベツとお好みの具材と調味料を入れてお好み焼きを作る。</CookOkonomiyaki4.description>
+  <CookOkonomiyaki4.jobString>お好み焼を作成中。</CookOkonomiyaki4.jobString>
+
+
+</LanguageData>

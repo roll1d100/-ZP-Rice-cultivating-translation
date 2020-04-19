@@ -1,23 +1,23 @@
 
-ã€ZPã€‘Rice cultivating translation
+yZPzRice cultivating translation
 
-ãƒ—ãƒ«ãƒªã‚¯ã‚¨ã‚¹ãƒˆã‚’é€ã£ãŸå ´åˆã¯ä»¥ä¸‹ã«ã®URLã«é€£çµ¡ã‚’ã‚ˆã‚ã—ããŠé¡˜ã„ã—ã¾ã™ã€‚
+ƒvƒ‹ƒŠƒNƒGƒXƒg‚ğ‘—‚Á‚½ê‡‚ÍˆÈ‰º‚É‚ÌURL‚É˜A—‚ğ‚æ‚ë‚µ‚­‚¨Šè‚¢‚µ‚Ü‚·B
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2056650055
 
-ç¿»è¨³è€…ã®çš†æ§˜ã«ãŠæ‰‹æ•°ãŠã‹ã‘ã—ã¦ç”³ã—è¨³ã”ã–ã„ã¾ã›ã‚“ã€‚
-æ—¢å­˜ã®ç¿»è¨³ã‚’ã‚·ã‚¹ãƒ†ãƒ ã®å†æ§‹ç¯‰ã§å£Šã‚ã—ã¾ã—ãŸã€‚
-vr1.1ç”¨ã«æ–°ã—ãç¿»è¨³ã‚’æŠ½å‡ºã—ãŸã®ã§ã€ä½œæ¥­ã¯å§‹ã‚ã‹ã‚‰ã«ãªã‚Šã¾ã™ã€‚
-ç¾åœ¨ç™»éŒ²ã•ã‚Œã¦ã„ã‚‹ç¿»è¨³ãƒ•ã‚¡ã‚¤ãƒ«ã¯éå»ã«æä¾›ãŒã‚ã£ãŸã‚‚ã®ã§ã™ã€‚
-åˆ¥ã®è¨€èªãŒæ¬²ã—ã„å ´åˆã¯è‹±èªã®ç¿»è¨³ãƒ•ã‚¡ã‚¤ãƒ«ã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã¦ãƒ•ã‚¡ã‚¤ãƒ«åã‚’ãƒªãƒãƒ¼ãƒ ã—ã¦ä½¿ç”¨ã—ã¦ãã ã•ã„ã€‚
-éå»ã®ç¿»è¨³å†…å®¹ã‚’ç¢ºèªã—ãŸã„å ´åˆã¯ãŠæ‰‹æ•°ã§ã™ãŒvr1.0ã®Modã‚’ãƒ€ã‚¦ãƒ³ãƒ­ãƒ¼ãƒ‰ã—ã¦ç¢ºèªã—ã¦ãã ã•ã„ã€‚
+
+–|–óÒ‚ÌŠF—l‚É‚¨è”‚¨‚©‚¯‚µ‚Ä\‚µ–ó‚²‚´‚¢‚Ü‚¹‚ñB
+Šù‘¶‚Ì–|–ó‚ğƒVƒXƒeƒ€‚ÌÄ\’z‚Å‰ó‚í‚µ‚Ü‚µ‚½B
+vr1.1—p‚ÉV‚µ‚­–|–ó‚ğ’Šo‚µ‚½‚Ì‚ÅAì‹Æ‚Ín‚ß‚©‚ç‚É‚È‚è‚Ü‚·B
+Œ»İ“o˜^‚³‚ê‚Ä‚¢‚é–|–óƒtƒ@ƒCƒ‹‚Í‰ß‹‚É’ñ‹Ÿ‚ª‚ ‚Á‚½‚à‚Ì‚Å‚·B
+•Ê‚ÌŒ¾Œê‚ª—~‚µ‚¢ê‡‚Í‰pŒê‚Ì–|–óƒtƒ@ƒCƒ‹‚ğƒ_ƒEƒ“ƒ[ƒh‚µ‚Äƒtƒ@ƒCƒ‹–¼‚ğƒŠƒl[ƒ€‚µ‚Äg—p‚µ‚Ä‚­‚¾‚³‚¢B
+‰ß‹‚Ì–|–ó“à—e‚ğŠm”F‚µ‚½‚¢ê‡‚Í‚¨è”‚Å‚·‚ªvr1.0‚ÌMod‚ğƒ_ƒEƒ“ƒ[ƒh‚µ‚ÄŠm”F‚µ‚Ä‚­‚¾‚³‚¢B
 
 
 ======= Google Translation =======
 
 If you have sent a pull request, please contact the URL below.
 
-https://steamcommunity.com/sharedfiles/filedetails/?id=2056650055
+
 
 Sorry for the inconvenience to the translators.
 The existing translation was broken by restructuring the system.
@@ -27,11 +27,11 @@ If you need another language, download the English translation file and rename t
 If you want to check the past translation contents, please download the vr1.0 Mod and check it.
 
 
-ã€ZPã€‘Rice cultivating civilizationã€1.0ã€‘
+yZPzRice cultivating civilizationy1.0z
 https://steamcommunity.com/sharedfiles/filedetails/?id=1610302046
 
-ã€ZPã€‘Japanese bread
+yZPzJapanese bread
 https://steamcommunity.com/sharedfiles/filedetails/?id=1673638912
 
-ã€1.1ã€‘Animalstrawbed
+y1.1zAnimalstrawbed
 https://steamcommunity.com/sharedfiles/filedetails/?id=2000940558

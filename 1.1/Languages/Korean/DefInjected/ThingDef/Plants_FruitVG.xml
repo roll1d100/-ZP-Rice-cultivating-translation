@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- All add 1.1 -->
+
+  <ZP_PlantTomato.label>トマト</ZP_PlantTomato.label>
+  <ZP_PlantTomato.description>トマト。成熟すると真っ赤な実をつける。</ZP_PlantTomato.description>
+
+  <ZP_PlantEggplant.label>茄子</ZP_PlantEggplant.label>
+  <ZP_PlantEggplant.description>ナス。肥沃な土壌でしか育たないが一度実れば手間が少ない作物。</ZP_PlantEggplant.description>
+
+  <ZP_PlantPumpkin.label>南瓜</ZP_PlantPumpkin.label>
+  <ZP_PlantPumpkin.description>カボチャ。収穫数は少ないが栄養価が高い野菜。</ZP_PlantPumpkin.description>
+
+  <ZP_PlantCucumber.label>キュウリ</ZP_PlantCucumber.label>
+  <ZP_PlantCucumber.description>栄養価は低いが沢山収穫できる。</ZP_PlantCucumber.description>
+
+
+</LanguageData>

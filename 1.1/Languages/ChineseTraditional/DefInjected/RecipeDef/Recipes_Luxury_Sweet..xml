@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookPuffedRice.label>ポン菓子x4</CookPuffedRice.label>
+  <CookPuffedRice.description>米に圧力をかけた後に一気に解放することによって膨らませる。</CookPuffedRice.description>
+  <CookPuffedRice.jobString>ポン菓子を作成中。</CookPuffedRice.jobString>
+
+  <CookOkoshi.label>おこしx4</CookOkoshi.label>
+  <CookOkoshi.description>穀物類を加工して飴でかためる。</CookOkoshi.description>
+  <CookOkoshi.jobString>おこしを作成中。</CookOkoshi.jobString>
+
+  <CookKasutera.label>ベビーカステラx4</CookKasutera.label>
+  <CookKasutera.description>穀物粉と牛乳、水飴を混ぜてを玉状に焼く。</CookKasutera.description>
+  <CookKasutera.jobString>ベビーカステラを作成中。</CookKasutera.jobString>
+
+  <CookKompeito.label>金平糖x4</CookKompeito.label>
+  <CookKompeito.description>米に水飴をかけながら熱を加えて金平糖をつくる。</CookKompeito.description>
+  <CookKompeito.jobString>金平糖を作成中。</CookKompeito.jobString>
+
+  <CookCottonCandy.label>わたあめx4</CookCottonCandy.label>
+  <CookCottonCandy.description>砂糖を細い糸状にしたものを集めて綿状にする。</CookCottonCandy.description>
+  <CookCottonCandy.jobString>わたあめを作成中。</CookCottonCandy.jobString>
+
+  <CookThreeColoredDumplings.label>三色団子x4</CookThreeColoredDumplings.label>
+  <CookThreeColoredDumplings.description>凍り餅に砂糖を練りこんで色づけし三色団子を4個作る</CookThreeColoredDumplings.description>
+  <CookThreeColoredDumplings.jobString>三色団子を作成中。</CookThreeColoredDumplings.jobString>
+
+  <CookZundaMochi.label>ずんだ餅x4</CookZundaMochi.label>
+  <CookZundaMochi.description>凍り餅を焼いてからペーストした枝豆のせたずんだ餅を4個作る</CookZundaMochi.description>
+  <CookZundaMochi.jobString>ずんだ餅を作成中。</CookZundaMochi.jobString>
+
+  <CookASUDorayaki.label>ドラ焼きx4</CookASUDorayaki.label>
+  <CookASUDorayaki.description>焼いたドラ焼きの生地に餡子を挟んでつくる。</CookASUDorayaki.description>
+  <CookASUDorayaki.jobString>ドラ焼きを作成中。</CookASUDorayaki.jobString>
+
+
+  <!-- add 1.1 -->
+
+  <CookASUPancake.label>ホットケーキx4</CookASUPancake.label>
+  <CookASUPancake.description>材料を混ぜて円盤状に焼く。</CookASUPancake.description>
+  <CookASUPancake.jobString>ホットケーキを作成中。</CookASUPancake.jobString>
+
+
+</LanguageData>

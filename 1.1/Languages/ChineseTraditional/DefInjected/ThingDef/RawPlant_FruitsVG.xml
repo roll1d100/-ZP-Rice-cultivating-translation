@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 果菜類 -->
+
+  <RawCorn.label>corn</RawCorn.label>
+  <RawCorn.description>Raw corn.</RawCorn.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_RawTomato.label>とまと</ZP_RawTomato.label>
+  <ZP_RawTomato.description>生のトマト。生で食べることが出来ます。</ZP_RawTomato.description>
+
+  <ZP_RawEggplant.label>なす</ZP_RawEggplant.label>
+  <ZP_RawEggplant.description>生のナス。</ZP_RawEggplant.description>
+
+  <ZP_RawPumpkin.label>かぼちゃ</ZP_RawPumpkin.label>
+  <ZP_RawPumpkin.description>生のカボチャ。</ZP_RawPumpkin.description>
+
+  <ZP_RawCucumber.label>きゅうり</ZP_RawCucumber.label>
+  <ZP_RawCucumber.description>生のきゅうり。生で食べることが出来ます。</ZP_RawCucumber.description>
+
+
+</LanguageData>

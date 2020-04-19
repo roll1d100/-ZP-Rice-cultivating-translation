@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediffs_PuffedRice.label>私の体に爆発力が宿る！！</Hediffs_PuffedRice.label>
+  <Hediffs_PuffedRice.description>ポン菓子を食べた</Hediffs_PuffedRice.description>
+  <Hediffs_PuffedRice.stages.0.label></Hediffs_PuffedRice.stages.0.label>
+
+  <Hediffs_Amazake.label>甘い・甘い・あ～ま～ざ～け～</Hediffs_Amazake.label>
+  <Hediffs_Amazake.description>甘酒を飲んだ</Hediffs_Amazake.description>
+  <Hediffs_Amazake.stages.0.label></Hediffs_Amazake.stages.0.label>
+
+
+  <!-- add 1.1 -->
+
+  <Hediffs_Umeshu.label>すっきり飲めて気分爽快</Hediffs_Umeshu.label>
+  <Hediffs_Umeshu.description>梅酒を飲んだ</Hediffs_Umeshu.description>
+  <Hediffs_Umeshu.stages.0.label></Hediffs_Umeshu.stages.0.label>
+
+  <Hediffs_DrinkingWater.label>水分補給</Hediffs_DrinkingWater.label>
+  <Hediffs_DrinkingWater.description>水を飲むことで熱中症対策になる。</Hediffs_DrinkingWater.description>
+  <Hediffs_DrinkingWater.stages.0.label></Hediffs_DrinkingWater.stages.0.label>
+
+
+</LanguageData>

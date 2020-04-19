@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 根菜類 -->
+
+  <RawPotatoes.label>potatoes</RawPotatoes.label>
+  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+
+  <ZP_RawJapaneseRadish.label>大根</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>生のダイコン。</ZP_RawJapaneseRadish.description>
+
+  <ZP_RawTaro.label>里芋</ZP_RawTaro.label>
+  <ZP_RawTaro.description>生のサトイモ。コンニャク芋の代わりにもなる。</ZP_RawTaro.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_RawCarrot.label>人参</ZP_RawCarrot.label>
+  <ZP_RawCarrot.description>生のにんじん。</ZP_RawCarrot.description>
+
+  <ZP_RawBambooShoot.label>筍</ZP_RawBambooShoot.label>
+  <ZP_RawBambooShoot.description>生のタケノコ。</ZP_RawBambooShoot.description>
+
+  <ZP_SweetPotato.label>薩摩芋</ZP_SweetPotato.label>
+  <ZP_SweetPotato.description>生のサツマイモ。</ZP_SweetPotato.description>
+
+
+</LanguageData>

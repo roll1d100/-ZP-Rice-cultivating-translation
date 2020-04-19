@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 野菜加工品 0.25 -->
+
+  <Prep_FreezeMochi10.label>凍り餅x10</Prep_FreezeMochi10.label>
+  <Prep_FreezeMochi10.description>搗きたての餅を冷水に浸してものを寒風に晒して乾燥させ凍り餅を作る。</Prep_FreezeMochi10.description>
+  <Prep_FreezeMochi10.jobString>凍り餅を作成中。</Prep_FreezeMochi10.jobString>
+
+  <Prep_FreezeMochi50.label>凍り餅x50</Prep_FreezeMochi50.label>
+  <Prep_FreezeMochi50.description>搗きたての餅を冷水に浸してものを寒風に晒して乾燥させ凍り餅を作る。</Prep_FreezeMochi50.description>
+  <Prep_FreezeMochi50.jobString>凍り餅を作成中。</Prep_FreezeMochi50.jobString>
+
+
+  <!-- add 1.1 -->
+
+  <Prep_FreezeMochi100.label>凍り餅x100</Prep_FreezeMochi100.label>
+  <Prep_FreezeMochi100.description>搗きたての餅を冷水に浸してものを寒風に晒して乾燥させ凍り餅を作る。</Prep_FreezeMochi100.description>
+  <Prep_FreezeMochi100.jobString>凍り餅を作成中。</Prep_FreezeMochi100.jobString>
+
+  <Prep_FreezeMochi300.label>凍り餅x300</Prep_FreezeMochi300.label>
+  <Prep_FreezeMochi300.description>搗きたての餅を冷水に浸してものを寒風に晒して乾燥させ凍り餅を作る。</Prep_FreezeMochi300.description>
+  <Prep_FreezeMochi300.jobString>凍り餅を作成中。</Prep_FreezeMochi300.jobString>
+
+  <Prep_Tanpo10.label>たんぽx10</Prep_Tanpo10.label>
+  <Prep_Tanpo10.description>木の棒に潰した米粒を巻きつけて成形する。</Prep_Tanpo10.description>
+  <Prep_Tanpo10.jobString>たんぽを作成中。</Prep_Tanpo10.jobString>
+
+  <Prep_Tanpo50.label>たんぽx50</Prep_Tanpo50.label>
+  <Prep_Tanpo50.description>木の棒に潰した米粒を巻きつけて成形する。</Prep_Tanpo50.description>
+  <Prep_Tanpo50.jobString>たんぽを作成中。</Prep_Tanpo50.jobString>
+
+  <Prep_Tanpo100.label>たんぽx100</Prep_Tanpo100.label>
+  <Prep_Tanpo100.description>木の棒に潰した米粒を巻きつけて成形する。</Prep_Tanpo100.description>
+  <Prep_Tanpo100.jobString>たんぽを作成中。</Prep_Tanpo100.jobString>
+
+  <Prep_RiceBranPickled50.label>ぬか漬け(未完成品)x50</Prep_RiceBranPickled50.label>
+  <Prep_RiceBranPickled50.description>ぬか漬け用に、野菜を加工して下処理をする。</Prep_RiceBranPickled50.description>
+  <Prep_RiceBranPickled50.jobString>ぬか漬けを作成中。</Prep_RiceBranPickled50.jobString>
+
+  <Prep_FermentedSoybeans50.label>納豆(未完成品)x50</Prep_FermentedSoybeans50.label>
+  <Prep_FermentedSoybeans50.description>大豆を藁に包んで納豆を作る。未完成品だが1日待つと納豆ができる。</Prep_FermentedSoybeans50.description>
+  <Prep_FermentedSoybeans50.jobString>納豆を作成中。</Prep_FermentedSoybeans50.jobString>
+
+  <Prep_Konnyaku10.label>こんにゃくx10</Prep_Konnyaku10.label>
+  <Prep_Konnyaku10.description>蒸した里芋ををすり潰してから石灰水と混ぜ型にいれて固める。</Prep_Konnyaku10.description>
+  <Prep_Konnyaku10.jobString>こんにゃくを作成中。。</Prep_Konnyaku10.jobString>
+
+  <Prep_Konnyaku50.label>こんにゃくx50</Prep_Konnyaku50.label>
+  <Prep_Konnyaku50.description>蒸した里芋ををすり潰してから石灰水と混ぜ型にいれて固める。</Prep_Konnyaku50.description>
+  <Prep_Konnyaku50.jobString>こんにゃくを作成中。。</Prep_Konnyaku50.jobString>
+
+
+</LanguageData>

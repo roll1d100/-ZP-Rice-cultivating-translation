@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- All add 1.1 -->
+
+  <MakeFirewood.label>薪割りx10</MakeFirewood.label>
+  <MakeFirewood.description>木材を薪に加工する</MakeFirewood.description>
+  <MakeFirewood.jobString>薪割りをする</MakeFirewood.jobString>
+
+  <MakeFirewood2nd.label>薪割りx50</MakeFirewood2nd.label>
+  <MakeFirewood2nd.description>木材を薪に加工する</MakeFirewood2nd.description>
+  <MakeFirewood2nd.jobString>薪割りをする</MakeFirewood2nd.jobString>
+
+  <MakeFirewood3rd.label>薪割りx100</MakeFirewood3rd.label>
+  <MakeFirewood3rd.description>木材を薪に加工する</MakeFirewood3rd.description>
+  <MakeFirewood3rd.jobString>薪割りをする</MakeFirewood3rd.jobString>
+
+
+</LanguageData>

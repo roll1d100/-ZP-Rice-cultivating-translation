@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 燃料作成 -->
+
+  <MakeMomigalite10.label>モミガライトx10</MakeMomigalite10.label>
+  <MakeMomigalite10.description>籾殻を燃料に加工する</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>モミガライトを作成中。</MakeMomigalite10.jobString>
+
+  <MakeMomigalite50.label>モミガライトx50</MakeMomigalite50.label>
+  <MakeMomigalite50.description>籾殻を燃料に加工する</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>モミガライトを作成中。</MakeMomigalite50.jobString>
+
+  <MakeMomigalite100.label>モミガライトx100</MakeMomigalite100.label>
+  <MakeMomigalite100.description>籾殻を燃料に加工する</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>モミガライトを作成中。</MakeMomigalite100.jobString>
+
+  <MakeChemfuelFromRice.label>液化燃料を精製(藁、副産物袋)</MakeChemfuelFromRice.label>
+  <MakeChemfuelFromRice.description>藁や副産物袋をガス化することでバイオ液化燃料を作成します。</MakeChemfuelFromRice.description>
+  <MakeChemfuelFromRice.jobString>藁を精製中</MakeChemfuelFromRice.jobString>
+
+
+</LanguageData>

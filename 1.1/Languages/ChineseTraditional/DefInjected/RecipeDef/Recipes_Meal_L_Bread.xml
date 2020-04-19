@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- add 1.1 -->
+
+  <CookASUBreakfastBreadSet.label>朝食ぱんセットx4</CookASUBreakfastBreadSet.label>
+  <CookASUBreakfastBreadSet.description>朝食ぱんセットを作る</CookASUBreakfastBreadSet.description>
+  <CookASUBreakfastBreadSet.jobString>朝食ぱんセットを作成中。</CookASUBreakfastBreadSet.jobString>
+
+
+</LanguageData>
