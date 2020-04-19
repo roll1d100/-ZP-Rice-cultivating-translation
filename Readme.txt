@@ -1,7 +1,7 @@
 【ZP】Rice cultivating translation
 
 プルリクエストを送った場合は以下にのURLに連絡をよろしくお願いします。
-
+https://steamcommunity.com/sharedfiles/filedetails/?id=2056650055&tscn=1586979017
 
 
 翻訳者の皆様にお手数おかけして申し訳ございません。
@@ -15,7 +15,7 @@ vr1.1用に新しく翻訳を抽出したので、作業は始めからになり
 ======= Google Translation =======
 
 If you have sent a pull request, please contact the URL below.
-
+https://steamcommunity.com/sharedfiles/filedetails/?id=2056650055&tscn=1586979017
 
 
 Sorry for the inconvenience to the translators.
