@@ -1,16 +1,15 @@
+【ZP】Rice cultivating translation
 
-�yZP�zRice cultivating translation
-
-�v�����N�G�X�g�𑗂����ꍇ�͈ȉ��ɂ�URL�ɘA������낵�����肢���܂��B
-
+プルリクエストを送った場合は以下にのURLに連絡をよろしくお願いします。
 
 
-�|��҂̊F�l�ɂ��萔���������Đ\���󂲂����܂���B
-�����̖|����V�X�e���̍č\�z�ŉ�킵�܂����B
-vr1.1�p�ɐV�����|��𒊏o�����̂ŁA��Ƃ͎n�߂���ɂȂ�܂��B
-���ݓo�^����Ă���|��t�@�C���͉ߋ��ɒ񋟂����������̂ł��B
-�ʂ̌��ꂪ�~�����ꍇ�͉p��̖|��t�@�C�����_�E�����[�h���ăt�@�C���������l�[�����Ďg�p���Ă��������B
-�ߋ��̖|����e���m�F�������ꍇ�͂��萔�ł���vr1.0��Mod���_�E�����[�h���Ċm�F���Ă��������B
+
+翻訳者の皆様にお手数おかけして申し訳ございません。
+既存の翻訳をシステムの再構築で壊わしました。
+vr1.1用に新しく翻訳を抽出したので、作業は始めからになります。
+現在登録されている翻訳ファイルは過去に提供があったものです。
+別の言語が欲しい場合は英語の翻訳ファイルをダウンロードしてファイル名をリネームして使用してください。
+過去の翻訳内容を確認したい場合はお手数ですがvr1.0のModをダウンロードして確認してください。
 
 
 ======= Google Translation =======
@@ -26,12 +25,11 @@ Currently registered translation files are provided in the past.
 If you need another language, download the English translation file and rename the file.
 If you want to check the past translation contents, please download the vr1.0 Mod and check it.
 
-
-�yZP�zRice cultivating civilization�y1.0�z
+【ZP】Rice cultivating civilization【1.0】
 https://steamcommunity.com/sharedfiles/filedetails/?id=1610302046
 
-�yZP�zJapanese bread
+【ZP】Japanese bread
 https://steamcommunity.com/sharedfiles/filedetails/?id=1673638912
 
-�y1.1�zAnimalstrawbed
+【1.1】Animalstrawbed
 https://steamcommunity.com/sharedfiles/filedetails/?id=2000940558
