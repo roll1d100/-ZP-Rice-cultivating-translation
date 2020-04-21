@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- add 1.1 -->
+
+  <ZP_GatheringSpot_water.label>水採集場</ZP_GatheringSpot_water.label>
+  <ZP_GatheringSpot_water.description>【設置場所:浅瀬,浅海,流水,沼】\n生水を採集する場所。</ZP_GatheringSpot_water.description>
+  <ZP_GatheringSpot_water_Blueprint.label>水採集場 (blueprint)</ZP_GatheringSpot_water_Blueprint.label>
+  <ZP_GatheringSpot_water_Frame.label>水採集場 (building)</ZP_GatheringSpot_water_Frame.label>
+  <ZP_GatheringSpot_water_Frame.description>【設置場所:浅瀬,浅海,流水,沼】\n生水を採集する場所。</ZP_GatheringSpot_water_Frame.description>
+
+  <ZP_GatheringSpot_Earthworm.label>ミミズ収集場</ZP_GatheringSpot_Earthworm.label>
+  <ZP_GatheringSpot_Earthworm.description>【設置場所:土,苔むした土,肥えた土,踏み固められた土】\nミミズを採集する場所。</ZP_GatheringSpot_Earthworm.description>
+  <ZP_GatheringSpot_Earthworm_Blueprint.label>ミミズ収集場 (blueprint)</ZP_GatheringSpot_Earthworm_Blueprint.label>
+  <ZP_GatheringSpot_Earthworm_Frame.label>ミミズ収集場 (building)</ZP_GatheringSpot_Earthworm_Frame.label>
+  <ZP_GatheringSpot_Earthworm_Frame.description>【設置場所:土,苔むした土,肥えた土,踏み固められた土】\nミミズを採集する場所。</ZP_GatheringSpot_Earthworm_Frame.description>
+
+  <ZP_SaltEvaporationPond.label>塩田(3×3)</ZP_SaltEvaporationPond.label>
+  <ZP_SaltEvaporationPond.description>【燃料:生水】\n天然塩をつくるための専用の栽培場所。定期的に管理しないと役割を終えて消える。</ZP_SaltEvaporationPond.description>
+  <ZP_SaltEvaporationPond_Blueprint.label>塩田(3×3) (blueprint)</ZP_SaltEvaporationPond_Blueprint.label>
+  <ZP_SaltEvaporationPond_Frame.label>塩田(3×3) (building)</ZP_SaltEvaporationPond_Frame.label>
+  <ZP_SaltEvaporationPond_Frame.description>【燃料:生水】\n天然塩をつくるための専用の栽培場所。定期的に管理しないと役割を終えて消える。</ZP_SaltEvaporationPond_Frame.description>
+
+  <ZP_LargeCultivationPlanter.label>大型植木鉢</ZP_LargeCultivationPlanter.label>
+  <ZP_LargeCultivationPlanter.description>【燃料:生水,堆肥 肥沃土:200%】\n作物が栽培できる鉢。定期的に管理しないと腐って消える。</ZP_LargeCultivationPlanter.description>
+  <ZP_LargeCultivationPlanter_Blueprint.label>大型植木鉢 (blueprint)</ZP_LargeCultivationPlanter_Blueprint.label>
+  <ZP_LargeCultivationPlanter_Frame.label>大型植木鉢 (building)</ZP_LargeCultivationPlanter_Frame.label>
+  <ZP_LargeCultivationPlanter_Frame.description>【燃料:生水,堆肥 肥沃土:200%】\n作物が栽培できる鉢。定期的に管理しないと腐って消える。</ZP_LargeCultivationPlanter_Frame.description>
+
+  <ZP_PaddyField.label>水田</ZP_PaddyField.label>
+  <ZP_PaddyField.description>【肥沃土:200% 設置場所:橋と同一】\n水稲を育てることが出来る水田。稲作を休耕してる間は裏作で別の作物も栽培できる。</ZP_PaddyField.description>
+  <ZP_PaddyField_Blueprint.label>水田 (blueprint)</ZP_PaddyField_Blueprint.label>
+  <ZP_PaddyField_Frame.label>水田 (building)</ZP_PaddyField_Frame.label>
+  <ZP_PaddyField_Frame.description>【肥沃土:200% 設置場所:橋と同一】\n水稲を育てることが出来る水田。稲作を休耕してる間は裏作で別の作物も栽培できる。</ZP_PaddyField_Frame.description>
+
+  <ZP_AquacultureNet.label>養殖網(3×3)</ZP_AquacultureNet.label>
+  <ZP_AquacultureNet.description>【燃料:魚の餌,ミミズ,虫の肉 肥沃度:100% 設置場所:浅瀬,浅海,流水,沼】\n魚を育てることができる生け簀。</ZP_AquacultureNet.description>
+  <ZP_AquacultureNet_Blueprint.label>養殖網(3×3) (blueprint)</ZP_AquacultureNet_Blueprint.label>
+  <ZP_AquacultureNet_Frame.label>養殖網(3×3) (building)</ZP_AquacultureNet_Frame.label>
+  <ZP_AquacultureNet_Frame.description>【燃料:魚の餌,ミミズ,虫の肉 肥沃度:100% 設置場所:浅瀬,浅海,流水,沼】\n魚を育てることができる生け簀。</ZP_AquacultureNet_Frame.description>
+
+  <ZP_AquacultureNet_Large.label>養殖網(4×5)</ZP_AquacultureNet_Large.label>
+  <ZP_AquacultureNet_Large.description>【燃料:魚の餌,ミミズ,虫の肉 肥沃度:100% 設置場所:浅瀬,浅海,流水,沼】\n魚を育てることができる生け簀。</ZP_AquacultureNet_Large.description>
+  <ZP_AquacultureNet_Large_Blueprint.label>養殖網(4×5) (blueprint)</ZP_AquacultureNet_Large_Blueprint.label>
+  <ZP_AquacultureNet_Large_Frame.label>養殖網(4×5) (building)</ZP_AquacultureNet_Large_Frame.label>
+  <ZP_AquacultureNet_Large_Frame.description>【燃料:魚の餌,ミミズ,虫の肉 肥沃度:100% 設置場所:浅瀬,浅海,流水,沼】\n魚を育てることができる生け簀。</ZP_AquacultureNet_Large_Frame.description>
+
+  <ZP_Bonfire.label>篝火</ZP_Bonfire.label>
+  <ZP_Bonfire.description>【燃料:炭,モミガライト 設置場所:地面】\n燃料式発熱太陽灯。\n燃料式なので範囲は狭く燃費効率は悪い。</ZP_Bonfire.description>
+  <ZP_Bonfire_Blueprint.label>篝火 (blueprint)</ZP_Bonfire_Blueprint.label>
+  <ZP_Bonfire_Frame.label>篝火 (building)</ZP_Bonfire_Frame.label>
+  <ZP_Bonfire_Frame.description>【燃料:炭,モミガライト 設置場所:地面】\n燃料式発熱太陽灯。\n燃料式なので範囲は狭く燃費効率は悪い。</ZP_Bonfire_Frame.description>
+
+  <ZP_Bonfire_Floating.label>高台式篝火</ZP_Bonfire_Floating.label>
+  <ZP_Bonfire_Floating.description>【燃料:モミガライト,炭 設置場所:橋と同一】\n足場の悪い水田や養殖網に使える燃料式発熱太陽灯。\n燃料式なので範囲は狭く燃費効率は悪い。</ZP_Bonfire_Floating.description>
+  <ZP_Bonfire_Floating_Blueprint.label>高台式篝火 (blueprint)</ZP_Bonfire_Floating_Blueprint.label>
+  <ZP_Bonfire_Floating_Frame.label>高台式篝火 (building)</ZP_Bonfire_Floating_Frame.label>
+  <ZP_Bonfire_Floating_Frame.description>【燃料:モミガライト,炭 設置場所:橋と同一】\n足場の悪い水田や養殖網に使える燃料式発熱太陽灯。\n燃料式なので範囲は狭く燃費効率は悪い。</ZP_Bonfire_Floating_Frame.description>
+
+  <ZP_FloatingSunLamp.label>浮遊式太陽灯</ZP_FloatingSunLamp.label>
+  <ZP_FloatingSunLamp.description>【設置場所：橋と同一】水田や養殖網に使える太陽灯。夜になると自動で消灯する。</ZP_FloatingSunLamp.description>
+  <ZP_FloatingSunLamp.comps.2.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.2.offMessage>
+
+  <ZP_DeepDrill.label>深部土壌採取機</ZP_DeepDrill.label>
+  <ZP_DeepDrill.description>深部から様々な土壌資源を採取する。</ZP_DeepDrill.description>
+  <ZP_DeepDrill_Blueprint.label>深部土壌採取機 (blueprint)</ZP_DeepDrill_Blueprint.label>
+  <ZP_DeepDrill_Blueprint_Install.label>深部土壌採取機 (blueprint)</ZP_DeepDrill_Blueprint_Install.label>
+  <ZP_DeepDrill_Frame.label>深部土壌採取機 (building)</ZP_DeepDrill_Frame.label>
+  <ZP_DeepDrill_Frame.description>深部から様々な土壌資源を採取する。</ZP_DeepDrill_Frame.description>
+
+
+</LanguageData>

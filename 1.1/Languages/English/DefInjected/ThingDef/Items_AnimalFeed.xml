@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼料 -->
+
+  <Manger.label>飼い葉</Manger.label>
+  <Manger.description>腹持ちのすごくいい家畜用の飼料。</Manger.description>
+
+  <PetFood.label>増量ペットフード</PetFood.label>
+  <PetFood.description>かさ増しされたペットフード。</PetFood.description>
+
+  <ZP_FishFood.label>魚の餌</ZP_FishFood.label>
+  <ZP_FishFood.description>米ぬかとジャガイモを水で練り合わせて作った魚の練り餌。\n動物も食べることが出来る。</ZP_FishFood.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_Earthworm.label>ミミズ</ZP_Earthworm.label>
+  <ZP_Earthworm.description>養殖魚の餌に必要。</ZP_Earthworm.description>
+
+
+</LanguageData>
