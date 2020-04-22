@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_MedicineLv1.label>医術の心得Lv.1</Hediffs_MedicineLv1.label>
-  <Hediffs_MedicineLv1.description>Tips13:簡単な食事、嗜好品、加工食品でもLv1,2の能力上昇バフが発動するものがある。</Hediffs_MedicineLv1.description>
+  <Hediffs_MedicineLv1.label>Ijutsu Lv.1</Hediffs_MedicineLv1.label>
+  <Hediffs_MedicineLv1.description>Tip 1: The Level 1 and 2 buff of Ijutsu (Medicine/Healing Art) may be activated by simple meals, luxury items, and processed foods.</Hediffs_MedicineLv1.description>
   <Hediffs_MedicineLv1.stages.0.label></Hediffs_MedicineLv1.stages.0.label>
 
-  <Hediffs_MedicineLv2.label>医術の心得Lv.2</Hediffs_MedicineLv2.label>
-  <Hediffs_MedicineLv2.description>Tips15:バフの種類は建築、料理、動物、農業、採掘、医術、研究、工芸、社交がある。</Hediffs_MedicineLv2.description>
+  <Hediffs_MedicineLv2.label>Ijutsu Lv.2</Hediffs_MedicineLv2.label>
+  <Hediffs_MedicineLv2.description>Tip 2: Buffs can be attained for all vanilla skill types (plants, animals, construction, etc).</Hediffs_MedicineLv2.description>
   <Hediffs_MedicineLv2.stages.0.label></Hediffs_MedicineLv2.stages.0.label>
 
-  <Hediffs_Medicine.label>医術の心得</Hediffs_Medicine.label>
-  <Hediffs_Medicine.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Medicine.description>
+  <Hediffs_Medicine.label>Ijutsu</Hediffs_Medicine.label>
+  <Hediffs_Medicine.description>Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Medicine.description>
   <Hediffs_Medicine.stages.0.label>initial</Hediffs_Medicine.stages.0.label>
   <Hediffs_Medicine.stages.1.label>Lv.3</Hediffs_Medicine.stages.1.label>
   <Hediffs_Medicine.stages.2.label>Lv.4 Max</Hediffs_Medicine.stages.2.label>

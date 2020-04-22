@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_MetabolismLv1.label>回復力Lv.1</Hediffs_MetabolismLv1.label>
-  <Hediffs_MetabolismLv1.description>Tips1:同じ種類のバフを持つ食べ物を食べ続けると経験値が貯まる。</Hediffs_MetabolismLv1.description>
+  <Hediffs_MetabolismLv1.label>Kaifuku Power Lv.1</Hediffs_MetabolismLv1.label>
+  <Hediffs_MetabolismLv1.description>Tip 1: Earn experience points for Kaifuku (Recovery) Power by continuing to eat foods with the same type of buff.</Hediffs_MetabolismLv1.description>
   <Hediffs_MetabolismLv1.stages.0.label></Hediffs_MetabolismLv1.stages.0.label>
 
-  <Hediffs_MetabolismLv2.label>回復力Lv.2</Hediffs_MetabolismLv2.label>
-  <Hediffs_MetabolismLv2.description>Tips2:能力上昇バフはLv4まで存在する。</Hediffs_MetabolismLv2.description>
+  <Hediffs_MetabolismLv2.label>Kaifuku Power Lv.2</Hediffs_MetabolismLv2.label>
+  <Hediffs_MetabolismLv2.description>Tip 2: This buff can go up to Level 4.</Hediffs_MetabolismLv2.description>
   <Hediffs_MetabolismLv2.stages.0.label></Hediffs_MetabolismLv2.stages.0.label>
 
-  <Hediffs_Metabolism.label>回復力</Hediffs_Metabolism.label>
-  <Hediffs_Metabolism.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Metabolism.description>
+  <Hediffs_Metabolism.label>Kaifuku Power</Hediffs_Metabolism.label>
+  <Hediffs_Metabolism.description>Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Metabolism.description>
   <Hediffs_Metabolism.stages.0.label>initial</Hediffs_Metabolism.stages.0.label>
   <Hediffs_Metabolism.stages.1.label>Lv.3</Hediffs_Metabolism.stages.1.label>
   <Hediffs_Metabolism.stages.2.label>Lv.4 Max</Hediffs_Metabolism.stages.2.label>
