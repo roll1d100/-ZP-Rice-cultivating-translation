@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_CraftingLv1.label>Kōgei Expertise Lv.1</Hediffs_CraftingLv1.label>
-  <Hediffs_CraftingLv1.description>Tip 1: You  can activate Kōgei (Crafts) Expertise's Level 1 and 2 buffs even after you acquire the permanent Level 3 and 4 buffs!</Hediffs_CraftingLv1.description>
+  <Hediffs_CraftingLv1.label>Crafts Expertise Lv.1</Hediffs_CraftingLv1.label>
+  <Hediffs_CraftingLv1.description>Kōgei (Crafts) Expertise Tip 1: You  can activate this skill's Level 1 and 2 buffs even after you acquire the permanent Level 3 and 4 buffs!</Hediffs_CraftingLv1.description>
   <Hediffs_CraftingLv1.stages.0.label></Hediffs_CraftingLv1.stages.0.label>
 
-  <Hediffs_CraftingLv2.label>Kōgei Expertise Lv.2</Hediffs_CraftingLv2.label>
-  <Hediffs_CraftingLv2.description>Tip 2: There are also processed foods that accumulate experience points even if the ability boost is not activated.</Hediffs_CraftingLv2.description>
+  <Hediffs_CraftingLv2.label>Crafts Expertise Lv.2</Hediffs_CraftingLv2.label>
+  <Hediffs_CraftingLv2.description>Kōgei (Crafts) Expertise Tip 2: There are also processed foods that accumulate experience points even if the ability boost is not activated.</Hediffs_CraftingLv2.description>
   <Hediffs_CraftingLv2.stages.0.label></Hediffs_CraftingLv2.stages.0.label>
 
-  <Hediffs_Crafting.label>Kōgei Expertise</Hediffs_Crafting.label>
-  <Hediffs_Crafting.description>Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Crafting.description>
+  <Hediffs_Crafting.label>Crafts Expertise</Hediffs_Crafting.label>
+  <Hediffs_Crafting.description>Kōgei (Crafts) Expertise: Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Crafting.description>
   <Hediffs_Crafting.stages.0.label>initial</Hediffs_Crafting.stages.0.label>
   <Hediffs_Crafting.stages.1.label>Lv.3</Hediffs_Crafting.stages.1.label>
   <Hediffs_Crafting.stages.2.label>Lv.4 Max</Hediffs_Crafting.stages.2.label>

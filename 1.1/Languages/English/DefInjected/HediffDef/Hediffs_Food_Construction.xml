@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_ConstructionLv1.label>Kenchiku Expertise Lv.1</Hediffs_ConstructionLv1.label>
-  <Hediffs_ConstructionLv1.description>Tip 1: Kenchiku (Architecture) Expertise can go up to level 4!</Hediffs_ConstructionLv1.description>
+  <Hediffs_ConstructionLv1.label>Architecture Expertise Lv.1</Hediffs_ConstructionLv1.label>
+  <Hediffs_ConstructionLv1.description>Kenchiku (Architecture) Expertis Tip 1: This skill can go up to level 4!</Hediffs_ConstructionLv1.description>
   <Hediffs_ConstructionLv1.stages.0.label></Hediffs_ConstructionLv1.stages.0.label>
 
-  <Hediffs_ConstructionLv2.label>Kenchiku Expertise Lv.2</Hediffs_ConstructionLv2.label>
-  <Hediffs_ConstructionLv2.description>Tip 2: Later levels of this buff can lead to permanent skill buffs.</Hediffs_ConstructionLv2.description>
+  <Hediffs_ConstructionLv2.label>Architecture Expertise Lv.2</Hediffs_ConstructionLv2.label>
+  <Hediffs_ConstructionLv2.description>Kenchiku (Architecture) Expertis Tip 2: Later levels of this skill can lead to permanent skill buffs.</Hediffs_ConstructionLv2.description>
   <Hediffs_ConstructionLv2.stages.0.label></Hediffs_ConstructionLv2.stages.0.label>
 
-  <Hediffs_Construction.label>Kenchiku Expertise</Hediffs_Construction.label>
-  <Hediffs_Construction.description>Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Construction.description>
+  <Hediffs_Construction.label>Architecture Expertise</Hediffs_Construction.label>
+  <Hediffs_Construction.description>Kenchiku (Architecture) Expertis: Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Construction.description>
   <Hediffs_Construction.stages.0.label>initial</Hediffs_Construction.stages.0.label>
   <Hediffs_Construction.stages.1.label>Lv.3</Hediffs_Construction.stages.1.label>
   <Hediffs_Construction.stages.2.label>Lv.4 Max</Hediffs_Construction.stages.2.label>

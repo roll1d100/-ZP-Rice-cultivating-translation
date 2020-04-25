@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_MiningLv1.label>Saikutsu Knowhow Lv.1</Hediffs_MiningLv1.label>
-  <Hediffs_MiningLv1.description>Tip 1: Level 2 of Saikutsu (Mining) Knowhow has a short term buff tied to it.</Hediffs_MiningLv1.description>
+  <Hediffs_MiningLv1.label>Mining Knowhow Lv.1</Hediffs_MiningLv1.label>
+  <Hediffs_MiningLv1.description>Saikutsu (Mining) Knowhow Tip 1: Level 2 of Saikutsu (Mining) Knowhow has a short term buff tied to it.</Hediffs_MiningLv1.description>
   <Hediffs_MiningLv1.stages.0.label></Hediffs_MiningLv1.stages.0.label>
 
-  <Hediffs_MiningLv2.label>Saikutsu Knowhow Lv.2</Hediffs_MiningLv2.label>
-  <Hediffs_MiningLv2.description>Tip 2: Level 3 & 4 of this buff grant permanent buffs.</Hediffs_MiningLv2.description>
+  <Hediffs_MiningLv2.label>Mining Knowhow Lv.2</Hediffs_MiningLv2.label>
+  <Hediffs_MiningLv2.description>Saikutsu (Mining) Knowhow Tip 2: Level 3 & 4 of this buff grant permanent buffs.</Hediffs_MiningLv2.description>
   <Hediffs_MiningLv2.stages.0.label></Hediffs_MiningLv2.stages.0.label>
 
-  <Hediffs_Mining.label>Saikutsu Knowhow</Hediffs_Mining.label>
-  <Hediffs_Mining.description>Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Mining.description>
+  <Hediffs_Mining.label>Mining Knowhow</Hediffs_Mining.label>
+  <Hediffs_Mining.description>Saikutsu (Mining) Knowhow: Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Mining.description>
   <Hediffs_Mining.stages.0.label>initial</Hediffs_Mining.stages.0.label>
   <Hediffs_Mining.stages.1.label>Lv.3</Hediffs_Mining.stages.1.label>
   <Hediffs_Mining.stages.2.label>Lv.4 Max</Hediffs_Mining.stages.2.label>
