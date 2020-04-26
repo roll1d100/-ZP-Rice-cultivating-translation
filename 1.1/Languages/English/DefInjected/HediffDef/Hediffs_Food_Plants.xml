@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_PlantsLv1.label>Saibai Knowledge Lv.1</Hediffs_PlantsLv1.label>
-  <Hediffs_PlantsLv1.description>Tip 1: Level 3 of Saibai (Cultivation) Knowledge unlocks a permanent buff!</Hediffs_PlantsLv1.description>
+  <Hediffs_PlantsLv1.label>Cultivation Knowledge Lv.1</Hediffs_PlantsLv1.label>
+  <Hediffs_PlantsLv1.description>Saibai (Cultivation) Knowledge Tip 1: Level 3 of this skill unlocks a permanent buff!</Hediffs_PlantsLv1.description>
   <Hediffs_PlantsLv1.stages.0.label></Hediffs_PlantsLv1.stages.0.label>
 
-  <Hediffs_PlantsLv2.label>Saibai Knowledge Lv.2</Hediffs_PlantsLv2.label>
-  <Hediffs_PlantsLv2.description>Tip 2: Level 4 of this skill unlocks a significant permanent buff.</Hediffs_PlantsLv2.description>
+  <Hediffs_PlantsLv2.label>Cultivation Knowledge Lv.2</Hediffs_PlantsLv2.label>
+  <Hediffs_PlantsLv2.description>Saibai (Cultivation) Knowledge Tip 2: Level 4 of this skill unlocks a significant permanent buff.</Hediffs_PlantsLv2.description>
   <Hediffs_PlantsLv2.stages.0.label></Hediffs_PlantsLv2.stages.0.label>
 
-  <Hediffs_Plants.label>Saibai Knowledge</Hediffs_Plants.label>
-  <Hediffs_Plants.description>Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Plants.description>
+  <Hediffs_Plants.label>Cultivation Knowledge</Hediffs_Plants.label>
+  <Hediffs_Plants.description>Saibai (Cultivation) Knowledge: Thank you for letting me experience all the flavors of the world!\nKnowledge is power, and what better way to learn than to eat, eat, eat! Kanpai!</Hediffs_Plants.description>
   <Hediffs_Plants.stages.0.label>initial</Hediffs_Plants.stages.0.label>
   <Hediffs_Plants.stages.1.label>Lv.3</Hediffs_Plants.stages.1.label>
   <Hediffs_Plants.stages.2.label>Lv.4 Max</Hediffs_Plants.stages.2.label>
