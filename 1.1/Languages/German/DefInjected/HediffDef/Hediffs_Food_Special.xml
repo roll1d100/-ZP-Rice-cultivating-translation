@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Hediffs_PuffedRice.label>POP-POP!!!</Hediffs_PuffedRice.label>
+  <Hediffs_PuffedRice.description>I ate a delicious snack of Muri!</Hediffs_PuffedRice.description>
+  <Hediffs_PuffedRice.stages.0.label></Hediffs_PuffedRice.stages.0.label>
+
+  <Hediffs_Amazake.label>Sweet, sweet, Amazake~!</Hediffs_Amazake.label>
+  <Hediffs_Amazake.description>So, I might of had a wee bit to drink...</Hediffs_Amazake.description>
+  <Hediffs_Amazake.stages.0.label></Hediffs_Amazake.stages.0.label>
+
+
+  <!-- add 1.1 -->
+
+  <Hediffs_Umeshu.label>Refreshing drink</Hediffs_Umeshu.label>
+  <Hediffs_Umeshu.description>I may-or may not-have drank some plum wine.</Hediffs_Umeshu.description>
+  <Hediffs_Umeshu.stages.0.label></Hediffs_Umeshu.stages.0.label>
+
+  <Hediffs_DrinkingWater.label>Hydration</Hediffs_DrinkingWater.label>
+  <Hediffs_DrinkingWater.description>Drinking water will/can/may/won't prevent heat stroke.</Hediffs_DrinkingWater.description>
+  <Hediffs_DrinkingWater.stages.0.label></Hediffs_DrinkingWater.stages.0.label>
+
+
+</LanguageData>

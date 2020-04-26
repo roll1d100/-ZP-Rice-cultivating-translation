@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 土採集　Gathering dirt -->
+
+  <RPC_Gathering_Dirt100.label>土×100</RPC_Gathering_Dirt100.label>
+  <RPC_Gathering_Dirt100.description>深部から土を採集します。</RPC_Gathering_Dirt100.description>
+  <RPC_Gathering_Dirt100.jobString>土を採集中。</RPC_Gathering_Dirt100.jobString>
+
+
+  <!-- 砂採集　Gathering sand -->
+
+  <RPC_Gathering_Sand100.label>砂×100</RPC_Gathering_Sand100.label>
+  <RPC_Gathering_Sand100.description>深部から砂を採集します。</RPC_Gathering_Sand100.description>
+  <RPC_Gathering_Sand100.jobString>砂を採集中。</RPC_Gathering_Sand100.jobString>
+
+
+  <!-- 砂利採集　Gathering gravel -->
+
+  <RPC_Gathering_Gravel100.label>砂利×100</RPC_Gathering_Gravel100.label>
+  <RPC_Gathering_Gravel100.description>深部から砂利を採集します。</RPC_Gathering_Gravel100.description>
+  <RPC_Gathering_Gravel100.jobString>砂利を採集中。</RPC_Gathering_Gravel100.jobString>
+
+
+  <!-- 氷採集　Gathering ice -->
+
+  <RPC_Gathering_Ice100.label>氷×100</RPC_Gathering_Ice100.label>
+  <RPC_Gathering_Ice100.description>深部から氷を採集します。</RPC_Gathering_Ice100.description>
+  <RPC_Gathering_Ice100.jobString>氷を採集中。</RPC_Gathering_Ice100.jobString>
+
+
+  <!-- 泥集め -->
+
+  <RPC_Gathering_Mud100.label>泥×100</RPC_Gathering_Mud100.label>
+  <RPC_Gathering_Mud100.description>深部から泥を採集します。</RPC_Gathering_Mud100.description>
+  <RPC_Gathering_Mud100.jobString>泥を採集中。</RPC_Gathering_Mud100.jobString>
+
+
+  <!-- 水集め -->
+
+  <RPC_Gathering_Water100.label>水x100</RPC_Gathering_Water100.label>
+  <RPC_Gathering_Water100.description>深部から水を採集します。</RPC_Gathering_Water100.description>
+  <RPC_Gathering_Water100.jobString>水を採集中。</RPC_Gathering_Water100.jobString>
+
+
+</LanguageData>

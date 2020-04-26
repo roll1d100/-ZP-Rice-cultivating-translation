@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- add 1.1 -->
+
+  <Make_JunmaiSakeMoromi.label>もろみ(純米酒)×25</Make_JunmaiSakeMoromi.label>
+  <Make_JunmaiSakeMoromi.description>純米酒の原料であるもろみ(純米酒)を作る。</Make_JunmaiSakeMoromi.description>
+  <Make_JunmaiSakeMoromi.jobString>もろみ(純米酒)を作成中。</Make_JunmaiSakeMoromi.jobString>
+
+
+</LanguageData>
