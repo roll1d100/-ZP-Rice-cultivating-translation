@@ -3,20 +3,20 @@
 
   <!-- 米俵 -->
 
-  <StrawRiceBag_RawRice.label>米俵(米)</StrawRiceBag_RawRice.label>
-  <StrawRiceBag_RawRice.description>米(生)を大量に保管できる。また、特産品として売れる。</StrawRiceBag_RawRice.description>
+  <StrawRiceBag_RawRice.label>Straw rice bag (Rice)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>A bag fit to burst with rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_RawRice.description>
 
-  <StrawRiceBag_RiceMomi.label>米俵(籾米)</StrawRiceBag_RiceMomi.label>
-  <StrawRiceBag_RiceMomi.description>籾米を保管できる。また、特産品として売れる。</StrawRiceBag_RiceMomi.description>
+  <StrawRiceBag_RiceMomi.label>Straw rice bag (Momi)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>A bag fit to burst with Momi. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_RiceMomi.description>
 
-  <StrawRiceBag_BrownRice.label>米俵(玄米)</StrawRiceBag_BrownRice.label>
-  <StrawRiceBag_BrownRice.description>玄米を保管できる。また、特産品として高く売れる。</StrawRiceBag_BrownRice.description>
+  <StrawRiceBag_BrownRice.label>Straw rice bag (Brown rice)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>A bag fit to burst with Brown rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_BrownRice.description>
 
-  <StrawRiceBag_GlutinousRice.label>米俵(もち米)</StrawRiceBag_GlutinousRice.label>
-  <StrawRiceBag_GlutinousRice.description>もち米を保管できる。また、特産品として高く売れる。</StrawRiceBag_GlutinousRice.description>
+  <StrawRiceBag_GlutinousRice.label>Straw rice bag (Glutinous rice)</StrawRiceBag_GlutinousRice.label>
+  <StrawRiceBag_GlutinousRice.description>A bag fit to burst with Glutinous rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_GlutinousRice.description>
 
-  <StrawRiceBag_WhiteRice.label>米俵(白米)</StrawRiceBag_WhiteRice.label>
-  <StrawRiceBag_WhiteRice.description>白米を保管できる。また、特産品として非常に高く売れる。</StrawRiceBag_WhiteRice.description>
+  <StrawRiceBag_WhiteRice.label>Straw rice bag (White rice)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>A bag fit to burst with White rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_WhiteRice.description>
 
 
 </LanguageData>

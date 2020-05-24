@@ -3,8 +3,8 @@
 
   <!-- 魚類 -->
 
-  <ZP_AquacultureFish.label>養殖魚</ZP_AquacultureFish.label>
-  <ZP_AquacultureFish.description>生育期間は非常に長いが栄養価の高い魚を収穫することができる。</ZP_AquacultureFish.description>
+  <ZP_AquacultureFish.label>Farmed fish</ZP_AquacultureFish.label>
+  <ZP_AquacultureFish.description>Fish are a long term investment, one that requires persistent care to see through; however, fish farms tend to have high yields, with the fish themselves also being very nutritious.</ZP_AquacultureFish.description>
 
 
 </LanguageData>

@@ -3,13 +3,13 @@
 
   <!-- 調味料 -->
 
-  <Make_Mizuame.label>米飴x20</Make_Mizuame.label>
-  <Make_Mizuame.description>米を煮詰めて糖化させ米飴を作る※注：出来るのは水飴です。</Make_Mizuame.description>
-  <Make_Mizuame.jobString>米飴を作成中</Make_Mizuame.jobString>
+  <Make_Mizuame.label>Make Mizuame x20</Make_Mizuame.label>
+  <Make_Mizuame.description>Boil rice, extract the sugar, and then make rice syrup.</Make_Mizuame.description>
+  <Make_Mizuame.jobString>Making Mizuame.</Make_Mizuame.jobString>
 
-  <Make_Mizuame2nd.label>水飴x20</Make_Mizuame2nd.label>
-  <Make_Mizuame2nd.description>ジャガイモからでんぷんを取り出し、大根の搾り汁を混ぜて加熱する事で水飴ができる。</Make_Mizuame2nd.description>
-  <Make_Mizuame2nd.jobString>水飴を作成中</Make_Mizuame2nd.jobString>
+  <Make_Mizuame2nd.label>Make Mizuame x20</Make_Mizuame2nd.label>
+  <Make_Mizuame2nd.description>Create syrup by converting starch to sugars. For starch, this recipe uses potatoes and Daikon, which are then broke down through the introduction of an acid (such as nitric or hydrochloric).</Make_Mizuame2nd.description>
+  <Make_Mizuame2nd.jobString>Making Mizuame.</Make_Mizuame2nd.jobString>
 
 
   <!-- add 1.1 -->

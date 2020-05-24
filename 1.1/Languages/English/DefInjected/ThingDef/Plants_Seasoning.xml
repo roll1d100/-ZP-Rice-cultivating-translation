@@ -3,13 +3,13 @@
 
   <!-- 調味料類 -->
 
-  <ZP_PrantSpice.label>香辛料</ZP_PrantSpice.label>
-  <ZP_PrantSpice.description>調味料に使える香辛料を収穫できる。ラーメンやカレー等を作る際に必要です。</ZP_PrantSpice.description>
+  <ZP_PrantSpice.label>Spice</ZP_PrantSpice.label>
+  <ZP_PrantSpice.description>A generic plant that has been modified to grow generic spices. No one knows what spices they are exactly, but they seem nifty in cooking.</ZP_PrantSpice.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PrantSalt.label>塩</ZP_PrantSalt.label>
+  <ZP_PrantSalt.label>Salt</ZP_PrantSalt.label>
   <ZP_PrantSalt.description>調味料に使える天然塩を収穫できる。塩田で生水を蒸発させて作る。重労働だが朝に栽培できれば夕方には収穫できる。</ZP_PrantSalt.description>
 
 

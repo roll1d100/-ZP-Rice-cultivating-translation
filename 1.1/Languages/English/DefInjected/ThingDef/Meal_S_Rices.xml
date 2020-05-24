@@ -3,17 +3,17 @@
 
   <!-- MealSimple -->
 
-  <ZP_BRGohan.label>ご飯(雑穀)</ZP_BRGohan.label>
-  <ZP_BRGohan.description>オカズが欲しいなんて言わずにお米そのままの味を楽しもう!!</ZP_BRGohan.description>
+  <ZP_BRGohan.label>Gohan (BR)</ZP_BRGohan.label>
+  <ZP_BRGohan.description>An enjoyable dish that tastes all the better with side dishes!</ZP_BRGohan.description>
 
-  <ZP_WRGohan.label>ご飯</ZP_WRGohan.label>
-  <ZP_WRGohan.description>白米をじっくりと楽しむためにお椀によそられた最高の1杯</ZP_WRGohan.description>
+  <ZP_WRGohan.label>Gohan</ZP_WRGohan.label>
+  <ZP_WRGohan.description>A cup filled to the brim with White rice. Whoever scooped out this portion understands the joys of plenty!</ZP_WRGohan.description>
 
-  <ZP_BROnigiri.label>おにぎり(雑穀)</ZP_BROnigiri.label>
-  <ZP_BROnigiri.description>【特産品】どこでも食べれる塩味のきいたおにぎり</ZP_BROnigiri.description>
+  <ZP_BROnigiri.label>Onigiri (BR)</ZP_BROnigiri.label>
+  <ZP_BROnigiri.description>【特産品】Perhaps one of the most iconic Japanese dishes in gaming, Onigiri has been around since the 7th century A.D.! This long history is understandable due to the elegant simplicity of the dish: a ball of rice seasoned with salt. The strip of seaweed (Nori) often associated with Onigiri wasn't a standard for the dish until the Genroku ere, which started in 1688.</ZP_BROnigiri.description>
 
-  <ZP_WROnigiri.label>おにぎり</ZP_WROnigiri.label>
-  <ZP_WROnigiri.description>【特産品】どこでも食べれる塩味のきいた白米のおにぎり</ZP_WROnigiri.description>
+  <ZP_WROnigiri.label>Onigiri</ZP_WROnigiri.label>
+  <ZP_WROnigiri.description>【特産品】Perhaps one of the most iconic Japanese dishes in gaming, Onigiri has been around since the 7th century A.D.! This long history is understandable due to the elegant simplicity of the dish: a ball of rice seasoned with salt. The strip of seaweed (Nori) often associated with Onigiri wasn't a standard for the dish until the Genroku ere, which started in 1688.</ZP_WROnigiri.description>
 
 
 </LanguageData>

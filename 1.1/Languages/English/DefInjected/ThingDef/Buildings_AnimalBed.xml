@@ -27,23 +27,23 @@
 
   <!-- add 1.1 -->
 
-  <ZP_AnimalHMBedSmall.label>動物用-薬草ベッド(1×1)</ZP_AnimalHMBedSmall.label>
-  <ZP_AnimalHMBedSmall.description>動物用の薬草ベッド。動物達の怪我を癒し疲労回復を助けます。鶏やうさぎなどの小型動物に最適です。</ZP_AnimalHMBedSmall.description>
+  <ZP_AnimalHMBedSmall.label>Animal herbal medicine bed(1×1)</ZP_AnimalHMBedSmall.label>
+  <ZP_AnimalHMBedSmall.description>It will heal injuries of animals and improve the quality of sleep.Ideal for small animals, such as chickens and rabbits.</ZP_AnimalHMBedSmall.description>
 
-  <ZP_AnimalHMBed.label>動物用-薬草ベッド(2×2)</ZP_AnimalHMBed.label>
-  <ZP_AnimalHMBed.description>動物用の薬草ベッド。動物達の怪我を癒し疲労回復を助けます。ハスキーからマッファローまでの中型動物に最適です。</ZP_AnimalHMBed.description>
+  <ZP_AnimalHMBed.label>Animal herbal medicine bed(2×2)</ZP_AnimalHMBed.label>
+  <ZP_AnimalHMBed.description>It will heal injuries of animals and improve the quality of sleep.Ideal for mid-sized animals, from huskies to muffalo.</ZP_AnimalHMBed.description>
 
-  <ZP_AnimalHMBedBig.label>動物用-薬草ベッド(3×3)</ZP_AnimalHMBedBig.label>
-  <ZP_AnimalHMBedBig.description>動物用の薬草ベッド。動物達の怪我を癒し疲労回復を助けます。スランボやゾウなどの大型動物に最適です。</ZP_AnimalHMBedBig.description>
+  <ZP_AnimalHMBedBig.label>Animal herbal medicine bed(3×3)</ZP_AnimalHMBedBig.label>
+  <ZP_AnimalHMBedBig.description>It will heal injuries of animals and improve the quality of sleep.Ideal for large animals such as thrumbos and elephants.</ZP_AnimalHMBedBig.description>
 
-  <AnimalHospitalBedSmall.label>動物用-医療ベッド(1×1)</AnimalHospitalBedSmall.label>
-  <AnimalHospitalBedSmall.description>怪我した動物のために考えられた医療用ベッド。鶏やうさぎなどの小型動物に最適です。</AnimalHospitalBedSmall.description>
+  <AnimalHospitalBedSmall.label>Animal hospital bed(1×1)</AnimalHospitalBedSmall.label>
+  <AnimalHospitalBedSmall.description>Medical bed considered for injured animals.Ideal for small animals, such as chickens and rabbits.</AnimalHospitalBedSmall.description>
 
-  <ZP_AnimalHospitalBed.label>動物用-医療ベッド(2×2)</ZP_AnimalHospitalBed.label>
-  <ZP_AnimalHospitalBed.description>怪我した動物のために考えられた医療用ベッド。ハスキーからマッファローまでの中型動物に最適です。</ZP_AnimalHospitalBed.description>
+  <ZP_AnimalHospitalBed.label>Animal hospital bed(2×2)</ZP_AnimalHospitalBed.label>
+  <ZP_AnimalHospitalBed.description>Medical bed considered for injured animals.Ideal for mid-sized animals, from huskies to muffalo.</ZP_AnimalHospitalBed.description>
 
-  <ZP_AnimalHospitalBedBig.label>動物用-医療ベッド(3×3)</ZP_AnimalHospitalBedBig.label>
-  <ZP_AnimalHospitalBedBig.description>怪我した動物のために考えられた医療用ベッド。スランボやゾウなどの大型動物に最適です。</ZP_AnimalHospitalBedBig.description>
+  <ZP_AnimalHospitalBedBig.label>Animal hospital bed(3×3)</ZP_AnimalHospitalBedBig.label>
+  <ZP_AnimalHospitalBedBig.description>Medical bed considered for injured animals.Ideal for large animals such as thrumbos and elephants.</ZP_AnimalHospitalBedBig.description>
 
 
 </LanguageData>

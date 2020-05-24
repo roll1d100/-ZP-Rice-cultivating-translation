@@ -3,17 +3,17 @@
 
   <!-- MealSimple -->
 
-  <ZP_RoastedMochi.label>焼き餅</ZP_RoastedMochi.label>
-  <ZP_RoastedMochi.description>シンプルに焼いただけの餅。</ZP_RoastedMochi.description>
+  <ZP_RoastedMochi.label>Grilled Mochi</ZP_RoastedMochi.label>
+  <ZP_RoastedMochi.description>It's baked mochi with nothing else added.</ZP_RoastedMochi.description>
 
-  <ZP_VinegarMochi.label>酢餅</ZP_VinegarMochi.label>
-  <ZP_VinegarMochi.description>大根おろしと酢をからませた餅。九州の郷土料理。</ZP_VinegarMochi.description>
+  <ZP_VinegarMochi.label>Vinegar Mochi</ZP_VinegarMochi.label>
+  <ZP_VinegarMochi.description>Mochi with vinegar and grated Japanese radish (Daikon). A common dish in the Kyushu area.</ZP_VinegarMochi.description>
 
-  <ZP_IsobeMochi.label>磯辺餅</ZP_IsobeMochi.label>
-  <ZP_IsobeMochi.description>焼いた餅に醤油をたらして海苔で巻いた餅。</ZP_IsobeMochi.description>
+  <ZP_IsobeMochi.label>Isobe Mochi</ZP_IsobeMochi.label>
+  <ZP_IsobeMochi.description>Mochi baked, soaked with soy sauce, and wrapped in seaweed.</ZP_IsobeMochi.description>
 
-  <ZP_GoheiMochi.label>五平餅</ZP_GoheiMochi.label>
-  <ZP_GoheiMochi.description>餅を板に付け火であぶり、味噌を塗ったもの。</ZP_GoheiMochi.description>
+  <ZP_GoheiMochi.label>Gohei Mochi</ZP_GoheiMochi.label>
+  <ZP_GoheiMochi.description>Mochi baked on an iron plate and seasoned with miso.</ZP_GoheiMochi.description>
 
 
 </LanguageData>

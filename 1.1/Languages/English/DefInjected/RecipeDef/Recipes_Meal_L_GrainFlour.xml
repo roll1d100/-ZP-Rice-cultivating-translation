@@ -3,9 +3,9 @@
 
   <!-- MealLavish -->
 
-  <CookRamen4.label>ラーメンx4</CookRamen4.label>
+  <CookRamen4.label>Cook Ramen x4</CookRamen4.label>
   <CookRamen4.description>穀物粉、味付け肉、野菜、調味料を使ってラーメンを作る。隠し味の香辛料も忘れずに入れよう。</CookRamen4.description>
-  <CookRamen4.jobString>ラーメンを作成中。。</CookRamen4.jobString>
+  <CookRamen4.jobString>Cooking Ramen.</CookRamen4.jobString>
 
 
 </LanguageData>

@@ -3,20 +3,20 @@
 
   <!-- MealFine -->
 
-  <ZP_SaltGrilledFish.label>Grill fish</ZP_SaltGrilledFish.label>
-  <ZP_SaltGrilledFish.description>塩をまぶした魚を串にさし直火で焼いたもの。焼いた魚の旨味を堪能できる一品。</ZP_SaltGrilledFish.description>
+  <ZP_SaltGrilledFish.label>Salt-grilled fish</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>Salted fish that was skewered and baked over an open flame.</ZP_SaltGrilledFish.description>
 
 
   <!-- add 1.1 -->
 
   <ZP_Sasimi.label>Sasimi</ZP_Sasimi.label>
-  <ZP_Sasimi.description>新鮮な生魚を食べやすい大きさに切りお皿に盛り合わせたもの。</ZP_Sasimi.description>
+  <ZP_Sasimi.description>Bite-sized raw fish that has been neatly assorted on a dish.</ZP_Sasimi.description>
 
-  <ZP_SteamedFish.label>Steam fish</ZP_SteamedFish.label>
-  <ZP_SteamedFish.description>魚を軽く茹でた後に調味料で味をつけ煮付けた食べ物。</ZP_SteamedFish.description>
+  <ZP_SteamedFish.label>Boiled fish</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>Fish that has been lightly boiled and seasoned with Miso.</ZP_SteamedFish.description>
 
   <ZP_Oden.label>Oden</ZP_Oden.label>
-  <ZP_Oden.description>コンニャク、大根、ちくわを出汁で長時間煮込んだ煮込み料理。</ZP_Oden.description>
+  <ZP_Oden.description>A boiled dish containing Konnyaku, daikon, and Chikuwa, as well as fishcakes stewed in dashi broth. Oden is a popular Winter dish, and is often sold by yatai (food carts).</ZP_Oden.description>
 
 
 </LanguageData>

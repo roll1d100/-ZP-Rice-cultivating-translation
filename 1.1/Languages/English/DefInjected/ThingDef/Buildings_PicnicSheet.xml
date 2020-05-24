@@ -75,29 +75,29 @@
   <ZP_PicnicSheet12th_Frame.label>レジャーシート(手裏剣) (building)</ZP_PicnicSheet12th_Frame.label>
   <ZP_PicnicSheet12th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet12th_Frame.description>
 
-  <ZP_Goza.label>茣蓙</ZP_Goza.label>
-  <ZP_Goza.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza.description>
-  <ZP_Goza_Blueprint.label>茣蓙 (blueprint)</ZP_Goza_Blueprint.label>
-  <ZP_Goza_Frame.label>茣蓙 (building)</ZP_Goza_Frame.label>
-  <ZP_Goza_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza_Frame.description>
+  <ZP_Goza.label>Goza</ZP_Goza.label>
+  <ZP_Goza.description>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza.description>
+  <ZP_Goza_Blueprint.label>Goza (blueprint)</ZP_Goza_Blueprint.label>
+  <ZP_Goza_Frame.label>Goza (building)</ZP_Goza_Frame.label>
+  <ZP_Goza_Frame.description>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza_Frame.description>
 
-  <ZP_Goza2nd.label>茣蓙2</ZP_Goza2nd.label>
-  <ZP_Goza2nd.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza2nd.description>
-  <ZP_Goza2nd_Blueprint.label>茣蓙2 (blueprint)</ZP_Goza2nd_Blueprint.label>
-  <ZP_Goza2nd_Frame.label>茣蓙2 (building)</ZP_Goza2nd_Frame.label>
-  <ZP_Goza2nd_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza2nd_Frame.description>
+  <ZP_Goza2nd.label>Goza</ZP_Goza2nd.label>
+  <ZP_Goza2nd.description>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza2nd.description>
+  <ZP_Goza2nd_Blueprint.label>Goza (blueprint)</ZP_Goza2nd_Blueprint.label>
+  <ZP_Goza2nd_Frame.label>Goza (building)</ZP_Goza2nd_Frame.label>
+  <ZP_Goza2nd_Frame.description>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza2nd_Frame.description>
 
-  <ZP_Goza3rd.label>茣蓙(大)</ZP_Goza3rd.label>
-  <ZP_Goza3rd.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza3rd.description>
-  <ZP_Goza3rd_Blueprint.label>茣蓙(大) (blueprint)</ZP_Goza3rd_Blueprint.label>
-  <ZP_Goza3rd_Frame.label>茣蓙(大) (building)</ZP_Goza3rd_Frame.label>
-  <ZP_Goza3rd_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza3rd_Frame.description>
+  <ZP_Goza3rd.label>Goza (Large)</ZP_Goza3rd.label>
+  <ZP_Goza3rd.description>>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza3rd.description>
+  <ZP_Goza3rd_Blueprint.label>Goza (Large) (blueprint)</ZP_Goza3rd_Blueprint.label>
+  <ZP_Goza3rd_Frame.label>Goza (Large) (building)</ZP_Goza3rd_Frame.label>
+  <ZP_Goza3rd_Frame.description>>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza3rd_Frame.description>
 
-  <ZP_Goza4th.label>茣蓙2(大)</ZP_Goza4th.label>
-  <ZP_Goza4th.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza4th.description>
-  <ZP_Goza4th_Blueprint.label>茣蓙2(大) (blueprint)</ZP_Goza4th_Blueprint.label>
-  <ZP_Goza4th_Frame.label>茣蓙2(大) (building)</ZP_Goza4th_Frame.label>
-  <ZP_Goza4th_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza4th_Frame.description>
+  <ZP_Goza4th.label>Goza (Large)</ZP_Goza4th.label>
+  <ZP_Goza4th.description>>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza4th.description>
+  <ZP_Goza4th_Blueprint.label>Goza (Large) (blueprint)</ZP_Goza4th_Blueprint.label>
+  <ZP_Goza4th_Frame.label>Goza (Large) (building)</ZP_Goza4th_Frame.label>
+  <ZP_Goza4th_Frame.description>>A straw mat that colonists can eat on. Once placed, it cannot be moved; however, deconstructing the mat will refund nearly all of its materials.</ZP_Goza4th_Frame.description>
 
 
 </LanguageData>

@@ -57,8 +57,8 @@
   <ZP_Bonfire_Floating_Frame.label>Floating BonFire[ZP] (building)</ZP_Bonfire_Floating_Frame.label>
   <ZP_Bonfire_Floating_Frame.description>【燃料:モミガライト,炭 設置場所:橋と同一】\n足場の悪い水田や養殖網に使える燃料式発熱太陽灯。\n燃料式なので範囲は狭く燃費効率は悪い。</ZP_Bonfire_Floating_Frame.description>
 
-  <ZP_FloatingSunLamp.label>浮遊式太陽灯</ZP_FloatingSunLamp.label>
-  <ZP_FloatingSunLamp.description>【設置場所：橋と同一】水田や養殖網に使える太陽灯。夜になると自動で消灯する。</ZP_FloatingSunLamp.description>
+  <ZP_FloatingSunLamp.label>Floating Sun</ZP_FloatingSunLamp.label>
+  <ZP_FloatingSunLamp.description>【設置場所：橋と同一】A solar lamp that can be used for paddy fields and fish farms. It turns off automatically at night.</ZP_FloatingSunLamp.description>
   <ZP_FloatingSunLamp.comps.2.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.2.offMessage>
 
   <ZP_DeepDrill.label>DeepDrill[ZP]</ZP_DeepDrill.label>

@@ -3,17 +3,17 @@
 
   <!-- MealLavish -->
 
-  <ZP_BRJubako.label>重箱(玄米)</ZP_BRJubako.label>
-  <ZP_BRJubako.description>【特産品】どこでも食べれる豪華なお弁当。</ZP_BRJubako.description>
+  <ZP_BRJubako.label>Jubako (BR)</ZP_BRJubako.label>
+  <ZP_BRJubako.description>【特産品】A lavish Bento. This lacquer box contains a full course meal, with the separate tiers acting as trays. Each tray has several compartments that help keep the various elements apart from each other. Colonists can expect the same on-the-go benefits that Bento offer (though the Jubako's extravagance may leave them even happier).</ZP_BRJubako.description>
 
-  <ZP_WRJubako.label>重箱</ZP_WRJubako.label>
-  <ZP_WRJubako.description>【特産品】どこでも食べれる豪華で白米のお弁当。</ZP_WRJubako.description>
+  <ZP_WRJubako.label>Jubako</ZP_WRJubako.label>
+  <ZP_WRJubako.description>【特産品】A lavish Bento. This lacquer box contains a full course meal, with the separate tiers acting as trays. Each tray has several compartments that help keep the various elements apart from each other. Colonists can expect the same on-the-go benefits that Bento offer (though the Jubako's extravagance may leave them even happier).</ZP_WRJubako.description>
 
-  <ZP_WRJPCurryRice.label>カレーライス</ZP_WRJPCurryRice.label>
-  <ZP_WRJPCurryRice.description>とある国では食べ方や食材を何にするかで戦争が起きるほど、皆が愛してやまない魅惑のカレーライス。あまりの辛さに倒れる人が出る可能性があります。</ZP_WRJPCurryRice.description>
+  <ZP_WRJPCurryRice.label>Japanese Curry</ZP_WRJPCurryRice.label>
+  <ZP_WRJPCurryRice.description>A dish that seems to be loved the galaxy over; if colonists could agree to disagree on ingredients-and thus focus on their love of the dish itself-then the galaxy would be one more common bond closer to peace.あまりの辛さに倒れる人が出る可能性があります。</ZP_WRJPCurryRice.description>
 
-  <ZP_Tendon.label>天丼</ZP_Tendon.label>
-  <ZP_Tendon.description>白飯の上に天ぷらをのせたどんぶり。揚げたてサクサクの天ぷらは食欲をそそります。</ZP_Tendon.description>
+  <ZP_Tendon.label>Tendon</ZP_Tendon.label>
+  <ZP_Tendon.description>A bowl of rice topped with tempura. The latter gives a crunchy texture that is immensely satisfying.</ZP_Tendon.description>
 
 
   <!-- add 1.1 -->

@@ -3,40 +3,40 @@
 
   <!-- 簡単な食事 トースト -->
 
-  <CookASUWhiteBread.label>食ぱん</CookASUWhiteBread.label>
-  <CookASUWhiteBread.description>穀物粉,水,水飴をこねて食ぱんを作る。</CookASUWhiteBread.description>
-  <CookASUWhiteBread.jobString>食ぱんを作成中。</CookASUWhiteBread.jobString>
+  <CookASUWhiteBread.label>Bake Shokupan</CookASUWhiteBread.label>
+  <CookASUWhiteBread.description>Bake some plain ol' white bread.</CookASUWhiteBread.description>
+  <CookASUWhiteBread.jobString>Baking bread.</CookASUWhiteBread.jobString>
 
-  <CookASUWhiteBread10.label>食ぱんx10</CookASUWhiteBread10.label>
-  <CookASUWhiteBread10.description>穀物粉,水,水飴をこねて食ぱんを作る。</CookASUWhiteBread10.description>
-  <CookASUWhiteBread10.jobString>食ぱんを作成中。</CookASUWhiteBread10.jobString>
+  <CookASUWhiteBread10.label>Bake Shokupan x10</CookASUWhiteBread10.label>
+  <CookASUWhiteBread10.description>Bake some plain ol' white bread.</CookASUWhiteBread10.description>
+  <CookASUWhiteBread10.jobString>Baking bread.</CookASUWhiteBread10.jobString>
 
 
   <!-- 簡単な食事 単品 -->
 
-  <CookASUButterWhiteBread.label>バタートーストx2</CookASUButterWhiteBread.label>
-  <CookASUButterWhiteBread.description>バタートーストを作る</CookASUButterWhiteBread.description>
-  <CookASUButterWhiteBread.jobString>バタートーストを作成中。</CookASUButterWhiteBread.jobString>
+  <CookASUButterWhiteBread.label>Make Batātōsuto x2</CookASUButterWhiteBread.label>
+  <CookASUButterWhiteBread.description>Toast some bread and spread on a "bit" of butter.</CookASUButterWhiteBread.description>
+  <CookASUButterWhiteBread.jobString>Toasting bread.</CookASUButterWhiteBread.jobString>
 
-  <CookASUJamWhiteBread.label>ジャムトーストx3</CookASUJamWhiteBread.label>
-  <CookASUJamWhiteBread.description>ジャムトーストを作る</CookASUJamWhiteBread.description>
-  <CookASUJamWhiteBread.jobString>ジャムトーストを作成中。</CookASUJamWhiteBread.jobString>
+  <CookASUJamWhiteBread.label>Make Jamutōsuto x3</CookASUJamWhiteBread.label>
+  <CookASUJamWhiteBread.description>Toast some bread and find a jam to lather on it.</CookASUJamWhiteBread.description>
+  <CookASUJamWhiteBread.jobString>Toasting bread.</CookASUJamWhiteBread.jobString>
 
-  <CookASUOguraWhiteBread.label>小倉トーストx3</CookASUOguraWhiteBread.label>
-  <CookASUOguraWhiteBread.description>小倉トーストを作る</CookASUOguraWhiteBread.description>
-  <CookASUOguraWhiteBread.jobString>小倉トーストを作成中。</CookASUOguraWhiteBread.jobString>
+  <CookASUOguraWhiteBread.label>Make Oguratōsuto x3</CookASUOguraWhiteBread.label>
+  <CookASUOguraWhiteBread.description>Toast some bread and top it with Ogura mochi and butter.</CookASUOguraWhiteBread.description>
+  <CookASUOguraWhiteBread.jobString>Toasting bread.</CookASUOguraWhiteBread.jobString>
 
-  <CookASUJBaconWhiteBread.label>ベーコントーストx3</CookASUJBaconWhiteBread.label>
-  <CookASUJBaconWhiteBread.description>ベーコントーストを作る</CookASUJBaconWhiteBread.description>
-  <CookASUJBaconWhiteBread.jobString>ベーコントーストを作成中。</CookASUJBaconWhiteBread.jobString>
+  <CookASUJBaconWhiteBread.label>Make Bēkontōsuto x3</CookASUJBaconWhiteBread.label>
+  <CookASUJBaconWhiteBread.description>Toast some bread and throw some bacon on it.</CookASUJBaconWhiteBread.description>
+  <CookASUJBaconWhiteBread.jobString>Toasting bread.</CookASUJBaconWhiteBread.jobString>
 
-  <CookASUFriedEggWhiteBread.label>目玉焼きトーストx3</CookASUFriedEggWhiteBread.label>
-  <CookASUFriedEggWhiteBread.description>目玉焼きトーストを作る</CookASUFriedEggWhiteBread.description>
-  <CookASUFriedEggWhiteBread.jobString>目玉焼きトーストを作成中。</CookASUFriedEggWhiteBread.jobString>
+  <CookASUFriedEggWhiteBread.label>Make Medamayakitōsuto x3</CookASUFriedEggWhiteBread.label>
+  <CookASUFriedEggWhiteBread.description>Toast some bread and then-very carefully-place a fried egg on it.</CookASUFriedEggWhiteBread.description>
+  <CookASUFriedEggWhiteBread.jobString>Toasting bread.</CookASUFriedEggWhiteBread.jobString>
 
-  <CookASUSandwich.label>サンドイッチx3</CookASUSandwich.label>
-  <CookASUSandwich.description>サンドイッチを作る</CookASUSandwich.description>
-  <CookASUSandwich.jobString>サンドイッチを作成中。</CookASUSandwich.jobString>
+  <CookASUSandwich.label>Make Sandoitchi x3</CookASUSandwich.label>
+  <CookASUSandwich.description>Take some bread and add vegetables to make a sandwich out of it.</CookASUSandwich.description>
+  <CookASUSandwich.jobString>Making a sandwich.</CookASUSandwich.jobString>
 
 
 </LanguageData>

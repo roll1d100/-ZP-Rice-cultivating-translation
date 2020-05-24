@@ -3,8 +3,8 @@
 
   <!-- MealLavish -->
 
-  <ZP_Ramen.label>ラーメン</ZP_Ramen.label>
-  <ZP_Ramen.description>穀物粉を練って長く伸ばした細い黄色い麺。中華スープに様々な具材を食みあわせた麺料理。</ZP_Ramen.description>
+  <ZP_Ramen.label>Ramen</ZP_Ramen.label>
+  <ZP_Ramen.description>A bowl of brown noodles. Ramen-perhaps the most iconic Japanese dish-is actually an adaptation of Chinese wheat noodles. The dish was first introduced to Japan via Chinese immigrants in the late 19th century. Prior to the 1950's, the Japanese called ramen "shina soba" (literally meaning, "Chinese soba); it wasn't until the 1950's, when certain post-war restrictions were lifted, that it came to be viewed as a Japanese dish.</ZP_Ramen.description>
 
 
 </LanguageData>

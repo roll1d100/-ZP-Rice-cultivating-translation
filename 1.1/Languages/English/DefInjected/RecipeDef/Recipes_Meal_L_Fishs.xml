@@ -3,9 +3,9 @@
 
   <!-- MealLavish -->
 
-  <CookWRSushi.label>握り寿司x4</CookWRSushi.label>
-  <CookWRSushi.description>握り寿司を4個作る</CookWRSushi.description>
-  <CookWRSushi.jobString>握り寿司を作成中。</CookWRSushi.jobString>
+  <CookWRSushi.label>Make Sushi x4</CookWRSushi.label>
+  <CookWRSushi.description>A dish commonly revered for its simplistic elegance.</CookWRSushi.description>
+  <CookWRSushi.jobString>Making Sushi.</CookWRSushi.jobString>
 
 
 </LanguageData>

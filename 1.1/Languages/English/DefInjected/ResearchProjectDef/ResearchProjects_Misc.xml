@@ -6,13 +6,13 @@
   <ReZPPrantRice.label>ZP:稲</ReZPPrantRice.label>
   <ReZPPrantRice.description>【栽培skill:3 栽培場所:地面,水田】\n稲作の始まり。\n稲を栽培することで主食の米が手に入る。収穫後の稲からは藁、籾殻、米糠がとれる。これらの副産物は動物の餌や工芸品、燃料などに利用できる有用な資源となる。</ReZPPrantRice.description>
 
-  <ReZPPrantUplandRice.label>ZP:陸稲</ReZPPrantUplandRice.label>
+  <ReZPPrantUplandRice.label>ZP:Upland rice</ReZPPrantUplandRice.label>
   <ReZPPrantUplandRice.description>【栽培skill:4 栽培場所:地面】\n畑で栽培できる稲。\n成長がはやく条件が悪くなければ約4日で育つ。</ReZPPrantUplandRice.description>
 
-  <ReZPPrantWetlandRice.label>ZP:水稲</ReZPPrantWetlandRice.label>
+  <ReZPPrantWetlandRice.label>ZP:Semiaquatic rice</ReZPPrantWetlandRice.label>
   <ReZPPrantWetlandRice.description>【栽培skill:6 栽培場所:水田】\n水田で栽培できる稲。\n成長は従来の稲より遅いが、収穫量が多いため安定した栽培ができれば食料に困らなくなる。</ReZPPrantWetlandRice.description>
 
-  <ReGlutinousRice.label>ZP:もち米</ReGlutinousRice.label>
+  <ReGlutinousRice.label>ZP:Glutinous rice</ReGlutinousRice.label>
   <ReGlutinousRice.description>【栽培skill：4 栽培場所:地面,水田】\n畑と水田で栽培できる稲。\nもちもちとした食感のお米を栽培できる。杵臼で凍り餅に加工することで長期保存も可能になる。</ReGlutinousRice.description>
 
   <ReZPSoilImprovement.label>ZP:土壌改良</ReZPSoilImprovement.label>
@@ -36,7 +36,7 @@
 
   <!-- その他 -->
 
-  <ReZPScarecrow.label>ZP:豊穣のかかし</ReZPScarecrow.label>
+  <ReZPScarecrow.label>ZP:Scarecrow of Fertility</ReZPScarecrow.label>
   <ReZPScarecrow.description>【肥沃度:30%up,範囲:9×9,効果:重複】\nかかしに豊穣の神を宿らせる方法を学ぶ。\n効果を持続させるにはお供え物が必要になる。\n燃料:おにぎり類,酒類,餅類,煎餅,おこし\n注意:水田と水耕栽培機,大型植木鉢は恩恵を受けれません。</ReZPScarecrow.description>
 
 
@@ -75,13 +75,13 @@
 
   <!-- 調味料 -->
 
-  <ReZPSeasoning.label>ZP:調味料</ReZPSeasoning.label>
+  <ReZPSeasoning.label>ZP:Seasoning</ReZPSeasoning.label>
   <ReZPSeasoning.description>食生活を豊かにしてくれる調味料(天然塩,米飴,香辛料,酢,味噌,醤油,出汁)の作り方を学ぶ。</ReZPSeasoning.description>
 
-  <ReZPPreservedFood.label>ZP:加工食品</ReZPPreservedFood.label>
+  <ReZPPreservedFood.label>ZP:Preserved meals</ReZPPreservedFood.label>
   <ReZPPreservedFood.description>食べ物を長期保存するための加工技術を学ぶ。</ReZPPreservedFood.description>
 
-  <ReZPLuxury.label>ZP:嗜好品</ReZPLuxury.label>
+  <ReZPLuxury.label>ZP:Luxury Cuisine</ReZPLuxury.label>
   <ReZPLuxury.description>嗜好品の作り方を学ぶ。</ReZPLuxury.description>
 
 
@@ -96,7 +96,7 @@
 
   <!-- 家具 -->
 
-  <ReZPFurniture.label>ZP:和風家具</ReZPFurniture.label>
+  <ReZPFurniture.label>ZP:Japanese style furniture</ReZPFurniture.label>
   <ReZPFurniture.description>住環境をよくする和風家具の建て方を学ぶ。</ReZPFurniture.description>
 
 

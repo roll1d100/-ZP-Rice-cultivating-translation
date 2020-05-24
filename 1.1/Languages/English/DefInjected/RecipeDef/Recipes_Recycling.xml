@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPRecycleApparel.label>服装のリサイクル</ZPRecycleApparel.label>
-  <ZPRecycleApparel.description>限られた資源を有効に活用するためにリサイクルする。</ZPRecycleApparel.description>
-  <ZPRecycleApparel.jobString>リサイクル中</ZPRecycleApparel.jobString>
+  <ZPRecycleApparel.label>Recycle apparel</ZPRecycleApparel.label>
+  <ZPRecycleApparel.description>Recycle unwanted apparel to make effective use of limited resources.</ZPRecycleApparel.description>
+  <ZPRecycleApparel.jobString>Recycling.</ZPRecycleApparel.jobString>
 
-  <BurnZipangu.label>副産物を焼却する</BurnZipangu.label>
-  <BurnZipangu.description>副産物を焼却する。</BurnZipangu.description>
-  <BurnZipangu.jobString>副産物を焼却する。</BurnZipangu.jobString>
+  <BurnZipangu.label>Incenerate by-products</BurnZipangu.label>
+  <BurnZipangu.description>Maintain a clean colony by burning away unnecessary materials.</BurnZipangu.description>
+  <BurnZipangu.jobString>Incenerating by-products.</BurnZipangu.jobString>
 
-  <BurnZipangu2nd.label>副産物を大量焼却する。</BurnZipangu2nd.label>
-  <BurnZipangu2nd.description>副産物を大量焼却する。</BurnZipangu2nd.description>
-  <BurnZipangu2nd.jobString>副産物を大量焼却する。</BurnZipangu2nd.jobString>
+  <BurnZipangu2nd.label>Incenerate by-products (bulk)</BurnZipangu2nd.label>
+  <BurnZipangu2nd.description>Maintain a clean colony by burning away unnecessary materials.</BurnZipangu2nd.description>
+  <BurnZipangu2nd.jobString>Incenerating by-products.</BurnZipangu2nd.jobString>
 
 
 </LanguageData>

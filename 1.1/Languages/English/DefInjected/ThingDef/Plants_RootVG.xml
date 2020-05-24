@@ -4,10 +4,10 @@
   <!-- 根菜類 -->
 
   <ZP_PrantJapaneseRadish.label>Daikon</ZP_PrantJapaneseRadish.label>
-  <ZP_PrantJapaneseRadish.description>ダイコン。生育期間が短くたくさん収穫できるが大きいので保存場所に困る。</ZP_PrantJapaneseRadish.description>
+  <ZP_PrantJapaneseRadish.description>This Japanese radish is defined by its white, carrot-like shape, big green leaves, and short growing period. Daikon are somewhat large, which makes storing them far more difficult than rice or wheat.</ZP_PrantJapaneseRadish.description>
 
   <ZP_PrantTaro.label>Taro</ZP_PrantTaro.label>
-  <ZP_PrantTaro.description>サトイモ。生育期間は長いが収穫量も多い。煮物や汁物などの料理に使える。</ZP_PrantTaro.description>
+  <ZP_PrantTaro.description>This potato-like plant has a long growing period and high yield. On the Rim, it is often used as a substitute for Konnyaku.</ZP_PrantTaro.description>
 
 
   <!-- add 1.1 -->

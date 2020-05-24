@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Brazier.label>火鉢</ZP_Brazier.label>
+  <ZP_Brazier.label>Brazier</ZP_Brazier.label>
   <ZP_Brazier.description>【燃料:薪,藁,モミガライト,炭 最高気温:28℃ 容量:120】\n日本の伝統的な暖房器具。火鉢を囲んでみんなで団欒できる。</ZP_Brazier.description>
-  <ZP_Brazier_Blueprint.label>火鉢 (blueprint)</ZP_Brazier_Blueprint.label>
-  <ZP_Brazier_Frame.label>火鉢 (building)</ZP_Brazier_Frame.label>
+  <ZP_Brazier_Blueprint.label>Brazier (blueprint)</ZP_Brazier_Blueprint.label>
+  <ZP_Brazier_Frame.label>Brazier (building)</ZP_Brazier_Frame.label>
   <ZP_Brazier_Frame.description>【燃料:薪,藁,モミガライト,炭 最高気温:28℃ 容量:120】\n日本の伝統的な暖房器具。火鉢を囲んでみんなで団欒できる。</ZP_Brazier_Frame.description>
 
-  <ZP_Kotatu.label>炬燵</ZP_Kotatu.label>
-  <ZP_Kotatu.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu.description>
+  <ZP_Kotatu.label>Kotatsu</ZP_Kotatu.label>
+  <ZP_Kotatu.description>The Kotatsu is a table with an electric heater underneath and a heavy blanket on top to trap the warmth. The table, like the Chabudai, is low to the floor, meaning that colonists must sit on the floor-or tatami/zabuton-to get their legs under the table.</ZP_Kotatu.description>
 
 
 </LanguageData>

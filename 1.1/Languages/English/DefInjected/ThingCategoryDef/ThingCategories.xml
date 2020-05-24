@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Seasoning.label>調味料</ZP_Seasoning.label>
-  <ZP_Grain.label>米類</ZP_Grain.label>
+  <ZP_Seasoning.label>Seasoning</ZP_Seasoning.label>
+  <ZP_Grain.label>Grain</ZP_Grain.label>
 
 
   <!-- add 1.1 -->
@@ -14,20 +14,20 @@
   <FruitFoodRaw.label>果物</FruitFoodRaw.label>
   <PlantProcessedFood.label>野菜加工食品</PlantProcessedFood.label>
   <MeetProcessedFood.label>肉加工食品</MeetProcessedFood.label>
-  <ZP_Other.label>その他</ZP_Other.label>
-  <AnimalFeed.label>動物飼料</AnimalFeed.label>
-  <ZP_FoodMeals.label>日本食</ZP_FoodMeals.label>
+  <ZP_Other.label>Other</ZP_Other.label>
+  <AnimalFeed.label>Animal feed</AnimalFeed.label>
+  <ZP_FoodMeals.label>Japanese food</ZP_FoodMeals.label>
   <ZP_SurvivalMeals.label>非常用食品</ZP_SurvivalMeals.label>
-  <ZP_SimpleMeals.label>簡単な食事</ZP_SimpleMeals.label>
-  <ZP_FineMeals.label>手のこんだ食事</ZP_FineMeals.label>
-  <ZP_LavishMeals.label>豪華な食事</ZP_LavishMeals.label>
-  <ZPLuxury.label>嗜好品</ZPLuxury.label>
+  <ZP_SimpleMeals.label>Simple meals</ZP_SimpleMeals.label>
+  <ZP_FineMeals.label>Fine meals</ZP_FineMeals.label>
+  <ZP_LavishMeals.label>Lavish meals</ZP_LavishMeals.label>
+  <ZPLuxury.label>Luxury</ZPLuxury.label>
   <ZPSweetLuxury.label>甘味</ZPSweetLuxury.label>
   <ZPSaltyLuxury.label>塩味</ZPSaltyLuxury.label>
   <ZPDrink.label>飲料</ZPDrink.label>
-  <Zipangu.label>ジパング</Zipangu.label>
+  <Zipangu.label>Zipangu</Zipangu.label>
   <ZP_Byproduct.label>副産物</ZP_Byproduct.label>
-  <Tawara.label>俵</Tawara.label>
+  <Tawara.label>Straw rice bag</Tawara.label>
   <ZP_ProcessedGoods.label>加工品</ZP_ProcessedGoods.label>
   <ZP_Pre-fermentedFood.label>醸造・発酵前食品</ZP_Pre-fermentedFood.label>
 

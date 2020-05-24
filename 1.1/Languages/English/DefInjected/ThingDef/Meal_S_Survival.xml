@@ -3,14 +3,14 @@
 
   <!-- MealSimple -->
 
-  <ZP_aRice.label>アルファ米</ZP_aRice.label>
-  <ZP_aRice.description>【特産品】非常用食品。いつでもお米が食べられるように乾燥させたもの。食べる時は水かお湯で戻せば美味しいご飯ができる。</ZP_aRice.description>
+  <ZP_aRice.label>Alpha Rice</ZP_aRice.label>
+  <ZP_aRice.description>【特産品】Emergency food. By drying out the rice, this meal deteriorates much slower than "proper" dishes. Preparing rice in almost any other way will bring out its delicious quality.</ZP_aRice.description>
 
-  <ZP_Hardtack.label>乾パン</ZP_Hardtack.label>
-  <ZP_Hardtack.description>【特産品】非常用食品。長期保存のために固く焼き上げたビスケットの一種。</ZP_Hardtack.description>
+  <ZP_Hardtack.label>Hardtack</ZP_Hardtack.label>
+  <ZP_Hardtack.description>【特産品】Emergency food. A type of biscuit that's baked for long term preservation. The word "tack" was used by British sailors as slang for "food." Historically, hardtack has been used as a stand in for perishable foods, such as during ocean voyages and military campaigns.</ZP_Hardtack.description>
 
-  <ZP_Timaki.label>ちまき</ZP_Timaki.label>
-  <ZP_Timaki.description>【特産品】非常用食品。もち米を植物の葉に包み蒸したもの。事前に灰汁でもち米を煮込む事で保存性を高めてる。</ZP_Timaki.description>
+  <ZP_Timaki.label>Chimaki</ZP_Timaki.label>
+  <ZP_Timaki.description>【特産品】Emergency food. Glutinous rice wrapped in plant leaves. Preservation is increased by simmering the rice in lye beforehand.</ZP_Timaki.description>
 
 
 </LanguageData>

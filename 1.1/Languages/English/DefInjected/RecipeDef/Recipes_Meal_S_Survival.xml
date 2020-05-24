@@ -3,17 +3,17 @@
 
   <!-- 非常食品 -->
 
-  <CookMealSurvival_1st.label>アルファ米x4</CookMealSurvival_1st.label>
-  <CookMealSurvival_1st.description>アルファ米を4個作る</CookMealSurvival_1st.description>
-  <CookMealSurvival_1st.jobString>アルファ米を作成中。</CookMealSurvival_1st.jobString>
+  <CookMealSurvival_1st.label>Cook Alpha Rice x4</CookMealSurvival_1st.label>
+  <CookMealSurvival_1st.description>Make several emergency meals.</CookMealSurvival_1st.description>
+  <CookMealSurvival_1st.jobString>Cooking Alpha Rice.</CookMealSurvival_1st.jobString>
 
-  <CookMealSurvival_2nd.label>乾パンx4</CookMealSurvival_2nd.label>
-  <CookMealSurvival_2nd.description>乾パンを4個作る</CookMealSurvival_2nd.description>
-  <CookMealSurvival_2nd.jobString>乾パンを作成中。</CookMealSurvival_2nd.jobString>
+  <CookMealSurvival_2nd.label>Cook Hardtack x4</CookMealSurvival_2nd.label>
+  <CookMealSurvival_2nd.description>Create a simple and inexpensive kind of cracker/biscuit.</CookMealSurvival_2nd.description>
+  <CookMealSurvival_2nd.jobString>Cooking Hardtack.</CookMealSurvival_2nd.jobString>
 
-  <CookMealSurvival_3rd.label>ちまきx4</CookMealSurvival_3rd.label>
-  <CookMealSurvival_3rd.description>ちまきを4個作る</CookMealSurvival_3rd.description>
-  <CookMealSurvival_3rd.jobString>ちまきを作成中。</CookMealSurvival_3rd.jobString>
+  <CookMealSurvival_3rd.label>Cook Chimaki x4</CookMealSurvival_3rd.label>
+  <CookMealSurvival_3rd.description>Increase the shelf life of glutinous rice by simmering it, and then wrap it in straw.</CookMealSurvival_3rd.description>
+  <CookMealSurvival_3rd.jobString>Cooking Chimaki.</CookMealSurvival_3rd.jobString>
 
 
 </LanguageData>

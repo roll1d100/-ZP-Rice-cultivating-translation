@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_ThreshingMachine.label>足踏式脱穀機</ZP_ThreshingMachine.label>
-  <ZP_ThreshingMachine.description>【役割：脱穀】\n稲穂を脱穀して米(籾)を生産する農具。人力でやるため効率は悪い。</ZP_ThreshingMachine.description>
-  <ZP_ThreshingMachine_Blueprint.label>足踏式脱穀機 (blueprint)</ZP_ThreshingMachine_Blueprint.label>
-  <ZP_ThreshingMachine_Blueprint_Install.label>足踏式脱穀機 (blueprint)</ZP_ThreshingMachine_Blueprint_Install.label>
-  <ZP_ThreshingMachine_Frame.label>足踏式脱穀機 (building)</ZP_ThreshingMachine_Frame.label>
-  <ZP_ThreshingMachine_Frame.description>【役割：脱穀】\n稲穂を脱穀して米(籾)を生産する農具。人力でやるため効率は悪い。</ZP_ThreshingMachine_Frame.description>
+  <ZP_ThreshingMachine.label>Threshing machine</ZP_ThreshingMachine.label>
+  <ZP_ThreshingMachine.description>(Role: Threshing)\nA machine that converts Inaho into Momi.\nOutput suffers due to the machine's manual labor requirements.</ZP_ThreshingMachine.description>
+  <ZP_ThreshingMachine_Blueprint.label>Threshing machine (blueprint)</ZP_ThreshingMachine_Blueprint.label>
+  <ZP_ThreshingMachine_Blueprint_Install.label>Threshing machine (blueprint)</ZP_ThreshingMachine_Blueprint_Install.label>
+  <ZP_ThreshingMachine_Frame.label>Threshing machine (building)</ZP_ThreshingMachine_Frame.label>
+  <ZP_ThreshingMachine_Frame.description>(Role: Threshing)\nA machine that converts Inaho into Momi.\nOutput suffers due to the machine's manual labor requirements.</ZP_ThreshingMachine_Frame.description>
 
-  <ZP_RiceStoneSlurry.label>籾摺り臼</ZP_RiceStoneSlurry.label>
-  <ZP_RiceStoneSlurry.description>【役割：籾摺り・精米】\n脱稃精米するための臼。人力でやるため効率は悪い。</ZP_RiceStoneSlurry.description>
-  <ZP_RiceStoneSlurry_Blueprint.label>籾摺り臼 (blueprint)</ZP_RiceStoneSlurry_Blueprint.label>
-  <ZP_RiceStoneSlurry_Blueprint_Install.label>籾摺り臼 (blueprint)</ZP_RiceStoneSlurry_Blueprint_Install.label>
-  <ZP_RiceStoneSlurry_Frame.label>籾摺り臼 (building)</ZP_RiceStoneSlurry_Frame.label>
-  <ZP_RiceStoneSlurry_Frame.description>【役割：籾摺り・精米】\n脱稃精米するための臼。人力でやるため効率は悪い。</ZP_RiceStoneSlurry_Frame.description>
+  <ZP_RiceStoneSlurry.label>Rice stone slurry</ZP_RiceStoneSlurry.label>
+  <ZP_RiceStoneSlurry.description>(Role: Separating)\nA tool that converts Momi into Brown rice\nOutput suffers due to the machine's manual labor requirements.</ZP_RiceStoneSlurry.description>
+  <ZP_RiceStoneSlurry_Blueprint.label>Rice stone slurry (blueprint)</ZP_RiceStoneSlurry_Blueprint.label>
+  <ZP_RiceStoneSlurry_Blueprint_Install.label>Rice stone slurry (blueprint)</ZP_RiceStoneSlurry_Blueprint_Install.label>
+  <ZP_RiceStoneSlurry_Frame.label>Rice stone slurry (building)</ZP_RiceStoneSlurry_Frame.label>
+  <ZP_RiceStoneSlurry_Frame.description>(Role: Separating)\nA tool that converts Momi into Brown rice\nOutput suffers due to the machine's manual labor requirements.</ZP_RiceStoneSlurry_Frame.description>
 
 
   <!-- add 1.1 -->

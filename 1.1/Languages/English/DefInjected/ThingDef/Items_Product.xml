@@ -3,17 +3,17 @@
 
   <!-- 燃料 -->
 
-  <Momigalite.label>モミガライト</Momigalite.label>
-  <Momigalite.description>籾殻を燃料用に加工したもの。</Momigalite.description>
+  <Momigalite.label>Momigalite</Momigalite.label>
+  <Momigalite.description>Rice Husks that have been compressed into briquettes for fuel. Briquette is a broad term that describes a compressed block of combustible biomass. Their primary use is to help start a fire.</Momigalite.description>
 
-  <TatamiStraw.label>製作用藁</TatamiStraw.label>
-  <TatamiStraw.description>藁を各種製作用に加工したもの。</TatamiStraw.description>
+  <TatamiStraw.label>Crafting straw</TatamiStraw.label>
+  <TatamiStraw.description>A bundle of straw set aside for crafting certain clothes, objects, and buildings.</TatamiStraw.description>
 
-  <TatamiHG.label>半畳</TatamiHG.label>
-  <TatamiHG.description>１マス分の大きさの畳。敷き方にこだわりたい人用。</TatamiHG.description>
+  <TatamiG.label>Tatami (1quire)</TatamiG.label>
+  <TatamiG.description>An unfinished Tatami mat.</TatamiG.description>
 
-  <TatamiG.label>畳</TatamiG.label>
-  <TatamiG.description>２マス分の大きさの畳。敷き方にこだわりたい人用。</TatamiG.description>
+  <TatamiHG.label>Tatami (0.5quire)</TatamiHG.label>
+  <TatamiHG.description>An unfinished 0.5quire Tatami mat.</TatamiHG.description>
 
 
 </LanguageData>

@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Inaho.label>Rice Plant(Harvested)</Inaho.label>
-  <Inaho.description>Rice planted harvested, with its fruit(Paddy) still attached to the stalk. Threshing and milling or polishing is needed to get ediable rice.\nCan be turned into White rice in five steps:\n1. Threshing. Threshing converts the Rice Plant into Paddy and straw.\n 2. Separating. Colonists can split the Paddy into Brown rice and Rice Husk.\n 3. Polishing. By polishing Brown rice, colonists can get White rice and rice bran.\n 4. Cooking. Colonists can decide how to include White rice in their meals.\n 5. Eating. Through tasting the bounty of their work, colonists will appreciate the flavor immensely.</Inaho.description>
+  <Inaho.label>Inaho</Inaho.label>
+  <Inaho.description>Can be turned into White rice in five steps:\n1. Threshing. Threshing converts the Inaho into Momi and straw.\n 2. Separating. Colonists can split the Momi into Brown rice and Rice Husk.\n 3. Polishing. By polishing Brown rice, colonists can get White rice and rice bran.\n 4. Cooking. Colonists can decide how to include White rice in their meals.\n 5. Eating. Through tasting the bounty of their work, colonists will appreciate the flavor immensely.</Inaho.description>
 
-  <Inaho_Mochi.label>Rice Plant (GR)</Inaho_Mochi.label>
-  <Inaho_Mochi.description>Can be turned into Glutinous rice in four steps:\n1. Threshing. Threshing converts the Rice Plant (GR) into Paddy (GR) and straw.\n 2. Separating. Colonists can split the Paddy (GR) into Glutinous rice and Rice Husk \n 3.Cooking. Colonists can decide how to include Glutinous rice in their meals.4. Through tasting the bounty of their work, colonists will appreciate the flavor immensely.</Inaho_Mochi.description>
+  <Inaho_Mochi.label>Inaho (GR)</Inaho_Mochi.label>
+  <Inaho_Mochi.description>Can be turned into Glutinous rice in four steps:\n1. Threshing. Threshing converts the Inaho (GR) into Momi (GR) and straw.\n 2. Separating. Colonists can split the Momi (GR) into Glutinous rice and Rice Husk \n 3.Cooking. Colonists can decide how to include Glutinous rice in their meals.4. Through tasting the bounty of their work, colonists will appreciate the flavor immensely.</Inaho_Mochi.description>
 
-  <RiceMomi.label>Paddy</RiceMomi.label>
-  <RiceMomi.description>Rice still in its shell. Cannot be eaten.\nBy Milling or polishing, colonists can get Brown rice.</RiceMomi.description>
+  <RiceMomi.label>Momi</RiceMomi.label>
+  <RiceMomi.description>Rice still in its shell. Cannot be eaten.\nBy threshing, colonists can get Brown rice and straw.</RiceMomi.description>
 
-  <RiceMomi_Mochi.label>Paddy (GR)</RiceMomi_Mochi.label>
-  <RiceMomi_Mochi.description>Rice still in its shell. Cannot be eaten.\nBy milling or polishing , colonists can get Glutinous rice .</RiceMomi_Mochi.description>
+  <RiceMomi_Mochi.label>Momi (GR)</RiceMomi_Mochi.label>
+  <RiceMomi_Mochi.description>Rice still in its shell. Cannot be eaten.\nBy threshing, colonists can get Glutinous rice and straw.</RiceMomi_Mochi.description>
 
 
   <Straw.label>Straw</Straw.label>
@@ -25,9 +25,5 @@
 
   <RiceByproduct.label>By-products bag</RiceByproduct.label>
   <RiceByproduct.description>A bag full of by-products of rice. It can be processed into compost and animal feed.\nThis eases the colony's storage; moreover, colonists can choose to unpack both Rice Husk and rice bran from a bag, or extract one and dispose of the other.</RiceByproduct.description>
-
-
-  <!--<WhiteRice.label>White rice</WhiteRice.label>-->
-  <!--<WhiteRice.description>Rice that has been thoroughly threshed and polished.\nNutrients are lost in the process of polishing, but the taste improves 100 fold!\n(Ultra Fine Print Disclaimer: Taste may not literally improve 100 fold. Taste is subjective to every individual, thus our promise should not be taken as a guarantee.)</WhiteRice.description>-->
 
 </LanguageData>

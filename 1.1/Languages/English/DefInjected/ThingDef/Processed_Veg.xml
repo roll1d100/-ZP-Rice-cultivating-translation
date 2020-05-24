@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_FreezeMochi.label>凍り餅</ZP_FreezeMochi.label>
-  <ZP_FreezeMochi.description>餅を水に浸して凍らせたものを寒風に晒して乾燥させた保存食。\n心情を害することなく生で食べれて、調理にも使える。</ZP_FreezeMochi.description>
+  <ZP_FreezeMochi.label>Freezer Mochi</ZP_FreezeMochi.label>
+  <ZP_FreezeMochi.description>Heavily seasoned meat that has lost its natural "aroma." You can eat it raw or use it in a recipe.</ZP_FreezeMochi.description>
 
-  <ZP_RiceBranPickled.label>ぬか漬け</ZP_RiceBranPickled.label>
-  <ZP_RiceBranPickled.description>野菜をぬかにつけ漬物にした保存食。\n心情を害することなく生で食べれて、調理にも使える。</ZP_RiceBranPickled.description>
+  <ZP_RiceBranPickled.label>Nukaduke</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>Vegetables that were pickled in Nuka.\n"You can eat it raw or use it in a recipe.</ZP_RiceBranPickled.description>
 
-  <ZP_FermentedSoybeans.label>納豆</ZP_FermentedSoybeans.label>
-  <ZP_FermentedSoybeans.description>大豆を納豆菌で発酵させた日本の発酵食品。\n生で食べれて、調理にも使える。</ZP_FermentedSoybeans.description>
+  <ZP_FermentedSoybeans.label>Natto</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>Soybeans that have been wrapped in straw and allowed to ferment. It is generally viewed as an acquired taste due to its distinct odor, slimy texture, and powerful flavor. Among its fans, Natto is eaten as a breakfast food.\nYou can eat it raw or use it in a recipe.</ZP_FermentedSoybeans.description>
 
-  <ZP_Tanpo.label>たんぽ</ZP_Tanpo.label>
-  <ZP_Tanpo.description>つぶしたお米を棒に巻きつけて焼いたもの。棒から外して切ったものを「きりたんぽ」という。\n心情を害することなく生で食べれて、調理にも使える。</ZP_Tanpo.description>
+  <ZP_Tanpo.label>Tanpo</ZP_Tanpo.label>
+  <ZP_Tanpo.description>Crushed rice that was wrapped onto a stick and baked. Tanpo can be used to make Kiritanpo.\nYou can eat it raw or use it in a recipe.</ZP_Tanpo.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Konnyaku.label>こんにゃく</ZP_Konnyaku.label>
-  <ZP_Konnyaku.description>里芋から作った加工食品。\n生でも食べれて、調理にも使える。</ZP_Konnyaku.description>
+  <ZP_Konnyaku.label>Konnyaku</ZP_Konnyaku.label>
+  <ZP_Konnyaku.description>In Japan, Konnyaku, or "konjac," is a grey semi-firm gelatin. Konjac is not made from taro, but is rather a separate plant altogether. Both Konnyaku and taro are corms, which describes any edible bulbo-tuber. You can eat it raw or use it in a recipe.</ZP_Konnyaku.description>
 
 
 </LanguageData>

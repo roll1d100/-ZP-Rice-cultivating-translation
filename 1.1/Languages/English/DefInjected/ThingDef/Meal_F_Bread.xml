@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ASU_CroquetteBread.label>CroquetteBread</ASU_CroquetteBread.label>
-  <ASU_CroquetteBread.description>【特産品】日本で開発された惣菜パン。発祥は諸説あるがチョウシ屋が初めて売りに出したとされる。関東大震災後の食料不足の中で安くて美味しいと評判になり大衆の味として浸透した。</ASU_CroquetteBread.description>
+  <ASU_CroquetteBread.label>Croquette Bread</ASU_CroquetteBread.label>
+  <ASU_CroquetteBread.description>[Local Product] Korokke derives its name from the French, "croquette;" "pan," in this case, is meant to between the Korokke dish and the croquette-style bread.\nThe origin of Korokkepan is a matter of debate; however, it is generally recognized that the bread became popular in the aftermath of the Great Kanto Earthquake, as it was cheap and delicious.</ASU_CroquetteBread.description>
 
   <ASU_FriedNoodleSandwich.label>Yakisoba Bread</ASU_FriedNoodleSandwich.label>
-  <ASU_FriedNoodleSandwich.description>【特産品】日本で開発された惣菜パン。起源は諸説あるが野澤屋が元祖であるという説が有力。お客さまからのリクエストでコッペぱんにに焼きそばをはさんで販売したところ爆発的にヒットした。</ASU_FriedNoodleSandwich.description>
+  <ASU_FriedNoodleSandwich.description>[Local Product] A simple, inexpensive sandwhich made out of Koppepan and Yakisoba. Yakisoba, or "fried buckwheat," is actually made from wheat flour; the fried noodles are then placed in Koppepan, negating the need dishes or proper dining tables. Its low cost and portability make it a great choice for high school students, which is often reflected in TV dramas, manga, and anime.\nThe sandwhich itself is thought to originate in Minami-Senju (Tokyo), from a shop called "Nozawaya" that closed in 2010. They began selling Yakisobapan in the 1950's, as Koppepan made it easier to eat Yakisoba quickly.</ASU_FriedNoodleSandwich.description>
 
-  <ASU_SweetBeanPasteBun.label>SweetBeanPaste Bun</ASU_SweetBeanPasteBun.label>
-  <ASU_SweetBeanPasteBun.description>【特産品】日本の3大菓子ぱんの１つ。酒饅頭をヒントに木村屋の創業者・木村安兵衛が日本人に受け入れられるパンの研究を開発したのが元祖である。文明開化をイメージさせる、西洋のパンと日本の小豆餡・酒種酵母による和洋折衷のパン。</ASU_SweetBeanPasteBun.description>
+  <ASU_SweetBeanPasteBun.label>Anpan</ASU_SweetBeanPasteBun.label>
+  <ASU_SweetBeanPasteBun.description>[Specialty Product] As one of the three most popular snacks in Japan, the red bean paste filled sweet roll, Anpan, had a meteoric rise to popularity. Dating back to 1874, Anpan was created by a former samurai named Yasubei Kimura. The Meiji period saw the dissolution of samurai as a social class, replacing them with the Imperial Army; moreover, westernization was the latest craze, and affected such things as food and jobs. Yasubei was forced to become a baker and founded the Kimuraya bakery. At the time, the only known recipe for bread in Japan made a salty, sour-tasting bread, which didn't match Japanese tastes. The samurai turned baker, however, was still intent on making a sweet tasting bread; and, after about a year of research, he recognized the technique used in making Manju. Through the use of sakadane liquid yeast, Yasubei was able to make a sweet tasting roll. He began to fill these rolls with red bean paste, and sold them as snacks. The snack became so popular that by April of 1875-a mere few months after inventing the snack-Yasubei was asked to present Anpan to the Emperor of Japan.</ASU_SweetBeanPasteBun.description>
 
   <ASU_CreamBun.label>Cream Bread</ASU_CreamBun.label>
-  <ASU_CreamBun.description>【特産品】日本の3大菓子ぱんの１つ。シュークリームの美味しさに感銘を受けた中村屋の創業者・相馬愛蔵が製造と販売を始めたのが元祖である。当時は丸い形をしていたが発酵の段階で中に空洞ができしまうので、空気抜きの切れ目をいれたのが現在のグローブ型になる。</ASU_CreamBun.description>
+  <ASU_CreamBun.description>[Specialty Product] This custard filled sweet bun is one of the three most popular snacks in Japan. The snack was invented in 1904, when Aiko Aoma was so impressed with the taste of cream puffs that he wanted to make a bread-based treat out of it. Kurīmupan quickly gained popularity as a highly nutritious snack.</ASU_CreamBun.description>
 
-  <ASU_ChocolateCorne.label>ChocolateCorne</ASU_ChocolateCorne.label>
-  <ASU_ChocolateCorne.description>【特産品】日本で開発された菓子ぱん。語源は諸説あるが楽器の角笛（ホルン）と同じく、イタリア語で「corno(角笛)」に由来する。発売当初は「チョコスネール」と呼ばれていた。</ASU_ChocolateCorne.description>
+  <ASU_ChocolateCorne.label>Chococorone</ASU_ChocolateCorne.label>
+  <ASU_ChocolateCorne.description>[Specialty Product] Also known as Chocolate Cornet, Choco-Corone is a cone of bread that has been baked with a cavity in the middle; after baking, chocolate is stuffed into the bread, this allows the chocolate to retain more of its original texture and moisture. The shape and name of the treat are derived from the Italian word, "corno," which means "horn." Originally, however, the dish was called Chokosunēru (chocholate snail).</ASU_ChocolateCorne.description>
 
-  <ASU_Melonpan.label>Melon Bread</ASU_Melonpan.label>
-  <ASU_Melonpan.description>【特産品】日本で開発された菓子ぱん。起源は日本から海外まで様々な諸説あり。日本で定番の円形のメロンパンは神戸の「金生堂」が元祖である。当時はメロンぱんではなく「サンライズ」と呼ばれ、日の出の形を真似て軍艦旗の放射状の線を付けていた。</ASU_Melonpan.description>
+  <ASU_Melonpan.label>Melonpan</ASU_Melonpan.label>
+  <ASU_Melonpan.description>[Specialty Product] A rather unique confection that was developed in Japan, and does not-in fact-always taste like melon; instead, Melonpan earns such a name due to its round shape and lined texture, which resembles that of a melon. The dry, crusty appearance comes not from the bread itself, but rather an outer layer of cookie dough. Bakers sometimes include chocolate chips in the cookie dough, flavoring in the bread (such as melon), or fillings inside the bread, such as maple syrup, custard, or caramel.\nMelonpan is also colloquially known as "Sunrise" in Japan. This again relates to the bread's outer layer, which is meant to mimic the radial line pattern of warship flags that depicted the sunrise. The "Sunrise" design of Melonpan was invented in Kobe, Japan during the 1930's; however, the bread was around since roughly the 1910's, but was made in a almond-like shape.</ASU_Melonpan.description>
 
   <ASU_CurryBun.label>Curry Bread</ASU_CurryBun.label>
-  <ASU_CurryBun.description>【特産品】日本で開発された惣菜ぱん。起源は諸説あるが名花堂の2代目・中田豊治が具の入ったパンをカツレツの様に揚げること思いつき洋食ぱんとして誕生したのがカレーぱんのご先祖様。</ASU_CurryBun.description>
+  <ASU_CurryBun.description>[Specialty Product] Bread made by wrapping Japanese curry in dough, coating the dough in bread crumbs, and deep frying (or baking) the dough. Invented in Koto Ward, Tokyo during the 1920's, Curry bread, as it is also known, may be based off of a Western dish that called for fried bread filled with cutlets. That said, however, there are multiple theories concerning the origin of Karēpan.</ASU_CurryBun.description>
 
 
 </LanguageData>

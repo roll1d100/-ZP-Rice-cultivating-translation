@@ -3,21 +3,21 @@
 
   <!-- MealLavish -->
 
-  <CookBRJubako4.label>玄米 重箱x4</CookBRJubako4.label>
+  <CookBRJubako4.label>Prepare Brown Rice Jubakox4</CookBRJubako4.label>
   <CookBRJubako4.description>玄米,野菜(果菜,葉茎菜,豆菌),野菜(根菜,野菜加工,果物),肉の加工品,調味料をバランスよく調理することで豪華な弁当を作る。</CookBRJubako4.description>
-  <CookBRJubako4.jobString>重箱を作成中。</CookBRJubako4.jobString>
+  <CookBRJubako4.jobString>Cooking meals for the Jubako.</CookBRJubako4.jobString>
 
-  <CookWRJubako4.label>重箱x4</CookWRJubako4.label>
+  <CookWRJubako4.label>Prepare White Rice Jubako x4</CookWRJubako4.label>
   <CookWRJubako4.description>白米,野菜(果菜,葉茎菜,豆菌),野菜(根菜,野菜加工,果物),肉の加工品,調味料をバランスよく調理することで豪華な弁当を作る。</CookWRJubako4.description>
-  <CookWRJubako4.jobString>重箱を作成中。</CookWRJubako4.jobString>
+  <CookWRJubako4.jobString>Cooking meals for the Jubako.</CookWRJubako4.jobString>
 
-  <CookWRJPCurryRice8.label>カレーライスx4</CookWRJPCurryRice8.label>
+  <CookWRJPCurryRice8.label>Cook Japanese Curry x4</CookWRJPCurryRice8.label>
   <CookWRJPCurryRice8.description>味付け肉のかわりにペミカンを使用できます。</CookWRJPCurryRice8.description>
-  <CookWRJPCurryRice8.jobString>カレーライスを作成中。。</CookWRJPCurryRice8.jobString>
+  <CookWRJPCurryRice8.jobString>Cooking Japanese Curry.</CookWRJPCurryRice8.jobString>
 
-  <CookTendon4.label>天丼x4</CookTendon4.label>
+  <CookTendon4.label>Cook Tendon x4</CookTendon4.label>
   <CookTendon4.description>野菜と肉を穀物粉で作った衣で包んでから油で調理する。</CookTendon4.description>
-  <CookTendon4.jobString>天丼を作成中。。</CookTendon4.jobString>
+  <CookTendon4.jobString>Cooking Tendon.</CookTendon4.jobString>
 
 
   <!-- add 1.1 -->

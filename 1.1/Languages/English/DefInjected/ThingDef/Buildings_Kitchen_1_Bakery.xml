@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ASU_CookingTableBread.label>パン用調理台</ASU_CookingTableBread.label>
-  <ASU_CookingTableBread.description>パン専用の調理台。</ASU_CookingTableBread.description>
-  <ASU_CookingTableBread_Blueprint.label>パン用調理台 (blueprint)</ASU_CookingTableBread_Blueprint.label>
-  <ASU_CookingTableBread_Blueprint_Install.label>パン用調理台 (blueprint)</ASU_CookingTableBread_Blueprint_Install.label>
-  <ASU_CookingTableBread_Frame.label>パン用調理台 (building)</ASU_CookingTableBread_Frame.label>
-  <ASU_CookingTableBread_Frame.description>パン専用の調理台。</ASU_CookingTableBread_Frame.description>
+  <ASU_CookingTableBread.label>Baker's Table</ASU_CookingTableBread.label>
+  <ASU_CookingTableBread.description>A table equipped to help prepare and bake bread.</ASU_CookingTableBread.description>
+  <ASU_CookingTableBread_Blueprint.label>Baker's Table (blueprint)</ASU_CookingTableBread_Blueprint.label>
+  <ASU_CookingTableBread_Blueprint_Install.label>Baker's Table (blueprint)</ASU_CookingTableBread_Blueprint_Install.label>
+  <ASU_CookingTableBread_Frame.label>Baker's Table (building)</ASU_CookingTableBread_Frame.label>
+  <ASU_CookingTableBread_Frame.description>A table equipped to help prepare and bake bread.</ASU_CookingTableBread_Frame.description>
 
 
 </LanguageData>

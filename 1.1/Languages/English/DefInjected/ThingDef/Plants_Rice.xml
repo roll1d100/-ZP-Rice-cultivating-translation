@@ -7,15 +7,10 @@
   <ZP_PrantUplandRice.label>Upland rice</ZP_PrantUplandRice.label>
   <ZP_PrantUplandRice.description>Upland rice is grown in dry fields.\nThis breed of rice was made with a focus on shortening the window from sowing to harvesting, as well as increasing the crop's yield.</ZP_PrantUplandRice.description>
 
- 
-
   <ZP_PrantWetlandRice.label>Semiaquatic rice</ZP_PrantWetlandRice.label>
   <ZP_PrantWetlandRice.description>Semiaquatic rice that can be grown in Paddy fields. A Paddy field is a flooded parcel of arable land used for growing semiaquatic rice.\nColonists generally use this rice for bumper harvets due to its low growth rate.</ZP_PrantWetlandRice.description>
 
   <ZP_PrantGlutinousRice.label>Glutinous rice</ZP_PrantGlutinousRice.label>
   <ZP_PrantGlutinousRice.description>Rice that can be grown in fields and Paddy fields. Typically used in making Freezer Mochi.</ZP_PrantGlutinousRice.description>
-
-  <!--<Rise_Prant.label>Japonica rice</Rise_Prant.label>-->
-  <!--<Rise_Prant.description>A simple breed of rice, Japonica rice can be grown in most fields.\nOnce cultivated, colonists will find themselves with bushels of Inaho: a raw resource that must be refined. Threshing, separating, and polishing are the three stages of refinement. Various products and by-products are produced along the way, with the end goal being White rice.\nThough the process may be troublesome, these by-products may be used in a multitude applications, such as food, clothing, and construction.</Rise_Prant.description>-->
 
 </LanguageData>

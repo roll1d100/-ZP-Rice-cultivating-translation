@@ -1,16 +1,16 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Soil.label>土</ZP_Soil.label>
-  <ZP_Soil.description>【肥沃度：100%】\n農業が可能な土壌にする。\n土,苔むした土,湿地,肥えた土,砂利の場所に土が敷けます。</ZP_Soil.description>
+  <ZP_Soil.label>Soil</ZP_Soil.label>
+  <ZP_Soil.description>(Fertility:100%)\n農業が可能な土壌にする。\n土,苔むした土,湿地,肥えた土,砂利の場所に土が敷けます。</ZP_Soil.description>
   <ZP_Soil.tools.0.label>dirt</ZP_Soil.tools.0.label>
 
-  <ZP_SoilRich.label>肥えた土</ZP_SoilRich.label>
-  <ZP_SoilRich.description>【肥沃度：140%】\n農業が可能な土壌を肥沃度の高い肥えた土にする。\n土,苔むした土,肥えた土,踏み固められた土の場所に敷けます。</ZP_SoilRich.description>
+  <ZP_SoilRich.label>Fertile soil</ZP_SoilRich.label>
+  <ZP_SoilRich.description>(Fertility:140%)\n農業が可能な土壌を肥沃度の高い肥えた土にする。\n土,苔むした土,肥えた土,踏み固められた土の場所に敷けます。</ZP_SoilRich.description>
   <ZP_SoilRich.tools.0.label>dirt</ZP_SoilRich.tools.0.label>
 
-  <ZP_Mud.label>泥</ZP_Mud.label>
-  <ZP_Mud.description>水田作成に必要な土壌。</ZP_Mud.description>
+  <ZP_Mud.label>Mud</ZP_Mud.label>
+  <ZP_Mud.description>Place down mud for Paddy fields.</ZP_Mud.description>
   <ZP_Mud.tools.0.label>mud</ZP_Mud.tools.0.label>
 
 

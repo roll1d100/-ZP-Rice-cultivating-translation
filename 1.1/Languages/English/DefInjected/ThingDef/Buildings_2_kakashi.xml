@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPMOD_Kakashi.label>豊穣のカカシ</ZPMOD_Kakashi.label>
-  <ZPMOD_Kakashi.description>【燃料:おにぎり類,酒類,餅類,煎餅,おこし 効果:肥沃度30%up,範囲:9×9,効果重複】\n豊穣の神が宿っているかかし。周囲の作物の生長を促してくれる。お供え物がある間は効果は持続する、なくなると役目を果たして自壊する。\n注意!!→かかしの効果範囲の土壌をテラフォームした場合は再設置が必要です。水田と水耕栽培機,大型植木鉢は恩恵を受けれません。</ZPMOD_Kakashi.description>
-
+  <ZPMOD_Kakashi.label>Scarecrow</ZPMOD_Kakashi.label>
+  <ZPMOD_Kakashi.description>(Effect: Increases soil Fertility by %30 in a 9 diameter 9 square)\nA scarecrow that has received the blessing of a fertility god. It encourages the growth of surrounding crops.\nThe effect continues as long as there is an offering; but, when the offering is gone, it will fulfill its role and self-destruct.\nOfferings (Fuel): Onigiri, Dango, Mochi, Isobe Mochi, and Zunda Mochi.\nAn odd fact that some latch onto is that the Japanese word for "Scarecrow" is "Kakashi."</ZPMOD_Kakashi.description>
 
 </LanguageData>

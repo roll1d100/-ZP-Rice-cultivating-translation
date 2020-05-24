@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ThreshingHusk.label>脱穀</ThreshingHusk.label>
-  <ThreshingHusk.labelShort>脱穀</ThreshingHusk.labelShort>
-  <ThreshingHusk.pawnLabel>脱穀</ThreshingHusk.pawnLabel>
-  <ThreshingHusk.gerundLabel>脱穀</ThreshingHusk.gerundLabel>
-  <ThreshingHusk.description>脱穀することで稲穂(籾米)を籾米(玄米)にかえる。</ThreshingHusk.description>
-  <ThreshingHusk.verb>脱穀</ThreshingHusk.verb>
+  <ThreshingHusk.label>Threshing husk</ThreshingHusk.label>
+  <ThreshingHusk.description>Threshing is the process of loosening the edible part of rice (Brown rice) from the husks and straw to which it is attached. Brown rice can be converted into White rice via polishing.</ThreshingHusk.description>
+  <ThreshingHusk.labelShort>Thresh</ThreshingHusk.labelShort>
+  <ThreshingHusk.pawnLabel>Thresh</ThreshingHusk.pawnLabel>
+  <ThreshingHusk.gerundLabel>Threshing</ThreshingHusk.gerundLabel>
+  <ThreshingHusk.verb>Thresh</ThreshingHusk.verb>
 
-  <RiceProcessing.label>精米</RiceProcessing.label>
-  <RiceProcessing.labelShort>精米</RiceProcessing.labelShort>
-  <RiceProcessing.pawnLabel>精米</RiceProcessing.pawnLabel>
-  <RiceProcessing.gerundLabel>精米</RiceProcessing.gerundLabel>
-  <RiceProcessing.description>精米することで玄米(籾米)から白米にかえる。</RiceProcessing.description>
-  <RiceProcessing.verb>精米</RiceProcessing.verb>
+  <RiceProcessing.label>Polish rice</RiceProcessing.label>
+  <RiceProcessing.description>To polish rice, remove rice bran from Brown rice to make it into White rice.</RiceProcessing.description>
+  <RiceProcessing.labelShort>Polish</RiceProcessing.labelShort>
+  <RiceProcessing.pawnLabel>Polish</RiceProcessing.pawnLabel>
+  <RiceProcessing.gerundLabel>Polishing</RiceProcessing.gerundLabel>
+  <RiceProcessing.verb>Polish</RiceProcessing.verb>
 
 
 </LanguageData>

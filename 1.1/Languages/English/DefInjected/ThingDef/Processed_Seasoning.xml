@@ -3,23 +3,23 @@
 
   <!-- 調味料 -->
 
-  <ZP_Salt.label>天然塩</ZP_Salt.label>
-  <ZP_Salt.description>料理に使える塩。</ZP_Salt.description>
+  <ZP_Salt.label>Natural salt</ZP_Salt.label>
+  <ZP_Salt.description>Salt made by boiling water that contained, well, salt.</ZP_Salt.description>
 
-  <ZP_Spice.label>香辛料</ZP_Spice.label>
-  <ZP_Spice.description>料理に使える香辛料</ZP_Spice.description>
+  <ZP_Spice.label>Spice</ZP_Spice.label>
+  <ZP_Spice.description>Nameless spices that haunt your chef with their anonymity.</ZP_Spice.description>
 
-  <ZP_Mizuame.label>水飴</ZP_Mizuame.label>
-  <ZP_Mizuame.description>伝統的な甘味料。\n原料となる米の種類や加工方法により、黄金色から赤銅色を呈する。\n砂糖が普及する前は日本全国どこでも利用されていた。</ZP_Mizuame.description>
+  <ZP_Mizuame.label>Mizuame</ZP_Mizuame.label>
+  <ZP_Mizuame.description>Translated as "water candy," Mizuame is a syrup that is quite similar to corn syrup in both taste and production. It is sometimes eaten on its own, or used as a lacquer/ingredient for sweets. Mizuame's direct competitor in Japan is rice syrup, or Mugi Mizuame. Mugi is generally considered the tastier of the two, though the potatoe based Mizuame is far more common.</ZP_Mizuame.description>
 
-  <ZP_Vinegar.label>酢</ZP_Vinegar.label>
-  <ZP_Vinegar.description>料理に使える酢。</ZP_Vinegar.description>
+  <ZP_Vinegar.label>Rice vinegar</ZP_Vinegar.label>
+  <ZP_Vinegar.description>Vinegar that can be used for cooking. Known as "komezu" in Japanese, rice vinegar has a mild and mellow taste; it ranges in hue from pale yellow to colorless; and, it can also take on other names depending on how it was made, or what it's been mixed with.</ZP_Vinegar.description>
 
-  <ZP_SoySauce.label>醤油</ZP_SoySauce.label>
-  <ZP_SoySauce.description>料理に使える醤油</ZP_SoySauce.description>
+  <ZP_SoySauce.label>Soy sauce</ZP_SoySauce.label>
+  <ZP_SoySauce.description>A standard in many dishes. Soy sauce was introduced to Japan in the 7th century through Chinese Buddhist monks. It is known as "Shōyu" in Japanese.</ZP_SoySauce.description>
 
-  <ZP_Miso.label>味噌</ZP_Miso.label>
-  <ZP_Miso.description>料理に使える味噌</ZP_Miso.description>
+  <ZP_Miso.label>Miso</ZP_Miso.label>
+  <ZP_Miso.description>Miso is a thick paste that it often used in spreads, sauces, pickling, and can be mixed with dashi to create miso soup.</ZP_Miso.description>
 
 
   <!-- add 1.1 -->

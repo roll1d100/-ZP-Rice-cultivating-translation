@@ -3,29 +3,29 @@
 
   <!-- MealSimple -->
 
-  <CookBRGohan.label>雑穀 ご飯</CookBRGohan.label>
-  <CookBRGohan.description>ご飯を作る</CookBRGohan.description>
-  <CookBRGohan.jobString>ご飯を作成中。</CookBRGohan.jobString>
+  <CookBRGohan.label>Cook Brown Rice Gohan</CookBRGohan.label>
+  <CookBRGohan.description>Take raw rice-kome-and cook it to make Gohan.</CookBRGohan.description>
+  <CookBRGohan.jobString>Cooking Brown Rice Gohan.</CookBRGohan.jobString>
 
-  <CookBRGohan4.label>雑穀 ご飯 x4</CookBRGohan4.label>
-  <CookBRGohan4.description>ご飯を４個作る</CookBRGohan4.description>
-  <CookBRGohan4.jobString>ご飯を作成中。</CookBRGohan4.jobString>
+  <CookBRGohan4.label>Cook Brown Rice Gohan x4</CookBRGohan4.label>
+  <CookBRGohan4.description>Take raw rice-kome-and cook it to make Gohan.</CookBRGohan4.description>
+  <CookBRGohan4.jobString>Cooking Brown Rice Gohan.</CookBRGohan4.jobString>
 
-  <CookGohan.label>ご飯</CookGohan.label>
-  <CookGohan.description>ご飯を作る</CookGohan.description>
-  <CookGohan.jobString>ご飯を作成中。</CookGohan.jobString>
+  <CookGohan.label>Cook White Rice Gohan</CookGohan.label>
+  <CookGohan.description>Make Gohan, a staple food and term for "meal." When paired with Asa, Hiru, and Ban it can mean breakfast, lunch, or dinner.</CookGohan.description>
+  <CookGohan.jobString>Cooking White Rice Gohan.</CookGohan.jobString>
 
-  <CookGohan4.label>ご飯x4</CookGohan4.label>
-  <CookGohan4.description>ご飯を４個作る</CookGohan4.description>
-  <CookGohan4.jobString>ご飯を作成中。</CookGohan4.jobString>
+  <CookGohan4.label>Cook White Rice Gohan x4</CookGohan4.label>
+  <CookGohan4.description>Make Gohan, a staple food and term for "meal." When paired with Asa, Hiru, and Ban it can mean breakfast, lunch, or dinner.</CookGohan4.description>
+  <CookGohan4.jobString>Cooking White Rice Gohan.</CookGohan4.jobString>
 
-  <CookBROnigiri4.label>雑穀 おにぎりx4</CookBROnigiri4.label>
-  <CookBROnigiri4.description>米類,調味料でどこでも食べれるおにぎりを作る。</CookBROnigiri4.description>
-  <CookBROnigiri4.jobString>おにぎりを作成中。</CookBROnigiri4.jobString>
+  <CookBROnigiri4.label>Cook Brown Rice Onigiri x4</CookBROnigiri4.label>
+  <CookBROnigiri4.description>A simple ball of rice seasoned with salt: perfect for eating on the go.</CookBROnigiri4.description>
+  <CookBROnigiri4.jobString>Cooking Brown Rice Onigiri.</CookBROnigiri4.jobString>
 
   <CookWROnigiri4.label>おにぎりx4</CookWROnigiri4.label>
-  <CookWROnigiri4.description>白米,調味料でどこでも食べれるおにぎりを作る。</CookWROnigiri4.description>
-  <CookWROnigiri4.jobString>おにぎりを作成中。</CookWROnigiri4.jobString>
+  <CookWROnigiri4.description>A simple ball of rice seasoned with salt: perfect for eating on the go.</CookWROnigiri4.description>
+  <CookWROnigiri4.jobString>Cooking White Rice Onigiri.</CookWROnigiri4.jobString>
 
 
 </LanguageData>

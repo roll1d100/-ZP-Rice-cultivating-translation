@@ -7,10 +7,10 @@
   <RawFungus.description>Raw fungus.</RawFungus.description>
 
   <ZP_SoyBeen.label>Soy bean[ZP]</ZP_SoyBeen.label>
-  <ZP_SoyBeen.description>Raw SoyBean。保存性が高く加工すれば肉の代替品として便利。味噌や醤油の原材料。</ZP_SoyBeen.description>
+  <ZP_SoyBeen.description>Raw SoyBean。When cooking, soybeans can be treated as meat, though they can also be used to make Miso and soy sauce.</ZP_SoyBeen.description>
 
   <ZP_RawEdamame.label>Edamame</ZP_RawEdamame.label>
-  <ZP_RawEdamame.description>生のエダマメ。保存性と栄養価は低いが育ちは早いので加工すれば肉の代替品として便利。</ZP_RawEdamame.description>
+  <ZP_RawEdamame.description>Immature soybeans. As these beans have yet to mature properly, their nutritional value-as well as their preservability-is low; however, they can be a convenient meat substitute with how fast they grow.</ZP_RawEdamame.description>
 
   <WA_Azuki.label>Azuki</WA_Azuki.label>
   <WA_Azuki.description>Raw Red beens.The seeds are used for sweet beans, sweets, candies, red rice and the like.</WA_Azuki.description>

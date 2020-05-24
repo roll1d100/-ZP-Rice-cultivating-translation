@@ -3,35 +3,35 @@
 
   <!-- 椅子 -->
 
-  <ZP_GroundSit.label>地べたに座る</ZP_GroundSit.label>
-  <ZP_GroundSit.description>地べたに座ることができるのでレジャーシートと一緒に使おう</ZP_GroundSit.description>
-  <ZP_GroundSit_Blueprint.label>地べたに座る (blueprint)</ZP_GroundSit_Blueprint.label>
-  <ZP_GroundSit_Frame.label>地べたに座る (building)</ZP_GroundSit_Frame.label>
-  <ZP_GroundSit_Frame.description>地べたに座ることができるのでレジャーシートと一緒に使おう</ZP_GroundSit_Frame.description>
+  <ZP_GroundSit.label>Sitting spot</ZP_GroundSit.label>
+  <ZP_GroundSit.description>Designate an empty spot where colonists may sit down. Convenient when using sheets and mats.</ZP_GroundSit.description>
+  <ZP_GroundSit_Blueprint.label>Sitting spot (blueprint)</ZP_GroundSit_Blueprint.label>
+  <ZP_GroundSit_Frame.label>Sitting spot (building)</ZP_GroundSit_Frame.label>
+  <ZP_GroundSit_Frame.description>Designate an empty spot where colonists may sit down. Convenient when using sheets and mats.</ZP_GroundSit_Frame.description>
 
-  <ZP_WaraZabuton.label>筵</ZP_WaraZabuton.label>
-  <ZP_WaraZabuton.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZP_WaraZabuton.description>
+  <ZP_WaraZabuton.label>Straw zabuton</ZP_WaraZabuton.label>
+  <ZP_WaraZabuton.description>Simple rug that helps with sitting on the floor. Provides comfort equivalent to a stool.</ZP_WaraZabuton.description>
 
-  <ZP_WaraZabuton2nd.label>筵2</ZP_WaraZabuton2nd.label>
-  <ZP_WaraZabuton2nd.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZP_WaraZabuton2nd.description>
+  <ZP_WaraZabuton2nd.label>Straw zabuton</ZP_WaraZabuton2nd.label>
+  <ZP_WaraZabuton2nd.description>Simple rug that helps with sitting on the floor. Provides comfort equivalent to a stool.</ZP_WaraZabuton2nd.description>
 
-  <ZP_Zabuton.label>座布団</ZP_Zabuton.label>
-  <ZP_Zabuton.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton.description>
+  <ZP_Zabuton.label>Zabuton</ZP_Zabuton.label>
+  <ZP_Zabuton.description>Simple rug that helps with sitting on the floor. Provides comfort equivalent to a stool.\nI got permission to borrow this graphic from another RimWorld modder, IGNI, who you may know for their Lost Forest mod.</ZP_Zabuton.description>
 
-  <ZP_Zabuton1st.label>座布団(赤)</ZP_Zabuton1st.label>
-  <ZP_Zabuton1st.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton1st.description>
+  <ZP_Zabuton1st.label>Zabuton (Red)</ZP_Zabuton1st.label>
+  <ZP_Zabuton1st.description>Simple rug that helps with sitting on the floor. Provides comfort equivalent to a stool.\nI got permission to borrow this graphic from another RimWorld modder, IGNI, who you may know for their Lost Forest mod.</ZP_Zabuton1st.description>
 
-  <ZP_Zabuton2nd.label>座布団(青)</ZP_Zabuton2nd.label>
-  <ZP_Zabuton2nd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton2nd.description>
+  <ZP_Zabuton2nd.label>Zabuton (Blue)</ZP_Zabuton2nd.label>
+  <ZP_Zabuton2nd.description>Simple rug that helps with sitting on the floor. Provides comfort equivalent to a stool.\nI got permission to borrow this graphic from another RimWorld modder, IGNI, who you may know for their Lost Forest mod.</ZP_Zabuton2nd.description>
 
-  <ZP_Zabuton3rd.label>座布団(紫)</ZP_Zabuton3rd.label>
-  <ZP_Zabuton3rd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton3rd.description>
+  <ZP_Zabuton3rd.label>Zabuton (Violet)</ZP_Zabuton3rd.label>
+  <ZP_Zabuton3rd.description>Simple rug that helps with sitting on the floor. Provides comfort equivalent to a stool.\nI got permission to borrow this graphic from another RimWorld modder, IGNI, who you may know for their Lost Forest mod.</ZP_Zabuton3rd.description>
 
 
   <!-- 机 -->
 
-  <ZP_Tyabudai.label>ちゃぶ台</ZP_Tyabudai.label>
-  <ZP_Tyabudai.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai.description>
+  <ZP_Tyabudai.label>Chabudai</ZP_Tyabudai.label>
+  <ZP_Tyabudai.description>A small four-legged table that barely raises off the ground. People are expected to use either tatami or zabuton when sitting at one.</ZP_Tyabudai.description>
 
 
 </LanguageData>

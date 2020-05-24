@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_RoundHandFan.label>うちわ</ZP_RoundHandFan.label>
-  <ZP_RoundHandFan.description>【最低気温:20℃,使用期間:15日】日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</ZP_RoundHandFan.description>
-  <ZP_RoundHandFan_Blueprint.label>うちわ (blueprint)</ZP_RoundHandFan_Blueprint.label>
-  <ZP_RoundHandFan_Blueprint_Install.label>うちわ (blueprint)</ZP_RoundHandFan_Blueprint_Install.label>
-  <ZP_RoundHandFan_Frame.label>うちわ (building)</ZP_RoundHandFan_Frame.label>
-  <ZP_RoundHandFan_Frame.description>【最低気温:20℃,使用期間:15日】日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</ZP_RoundHandFan_Frame.description>
+  <ZP_RoundHandFan.label>Uchiwa</ZP_RoundHandFan.label>
+  <ZP_RoundHandFan.description>【最低気温:20℃,使用期間:15日】A traditional Japanese cooling device.\nFans are indispensable for overcoming hot days.\nDue to the fan's simplistic construction and frequent usage, each one lasts about a season.</ZP_RoundHandFan.description>
+  <ZP_RoundHandFan_Blueprint.label>Uchiwa (blueprint)</ZP_RoundHandFan_Blueprint.label>
+  <ZP_RoundHandFan_Blueprint_Install.label>Uchiwa (blueprint)</ZP_RoundHandFan_Blueprint_Install.label>
+  <ZP_RoundHandFan_Frame.label>Uchiwa (building)</ZP_RoundHandFan_Frame.label>
+  <ZP_RoundHandFan_Frame.description>【最低気温:20℃,使用期間:15日】A traditional Japanese cooling device.\nFans are indispensable for overcoming hot days.\nDue to the fan's simplistic construction and frequent usage, each one lasts about a season.</ZP_RoundHandFan_Frame.description>
 
 
   <!-- add 1.1 -->
