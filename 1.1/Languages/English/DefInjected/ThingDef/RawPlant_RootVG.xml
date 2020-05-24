@@ -3,26 +3,25 @@
 
   <!-- 根菜類 -->
 
-  <RawPotatoes.label>potatoes</RawPotatoes.label>
+  <RawPotatoes.label>Potatoes</RawPotatoes.label>
   <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
 
-  <ZP_RawJapaneseRadish.label>大根</ZP_RawJapaneseRadish.label>
-  <ZP_RawJapaneseRadish.description>生のダイコン。</ZP_RawJapaneseRadish.description>
+   <ZP_RawJapaneseRadish.label>Raw Daikon</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>Japanese radish. In cooking, Daikon is rarely ever the main focus; rather, it is often grated, chopped, or otherwise dispersed into a dish to compliment the main attraction's flavor. Daikno leaves are frequently used in salads, and are an important part of the Festival of Seven Herbs.</ZP_RawJapaneseRadish.description>
 
-  <ZP_RawTaro.label>里芋</ZP_RawTaro.label>
-  <ZP_RawTaro.description>生のサトイモ。コンニャク芋の代わりにもなる。</ZP_RawTaro.description>
-
+  <ZP_RawTaro.label>Raw taro</ZP_RawTaro.label>
+  <ZP_RawTaro.description>A small, potato-like plant, taro is officially categorized as a Colocasia esculenta, which are known for their edible corms (that being the potato-like part of the plant). Taro is useful due to its ability to sub in for Konnyaku.</ZP_RawTaro.description>
 
   <!-- add 1.1 -->
 
-  <ZP_RawCarrot.label>人参</ZP_RawCarrot.label>
-  <ZP_RawCarrot.description>生のにんじん。</ZP_RawCarrot.description>
+  <ZP_RawCarrot.label>Carrot[ZP]</ZP_RawCarrot.label>
+  <ZP_RawCarrot.description>Raw Carrot.</ZP_RawCarrot.description>
 
-  <ZP_RawBambooShoot.label>筍</ZP_RawBambooShoot.label>
-  <ZP_RawBambooShoot.description>生のタケノコ。</ZP_RawBambooShoot.description>
+  <ZP_RawBambooShoot.label>Bamboo shoot[ZP]</ZP_RawBambooShoot.label>
+  <ZP_RawBambooShoot.description>Raw Bamboo Shoot.</ZP_RawBambooShoot.description>
 
-  <ZP_SweetPotato.label>薩摩芋</ZP_SweetPotato.label>
-  <ZP_SweetPotato.description>生のサツマイモ。</ZP_SweetPotato.description>
+  <ZP_SweetPotato.label>Sweet Potato[ZP]</ZP_SweetPotato.label>
+  <ZP_SweetPotato.description>Raw Sweet Potato.</ZP_SweetPotato.description>
 
 
 </LanguageData>

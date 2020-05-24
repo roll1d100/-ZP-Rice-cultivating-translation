@@ -3,20 +3,20 @@
 
   <!-- 葉茎菜類 -->
 
-  <ZP_RawGreenOnion.label>長ねぎ</ZP_RawGreenOnion.label>
-  <ZP_RawGreenOnion.description>生の長ねぎ。</ZP_RawGreenOnion.description>
+   <ZP_RawGreenOnion.label>Negi</ZP_RawGreenOnion.label>
+  <ZP_RawGreenOnion.description>Also known as naganegi, or "long onion," Negi is a popular garnish in Japanese cuisine.</ZP_RawGreenOnion.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_RawCabbage.label>きゃべつ</ZP_RawCabbage.label>
+  <ZP_RawCabbage.label>Cabbage[ZP]</ZP_RawCabbage.label>
   <ZP_RawCabbage.description>生のキャベツ。生で食べられる。</ZP_RawCabbage.description>
 
-  <ZP_RawSpinach.label>ほうれん草</ZP_RawSpinach.label>
-  <ZP_RawSpinach.description>生のホウレンソウ。</ZP_RawSpinach.description>
+  <ZP_RawSpinach.label>Spinach[ZP]</ZP_RawSpinach.label>
+  <ZP_RawSpinach.description>Raw spinach。</ZP_RawSpinach.description>
 
-  <ZP_RawOnion.label>玉ねぎ</ZP_RawOnion.label>
-  <ZP_RawOnion.description>生のタマネギ。</ZP_RawOnion.description>
+  <ZP_RawOnion.label>Onion[ZP]</ZP_RawOnion.label>
+  <ZP_RawOnion.description>Raw Onion[ZP]</ZP_RawOnion.description>
 
 
 </LanguageData>

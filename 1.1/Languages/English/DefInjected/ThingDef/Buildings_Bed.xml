@@ -2,24 +2,49 @@
 <LanguageData>
 
   <!-- ベッド -->
+  <!-- ベッド -->
 
-  <StrawBed.label>寝藁</StrawBed.label>
-  <StrawBed.description>寝心地は最悪だが無いよりマシな寝床。藁の塊なのでキャラバンに持っていける。</StrawBed.description>
+  <ZP_SuperiorStrawBed.label>Superior straw bed</ZP_SuperiorStrawBed.label>
+  <ZP_SuperiorStrawBed.description>A straw bed with an added sheet for comfort.\nDespite improvements, the quality still falls a bit short to normal beds.</ZP_SuperiorStrawBed.description>
+  <ZP_SuperiorStrawBed_Blueprint.label>Superior straw bed (blueprint)</ZP_SuperiorStrawBed_Blueprint.label>
+  <ZP_SuperiorStrawBed_Blueprint_Install.label>Superior straw bed (blueprint)</ZP_SuperiorStrawBed_Blueprint_Install.label>
+  <ZP_SuperiorStrawBed_Frame.label>Superior straw bed (building)</ZP_SuperiorStrawBed_Frame.label>
+  <ZP_SuperiorStrawBed_Frame.description>A straw bed with an added sheet for comfort.\nDespite improvements, the quality still falls a bit short to normal beds.</ZP_SuperiorStrawBed_Frame.description>
 
-  <DoubleStrawBed.label>2人用寝藁</DoubleStrawBed.label>
-  <DoubleStrawBed.description>寝心地は最悪だが無いよりマシな寝床。藁の塊なのでキャラバンに持っていける。</DoubleStrawBed.description>
+  <ZP_SuperiorDoubleStrawBed.label>Superior double straw bed</ZP_SuperiorDoubleStrawBed.label>
+  <ZP_SuperiorDoubleStrawBed.description>A straw bed with an added sheet for comfort.\nDespite improvements, the quality still falls a bit short to normal beds.</ZP_SuperiorDoubleStrawBed.description>
+  <ZP_SuperiorDoubleStrawBed_Blueprint.label>Superior double straw bed(blueprint)</ZP_SuperiorDoubleStrawBed_Blueprint.label>
+  <ZP_SuperiorDoubleStrawBed_Blueprint_Install.label>Superior double straw bed(blueprint)</ZP_SuperiorDoubleStrawBed_Blueprint_Install.label>
+  <ZP_SuperiorDoubleStrawBed_Frame.label>Superior double straw bed (building)</ZP_SuperiorDoubleStrawBed_Frame.label>
+  <ZP_SuperiorDoubleStrawBed_Frame.description>A straw bed with an added sheet for comfort.\nDespite improvements, the quality still falls a bit short to normal beds.</ZP_SuperiorDoubleStrawBed_Frame.description>
 
-  <ZP_SuperiorStrawBed.label>藁編みベッド</ZP_SuperiorStrawBed.label>
-  <ZP_SuperiorStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</ZP_SuperiorStrawBed.description>
+  <StrawBed.label>Straw bed</StrawBed.label>
+  <StrawBed.description>Ideal for sleeping, but not for surgery. (Not available for sale)</StrawBed.description>
+  <StrawBed_Blueprint.label>Straw bed (blueprint)</StrawBed_Blueprint.label>
+  <StrawBed_Blueprint_Install.label>Straw bed (blueprint)</StrawBed_Blueprint_Install.label>
+  <StrawBed_Frame.label>Straw bed (building)</StrawBed_Frame.label>
+  <StrawBed_Frame.description>Ideal for sleeping, but not for surgery. (Not available for sale)</StrawBed_Frame.description>
 
-  <ZP_SuperiorDoubleStrawBed.label>2人用藁編みベッド</ZP_SuperiorDoubleStrawBed.label>
-  <ZP_SuperiorDoubleStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</ZP_SuperiorDoubleStrawBed.description>
+  <DoubleStrawBed.label>Double straw bed</DoubleStrawBed.label>
+  <DoubleStrawBed.description>Ideal for sleeping, but not for surgery. (Not available for sale)</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>Double straw bed (blueprint)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed_Blueprint_Install.label>Double straw bed (blueprint)</DoubleStrawBed_Blueprint_Install.label>
+  <DoubleStrawBed_Frame.label>Double straw bed (building)</DoubleStrawBed_Frame.label>
+  <DoubleStrawBed_Frame.description>Ideal for sleeping, but not for surgery. (Not available for sale)</DoubleStrawBed_Frame.description>
 
-  <ZP_Ofuton.label>お布団</ZP_Ofuton.label>
-  <ZP_Ofuton.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
+  <ZP_Ofuton.label>Futon</ZP_Ofuton.label>
+  <ZP_Ofuton.description>This traditional Japanese bed contains a mattress, comforter, and pillow; each is covered in cloth and typically filled with feathers or cotton.</ZP_Ofuton.description>
+  <ZP_Ofuton_Blueprint.label>Ofuton (blueprint)</ZP_Ofuton_Blueprint.label>
+  <ZP_Ofuton_Blueprint_Install.label>Futon (blueprint)</ZP_Ofuton_Blueprint_Install.label>
+  <ZP_Ofuton_Frame.label>Futon (building)</ZP_Ofuton_Frame.label>
+  <ZP_Ofuton_Frame.description>This traditional Japanese bed contains a mattress, comforter, and pillow; each is covered in cloth and typically filled with feathers or cotton.</ZP_Ofuton_Frame.description>
 
-  <ZP_DoubleOfuton.label>2人用お布団</ZP_DoubleOfuton.label>
-  <ZP_DoubleOfuton.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton.label>Double futon</ZP_DoubleOfuton.label>
+  <ZP_DoubleOfuton.description>A simple double-wide futon that fits two people.</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton_Blueprint.label>Double futon (blueprint)</ZP_DoubleOfuton_Blueprint.label>
+  <ZP_DoubleOfuton_Blueprint_Install.label>Double futon (blueprint)</ZP_DoubleOfuton_Blueprint_Install.label>
+  <ZP_DoubleOfuton_Frame.label>Double futon (building)</ZP_DoubleOfuton_Frame.label>
+  <ZP_DoubleOfuton_Frame.description>A simple double-wide futon that fits two people.</ZP_DoubleOfuton_Frame.description>
 
 
 </LanguageData>

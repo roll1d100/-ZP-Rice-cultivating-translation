@@ -1,17 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- 動物用ベッド -->
 
-  <ZP_AnimalStrawBedSmall.label>動物用藁寝床(1×1)</ZP_AnimalStrawBedSmall.label>
-  <ZP_AnimalStrawBedSmall.description>鶏やウサギなどの小型動物に最適な藁寝床です。</ZP_AnimalStrawBedSmall.description>
+ <!-- 動物用ベッド -->
 
-  <ZP_AnimalStrawBed.label>動物用藁寝床(2×2)</ZP_AnimalStrawBed.label>
-  <ZP_AnimalStrawBed.description>犬からマッファローまでの中型動物に最適な藁ベッドです。</ZP_AnimalStrawBed.description>
+  <ZP_AnimalStrawBedSmall.label>Animal straw bed (Small)</ZP_AnimalStrawBedSmall.label>
+  <ZP_AnimalStrawBedSmall.description>Ideal for small animals, from chickens to rabbits. (Not available for sale)</ZP_AnimalStrawBedSmall.description>
+  <ZP_AnimalStrawBedSmall_Blueprint.label>Animal straw bed (Small) (blueprint)</ZP_AnimalStrawBedSmall_Blueprint.label>
+  <ZP_AnimalStrawBedSmall_Blueprint_Install.label>Animal straw bed (Small) (blueprint)</ZP_AnimalStrawBedSmall_Blueprint_Install.label>
+  <ZP_AnimalStrawBedSmall_Frame.label>Animal straw bed (Small) (building)</ZP_AnimalStrawBedSmall_Frame.label>
+  <ZP_AnimalStrawBedSmall_Frame.description>Ideal for small animals, from chickens to rabbits. (Not available for sale)</ZP_AnimalStrawBedSmall_Frame.description>
 
-  <ZP_AnimalStrawBedBig.label>動物用藁寝床(3×3)</ZP_AnimalStrawBedBig.label>
-  <ZP_AnimalStrawBedBig.description>スランボや象などの大型動物に最適な藁ベッドです。</ZP_AnimalStrawBedBig.description>
+  <ZP_AnimalStrawBed.label>Animal straw bed</ZP_AnimalStrawBed.label>
+  <ZP_AnimalStrawBed.description>Ideal for mid-sized animals, from huskies to muffalo. (Not available for sale)</ZP_AnimalStrawBed.description>
+  <ZP_AnimalStrawBed_Blueprint.label>Animal straw bed (blueprint)</ZP_AnimalStrawBed_Blueprint.label>
+  <ZP_AnimalStrawBed_Blueprint_Install.label>Animal straw bed (blueprint)</ZP_AnimalStrawBed_Blueprint_Install.label>
+  <ZP_AnimalStrawBed_Frame.label>Animal straw bed (building)</ZP_AnimalStrawBed_Frame.label>
+  <ZP_AnimalStrawBed_Frame.description>Ideal for mid-sized animals, from huskies to muffalo. (Not available for sale)</ZP_AnimalStrawBed_Frame.description>
 
+  <ZP_AnimalStrawBedBig.label>Animal straw bed (Big)</ZP_AnimalStrawBedBig.label>
+  <ZP_AnimalStrawBedBig.description>Ideal for large animals, from thrumbos to elephants. (Not available for sale)</ZP_AnimalStrawBedBig.description>
+  <ZP_AnimalStrawBedBig_Blueprint.label>Animal straw bed (Big) (blueprint)</ZP_AnimalStrawBedBig_Blueprint.label>
+  <ZP_AnimalStrawBedBig_Blueprint_Install.label>Animal straw bed (Big) (blueprint)</ZP_AnimalStrawBedBig_Blueprint_Install.label>
+  <ZP_AnimalStrawBedBig_Frame.label>Animal straw bed (Big) (building)</ZP_AnimalStrawBedBig_Frame.label>
+  <ZP_AnimalStrawBedBig_Frame.description>Ideal for large animals, from thrumbos to elephants. (Not available for sale)</ZP_AnimalStrawBedBig_Frame.description>
 
   <!-- add 1.1 -->
 

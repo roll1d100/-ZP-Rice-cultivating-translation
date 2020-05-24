@@ -3,16 +3,16 @@
 
   <!-- 果物類 -->
 
-  <ZP_PlantTreeMandarinOrange.label>蜜柑の木</ZP_PlantTreeMandarinOrange.label>
+  <ZP_PlantTreeMandarinOrange.label>Mandarin Orange Tree</ZP_PlantTreeMandarinOrange.label>
   <ZP_PlantTreeMandarinOrange.description>ミカンの木。寒さに弱いので温室栽培が有効です。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreeMandarinOrange.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PlantTreePlum.label>梅の木</ZP_PlantTreePlum.label>
+  <ZP_PlantTreePlum.label>Plum Tree</ZP_PlantTreePlum.label>
   <ZP_PlantTreePlum.description>ウメの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreePlum.description>
 
-  <ZP_PlantPersimmon.label>柿の木</ZP_PlantPersimmon.label>
+  <ZP_PlantPersimmon.label>Persimmon Tree</ZP_PlantPersimmon.label>
   <ZP_PlantPersimmon.description>カキの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantPersimmon.description>
 
 
