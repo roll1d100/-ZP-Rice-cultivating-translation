@@ -8,20 +8,20 @@
   <Make_StoneBlocksAny2nd.jobString>Cutting stone blocks from chunk.</Make_StoneBlocksAny2nd.jobString>
 
   <MakeBMStoneBlocks.label>make construction stone x10</MakeBMStoneBlocks.label>
-  <MakeBMStoneBlocks.description>各種石材を建築用に使いやすいように規格統一する。</MakeBMStoneBlocks.description>
-  <MakeBMStoneBlocks.jobString>岩塊を加工中</MakeBMStoneBlocks.jobString>
+  <MakeBMStoneBlocks.description>Standardize the shapes and dimensions of various stone materials to make stone materials for construction.</MakeBMStoneBlocks.description>
+  <MakeBMStoneBlocks.jobString>Making construction stone.</MakeBMStoneBlocks.jobString>
 
   <MakeBMStoneBlocks2nd.label>make construction stone x50</MakeBMStoneBlocks2nd.label>
-  <MakeBMStoneBlocks2nd.description>各種石材を建築用に使いやすいように規格統一する。</MakeBMStoneBlocks2nd.description>
-  <MakeBMStoneBlocks2nd.jobString>岩塊を加工中</MakeBMStoneBlocks2nd.jobString>
+  <MakeBMStoneBlocks2nd.description>Standardize the shapes and dimensions of various stone materials to make stone materials for construction.</MakeBMStoneBlocks2nd.description>
+  <MakeBMStoneBlocks2nd.jobString>Making construction stone.</MakeBMStoneBlocks2nd.jobString>
 
   <Make_BMStoneBlocksAny.label>Cutting construction stone from chunk</Make_BMStoneBlocksAny.label>
-  <Make_BMStoneBlocksAny.description>岩の塊を使いやすい建築石材に切り出します。</Make_BMStoneBlocksAny.description>
-  <Make_BMStoneBlocksAny.jobString>岩塊を加工中</Make_BMStoneBlocksAny.jobString>
+  <Make_BMStoneBlocksAny.description>Cutting construction stone from chunk.</Make_BMStoneBlocksAny.description>
+  <Make_BMStoneBlocksAny.jobString>Cutting stone blocks from chunk.</Make_BMStoneBlocksAny.jobString>
 
   <MakeRPCGravel.label>make gravel x50</MakeRPCGravel.label>
-  <MakeRPCGravel.description>各種石材を破砕して砂利を作る。</MakeRPCGravel.description>
-  <MakeRPCGravel.jobString>岩塊を加工中</MakeRPCGravel.jobString>
+  <MakeRPCGravel.description>Crush stone materials to make gravel.</MakeRPCGravel.description>
+  <MakeRPCGravel.jobString>Making gravel.</MakeRPCGravel.jobString>
 
 
 </LanguageData>
