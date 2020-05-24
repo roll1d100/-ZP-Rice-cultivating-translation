@@ -7,9 +7,9 @@
 
   <!-- add 1.1 -->
 
-  <BlocksBMStone.label>建築石材</BlocksBMStone.label>
-  <BlocksBMStone.description>各種石材の寸法や形状を規格統一した石材。通常の石材より素早く建築できるが耐久性や武器性能は落ちる。</BlocksBMStone.description>
-  <BlocksBMStone.stuffProps.stuffAdjective>建築石材</BlocksBMStone.stuffProps.stuffAdjective>
+  <BlocksBMStone.label>construction stone</BlocksBMStone.label>
+  <BlocksBMStone.description>Stone blocks that standardize the shape and dimensions of other block types. They can be used to build things faster than normal blocks, but are inferior in durability and weapon quality.</BlocksBMStone.description>
+  <BlocksBMStone.stuffProps.stuffAdjective>construction stone</BlocksBMStone.stuffProps.stuffAdjective>
 
 
 </LanguageData>
