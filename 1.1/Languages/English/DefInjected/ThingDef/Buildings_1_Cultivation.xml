@@ -21,7 +21,7 @@
   <ZP_SaltEvaporationPond_Frame.label>SaltEvaporationPond[ZP](3×3) (building)</ZP_SaltEvaporationPond_Frame.label>
   <ZP_SaltEvaporationPond_Frame.description>[Fuel:Natural Water]\n\n天然塩をつくるための専用の栽培場所。定期的に管理しないと役割を終えて消える。</ZP_SaltEvaporationPond_Frame.description>
 
-  <ZP_LargeCultivationPlanter.label>Large Cultivation Planter[ZP]大型植木鉢</ZP_LargeCultivationPlanter.label>
+  <ZP_LargeCultivationPlanter.label>Large Cultivation Planter[ZP]</ZP_LargeCultivationPlanter.label>
   <ZP_LargeCultivationPlanter.description>[Fuel:Natural Water, Fertility:200%]【燃料:生水,堆肥 肥沃土:200%】\n作物が栽培できる鉢。定期的に管理しないと腐って消える。</ZP_LargeCultivationPlanter.description>
   <ZP_LargeCultivationPlanter_Blueprint.label>Large Cultivation Planter[ZP] (blueprint)</ZP_LargeCultivationPlanter_Blueprint.label>
   <ZP_LargeCultivationPlanter_Frame.label>Large Cultivation Planter[ZP] (building)</ZP_LargeCultivationPlanter_Frame.label>
