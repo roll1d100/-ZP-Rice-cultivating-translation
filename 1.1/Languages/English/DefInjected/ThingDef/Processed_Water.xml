@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_RawWater.label>生水</ZP_RawWater.label>
-  <ZP_RawWater.description>生の水。そのまま飲むと高確率で食中毒になります。</ZP_RawWater.description>
+  <ZP_RawWater.label>Natural Water</ZP_RawWater.label>
+  <ZP_RawWater.description>Water gather from natural sources, it might be dangerous to just drink the water as may contain harmful substances or imputies.\n生の水。そのまま飲むと高確率で食中毒になります</ZP_RawWater.description>
   <ZP_RawWater.ingestible.ingestCommandString>Drink {0}</ZP_RawWater.ingestible.ingestCommandString>
   <ZP_RawWater.ingestible.ingestReportString>Drinking {0}.</ZP_RawWater.ingestible.ingestReportString>
 
-  <ZP_Water.label>水</ZP_Water.label>
-  <ZP_Water.description>濾過した水。煮沸前の水なので飲料水には向かない。料理の際は煮沸消毒されるので安心して使える。</ZP_Water.description>
+  <ZP_Water.label>Boiled Water</ZP_Water.label>
+  <ZP_Water.description>Filtered water, safe for drinking.</ZP_Water.description>
   <ZP_Water.ingestible.ingestCommandString>Drink {0}</ZP_Water.ingestible.ingestCommandString>
   <ZP_Water.ingestible.ingestReportString>Drinking {0}.</ZP_Water.ingestible.ingestReportString>
 
-  <ZP_DrinkingWater.label>飲料水</ZP_DrinkingWater.label>
+  <ZP_DrinkingWater.label>Mineral water</ZP_DrinkingWater.label>
   <ZP_DrinkingWater.description>飲料水。飲むことで簡単な熱中症対策にもなる。</ZP_DrinkingWater.description>
   <ZP_DrinkingWater.ingestible.ingestCommandString>Drink {0}</ZP_DrinkingWater.ingestible.ingestCommandString>
   <ZP_DrinkingWater.ingestible.ingestReportString>Drinking {0}.</ZP_DrinkingWater.ingestible.ingestReportString>

@@ -3,11 +3,13 @@
 
   <!-- MealFine -->
 
-  <ZP_BRBento.label>日の丸弁当(雑穀)</ZP_BRBento.label>
-  <ZP_BRBento.description>【特産品】どこでも食べれるお弁当。</ZP_BRBento.description>
+  <ZP_BRBento.label>Bento(Millet)</ZP_BRBento.label>
+  <ZP_BRBento.description>【特産品】どこでも食べれるお弁当.\nThis single-portion meal has been packed with great attention and care. As is the nature of Bento, this meal can be eaten anywhere, allowing colonists to eat on the go without suffering a particular debuff.</ZP_BRBento.description>
 
-  <ZP_WRBento.label>日の丸弁当</ZP_WRBento.label>
-  <ZP_WRBento.description>【特産品】どこでも食べれる白米のお弁当。</ZP_WRBento.description>
+
+
+  <ZP_WRBento.label>Bento</ZP_WRBento.label>
+  <ZP_WRBento.description>【特産品】どこでも食べれる白米のお弁当.\nThis single-portion meal has been packed with great attention and care. As is the nature of Bento, this meal can be eaten anywhere, allowing colonists to eat on the go without suffering a particular debuff.</ZP_WRBento.description>
 
   <ZP_BRTKG.label>卵かけご飯(玄米)</ZP_BRTKG.label>
   <ZP_BRTKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</ZP_BRTKG.description>
@@ -27,14 +29,14 @@
 
   <!-- add 1.1 -->
 
-  <ZP_NattoRice.label>納豆ごはん</ZP_NattoRice.label>
+  <ZP_NattoRice.label>NattoRice</ZP_NattoRice.label>
   <ZP_NattoRice.description>ご飯の上に納豆を盛り付けたシンプルなどんぶり。</ZP_NattoRice.description>
 
-  <ZP_SalmonRiceBall.label>鮭おにぎり</ZP_SalmonRiceBall.label>
+  <ZP_SalmonRiceBall.label>Salmon Onigiri</ZP_SalmonRiceBall.label>
   <ZP_SalmonRiceBall.description>【特産品】塩味のきいた鮭の入ったちょっと豪華なおにぎり。</ZP_SalmonRiceBall.description>
 
-  <ZP_TempuraRiceBall.label>天むす</ZP_TempuraRiceBall.label>
-  <ZP_TempuraRiceBall.description>【特産品】天ぷらの入ったちょっと豪華なおにぎり。</ZP_TempuraRiceBall.description>
+  <ZP_TempuraRiceBall.label>Tenmusu</ZP_TempuraRiceBall.label>
+  <ZP_TempuraRiceBall.description>【特産品】天ぷらの入ったちょっと豪華なおにぎり\n Onigiri</ZP_TempuraRiceBall.description>
 
 
 </LanguageData>
