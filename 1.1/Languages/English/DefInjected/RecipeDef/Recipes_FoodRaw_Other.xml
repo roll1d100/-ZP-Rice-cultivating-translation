@@ -5,8 +5,8 @@
   <Prep_Flour10.description>Grinding grain into flour.</Prep_Flour10.description>
   <Prep_Flour10.jobString>Making Flour.</Prep_Flour10.jobString>
 
-  <Prep_Flour50.label>穀物粉x50</Prep_Flour50.label>
-  <Prep_Flour50.description>穀物をひいて粉にする。</Prep_Flour50.description>
+  <Prep_Flour50.label>Prep_Flour x50</Prep_Flour50.label>
+  <Prep_Flour50.description>Grinding grain into flour.</Prep_Flour50.description>
   <Prep_Flour50.jobString>Making Flour.</Prep_Flour50.jobString>
 
 
