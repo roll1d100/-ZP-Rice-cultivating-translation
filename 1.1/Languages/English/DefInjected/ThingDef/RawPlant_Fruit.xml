@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 果物類 -->
+
+  <RawAgave.label>agave fruit</RawAgave.label>
+  <RawAgave.description>Raw agave fruit.</RawAgave.description>
+
+  <RawBerries.label>berries</RawBerries.label>
+  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+
+  <ZP_RawMandarinOrange.label>Mikan</ZP_RawMandarinOrange.label>
+  <ZP_RawMandarinOrange.description>Popularly known in the West as the Satsuma Orange or Mandarin Orange, the Mikan is a sweet, easy to peel, semi-seedless citrus. The word, "Mikan" is derived from the Chinese, "Mìgān," with both meaning "honey citrus."\n\nMikan were brought to North America by the Jesuits in the 18th century; however, it wasn't until the late 19th/early 20th Century that the fruit became more common. This was thanks to the efforts of the US Minister to Japan, General Van Valkenberg's spouse, who encouraged the importation of nearly a million Owari Mikan trees from Japan's Satsuma Province. To this point, the minister's spouse also renamed the fruit, "Satsumas."</ZP_RawMandarinOrange.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_RawPlum.label>Ume</ZP_RawPlum.label>
+  <ZP_RawPlum.description>In spite of "Ume," meaning "Plum," this fruit is far more related to the apricot than the plum. A popular use of these sour little fruits is to steep them in Shōchū (clear liquor) to make Umeshu (plum wine).</ZP_RawPlum.description>
+
+  <ZP_RawPersimmon.label>Kaki</ZP_RawPersimmon.label>
+  <ZP_RawPersimmon.description>Kaki (Persimmon) is a sweet tasting fruit with high glucose content. The taste of Kaki's can vary based on their ripeness and astringency. The latter term derives from the Latin "adstringere," meaning "to bind fast," which refers to the chemical's ability to bind salivary glands. The astringent in question, tannin, is also found in other plants, like banana peels and rhubarb, and acts as a natural deterrent to prey. Consuming a plant with such a chemical will lead to a dry mouth feeling; astringency, however, can be avoided by allowing the fruit/vegetable to ripen.\n\nThe ripening process can be sped along using various techniques, such as: wrapping the Kaki in paper, thus increasing the air's ethylene content; storing the Kaki in a dry, clean container with other fruits, such as pears, apples, or bananas; and, commercially, alcohol/carbon dioxide is used to manipulate the ripening process. In Japan, the fruit is hand-dried for 2-3 weeks, and is then further dried via heat exposure for several days. The Hoshigaki (Dried Persimmon) is then taken to market, where it is sold as a snack, dessert, or ingredient.\n\nWhile the most common variety of astringent Kaki is Hachiya, the Fuyu is Japan's go to non-astringent Kaki. Fuyu's lack the tannin content of their cousin, thus they can be eaten much sooner, though their flavor is said to be less "complex."</ZP_RawPersimmon.description>
+
+
+</LanguageData>

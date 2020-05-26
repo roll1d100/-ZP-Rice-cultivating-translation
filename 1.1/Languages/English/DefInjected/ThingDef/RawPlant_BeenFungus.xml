@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豆・菌類 -->
+
+  <RawFungus.label>raw fungus</RawFungus.label>
+  <RawFungus.description>Raw fungus.</RawFungus.description>
+
+  <ZP_SoyBeen.label>Soybeans</ZP_SoyBeen.label>
+  <ZP_SoyBeen.description>When cooking, soybeans (Daizu) can be treated as meat, though they can also be used to make Miso and soy sauce.</ZP_SoyBeen.description>
+
+  <ZP_RawEdamame.label>Edamame</ZP_RawEdamame.label>
+  <ZP_RawEdamame.description>Immature soybeans. As these beans have yet to mature properly, their nutritional value-as well as their preservability-is low; however, they can be a convenient meat substitute with how fast they grow.</ZP_RawEdamame.description>
+
+  <WA_Azuki.label>Azuki</WA_Azuki.label>
+  <WA_Azuki.description>Little red beans that are destined to make something sweet! After being boiled, these beans will be mashed/ground into a fine paste, which can then be applied various confections. The paste is referred to as "Anko" or "Ogura;" moreover, the bean itself has multiple names, with Shōzu-a Chinese loan word-meaning "Small Bean," as opposed to Soybean's Daizu that means "Large Bean."</WA_Azuki.description>
+
+
+</LanguageData>

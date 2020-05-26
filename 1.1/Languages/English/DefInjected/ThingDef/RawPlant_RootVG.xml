@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 根菜類 -->
+
+  <RawPotatoes.label>potatoes</RawPotatoes.label>
+  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+
+  <ZP_RawJapaneseRadish.label>Daikon</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>This Japanese radish is defined by its white, carrot-like shape, big green leaves, and short growing period. Daikon are somewhat large, which makes storing them far more difficult than rice or wheat; however, this should be expected, as the name literally means, "Big root."</ZP_RawJapaneseRadish.description>
+
+  <ZP_RawTaro.label>Taro</ZP_RawTaro.label>
+  <ZP_RawTaro.description>This potato-like plant has a long growing period and high yield. On the Rim, it is often used as a substitute for Konnyaku.</ZP_RawTaro.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_RawCarrot.label>Carrot</ZP_RawCarrot.label>
+  <ZP_RawCarrot.description>Otherwise known as "Ninjin," this little veggie is rather cold resistant; moreover, its texture and flavor make it perfect as an ingredient for curry and other rice-based dishes.</ZP_RawCarrot.description>
+
+  <ZP_RawBambooShoot.label>Bamboo shoot</ZP_RawBambooShoot.label>
+  <ZP_RawBambooShoot.description>From the symbol, "竹," which is pronounced "Take," bamboo is a useful resource for any colony.</ZP_RawBambooShoot.description>
+
+  <ZP_SweetPotato.label>Sweet potato</ZP_SweetPotato.label>
+  <ZP_SweetPotato.description>Called Satsuma-imo in Japan, the crop is quite revered by the island nation. It was introduced to the island nation by the Portuguese in the 1600's; afterwards, it was used to circumvent famine whenever the rice harvests were lacking. The "imo" part of the vegetable's name means "potato."</ZP_SweetPotato.description>
+
+
+</LanguageData>

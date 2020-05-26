@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 豆・菌類 -->
+
+  <ZP_PlantSoy.label>Soybeans</ZP_PlantSoy.label>
+  <ZP_PlantSoy.description>Daizu (Large Bean), aka Soybeans, are a boon on the Rim, as chefs can use them in place of meat. In the field, soybeans are slow to grow, but have a low fertility sensitivity/requirement.</ZP_PlantSoy.description>
+
+  <ZP_PlantEdamame.label>Edamame</ZP_PlantEdamame.label>
+  <ZP_PlantEdamame.description>Immature soybeans that-as their defining feature is "immaturity"-can be harvested quickly, but have a low nutritiounal value. Like soybeans, Edamame can grow in rough terrain.</ZP_PlantEdamame.description>
+
+  <ZP_PrantAzuki.label>Azuki</ZP_PrantAzuki.label>
+  <ZP_PrantAzuki.description>Little red beans that are destined to make something sweet! After being boiled, these beans will be mashed/ground into a fine paste, which can then be applied various confections. The paste is referred to as "Anko" or "Ogura;" moreover, the bean itself has multiple names, with Shōzu-a Chinese loan word-meaning "Small Bean," as opposed to Soybean's Daizu that means "Large Bean."</ZP_PrantAzuki.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_Glowstool.label>Glowstool</ZP_Glowstool.label>
+  <ZP_Glowstool.description>A small brown mushroom, usually found in caves, whose smell is like an old, dirty rag taken from a rotting muffalo's stomach-but surprisingly tasty when cooked!\n\n*Caution: This plant is allergic to the sun.*</ZP_Glowstool.description>
+
+  <ZP_Agarilux.label>Agarilux</ZP_Agarilux.label>
+  <ZP_Agarilux.description>A very pretty mushroom that grows in the shape of an umbrella; and, unlike Glowstool, it doesn't smell that bad!\n\n*However, it is also allergic to the sun.*</ZP_Agarilux.description>
+
+
+</LanguageData>
