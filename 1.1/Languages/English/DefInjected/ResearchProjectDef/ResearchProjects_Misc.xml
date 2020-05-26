@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- add 1.1 -->
+
+  <ReZPPrantRice.label>Rice</ReZPPrantRice.label>
+  <ReZPPrantRice.description>Welcome to the beginning of rice cultivation! A staple food known across the galaxy, rice, has now made it to your corner of the Rim. Ine (rice) is a noble, flexible food, like wheat, corn, or bacon. Rice cultivation is a multistep process that results in several by-products, namely husks and bran. These by-products can be used for animal feed, crafting, and fuel.</ReZPPrantRice.description>
+
+  <ReZPPrantUplandRice.label>Upland rice</ReZPPrantUplandRice.label>
+  <ReZPPrantUplandRice.description>Perhaps the fastest growing rice variant, Okabo (Upland rice) is grown on dry soil. This allows Okabo to be far more flexible in where it can be grown than Suitō, which requires paddie fields for proper cultivation. The low harvest yield dismays some farmers; yet, Okabo's fast growth time greatly helps: a strength only made better through soil improvements.</ReZPPrantUplandRice.description>
+
+  <ReZPPrantWetlandRice.label>Semiaquatic rice</ReZPPrantWetlandRice.label>
+  <ReZPPrantWetlandRice.description>Stable, constant, reliable, Suitō (Semiaquatic rice) can only be grown in rice paddies. Paddy fields forego the need for healthy soil, utilizing nutrient rich water instead; moreover, the large harvest that Suitō yields helps balance out its-relatively-long growth time.\nPaddy fields have played an important role in agriculture throughout history. In Japan these fields are referred to as Ta (田); originally, Ta was used to simply mean "field," but the meaning was later shifted to "rice paddy field." These fields continued to influence culture, as by the Meiji Period citizens were forced to take a family name. At the time nearly 3/4's of the population were farmers, thus many used Ta (田) in some capacity when making their family name. Popular examples include Nakata (中田) and Tanaka (田中), which mean "middle paddy field" and "in the paddy field" respectively.</ReZPPrantWetlandRice.description>
+
+  <ReGlutinousRice.label>Glutinous rice</ReGlutinousRice.label>
+  <ReGlutinousRice.description>Derived from the Latin "glūtinōsus," Glutinous rice is so named for its sticky nature. Known as "Mochigome" in Japan, this variety of rice most reveals its eponymous trait when cooked; Japan's most common use of Mochigome is to turn it into Mochiko (rice flour), which can then be molded into the cooking ingredient, Mochi. Mochi is then further shaped and flavored into whatever kind of rice cake a recipe needs.\nOn the Rim, Mochigome can be turned into Freezer Mochi. This variety of Mochi keeps for a long time, making it ideal for almost any colony.\n\nRIMWORLD SERVICE ANNOUNCEMENT: GLUTINOUS RICE CONTAINS NO GLUTEN, REPEAT, NO GLUTEN.</ReGlutinousRice.description>
+
+  <ReZPSoilImprovement.label>Soil Improvement</ReZPSoilImprovement.label>
+  <ReZPSoilImprovement.description>Reserch the production and placement of agriculturally friendly soil.\nSoil can be placed on sand, ice, gravel, rough stone, smooth stone.\nUnlocks: Soil (Fertility: 100%) and Fertile Soil (Fertility: 140%).</ReZPSoilImprovement.description>
+
+  <ReZPSoilImprovement2nd.label>Soil Improvement II</ReZPSoilImprovement2nd.label>
+  <ReZPSoilImprovement2nd.description>Unlock the ability to create feasible soil out of swamp, mud, or shallow water. This can be done through either Gravel or Artificial Shoal; the former can be used to recleaim rough terrain (prepping it for soil placement), while the latter can convert deep water into shallow. More importantly, mud!\n\nMud is also unlocked by this research, and it can be used to create terrain for rice paddy construction. This foregoes the need for a body of water, and allows colonies with less access to water to utilize rice paddies.</ReZPSoilImprovement2nd.description>
+
+  <ReZPAgriculturalMachines.label>Farm Tools: Middle Ages</ReZPAgriculturalMachines.label>
+  <ReZPAgriculturalMachines.description>Nōgu: Chūsei Jidai-Develop a foot-operated threshing machine and paddy mortar, which are dedicated agricultural tools for processing rice.</ReZPAgriculturalMachines.description>
+
+  <ReZPAgriculturalMachines2nd.label>Farm Tools: Middle Ages II</ReZPAgriculturalMachines2nd.label>
+  <ReZPAgriculturalMachines2nd.description>Nōgu: Chūsei Jidai-Develop an agricultural water mill that can thresh rice using the power of water.</ReZPAgriculturalMachines2nd.description>
+
+  <ReZPAgriculturalMachines3rd.label>Farm Tools: Industrial Age</ReZPAgriculturalMachines3rd.label>
+  <ReZPAgriculturalMachines3rd.description>Nōgu: Sangyō Jidai-ZAP! Harness the power of electricity and drag your space age colony into the 20th Century! With such revolutionary devices as the an electric milling machine or the electric threshing machine, manual labor times around the colony will plummet, and colonist morale will be...electric.</ReZPAgriculturalMachines3rd.description>
+
+  <ReZPAgriculturalMachines4th.label>Farm Tools: Industrial Age II</ReZPAgriculturalMachines4th.label>
+  <ReZPAgriculturalMachines4th.description>Nōgu: Sangyō Jidai-ZAP, POW, ZING! Electricity strikes again! Unlike the proverbial lightning bolt, our scientists have made a second groundbreaking discovery. In the age of AI, orbital lasers, and archotech implants, our colony has learned how to make the panacea of rice processing machines! The Auto-Miller 3000 can do it all!\n\nCan it thresh? Hell yes! Can it polish? Without a mess! Can it mill? The name fits the bill! Why, the Auto-Miller 3000 is an amazing device, and can be found in 63.56% of all Rim World colonies.* So, what are you waiting for!? Buy/Build/Steal yours today!\n\n(*Sample size may vary.)</ReZPAgriculturalMachines4th.description>
+
+
+  <!-- その他 -->
+
+  <ReZPScarecrow.label>Scarecrow of Fertility</ReZPScarecrow.label>
+  <ReZPScarecrow.description>Acknowledge the god that watches over the colony, and learn how to direct its blessing of fertility into a scarecrow. As long as there is an offering (rice based foods), the scarecrow will increase soil fertility by 30% within 9 squares.\n\nCAUTION: Paddy fields and hydroponics cannot receive this blessing.</ReZPScarecrow.description>
+
+
+  <!-- add 1.1 -->
+
+  <ReZPBonfire.label>Bonfire</ReZPBonfire.label>
+  <ReZPBonfire.description>Study the various agrarian applications of a Kagaribi (Bonfire). By suspending a Kagaribi in the air, we can enhance its visibility, bypassing the need for a large flame; furthermore, we can save resources by dousing the Kagaribi's flames at night, then stoking it back to full strength in the morning.\nOur research also suggests that by reinforcing the pedestal with steel the Kagaribi could be utilized in shallow water. This would help out when dealing with paddy fields or fish farms.\n\nBoth versions of the Kagaribi can utilize Charcoal and Momigalite as fuel.</ReZPBonfire.description>
+
+  <ReZPLargeCultivationPlanter.label>Large Planter</ReZPLargeCultivationPlanter.label>
+  <ReZPLargeCultivationPlanter.description>The Ōgata Uekibachi (Large Flowerpot) can be used to grow plants where soil placement may be unadvisable. It has an innate Fertility of 200%; moreover, it also requires constant refueling, for which we can give it Compost or Namamizu (raw water).</ReZPLargeCultivationPlanter.description>
+
+
+  <!-- 栽培 -->
+
+  <ReZPBeanFungus.label>Soybeans</ReZPBeanFungus.label>
+  <ReZPBeanFungus.description>Learn how to cultivate Daizu (Soybeans), Azuki (Red Mung Bean), and two types of Kinrui (Fungi).\nSoybeans are a staple crop of any self-respecting colony on the Rim; their versitility as a processed food-Soymilk and Tofu-allows colonies to satisfy a diversity of recipe/ingredient requirements from just one crop.\nAzuki is primarily used to make red bean paste (referred to as "Anko" or "Ogura" in Japan); this paste is then used to make various confectionary wonders.\nAs for the Kinrui, our colony will learn how to grow Agarilux and Glowstool.</ReZPBeanFungus.description>
+
+
+  <!-- add 1.1 -->
+
+  <ReZPFruitVeg.label>Fruits and Vegetables</ReZPFruitVeg.label>
+  <ReZPFruitVeg.description>Being a rather broad term, "Fruit," has several names in Japanese, the most common being "Furūtsu," "Kajitsu," and "Kudamono." The word, "Vegetable," shares a similar fate, with the Japanese for it being "Yasai," "Sosai," or "Bejitaburu."\nThis research will help introduce a variety of crops to the colony.</ReZPFruitVeg.description>
+
+  <ReZPRootVeg.label>Root Vegetables</ReZPRootVeg.label>
+  <ReZPRootVeg.description>Known as "Konsai" in Japanese, this research will help our colony cultivate root-focused crops. By nature, roots act as a plant's storage organ, allowing it to stow away carbohydrates as energy. Roots have a keen advantage over fruit: they can easily be stored for long amounts of time (months).</ReZPRootVeg.description>
+
+  <ReZPLeafStemVeg.label>Leafy Vegetables</ReZPLeafStemVeg.label>
+  <ReZPLeafStemVeg.description>Learn how to cultivate Leafy vegetables, or, "Hamono Yasai." As the name suggests, the cultivation of these plants is mainly concerned with their leaves, which are eaten as vegetables after harvest. Colonists may seek out these veggies for their vitamin C and K content; vitamin K is particularly abundant in these plants due to its connection with photosynthetic tissue.</ReZPLeafStemVeg.description>
+
+  <ReZPFruit.label>Fruit Tree</ReZPFruit.label>
+  <ReZPFruit.description>With the magic of modern technology, learn how to sow genetically modified Kaju (fruit trees) that can bear fruit within a year's time! All three trees, the Mikan, Ume, and Kaki, are of Chinese origin, though each has come to play a part in Japanese cuisine.</ReZPFruit.description>
+
+  <ReZPAquacultureFish.label>Fish Hatchery</ReZPAquacultureFish.label>
+  <ReZPAquacultureFish.description>Learn how to farm fish. It takes a while to properly breed a sizable stock; moreover, one must provide the hatchery with consistent lighting, feed, and temperature. The end yield is a large amount of nutritious fish.</ReZPAquacultureFish.description>
+
+
+  <!-- 調味料 -->
+
+  <ReZPSeasoning.label>Seasoning</ReZPSeasoning.label>
+  <ReZPSeasoning.description>Learn how to make Shīzuningu (Seasonings) that will enrich your diet.\nUnlocks recipes such as: Salt, Spices, Dashi, Rice syrup, Rice vineger, Soy souce, and Miso.</ReZPSeasoning.description>
+
+  <ReZPPreservedFood.label>Preserved Meals</ReZPPreservedFood.label>
+  <ReZPPreservedFood.description>Learn how to make preserved meals that will keep for a long time.\nUnlocks recipes such as: Nukadoko, Dried fish, Tanpo, and Nuka pot.</ReZPPreservedFood.description>
+
+  <ReZPLuxury.label>Luxury Cuisine</ReZPLuxury.label>
+  <ReZPLuxury.description>Want to forget about the impending raids, plagues, and mechanoid swarms? Then become the finest chef on the Rim by studying these luxurious dishes! Your colonists may never venture forth to the stars, but at least their taste buds can glimpse heaven.</ReZPLuxury.description>
+
+
+  <!-- add 1.1 -->
+
+  <ReZPIceMakingTechnology.label>Ice Making Technology</ReZPIceMakingTechnology.label>
+  <ReZPIceMakingTechnology.description>By researching Seihyō (Ice Making) Gijutsu (Technology), our colony will be able to devise new food preservation methods.</ReZPIceMakingTechnology.description>
+
+  <ReZPPoultryRaisingTechnology.label>Poultry Farming</ReZPPoultryRaisingTechnology.label>
+  <ReZPPoultryRaisingTechnology.description>Yōkei (Poultry Farming) can be a reliable source of food; however, the Keisha (Chicken Coops) will need to be regularly provided with feed, and its temperature must also be monitored. When faced with such constraints, some colonies may prefer to keep their poultry free range; yet, Keisha protect our poultry from disease, predators, and-the most common of Rim afflictions-a stray bullet.</ReZPPoultryRaisingTechnology.description>
+
+
+  <!-- 家具 -->
+
+  <ReZPFurniture.label>Japanese Style Furniture</ReZPFurniture.label>
+  <ReZPFurniture.description>Learn how to make some Wafū (Japanese style) Kagu (Furniture), such as Rejāshīto (picnic blankets), Irori, Kotatsu, and Uchiwa.</ReZPFurniture.description>
+
+
+  <!-- add 1.1 -->
+
+  <ReZPLuxuryFurniture.label>Luxury Furniture</ReZPLuxuryFurniture.label>
+  <ReZPLuxuryFurniture.description>With the basics down, it's time to study Kōkyū (Luxury) Kagu (Furniture), and how to liven up the colony's interiors through rugs, bedding, and partitions.</ReZPLuxuryFurniture.description>
+
+  <ReZPTatami.label>Tatami</ReZPTatami.label>
+  <ReZPTatami.description>No traditional colony would be complete without Tatami! These sleek floor mats offer fire retardance, cleanliness, and beauty; moreover, outside the Rim-where Igusa (soft rush) is accessible-Tatami are also made and utilized for air quality, temperature regulation, and humidity.</ReZPTatami.description>
+
+
+</LanguageData>
