@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- add 1.1 -->
+
+  <ZP_ElectricThreshingMachine.label>電動脱穀機</ZP_ElectricThreshingMachine.label>
+  <ZP_ElectricThreshingMachine.description>【役割：脱穀】\n稲穂を脱穀して米(籾)を生産する農具。電動でやるため効率はかなり良い。</ZP_ElectricThreshingMachine.description>
+  <ZP_ElectricThreshingMachine_Blueprint.label>電動脱穀機 (blueprint)</ZP_ElectricThreshingMachine_Blueprint.label>
+  <ZP_ElectricThreshingMachine_Blueprint_Install.label>電動脱穀機 (blueprint)</ZP_ElectricThreshingMachine_Blueprint_Install.label>
+  <ZP_ElectricThreshingMachine_Frame.label>電動脱穀機 (building)</ZP_ElectricThreshingMachine_Frame.label>
+  <ZP_ElectricThreshingMachine_Frame.description>【役割：脱穀】\n稲穂を脱穀して米(籾)を生産する農具。電動でやるため効率はかなり良い。</ZP_ElectricThreshingMachine_Frame.description>
+
+  <ZP_RiceMillingMachine.label>Rice milling machine</ZP_RiceMillingMachine.label>
+  <ZP_RiceMillingMachine.description>(Role: Separating/Polishing)\nA machine that converts Brown rice to White rice.\nOutput suffers due to the machine's manual labor requirements.</ZP_RiceMillingMachine.description>
+  <ZP_RiceMillingMachine_Blueprint.label>Rice milling machine (blueprint)</ZP_RiceMillingMachine_Blueprint.label>
+  <ZP_RiceMillingMachine_Blueprint_Install.label>Rice milling machine (blueprint)</ZP_RiceMillingMachine_Blueprint_Install.label>
+  <ZP_RiceMillingMachine_Frame.label>Rice milling machine (building)</ZP_RiceMillingMachine_Frame.label>
+  <ZP_RiceMillingMachine_Frame.description>(Role: Separating/Polishing)\nA machine that converts Brown rice to White rice.\nOutput suffers due to the machine's manual labor requirements.</ZP_RiceMillingMachine_Frame.description>
+
+  <ZP_ThreshingRiceMillingMachine.label>Auto-Miller 3000</ZP_ThreshingRiceMillingMachine.label>
+  <ZP_ThreshingRiceMillingMachine.description>(Role: Threshing/Separating/Polishing)\nA machine that converts Inaho directly into White rice.</ZP_ThreshingRiceMillingMachine.description>
+  <ZP_ThreshingRiceMillingMachine_Blueprint.label>Auto-Miller 3000 (blueprint)</ZP_ThreshingRiceMillingMachine_Blueprint.label>
+  <ZP_ThreshingRiceMillingMachine_Blueprint_Install.label>Auto-Miller 3000 (blueprint)</ZP_ThreshingRiceMillingMachine_Blueprint_Install.label>
+  <ZP_ThreshingRiceMillingMachine_Frame.label>Auto-Miller 3000 (building)</ZP_ThreshingRiceMillingMachine_Frame.label>
+  <ZP_ThreshingRiceMillingMachine_Frame.description>(Role: Threshing/Separating/Polishing)\nA machine that converts Inaho directly into White rice.</ZP_ThreshingRiceMillingMachine_Frame.description>
+
+
+</LanguageData>

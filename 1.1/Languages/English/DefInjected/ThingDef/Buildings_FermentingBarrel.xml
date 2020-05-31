@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- All add 1.1 -->
+
+  <BrewingTable.label>醸造台</BrewingTable.label>
+  <BrewingTable.description>調味料や醸造用の調理台。</BrewingTable.description>
+  <BrewingTable_Blueprint.label>醸造台 (blueprint)</BrewingTable_Blueprint.label>
+  <BrewingTable_Blueprint_Install.label>醸造台 (blueprint)</BrewingTable_Blueprint_Install.label>
+  <BrewingTable_Frame.label>醸造台 (building)</BrewingTable_Frame.label>
+  <BrewingTable_Frame.description>調味料や醸造用の調理台。</BrewingTable_Frame.description>
+
+  <ZP_FermentingBarrelGinjoSake.label>吟醸酒樽</ZP_FermentingBarrelGinjoSake.label>
+  <ZP_FermentingBarrelGinjoSake.description>【容量:75】\nもろみ(吟醸酒)を醸造して吟醸酒にする。</ZP_FermentingBarrelGinjoSake.description>
+  <ZP_FermentingBarrelGinjoSake_Blueprint.label>吟醸酒樽 (blueprint)</ZP_FermentingBarrelGinjoSake_Blueprint.label>
+  <ZP_FermentingBarrelGinjoSake_Blueprint_Install.label>吟醸酒樽 (blueprint)</ZP_FermentingBarrelGinjoSake_Blueprint_Install.label>
+  <ZP_FermentingBarrelGinjoSake_Frame.label>吟醸酒樽 (building)</ZP_FermentingBarrelGinjoSake_Frame.label>
+  <ZP_FermentingBarrelGinjoSake_Frame.description>【容量:75】\nもろみ(吟醸酒)を醸造して吟醸酒にする。</ZP_FermentingBarrelGinjoSake_Frame.description>
+
+  <ZP_FermentingBarrelJunmaiSake.label>純米酒樽</ZP_FermentingBarrelJunmaiSake.label>
+  <ZP_FermentingBarrelJunmaiSake.description>【容量:75】\nもろみ(純米酒)を醸造して大吟醸酒にする。</ZP_FermentingBarrelJunmaiSake.description>
+  <ZP_FermentingBarrelJunmaiSake_Blueprint.label>純米酒樽 (blueprint)</ZP_FermentingBarrelJunmaiSake_Blueprint.label>
+  <ZP_FermentingBarrelJunmaiSake_Blueprint_Install.label>純米酒樽 (blueprint)</ZP_FermentingBarrelJunmaiSake_Blueprint_Install.label>
+  <ZP_FermentingBarrelJunmaiSake_Frame.label>純米酒樽 (building)</ZP_FermentingBarrelJunmaiSake_Frame.label>
+  <ZP_FermentingBarrelJunmaiSake_Frame.description>【容量:75】\nもろみ(純米酒)を醸造して大吟醸酒にする。</ZP_FermentingBarrelJunmaiSake_Frame.description>
+
+  <ZP_FermentingBarrelUmeshu.label>梅酒樽</ZP_FermentingBarrelUmeshu.label>
+  <ZP_FermentingBarrelUmeshu.description>【容量:25】\n梅酒(未完成)を樽の中で漬けて寝かせることで梅酒にする。</ZP_FermentingBarrelUmeshu.description>
+  <ZP_FermentingBarrelUmeshu_Blueprint.label>梅酒樽 (blueprint)</ZP_FermentingBarrelUmeshu_Blueprint.label>
+  <ZP_FermentingBarrelUmeshu_Blueprint_Install.label>梅酒樽 (blueprint)</ZP_FermentingBarrelUmeshu_Blueprint_Install.label>
+  <ZP_FermentingBarrelUmeshu_Frame.label>梅酒樽 (building)</ZP_FermentingBarrelUmeshu_Frame.label>
+  <ZP_FermentingBarrelUmeshu_Frame.description>【容量:25】\n梅酒(未完成)を樽の中で漬けて寝かせることで梅酒にする。</ZP_FermentingBarrelUmeshu_Frame.description>
+
+  <ZP_FermentingBarrelMiso.label>味噌樽</ZP_FermentingBarrelMiso.label>
+  <ZP_FermentingBarrelMiso.description>【容量:75】\nもろみ(味噌)を発酵させて味噌にする。</ZP_FermentingBarrelMiso.description>
+  <ZP_FermentingBarrelMiso_Blueprint.label>味噌樽 (blueprint)</ZP_FermentingBarrelMiso_Blueprint.label>
+  <ZP_FermentingBarrelMiso_Blueprint_Install.label>味噌樽 (blueprint)</ZP_FermentingBarrelMiso_Blueprint_Install.label>
+  <ZP_FermentingBarrelMiso_Frame.label>味噌樽 (building)</ZP_FermentingBarrelMiso_Frame.label>
+  <ZP_FermentingBarrelMiso_Frame.description>【容量:75】\nもろみ(味噌)を発酵させて味噌にする。</ZP_FermentingBarrelMiso_Frame.description>
+
+  <ZP_FermentingBarrelSoySauce.label>醤油樽</ZP_FermentingBarrelSoySauce.label>
+  <ZP_FermentingBarrelSoySauce.description>【容量:75】\nもろみ(醤油)を発酵させて醤油にする。</ZP_FermentingBarrelSoySauce.description>
+  <ZP_FermentingBarrelSoySauce_Blueprint.label>醤油樽 (blueprint)</ZP_FermentingBarrelSoySauce_Blueprint.label>
+  <ZP_FermentingBarrelSoySauce_Blueprint_Install.label>醤油樽 (blueprint)</ZP_FermentingBarrelSoySauce_Blueprint_Install.label>
+  <ZP_FermentingBarrelSoySauce_Frame.label>醤油樽 (building)</ZP_FermentingBarrelSoySauce_Frame.label>
+  <ZP_FermentingBarrelSoySauce_Frame.description>【容量:75】\nもろみ(醤油)を発酵させて醤油にする。</ZP_FermentingBarrelSoySauce_Frame.description>
+
+  <ZP_FermentingBarrelVinegar.label>酢樽</ZP_FermentingBarrelVinegar.label>
+  <ZP_FermentingBarrelVinegar.description>【容量:75】\nもろみ(酢)を発酵させて酢にする。</ZP_FermentingBarrelVinegar.description>
+  <ZP_FermentingBarrelVinegar_Blueprint.label>酢樽 (blueprint)</ZP_FermentingBarrelVinegar_Blueprint.label>
+  <ZP_FermentingBarrelVinegar_Blueprint_Install.label>酢樽 (blueprint)</ZP_FermentingBarrelVinegar_Blueprint_Install.label>
+  <ZP_FermentingBarrelVinegar_Frame.label>酢樽 (building)</ZP_FermentingBarrelVinegar_Frame.label>
+  <ZP_FermentingBarrelVinegar_Frame.description>【容量:75】\nもろみ(酢)を発酵させて酢にする。</ZP_FermentingBarrelVinegar_Frame.description>
+
+  <ZP_FermentingBarrelRiceBranPickled.label>Nukadoko</ZP_FermentingBarrelRiceBranPickled.label>
+  <ZP_FermentingBarrelRiceBranPickled.description>【燃料:米ぬか 容量:50】\nA large jar that can be used to pickle vegetables in rice bran.</ZP_FermentingBarrelRiceBranPickled.description>
+  <ZP_FermentingBarrelRiceBranPickled_Blueprint.label>Nukadoko (blueprint)</ZP_FermentingBarrelRiceBranPickled_Blueprint.label>
+  <ZP_FermentingBarrelRiceBranPickled_Blueprint_Install.label>Nukadoko (blueprint)</ZP_FermentingBarrelRiceBranPickled_Blueprint_Install.label>
+  <ZP_FermentingBarrelRiceBranPickled_Frame.label>Nukadoko (building)</ZP_FermentingBarrelRiceBranPickled_Frame.label>
+  <ZP_FermentingBarrelRiceBranPickled_Frame.description>【燃料:米ぬか 容量:50】\nA large jar that can be used to pickle vegetables in rice bran.</ZP_FermentingBarrelRiceBranPickled_Frame.description>
+
+  <ZP_FermentingBarrelWaterJar.label>水瓶</ZP_FermentingBarrelWaterJar.label>
+  <ZP_FermentingBarrelWaterJar.description>【容量:50】\n時間をかけて生水の不純物を取り除き濾過して水にする。釜の近くに置くと水場が近くなるので作業効率が上がる。</ZP_FermentingBarrelWaterJar.description>
+  <ZP_FermentingBarrelWaterJar_Blueprint.label>水瓶 (blueprint)</ZP_FermentingBarrelWaterJar_Blueprint.label>
+  <ZP_FermentingBarrelWaterJar_Blueprint_Install.label>水瓶 (blueprint)</ZP_FermentingBarrelWaterJar_Blueprint_Install.label>
+  <ZP_FermentingBarrelWaterJar_Frame.label>水瓶 (building)</ZP_FermentingBarrelWaterJar_Frame.label>
+  <ZP_FermentingBarrelWaterJar_Frame.description>【容量:50】\n時間をかけて生水の不純物を取り除き濾過して水にする。釜の近くに置くと水場が近くなるので作業効率が上がる。</ZP_FermentingBarrelWaterJar_Frame.description>
+
+  <ZP_FermentingBarrelIceBox.label>製氷箱</ZP_FermentingBarrelIceBox.label>
+  <ZP_FermentingBarrelIceBox.description>【容量:25】\n時間をかけて水を氷にする。</ZP_FermentingBarrelIceBox.description>
+  <ZP_FermentingBarrelIceBox_Blueprint.label>製氷箱 (blueprint)</ZP_FermentingBarrelIceBox_Blueprint.label>
+  <ZP_FermentingBarrelIceBox_Blueprint_Install.label>製氷箱 (blueprint)</ZP_FermentingBarrelIceBox_Blueprint_Install.label>
+  <ZP_FermentingBarrelIceBox_Frame.label>製氷箱 (building)</ZP_FermentingBarrelIceBox_Frame.label>
+  <ZP_FermentingBarrelIceBox_Frame.description>【容量:25】\n時間をかけて水を氷にする。</ZP_FermentingBarrelIceBox_Frame.description>
+
+  <ZP_FermentingBarrelChickenCoop.label>鶏小屋(無精卵)</ZP_FermentingBarrelChickenCoop.label>
+  <ZP_FermentingBarrelChickenCoop.description>【燃料:ペットフード,増量ペットフード,魚の餌,飲料水 容量:4】\n飼い葉を与えると2日後に無精卵が4つとれる。設置後は解体不可。</ZP_FermentingBarrelChickenCoop.description>
+  <ZP_FermentingBarrelChickenCoop_Blueprint.label>鶏小屋(無精卵) (blueprint)</ZP_FermentingBarrelChickenCoop_Blueprint.label>
+  <ZP_FermentingBarrelChickenCoop_Frame.label>鶏小屋(無精卵) (building)</ZP_FermentingBarrelChickenCoop_Frame.label>
+  <ZP_FermentingBarrelChickenCoop_Frame.description>【燃料:ペットフード,増量ペットフード,魚の餌,飲料水 容量:4】\n飼い葉を与えると2日後に無精卵が4つとれる。設置後は解体不可。</ZP_FermentingBarrelChickenCoop_Frame.description>
+
+  <ZP_FermentingBarrelChickenCoop2nd.label>鶏小屋(有精卵)</ZP_FermentingBarrelChickenCoop2nd.label>
+  <ZP_FermentingBarrelChickenCoop2nd.description>【燃料:ペットフード,増量ペットフード,魚の餌,飲料水 容量:4】\n飼い葉を与えると2日後に有精卵が4つとれる。設置後は解体不可。</ZP_FermentingBarrelChickenCoop2nd.description>
+  <ZP_FermentingBarrelChickenCoop2nd_Blueprint.label>鶏小屋(有精卵) (blueprint)</ZP_FermentingBarrelChickenCoop2nd_Blueprint.label>
+  <ZP_FermentingBarrelChickenCoop2nd_Frame.label>鶏小屋(有精卵) (building)</ZP_FermentingBarrelChickenCoop2nd_Frame.label>
+  <ZP_FermentingBarrelChickenCoop2nd_Frame.description>【燃料:ペットフード,増量ペットフード,魚の餌,飲料水 容量:4】\n飼い葉を与えると2日後に有精卵が4つとれる。設置後は解体不可。</ZP_FermentingBarrelChickenCoop2nd_Frame.description>
+
+
+</LanguageData>

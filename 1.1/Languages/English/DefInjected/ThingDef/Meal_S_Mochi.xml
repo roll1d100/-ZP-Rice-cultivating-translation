@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealSimple -->
+
+  <ZP_RoastedMochi.label>Grilled Mochi</ZP_RoastedMochi.label>
+  <ZP_RoastedMochi.description>It's baked mochi with nothing else added.</ZP_RoastedMochi.description>
+
+  <ZP_VinegarMochi.label>Vinegar Mochi</ZP_VinegarMochi.label>
+  <ZP_VinegarMochi.description>Mochi with vinegar and grated Japanese radish (Daikon). A common dish in the Kyushu area.</ZP_VinegarMochi.description>
+
+  <ZP_IsobeMochi.label>Isobe Mochi</ZP_IsobeMochi.label>
+  <ZP_IsobeMochi.description>Mochi baked, soaked with soy sauce, and wrapped in seaweed.</ZP_IsobeMochi.description>
+
+  <ZP_GoheiMochi.label>Gohei Mochi</ZP_GoheiMochi.label>
+  <ZP_GoheiMochi.description>Mochi baked on an iron plate and seasoned with miso.</ZP_GoheiMochi.description>
+
+
+</LanguageData>

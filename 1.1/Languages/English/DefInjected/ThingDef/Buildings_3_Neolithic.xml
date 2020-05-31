@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_RiceCraftingSpot.label>Rice crafting spot</ZP_RiceCraftingSpot.label>
+  <ZP_RiceCraftingSpot.description>Work place to process agricultural crops and by-products.</ZP_RiceCraftingSpot.description>
+  <ZP_RiceCraftingSpot_Blueprint.label>Rice crafting spot (blueprint)</ZP_RiceCraftingSpot_Blueprint.label>
+  <ZP_RiceCraftingSpot_Frame.label>Rice crafting spot (building)</ZP_RiceCraftingSpot_Frame.label>
+  <ZP_RiceCraftingSpot_Frame.description>Work place to process agricultural crops and by-products.</ZP_RiceCraftingSpot_Frame.description>
+
+  <ZP_PestleAndMortar.label>Kineusu</ZP_PestleAndMortar.label>
+  <ZP_PestleAndMortar.description>Kine (pestle) and Usu (mortar) for making Mochi. With this colonists can make Mochi in large quantities.</ZP_PestleAndMortar.description>
+  <ZP_PestleAndMortar_Blueprint.label>Kineusu (blueprint)</ZP_PestleAndMortar_Blueprint.label>
+  <ZP_PestleAndMortar_Blueprint_Install.label>Kineusu (blueprint)</ZP_PestleAndMortar_Blueprint_Install.label>
+  <ZP_PestleAndMortar_Frame.label>Kineusu (building)</ZP_PestleAndMortar_Frame.label>
+  <ZP_PestleAndMortar_Frame.description>Kine (pestle) and Usu (mortar) for making Mochi. With this colonists can make Mochi in large quantities.</ZP_PestleAndMortar_Frame.description>
+
+
+</LanguageData>

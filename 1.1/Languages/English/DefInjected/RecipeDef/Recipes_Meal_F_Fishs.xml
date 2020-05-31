@@ -3,24 +3,24 @@
 
   <!-- MealFine -->
 
-  <CookSaltGrilledFish.label>魚の塩焼きx4</CookSaltGrilledFish.label>
-  <CookSaltGrilledFish.description>魚の塩焼きを4個作る</CookSaltGrilledFish.description>
-  <CookSaltGrilledFish.jobString>魚の塩焼きを作成中。</CookSaltGrilledFish.jobString>
+  <CookSaltGrilledFish.label>Salt-grilled fish x4</CookSaltGrilledFish.label>
+  <CookSaltGrilledFish.description>Grill fresh fish and season with salt.</CookSaltGrilledFish.description>
+  <CookSaltGrilledFish.jobString>Making Salt-grilled fish.</CookSaltGrilledFish.jobString>
 
 
   <!-- add 1.1 -->
 
-  <CookSasimi.label>刺身x4</CookSasimi.label>
+  <CookSasimi.label>Make Sashimi x4</CookSasimi.label>
   <CookSasimi.description>白米,大根,野菜(果菜,葉茎菜,果物),魚の切り身,調味料で刺身定食を作れる。</CookSasimi.description>
-  <CookSasimi.jobString>刺身を作成中。</CookSasimi.jobString>
+  <CookSasimi.jobString>Making Sashimi.</CookSasimi.jobString>
 
-  <CookSteamedFish.label>魚の煮付けx4</CookSteamedFish.label>
+  <CookSteamedFish.label>Make Boiled fish x4</CookSteamedFish.label>
   <CookSteamedFish.description>白米,野菜(果菜,葉茎菜,豆菌),野菜(根菜,野菜加工,果物),魚類,調味料で魚の煮付け定食を作る。</CookSteamedFish.description>
-  <CookSteamedFish.jobString>魚の煮付けを作成中。</CookSteamedFish.jobString>
+  <CookSteamedFish.jobString>Making Boiled fish.</CookSteamedFish.jobString>
 
-  <CookOden.label>おでんx4</CookOden.label>
-  <CookOden.description>おでんを8個作る</CookOden.description>
-  <CookOden.jobString>おでんを作成中。</CookOden.jobString>
+  <CookOden.label>Cook Oden x4</CookOden.label>
+  <CookOden.description>おでんを4個作る</CookOden.description>
+  <CookOden.jobString>Cooking Oden.</CookOden.jobString>
 
 
 </LanguageData>

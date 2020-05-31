@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealFine -->
+
+  <ZP_SaltGrilledFish.label>Salt-grilled fish</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>Salted fish that was skewered and baked over an open flame.</ZP_SaltGrilledFish.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_Sasimi.label>Sasimi</ZP_Sasimi.label>
+  <ZP_Sasimi.description>Bite-sized raw fish that has been neatly assorted on a dish.</ZP_Sasimi.description>
+
+  <ZP_SteamedFish.label>Boiled fish</ZP_SteamedFish.label>
+  <ZP_SteamedFish.description>Fish that has been lightly boiled and seasoned with Miso.</ZP_SteamedFish.description>
+
+  <ZP_Oden.label>Oden</ZP_Oden.label>
+  <ZP_Oden.description>A boiled dish containing Konnyaku, daikon, and Chikuwa, as well as fishcakes stewed in dashi broth. Oden is a popular Winter dish, and is often sold by yatai (food carts).</ZP_Oden.description>
+
+
+</LanguageData>

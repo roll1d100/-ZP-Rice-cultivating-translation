@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米類 -->
+
+  <RawRice.label>Rice</RawRice.label>
+  <RawRice.description>Raw rice.</RawRice.description>
+
+  <ZP_RawBrownRice.label>Brown rice</ZP_RawBrownRice.label>
+  <ZP_RawBrownRice.description>Obtained by threshing Paddy, Brown rice can be eaten; however, colonists may find it better to wait and polish the Brown rice, so as to obtain White rice.</ZP_RawBrownRice.description>
+
+  <WhiteRice.label>White rice</WhiteRice.label>
+  <WhiteRice.description>Rice that has been thoroughly threshed and polished.\nNutrients are lost in the process of polishing, but the taste improves superbly.</WhiteRice.description>
+
+   <ZP_RawGlutinousRice.label>Glutinous rice</ZP_RawGlutinousRice.label>
+  <ZP_RawGlutinousRice.description>Rice with a particular texture. Its primary use is making Freezer Mochi.</ZP_RawGlutinousRice.description>
+
+
+</LanguageData>

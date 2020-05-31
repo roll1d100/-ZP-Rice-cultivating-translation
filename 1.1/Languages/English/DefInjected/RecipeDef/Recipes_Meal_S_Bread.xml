@@ -3,13 +3,13 @@
 
   <!-- MealSimple -->
 
-  <CookASUHotDogBun.label>こっぺぱん</CookASUHotDogBun.label>
-  <CookASUHotDogBun.description>穀物粉,塩,水飴,牛乳でこっぺぱんを作る。</CookASUHotDogBun.description>
-  <CookASUHotDogBun.jobString>こっぺぱんを作成中。</CookASUHotDogBun.jobString>
+  <CookASUHotDogBun.label>Bake Koppepan</CookASUHotDogBun.label>
+  <CookASUHotDogBun.description>Bake a Koppepan roll.</CookASUHotDogBun.description>
+  <CookASUHotDogBun.jobString>Baking Koppepan.</CookASUHotDogBun.jobString>
 
-  <CookASUHotDogBun10.label>こっぺぱんx10</CookASUHotDogBun10.label>
-  <CookASUHotDogBun10.description>穀物粉,塩,水飴,牛乳でこっぺぱんを作る。</CookASUHotDogBun10.description>
-  <CookASUHotDogBun10.jobString>こっぺぱんを作成中。</CookASUHotDogBun10.jobString>
+  <CookASUHotDogBun10.label>Bake Koppepan x10</CookASUHotDogBun10.label>
+  <CookASUHotDogBun10.description>Bake a Koppepan roll.</CookASUHotDogBun10.description>
+  <CookASUHotDogBun10.jobString>Baking Koppepan.</CookASUHotDogBun10.jobString>
 
 
 </LanguageData>

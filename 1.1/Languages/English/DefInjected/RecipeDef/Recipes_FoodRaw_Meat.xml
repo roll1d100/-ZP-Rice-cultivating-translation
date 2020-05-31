@@ -3,13 +3,13 @@
 
   <!-- 肉加工品 0.25 -->
 
-  <Prep_SeasonedMeat10.label>味付け肉x10</Prep_SeasonedMeat10.label>
-  <Prep_SeasonedMeat10.description>調味料で生肉の臭みを消し保存性を少し高めた味付け肉を作る。生でも心情を害することなく食べれます。</Prep_SeasonedMeat10.description>
-  <Prep_SeasonedMeat10.jobString>味付け肉を作成中。</Prep_SeasonedMeat10.jobString>
+  <Prep_SeasonedMeat10.label>Season meat x10</Prep_SeasonedMeat10.label>
+  <Prep_SeasonedMeat10.description>Improve the meat's nutritional value, preservability, and even smell via seasoning.</Prep_SeasonedMeat10.description>
+  <Prep_SeasonedMeat10.jobString>Making seasoned meat.</Prep_SeasonedMeat10.jobString>
 
-  <Prep_SeasonedMeat50.label>味付け肉x50</Prep_SeasonedMeat50.label>
-  <Prep_SeasonedMeat50.description>調味料で生肉の臭みを消し栄養素と保存性を少し高めた味付け肉を作る。生でも心情を害することなく食べれます。</Prep_SeasonedMeat50.description>
-  <Prep_SeasonedMeat50.jobString>味付け肉を作成中。</Prep_SeasonedMeat50.jobString>
+  <Prep_SeasonedMeat50.label>Season meat x50</Prep_SeasonedMeat50.label>
+  <Prep_SeasonedMeat50.description>Improve the meat's nutritional value, preservability, and even smell via seasoning.</Prep_SeasonedMeat50.description>
+  <Prep_SeasonedMeat50.jobString>Making seasoned meat.</Prep_SeasonedMeat50.jobString>
 
 
   <!-- add 1.1 -->
@@ -26,29 +26,29 @@
   <Prep_ChoppedMeat100.description>調理しやすいように様々な種類の生肉をぶつ切りにしてまとめる。</Prep_ChoppedMeat100.description>
   <Prep_ChoppedMeat100.jobString>ぶつ切り肉を作成中。</Prep_ChoppedMeat100.jobString>
 
-  <Prep_FishFillet.label>魚の切り身x4</Prep_FishFillet.label>
-  <Prep_FishFillet.description>生魚をさばいて切り身にする。</Prep_FishFillet.description>
-  <Prep_FishFillet.jobString>切り身を作成中。</Prep_FishFillet.jobString>
+  <Prep_FishFillet.label>Make Fish fillet x4</Prep_FishFillet.label>
+  <Prep_FishFillet.description>Prepare a fish fillet by removing the scales and cutting parallel to the spine.</Prep_FishFillet.description>
+  <Prep_FishFillet.jobString>Cooking Fish fillet.</Prep_FishFillet.jobString>
 
-  <Prep_FishFillet100.label>魚の切り身x100</Prep_FishFillet100.label>
-  <Prep_FishFillet100.description>生魚をさばいて切り身にする。</Prep_FishFillet100.description>
-  <Prep_FishFillet100.jobString>切り身を作成中。</Prep_FishFillet100.jobString>
+  <Prep_FishFillet100.label>Make Fish fillet x100</Prep_FishFillet100.label>
+  <Prep_FishFillet100.description>Prepare a fish fillet by removing the scales and cutting parallel to the spine.</Prep_FishFillet100.description>
+  <Prep_FishFillet100.jobString>Cooking Fish fillet.</Prep_FishFillet100.jobString>
 
   <Prep_DriedFish50.label>魚の干物(未完成)x50</Prep_DriedFish50.label>
   <Prep_DriedFish50.description>魚の切り身を塩水に浸して余分な水分を抜く。</Prep_DriedFish50.description>
   <Prep_DriedFish50.jobString>魚の干物を作成中。</Prep_DriedFish50.jobString>
 
-  <Prep_Tofu10.label>豆腐x10</Prep_Tofu10.label>
-  <Prep_Tofu10.description>豆乳を使って豆腐を作る</Prep_Tofu10.description>
-  <Prep_Tofu10.jobString>豆腐を作成中。</Prep_Tofu10.jobString>
+  <Prep_Tofu10.label>Cook Tofu x10</Prep_Tofu10.label>
+  <Prep_Tofu10.description>Soy milk is required for Tofu.</Prep_Tofu10.description>
+  <Prep_Tofu10.jobString>Cooking Tofu.</Prep_Tofu10.jobString>
 
-  <Prep_Tofu50.label>豆腐x50</Prep_Tofu50.label>
-  <Prep_Tofu50.description>豆乳を使って豆腐を作る</Prep_Tofu50.description>
-  <Prep_Tofu50.jobString>豆腐を作成中。</Prep_Tofu50.jobString>
+  <Prep_Tofu50.label>Cook Tofu x50</Prep_Tofu50.label>
+  <Prep_Tofu50.description>Soy milk is required for Tofu.</Prep_Tofu50.description>
+  <Prep_Tofu50.jobString>Cooking Tofu.</Prep_Tofu50.jobString>
 
-  <Prep_Tofu100.label>豆腐x100</Prep_Tofu100.label>
-  <Prep_Tofu100.description>豆乳を使って豆腐を作る</Prep_Tofu100.description>
-  <Prep_Tofu100.jobString>豆腐を作成中。</Prep_Tofu100.jobString>
+  <Prep_Tofu100.label>Cook Tofu x100</Prep_Tofu100.label>
+  <Prep_Tofu100.description>Soy milk is required for Tofu.</Prep_Tofu100.description>
+  <Prep_Tofu100.jobString>Cooking Tofu.</Prep_Tofu100.jobString>
 
   <Prep_Tikuwa10.label>ちくわx10</Prep_Tikuwa10.label>
   <Prep_Tikuwa10.description>生魚をすりおろしてちくわを作る</Prep_Tikuwa10.description>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 塩味 -->
+
+  <ZP_RiceCracker.label>Senbei</ZP_RiceCracker.label>
+  <ZP_RiceCracker.description>【特産品】Very crispy sweets. These rice crackers can be brushed with various seasonings, like soy sauce or Miso, to enhance their flavor. Some crackers are also wrapped in Nori, an edible seaweed that is also seen in sushi and Onigiri.</ZP_RiceCracker.description>
+
+  <ZP_BoiledEdamame.label>Boiled Edamame</ZP_BoiledEdamame.label>
+  <ZP_BoiledEdamame.description>These immature soybeans have been boiled to perfection. Sometimes served with salt and garlic, boiled Edamame can be found accompanying alcoholic drinks in izakaya restaurants (bars).</ZP_BoiledEdamame.description>
+
+  <ZP_Yakitori.label>Yakitori</ZP_Yakitori.label>
+  <ZP_Yakitori.description>Bite-sized meat succulently grilled and served with salt or sauce. This treat is a common sight among the yatai (mobile food stalls; or, as the name translates, "shop stand(s)").</ZP_Yakitori.description>
+
+  <ZP_Hiyayakko.label>Hiyayakko</ZP_Hiyayakko.label>
+  <ZP_Hiyayakko.description>A dish whose choice of toppings allow it to be the perfect drinking snack or a proper side dish. The etymology of Hiyayakko reveals an interesting history; "Hiya" means "cold," but "yakko" refers to the servants samurais had during the Edo period. Due to the frequency with which these servants served the dish to their masters, their name-yakko-was attached to it. Hiyayakko is typically viewed as a Summer dish, since it is served cold; however, in the Winter, it is served in a warm broth.</ZP_Hiyayakko.description>
+
+  <ZP_Misotanpo.label>Kiritanpo</ZP_Misotanpo.label>
+  <ZP_Misotanpo.description>Baked rice that can be served with miso, or thrown into a soup as dumplings. This dish is common in the Akita prefecture.</ZP_Misotanpo.description>
+
+
+</LanguageData>

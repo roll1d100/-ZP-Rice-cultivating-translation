@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealFine -->
+
+  <ZP_Udon.label>Udon</ZP_Udon.label>
+  <ZP_Udon.description>A bowl of long, white noodles. The flavor of Udon differs greatly depending on the broth used, as well the chef's choice of toppings. It can be served cold or hot, and its possible toppings range from egg omelette slices to deep-fried tempura.</ZP_Udon.description>
+
+  <ZP_Okonomiyaki.label>Okonomiyaki</ZP_Okonomiyaki.label>
+  <ZP_Okonomiyaki.description>Grilled pancakes that have been stuffed with an array of meats and vegetables.</ZP_Okonomiyaki.description>
+
+</LanguageData>

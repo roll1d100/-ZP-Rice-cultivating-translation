@@ -3,35 +3,35 @@
 
   <!-- 稲穂⇒白米 -->
 
-  <MakeMPTWhiteRice100.label>稲穂を白米にするx100</MakeMPTWhiteRice100.label>
-  <MakeMPTWhiteRice100.description>稲穂を脱穀精米して白米、藁、副産物袋にわける</MakeMPTWhiteRice100.description>
-  <MakeMPTWhiteRice100.jobString>脱穀精米中</MakeMPTWhiteRice100.jobString>
+  <MakeMPTWhiteRice100.label>Thresh Inaho into White rice x100</MakeMPTWhiteRice100.label>
+  <MakeMPTWhiteRice100.description>Inaho is divided into White rice, Straw, and by-product bags.</MakeMPTWhiteRice100.description>
+  <MakeMPTWhiteRice100.jobString>Threshing Inaho.</MakeMPTWhiteRice100.jobString>
 
-  <MakeMPTWhiteRice300.label>稲穂を白米にするx300</MakeMPTWhiteRice300.label>
-  <MakeMPTWhiteRice300.description>稲穂を脱穀精米して白米、藁、副産物袋にわける</MakeMPTWhiteRice300.description>
-  <MakeMPTWhiteRice300.jobString>脱穀精米中</MakeMPTWhiteRice300.jobString>
+  <MakeMPTWhiteRice300.label>Thresh Inaho into White rice x300</MakeMPTWhiteRice300.label>
+  <MakeMPTWhiteRice300.description>Inaho is divided into White rice, Straw, and by-product bags.</MakeMPTWhiteRice300.description>
+  <MakeMPTWhiteRice300.jobString>Threshing Inaho.</MakeMPTWhiteRice300.jobString>
 
 
   <!-- 稲穂⇒玄米 -->
 
-  <MakeMPTBrownRice100.label>稲穂を玄米にするx100</MakeMPTBrownRice100.label>
-  <MakeMPTBrownRice100.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeMPTBrownRice100.description>
-  <MakeMPTBrownRice100.jobString>脱穀中</MakeMPTBrownRice100.jobString>
+  <MakeMPTBrownRice100.label>Thresh Inaho into Brown ricex100</MakeMPTBrownRice100.label>
+  <MakeMPTBrownRice100.description>Inaho is divided into Brown rice, Straw, and Rice Husks.</MakeMPTBrownRice100.description>
+  <MakeMPTBrownRice100.jobString>Threshing Inaho.</MakeMPTBrownRice100.jobString>
 
-  <MakeMPTBrownRice300.label>稲穂を玄米にするx300</MakeMPTBrownRice300.label>
-  <MakeMPTBrownRice300.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeMPTBrownRice300.description>
-  <MakeMPTBrownRice300.jobString>脱穀中</MakeMPTBrownRice300.jobString>
+  <MakeMPTBrownRice300.label>Thresh Inaho into Brown ricex300</MakeMPTBrownRice300.label>
+  <MakeMPTBrownRice300.description>Inaho is divided into Brown rice, Straw, and Rice Husks.</MakeMPTBrownRice300.description>
+  <MakeMPTBrownRice300.jobString>Threshing Inaho.</MakeMPTBrownRice300.jobString>
 
 
   <!-- 稲穂⇒もち米 -->
 
-  <MakeMPTGlutinousRice100.label>稲穂をもち米にするx100</MakeMPTGlutinousRice100.label>
-  <MakeMPTGlutinousRice100.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeMPTGlutinousRice100.description>
-  <MakeMPTGlutinousRice100.jobString>脱穀中</MakeMPTGlutinousRice100.jobString>
+  <MakeMPTGlutinousRice100.label>Thresh Inaho into Glutinous rice x100</MakeMPTGlutinousRice100.label>
+  <MakeMPTGlutinousRice100.description>Inaho is divided into Glutinous rice, Straw, and Rice Husks.</MakeMPTGlutinousRice100.description>
+  <MakeMPTGlutinousRice100.jobString>Threshing Inaho.</MakeMPTGlutinousRice100.jobString>
 
-  <MakeMPTGlutinousRice300.label>稲穂(もち米)をもち米にするx300</MakeMPTGlutinousRice300.label>
-  <MakeMPTGlutinousRice300.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeMPTGlutinousRice300.description>
-  <MakeMPTGlutinousRice300.jobString>脱穀中</MakeMPTGlutinousRice300.jobString>
+  <MakeMPTGlutinousRice300.label>Thresh Inaho into Glutinous rice x300</MakeMPTGlutinousRice300.label>
+  <MakeMPTGlutinousRice300.description>Inaho is divided into Glutinous rice, Straw, and Rice Husks.</MakeMPTGlutinousRice300.description>
+  <MakeMPTGlutinousRice300.jobString>Threshing Inaho.</MakeMPTGlutinousRice300.jobString>
 
 
 </LanguageData>

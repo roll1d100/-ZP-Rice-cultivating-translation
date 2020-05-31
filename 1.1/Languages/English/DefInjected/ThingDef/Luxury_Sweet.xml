@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 甘味 -->
+
+  <ZP_PuffedRice.label>Pon confectionery</ZP_PuffedRice.label>
+  <ZP_PuffedRice.description>【特産品】A cheap, easy to make treat; puffed rice-or "Muri" in India-is often sold by street vendors as a snack. Muri is also found in American cuisine, though certainly not by that name; several candies use puffed rice to add a crunchy texture, while some cereals are made entirely-or in part-out of puffed rice.\nIts texture is similar to that of popcorn, while its flavor is somewhat sweet.</ZP_PuffedRice.description>
+
+  <ZP_Okoshi.label>Kaminari Okoshi</ZP_Okoshi.label>
+  <ZP_Okoshi.description>【特産品】Japanese sweets made by heating and drying rice. During the Warring States Period, Okoshi was widely popular as an auspicious treat; popular enough, in fact, to warrant a saying. The quote is somewhat rough outside of Japanese, thus forgive this approximation: "The cause of the country, is the cause of the household, is the cause of the individual." The use of "cause" is intentional, as the saying relies on a pun of Okoshi, as the word means both "cake" and "cause." There are several different types of Okoshi, with Kaminari, which means "thunder," being one of the more popular kinds. It often has peanuts in it, and comes in such flavors as sesame or macha green tea. The name comes from its point of origin: the Kaminarimon gate of Asakusa, Tokyo's Senso-ji temple. From the gate, onlookers can peer into the temple to see a statue of Raijin, the god of thunder and lightning.</ZP_Okoshi.description>
+
+  <ZP_Kasutera.label>Baby Castella</ZP_Kasutera.label>
+  <ZP_Kasutera.description>【特産品】A small Japanese sponge cake. As one might notice, the word "Castella" is not exactly native to Japan; instead, it is derived from the Portuguese term "Pao de Castela" which means "bread from Castile." The Portuguese introduced this sponge cake to Japan in the 16th century. It has since changed both in flavor and shape, with the Japanese preferring it to have a long, rectangular shape.</ZP_Kasutera.description>
+
+  <ZP_Kompeito.label>Kompeito</ZP_Kompeito.label>
+  <ZP_Kompeito.description>【特産品】Star shaped Mizuame candy that serves as the standard thank-you-for-coming gift of the Imperial House of Japan. As with Castella, Kompeito was also introduced to the Japanese through the Portuguese (who called it "confeito") in the 16th century. History has it that a glass flask of Kompeito was given to Oda Nobunaga by a Portuguese missionary.</ZP_Kompeito.description>
+
+  <ZP_CottonCandy.label>Cotton candy</ZP_CottonCandy.label>
+  <ZP_CottonCandy.description>A classic modern-day sweet. This fluff of ZP_Mizuame is best enjoyed in the moment, as it tends to harden over time.</ZP_CottonCandy.description>
+
+  <ZP_ThreeColoredDumplings.label>Dango</ZP_ThreeColoredDumplings.label>
+  <ZP_ThreeColoredDumplings.description>A slightly sweet dumpling. Although there are various theories, each color may be broken down thus: red represents Spring by evoking the color of cherry blossoms; white represents Winter by harkening to the color of snow; and green represents Summer, which is often associated with lush greenery.\nThe reason why there's not a dumpling representing Fall comes from Japanese pun that, "Without Autumn (Akinai) one never gets bored (Akinai) of eating, so business (Akinai) will be thriving."</ZP_ThreeColoredDumplings.description>
+
+  <ZP_ZundaMochi.label>Zunda Mochi</ZP_ZundaMochi.label>
+  <ZP_ZundaMochi.description>Mochi sweetened with crushed edamame. A common dish in the Touhoku area.\nZun!!Zun!!Zunda! Rumors hold that there was ponce a girl who was driven insane over her love of Zunda Mochi.</ZP_ZundaMochi.description>
+
+  <ASU_Dorayaki.label>Dorayaki</ASU_Dorayaki.label>
+  <ASU_Dorayaki.description>【特産品】Invented in Ueno, Tokyo by Usagiya in 1914, Dorayaki consists of two Castella (sponge cake) "pancakes" wrapped around an Azuki red bean paste filling. The confection itself was not invented in 1914, rather Usagiya added the second pancake that the dessert is now known for. The original Dorayaki dates back to the time of samurai, when a particular samurai named Benkei forgot his gong at a farmer's house. Benkei had used the farmer's house as a hideout, and the farmer-caring not to seek out Benkei-used his gong to fry pancakes. Dorayaki round shape was thus born, and its name also derives from this legend, as "dora" means "gong" in Japanese.</ASU_Dorayaki.description>
+
+
+  <!-- add 1.1 -->
+
+  <ASU_Pancake.label>ホットケーキ</ASU_Pancake.label>
+  <ASU_Pancake.description>小麦粉に牛乳,砂糖を混ぜて円盤状に焼いたケーキ。</ASU_Pancake.description>
+
+
+</LanguageData>

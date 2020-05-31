@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ジャムトースト -->
+
+  <AteFoodJamToast.stages.0.label>A small luxury</AteFoodJamToast.stages.0.label>
+  <AteFoodJamToast.stages.0.description>That toast was quite delicious!</AteFoodJamToast.stages.0.description>
+
+
+  <!-- 嗜好品 -->
+
+  <AteFoodBreaktime.stages.0.label>So yummy! This is the best food: ever!</AteFoodBreaktime.stages.0.label>
+  <AteFoodBreaktime.stages.0.description>I'm so happy that I can eat like this, especially during such hard times.</AteFoodBreaktime.stages.0.description>
+
+
+  <!-- 簡単+0 白米 -->
+
+  <RiceAteMealSimple.stages.0.label>I ate white rice!</RiceAteMealSimple.stages.0.label>
+  <RiceAteMealSimple.stages.0.description>The effort was worth this taste.</RiceAteMealSimple.stages.0.description>
+
+
+  <!-- 手の込んだ+5 -->
+
+  <RiceAteFineMeal.stages.0.label>I ate tasty white rice!</RiceAteFineMeal.stages.0.label>
+  <RiceAteFineMeal.stages.0.description>That meal was completely and utterly amazing.</RiceAteFineMeal.stages.0.description>
+
+
+  <!-- 豪華+10 -->
+
+  <RiceAteLavishMeal.stages.0.label>I ate delicious white rice!!!</RiceAteLavishMeal.stages.0.label>
+  <RiceAteLavishMeal.stages.0.description>It's amazing that such a taste exists. Maybe this world isn't that bad after all.</RiceAteLavishMeal.stages.0.description>
+
+  <AteCurryRice.stages.0.label>Curry Fury!</AteCurryRice.stages.0.label>
+  <AteCurryRice.stages.0.description>The flavor dances in my mouth. I should have more!</AteCurryRice.stages.0.description>
+
+
+  <!-- add 1.1 -->
+
+  <RiceDrinkWater.stages.0.label>おいしい水</RiceDrinkWater.stages.0.label>
+  <RiceDrinkWater.stages.0.description>安心安全なきれいな水を飲めた。</RiceDrinkWater.stages.0.description>
+
+
+</LanguageData>

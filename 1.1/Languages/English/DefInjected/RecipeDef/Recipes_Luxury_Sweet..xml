@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookPuffedRice.label>ポン菓子x4</CookPuffedRice.label>
-  <CookPuffedRice.description>米に圧力をかけた後に一気に解放することによって膨らませる。</CookPuffedRice.description>
-  <CookPuffedRice.jobString>ポン菓子を作成中。</CookPuffedRice.jobString>
+  <CookPuffedRice.label>Cook Pon confectionery x4</CookPuffedRice.label>
+  <CookPuffedRice.description>Puffed rice. The rice is inflated through high pressure and heat.</CookPuffedRice.description>
+  <CookPuffedRice.jobString>Boooomb!</CookPuffedRice.jobString>
 
-  <CookOkoshi.label>おこしx4</CookOkoshi.label>
-  <CookOkoshi.description>穀物類を加工して飴でかためる。</CookOkoshi.description>
-  <CookOkoshi.jobString>おこしを作成中。</CookOkoshi.jobString>
+  <CookOkoshi.label>Cook Kaminari Okoshi x4</CookOkoshi.label>
+  <CookOkoshi.description>Create a rice candy bar by flavoring rice with syrup and either soybeans or Mochi.</CookOkoshi.description>
+  <CookOkoshi.jobString>Cooking Kaminari Okoshi.</CookOkoshi.jobString>
 
-  <CookKasutera.label>ベビーカステラx4</CookKasutera.label>
-  <CookKasutera.description>穀物粉と牛乳、水飴を混ぜてを玉状に焼く。</CookKasutera.description>
-  <CookKasutera.jobString>ベビーカステラを作成中。</CookKasutera.jobString>
+  <CookKasutera.label>Bake Baby Castella x4</CookKasutera.label>
+  <CookKasutera.description>Create several servings of Japanese sponge cake.</CookKasutera.description>
+  <CookKasutera.jobString>Baking Baby Castella.</CookKasutera.jobString>
 
-  <CookKompeito.label>金平糖x4</CookKompeito.label>
-  <CookKompeito.description>米に水飴をかけながら熱を加えて金平糖をつくる。</CookKompeito.description>
-  <CookKompeito.jobString>金平糖を作成中。</CookKompeito.jobString>
+  <CookKompeito.label>Cook Kompeito x4</CookKompeito.label>
+  <CookKompeito.description>Create a handful of Mizuame stars.</CookKompeito.description>
+  <CookKompeito.jobString>Cooking Kompeito.</CookKompeito.jobString>
 
-  <CookCottonCandy.label>わたあめx4</CookCottonCandy.label>
-  <CookCottonCandy.description>砂糖を細い糸状にしたものを集めて綿状にする。</CookCottonCandy.description>
-  <CookCottonCandy.jobString>わたあめを作成中。</CookCottonCandy.jobString>
+  <CookCottonCandy.label>Cook Cotton candy x4</CookCottonCandy.label>
+  <CookCottonCandy.description>Make several fluffy clouds of pure Mizuame.</CookCottonCandy.description>
+  <CookCottonCandy.jobString>Cooking Cotton candy.</CookCottonCandy.jobString>
 
-  <CookThreeColoredDumplings.label>三色団子x4</CookThreeColoredDumplings.label>
-  <CookThreeColoredDumplings.description>凍り餅に砂糖を練りこんで色づけし三色団子を4個作る</CookThreeColoredDumplings.description>
-  <CookThreeColoredDumplings.jobString>三色団子を作成中。</CookThreeColoredDumplings.jobString>
+  <CookThreeColoredDumplings.label>Make Dango x4</CookThreeColoredDumplings.label>
+  <CookThreeColoredDumplings.description>Create three colored dumplings by using frozen Mochi and rice syrup.</CookThreeColoredDumplings.description>
+  <CookThreeColoredDumplings.jobString>Making Dango.</CookThreeColoredDumplings.jobString>
 
-  <CookZundaMochi.label>ずんだ餅x4</CookZundaMochi.label>
-  <CookZundaMochi.description>凍り餅を焼いてからペーストした枝豆のせたずんだ餅を4個作る</CookZundaMochi.description>
-  <CookZundaMochi.jobString>ずんだ餅を作成中。</CookZundaMochi.jobString>
+  <CookZundaMochi.label>Cook Zunda Mochi x4</CookZundaMochi.label>
+  <CookZundaMochi.description>Mochi prepared with green soybean paste.</CookZundaMochi.description>
+  <CookZundaMochi.jobString>Making Zunda Mochi.</CookZundaMochi.jobString>
 
-  <CookASUDorayaki.label>ドラ焼きx4</CookASUDorayaki.label>
-  <CookASUDorayaki.description>焼いたドラ焼きの生地に餡子を挟んでつくる。</CookASUDorayaki.description>
-  <CookASUDorayaki.jobString>ドラ焼きを作成中。</CookASUDorayaki.jobString>
+  <CookASUDorayaki.label>Make Dorayaki x4</CookASUDorayaki.label>
+  <CookASUDorayaki.description>Bake two pancakes of Castella bread and wrap them around some red bean paste filling.</CookASUDorayaki.description>
+  <CookASUDorayaki.jobString>Making Dorayaki.</CookASUDorayaki.jobString>
 
 
   <!-- add 1.1 -->

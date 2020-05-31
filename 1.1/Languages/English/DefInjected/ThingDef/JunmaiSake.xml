@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_JunmaiSake.label>Junmai</ZP_JunmaiSake.label>
+  <ZP_JunmaiSake.description>Junmai, meaning "Pure rice," is sake made through using only White rice. This sets it apart from others sakes, such as Ginjo, that use non-rice elements. Junmai is also traditionally served warm or at room temperature, while Ginjo is preferably served cold.\nJunmai features a rich, full bodied flavor, and a mildly acidic undertone. ("Body" refers to the complexity and duration of a wine's flavor, with a longer duration being better.)</ZP_JunmaiSake.description>
+  <ZP_JunmaiSake.ingestible.ingestCommandString>Drink {0}</ZP_JunmaiSake.ingestible.ingestCommandString>
+  <ZP_JunmaiSake.ingestible.ingestReportString>Drinking {0}.</ZP_JunmaiSake.ingestible.ingestReportString>
+  <ZP_JunmaiSake.tools.0.label>bottle</ZP_JunmaiSake.tools.0.label>
+  <ZP_JunmaiSake.tools.1.label>neck</ZP_JunmaiSake.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealFine -->
+
+  <ZP_BRBento.label>Bento(BR)</ZP_BRBento.label>
+  <ZP_BRBento.description>【特産品】This single-portion meal has been packed with great attention and care. As is the nature of Bento, this meal can be eaten anywhere, allowing colonists to eat on the go without suffering a particular debuff.</ZP_BRBento.description>
+
+
+
+  <ZP_WRBento.label>Bento</ZP_WRBento.label>
+  <ZP_WRBento.description>【特産品】This single-portion meal has been packed with great attention and care. As is the nature of Bento, this meal can be eaten anywhere, allowing colonists to eat on the go without suffering a particular debuff.</ZP_WRBento.description>
+
+  <ZP_BRTKG.label>Tamago kake Gohan (BR)</ZP_BRTKG.label>
+  <ZP_BRTKG.description>Often abbreviated as "TKG," this dish consists of cooked rice, soy sauce, and a raw egg. The egg and soy sauce are first stirred together in a seperate bowl, before being poured and mixed in with the rice. TKG directly translates as "egg over rice."</ZP_BRTKG.description>
+
+  <ZP_WRTKG.label>Tamago kake Gohan</ZP_WRTKG.label>
+  <ZP_WRTKG.description>Often abbreviated as "TKG," this dish consists of cooked rice, soy sauce, and a raw egg. The egg and soy sauce are first stirred together in a seperate bowl, before being poured and mixed in with the rice. TKG directly translates as "egg over rice."</ZP_WRTKG.description>
+
+  <ZP_BRGyudon.label>Gyudon (BR)</ZP_BRGyudon.label>
+  <ZP_BRGyudon.description>A somewhat new and rising star in Japanese cuisine, Gyudon-due to its inclusion of beef-is seen as a result of the West's influence during the Meiji Restoration. The dish traditionally entails rice topped with beef and onion, which were simmered in a sauce flavored with dashi, mirin, and soy sauce. The accessibility of Gyudon through yatai in the early 20th century cemented it as a Japanese dish-of-choice.</ZP_BRGyudon.description>
+
+  <ZP_WRGyudon.label>Gyudon</ZP_WRGyudon.label>
+  <ZP_WRGyudon.description>A somewhat new and rising star in Japanese cuisine, Gyudon-due to its inclusion of beef-is seen as a result of the West's influence during the Meiji Restoration. The dish traditionally entails rice topped with beef and onion, which were simmered in a sauce flavored with dashi, mirin, and soy sauce. The accessibility of Gyudon through yatai in the early 20th century cemented it as a Japanese dish-of-choice.</ZP_WRGyudon.description>
+
+  <ZP_GRTakikomi.label>Takikomi Gohan</ZP_GRTakikomi.label>
+  <ZP_GRTakikomi.description>A meal of glutinous rice mixed with cooked meat and vegetables.</ZP_GRTakikomi.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_NattoRice.label>NattoRice</ZP_NattoRice.label>
+  <ZP_NattoRice.description>ご飯の上に納豆を盛り付けたシンプルなどんぶり。</ZP_NattoRice.description>
+
+  <ZP_SalmonRiceBall.label>Salmon Onigiri</ZP_SalmonRiceBall.label>
+  <ZP_SalmonRiceBall.description>【特産品】塩味のきいた鮭の入ったちょっと豪華なおにぎり。</ZP_SalmonRiceBall.description>
+
+  <ZP_TempuraRiceBall.label>Tenmusu</ZP_TempuraRiceBall.label>
+  <ZP_TempuraRiceBall.description>【特産品】天ぷらの入ったちょっと豪華なおにぎり\n Onigiri</ZP_TempuraRiceBall.description>
+
+
+</LanguageData>

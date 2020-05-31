@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RBCeramic.label>Rice Bran Ceramics</RBCeramic.label>
+  <RBCeramic.description>Ceramics which have been thermally processed after the rice bran was crushed and compressed. These ceramics are lightweight, durable, and flame resistant. They can be used for a wide range of applications, such as construction, art, weapons, and so on.</RBCeramic.description>
+  <RBCeramic.stuffProps.stuffAdjective>RB ceramics</RBCeramic.stuffProps.stuffAdjective>
+
+
+  <!-- add 1.1 -->
+
+  <BlocksBMStone.label>construction stone</BlocksBMStone.label>
+  <BlocksBMStone.description>Stone blocks that standardize the shape and dimensions of other block types. They can be used to build things faster than normal blocks, but are inferior in durability and weapon quality.</BlocksBMStone.description>
+  <BlocksBMStone.stuffProps.stuffAdjective>construction stone</BlocksBMStone.stuffProps.stuffAdjective>
+
+
+</LanguageData>

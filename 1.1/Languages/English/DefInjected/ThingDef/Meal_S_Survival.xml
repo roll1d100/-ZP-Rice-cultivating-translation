@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealSimple -->
+
+  <ZP_aRice.label>Alpha Rice</ZP_aRice.label>
+  <ZP_aRice.description>【特産品】Emergency food. By drying out the rice, this meal deteriorates much slower than "proper" dishes. Preparing rice in almost any other way will bring out its delicious quality.</ZP_aRice.description>
+
+  <ZP_Hardtack.label>Hardtack</ZP_Hardtack.label>
+  <ZP_Hardtack.description>【特産品】Emergency food. A type of biscuit that's baked for long term preservation. The word "tack" was used by British sailors as slang for "food." Historically, hardtack has been used as a stand in for perishable foods, such as during ocean voyages and military campaigns.</ZP_Hardtack.description>
+
+  <ZP_Timaki.label>Chimaki</ZP_Timaki.label>
+  <ZP_Timaki.description>【特産品】Emergency food. Glutinous rice wrapped in plant leaves. Preservation is increased by simmering the rice in lye beforehand.</ZP_Timaki.description>
+
+
+</LanguageData>

@@ -3,24 +3,24 @@
 
   <!-- All add 1.1 -->
 
-  <MakeNTUnhulledRice10.label>稲穂を籾米にするx10</MakeNTUnhulledRice10.label>
-  <MakeNTUnhulledRice10.description>脱穀して籾米と藁にわける。</MakeNTUnhulledRice10.description>
-  <MakeNTUnhulledRice10.jobString>稲穂を脱穀する</MakeNTUnhulledRice10.jobString>
+  <MakeNTUnhulledRice10.label>Thresh Inaho into Momi x10</MakeNTUnhulledRice10.label>
+  <MakeNTUnhulledRice10.description>Thresh Inaho into Momi and Straw.</MakeNTUnhulledRice10.description>
+  <MakeNTUnhulledRice10.jobString>Threshing Inaho.</MakeNTUnhulledRice10.jobString>
 
-  <MakeNTUnhulledRice50.label>稲穂を籾米にするx50</MakeNTUnhulledRice50.label>
-  <MakeNTUnhulledRice50.description>脱穀して籾米と藁にわける。</MakeNTUnhulledRice50.description>
-  <MakeNTUnhulledRice50.jobString>稲穂を脱穀する</MakeNTUnhulledRice50.jobString>
+  <MakeNTUnhulledRice50.label>Thresh Inaho into Momi x50</MakeNTUnhulledRice50.label>
+  <MakeNTUnhulledRice50.description>Thresh Inaho into Momi and Straw.</MakeNTUnhulledRice50.description>
+  <MakeNTUnhulledRice50.jobString>Threshing Inaho.</MakeNTUnhulledRice50.jobString>
 
 
   <!-- 石器時代  籾米(もち米)×1.0 -->
 
-  <MakeNTUnhulledGlutinous10.label>稲穂(もち米)を籾米にするx10</MakeNTUnhulledGlutinous10.label>
-  <MakeNTUnhulledGlutinous10.description>脱穀して籾米(もち米)と藁にわける。</MakeNTUnhulledGlutinous10.description>
-  <MakeNTUnhulledGlutinous10.jobString>稲穂を脱穀する</MakeNTUnhulledGlutinous10.jobString>
+  <MakeNTUnhulledGlutinous10.label>Thresh Inaho (GR) into Momi (GR) x10</MakeNTUnhulledGlutinous10.label>
+  <MakeNTUnhulledGlutinous10.description>Thresh Inaho (GR) into Momi (GR) and Straw.</MakeNTUnhulledGlutinous10.description>
+  <MakeNTUnhulledGlutinous10.jobString>Threshing Inaho.</MakeNTUnhulledGlutinous10.jobString>
 
-  <MakeNTUnhulledGlutinous50.label>稲穂(もち米)を籾米にするx50</MakeNTUnhulledGlutinous50.label>
-  <MakeNTUnhulledGlutinous50.description>脱穀して籾米(もち米)と藁にわける。</MakeNTUnhulledGlutinous50.description>
-  <MakeNTUnhulledGlutinous50.jobString>稲穂を脱穀する</MakeNTUnhulledGlutinous50.jobString>
+  <MakeNTUnhulledGlutinous50.label>Thresh Inaho (GR) into Momi (GR) x50</MakeNTUnhulledGlutinous50.label>
+  <MakeNTUnhulledGlutinous50.description>Thresh Inaho (GR) into Momi (GR) and Straw.</MakeNTUnhulledGlutinous50.description>
+  <MakeNTUnhulledGlutinous50.jobString>Threshing Inaho.</MakeNTUnhulledGlutinous50.jobString>
 
 
 </LanguageData>

@@ -3,40 +3,40 @@
 
   <!-- All add 1.1 -->
 
-  <MakeMRiceHulleWR10.label>籾米を白米にするx10</MakeMRiceHulleWR10.label>
+  <MakeMRiceHulleWR10.label>Thresh Momi into White rice  x10</MakeMRiceHulleWR10.label>
   <MakeMRiceHulleWR10.description>籾を外して白米と副産物袋にわける。</MakeMRiceHulleWR10.description>
-  <MakeMRiceHulleWR10.jobString>籾摺りをする</MakeMRiceHulleWR10.jobString>
+  <MakeMRiceHulleWR10.jobString>Threshing Momi.</MakeMRiceHulleWR10.jobString>
 
-  <MakeMRiceHulleWR50.label>籾米を白米にするx50</MakeMRiceHulleWR50.label>
+  <MakeMRiceHulleWR50.label>Thresh Momi into White rice  x50</MakeMRiceHulleWR50.label>
   <MakeMRiceHulleWR50.description>籾を外して白米と副産物袋にわける。</MakeMRiceHulleWR50.description>
-  <MakeMRiceHulleWR50.jobString>籾摺りをする</MakeMRiceHulleWR50.jobString>
+  <MakeMRiceHulleWR50.jobString>Threshing Momi.</MakeMRiceHulleWR50.jobString>
 
-  <MakeMRiceHulleWR100.label>籾米を白米にするx100</MakeMRiceHulleWR100.label>
+  <MakeMRiceHulleWR100.label>Thresh Momi into White rice x100</MakeMRiceHulleWR100.label>
   <MakeMRiceHulleWR100.description>籾を外して白米と副産物袋にわける。</MakeMRiceHulleWR100.description>
-  <MakeMRiceHulleWR100.jobString>籾摺りをする</MakeMRiceHulleWR100.jobString>
+  <MakeMRiceHulleWR100.jobString>Threshing Momi.</MakeMRiceHulleWR100.jobString>
 
-  <MakeMRiceHulleWR300.label>籾米を白米にするx300</MakeMRiceHulleWR300.label>
+  <MakeMRiceHulleWR300.label>Thresh Momi into White rice x300</MakeMRiceHulleWR300.label>
   <MakeMRiceHulleWR300.description>籾を外して白米と副産物袋にわける。</MakeMRiceHulleWR300.description>
-  <MakeMRiceHulleWR300.jobString>籾摺りをする</MakeMRiceHulleWR300.jobString>
+  <MakeMRiceHulleWR300.jobString>Threshing Momi.</MakeMRiceHulleWR300.jobString>
 
 
   <!-- 精米　玄米⇒白米 -->
 
-  <MakeMPolishedRice10.label>玄米を白米にするx10</MakeMPolishedRice10.label>
-  <MakeMPolishedRice10.description>玄米を精米して白米と米ぬかにわける。</MakeMPolishedRice10.description>
-  <MakeMPolishedRice10.jobString>精米中</MakeMPolishedRice10.jobString>
+  <MakeMPolishedRice10.label>Polish Brown rice into White rice x10</MakeMPolishedRice10.label>
+  <MakeMPolishedRice10.description>By rice polishing, brown rice becomes white rice and bran.</MakeMPolishedRice10.description>
+  <MakeMPolishedRice10.jobString>Polishing.</MakeMPolishedRice10.jobString>
 
-  <MakeMPolishedRice50.label>玄米を白米にするx50</MakeMPolishedRice50.label>
-  <MakeMPolishedRice50.description>玄米を精米して白米と米ぬかにわける。</MakeMPolishedRice50.description>
-  <MakeMPolishedRice50.jobString>精米中</MakeMPolishedRice50.jobString>
+  <MakeMPolishedRice50.label>Polish Brown rice into White rice x50</MakeMPolishedRice50.label>
+  <MakeMPolishedRice50.description>By rice polishing, brown rice becomes white rice and bran.</MakeMPolishedRice50.description>
+  <MakeMPolishedRice50.jobString>Polishing.</MakeMPolishedRice50.jobString>
 
-  <MakeMPolishedRice100.label>玄米を白米にするx100</MakeMPolishedRice100.label>
-  <MakeMPolishedRice100.description>玄米を精米して白米と米ぬかにわける。</MakeMPolishedRice100.description>
-  <MakeMPolishedRice100.jobString>精米中</MakeMPolishedRice100.jobString>
+  <MakeMPolishedRice100.label>Polish Brown rice into White rice x100</MakeMPolishedRice100.label>
+  <MakeMPolishedRice100.description>By rice polishing, brown rice becomes white rice and bran.</MakeMPolishedRice100.description>
+  <MakeMPolishedRice100.jobString>Polishing.</MakeMPolishedRice100.jobString>
 
-  <MakeMPolishedRice300.label>玄米を白米にするx300</MakeMPolishedRice300.label>
-  <MakeMPolishedRice300.description>玄米を精米して白米と米ぬかにわける。</MakeMPolishedRice300.description>
-  <MakeMPolishedRice300.jobString>精米中</MakeMPolishedRice300.jobString>
+  <MakeMPolishedRice300.label>Polish Brown rice into White rice x300</MakeMPolishedRice300.label>
+  <MakeMPolishedRice300.description>By rice polishing, brown rice becomes white rice and bran.</MakeMPolishedRice300.description>
+  <MakeMPolishedRice300.jobString>Polishing.</MakeMPolishedRice300.jobString>
 
 
 </LanguageData>

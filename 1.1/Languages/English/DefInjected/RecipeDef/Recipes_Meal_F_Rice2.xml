@@ -3,8 +3,8 @@
 
   <!-- MealFine -->
 
-  <CookGRTakikomi4.label>炊き込みご飯x4</CookGRTakikomi4.label>
-  <CookGRTakikomi4.description>もち米と一緒に野菜と肉を炊き込んで作るご飯。</CookGRTakikomi4.description>
+  <CookGRTakikomi4.label>Cook Takikomi Gohan x4</CookGRTakikomi4.label>
+  <CookGRTakikomi4.description>Glutinous rice mixed with cooked meat and vegetables.</CookGRTakikomi4.description>
   <CookGRTakikomi4.jobString>炊き込みご飯を作成中。</CookGRTakikomi4.jobString>
 
 

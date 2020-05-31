@@ -3,32 +3,32 @@
 
   <!-- 副産物なし -->
 
-  <MakeIPTWhiteRiceN300.label>N:稲穂を白米にするx300</MakeIPTWhiteRiceN300.label>
-  <MakeIPTWhiteRiceN300.description>稲穂を脱穀精米して白米にする。副産物は粉砕して消滅させる。</MakeIPTWhiteRiceN300.description>
-  <MakeIPTWhiteRiceN300.jobString>脱穀精米中</MakeIPTWhiteRiceN300.jobString>
+  <MakeIPTWhiteRiceN300.label>Thoroughly thresh Inaho into White rice x300</MakeIPTWhiteRiceN300.label>
+  <MakeIPTWhiteRiceN300.description>Make Inaho into White rice. Through this process, the by-product is crushed and disappears.</MakeIPTWhiteRiceN300.description>
+  <MakeIPTWhiteRiceN300.jobString>Threshing Inaho.</MakeIPTWhiteRiceN300.jobString>
 
-  <MakeIPTBrownRiceN300.label>N:稲穂を玄米にするx300</MakeIPTBrownRiceN300.label>
-  <MakeIPTBrownRiceN300.description>稲穂を脱穀精米して玄米にする。副産物は粉砕して消滅させる。</MakeIPTBrownRiceN300.description>
-  <MakeIPTBrownRiceN300.jobString>脱穀精米中</MakeIPTBrownRiceN300.jobString>
+  <MakeIPTBrownRiceN300.label>Thoroughly thresh Inaho into Brown rice x300</MakeIPTBrownRiceN300.label>
+  <MakeIPTBrownRiceN300.description>Make Inaho into Brown rice. Through this process, the by-product is crushed and disappears.</MakeIPTBrownRiceN300.description>
+  <MakeIPTBrownRiceN300.jobString>Threshing Inaho.</MakeIPTBrownRiceN300.jobString>
 
-  <MakeITGlutinousMomiN300.label>N:稲穂(もち米)をもち米にするx300</MakeITGlutinousMomiN300.label>
-  <MakeITGlutinousMomiN300.description>稲穂を脱穀精米してもち米にする。副産物は粉砕して消滅させる。</MakeITGlutinousMomiN300.description>
-  <MakeITGlutinousMomiN300.jobString>脱穀精米中</MakeITGlutinousMomiN300.jobString>
+  <MakeITGlutinousMomiN300.label>Thoroughly thresh Inaho into Glutinous rice x300</MakeITGlutinousMomiN300.label>
+  <MakeITGlutinousMomiN300.description>Make Inaho into Glutinous rice. Through this process, the by-product is crushed and disappears.</MakeITGlutinousMomiN300.description>
+  <MakeITGlutinousMomiN300.jobString>Threshing Inaho.</MakeITGlutinousMomiN300.jobString>
 
 
   <!-- バイオ科学燃料 -->
 
-  <MakeIPTWhiteRiceC300.label>C:稲穂を白米にするx300</MakeIPTWhiteRiceC300.label>
-  <MakeIPTWhiteRiceC300.description>稲穂を脱穀精米して白米にする。副産物は少量のバイオ科学燃料に変換される。</MakeIPTWhiteRiceC300.description>
-  <MakeIPTWhiteRiceC300.jobString>脱穀精米中</MakeIPTWhiteRiceC300.jobString>
+  <MakeIPTWhiteRiceC300.label>Cautiously thresh Inaho into White rice x300</MakeIPTWhiteRiceC300.label>
+  <MakeIPTWhiteRiceC300.description>Make Inaho into White rice. The by-product bag is converted into a small amount of chemfuel.</MakeIPTWhiteRiceC300.description>
+  <MakeIPTWhiteRiceC300.jobString>Threshing Inaho.</MakeIPTWhiteRiceC300.jobString>
 
-  <MakeITGlutinousMomiC300.label>C:稲穂(もち米)をもち米にするx300</MakeITGlutinousMomiC300.label>
-  <MakeITGlutinousMomiC300.description>稲穂を脱穀精米してもち米にする。副産物は少量のバイオ科学燃料に変換される。</MakeITGlutinousMomiC300.description>
-  <MakeITGlutinousMomiC300.jobString>脱穀精米中</MakeITGlutinousMomiC300.jobString>
+  <MakeITGlutinousMomiC300.label>Cautiously thresh Inaho into Glutinous rice x300</MakeITGlutinousMomiC300.label>
+  <MakeITGlutinousMomiC300.description>Make Inaho into Glutinous rice. The by-product bag is converted into a small amount of chemfuel.</MakeITGlutinousMomiC300.description>
+  <MakeITGlutinousMomiC300.jobString>Threshing Inaho.</MakeITGlutinousMomiC300.jobString>
 
-  <MakeIPTBrownRiceC300.label>C:稲穂を玄米にする(200)</MakeIPTBrownRiceC300.label>
-  <MakeIPTBrownRiceC300.description>稲穂を脱穀精米して玄米にする。副産物は少量のバイオ科学燃料に変換される。</MakeIPTBrownRiceC300.description>
-  <MakeIPTBrownRiceC300.jobString>脱穀精米中</MakeIPTBrownRiceC300.jobString>
+  <MakeIPTBrownRiceC300.label>Cautiously thresh Inaho into Brown rice (200)</MakeIPTBrownRiceC300.label>
+  <MakeIPTBrownRiceC300.description>Make Inaho into Brown rice. The by-product bag is converted into a small amount of chemfuel.</MakeIPTBrownRiceC300.description>
+  <MakeIPTBrownRiceC300.jobString>Threshing Inaho.</MakeIPTBrownRiceC300.jobString>
 
 
 </LanguageData>

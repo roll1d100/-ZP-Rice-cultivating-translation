@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Messtin.label>Mess Tin</ZP_Messtin.label>
+  <ZP_Messtin.description>【燃料:薪,木材,藁,モミガライト,炭】\nA tin used for cooking rice and other simple recipes. Mess Tins are just a step above cooking on a stick. This lack of confectionery tools leads to a 30% drop in Cooking speed.</ZP_Messtin.description>
+  <ZP_Messtin_Blueprint.label>Mess Tin (blueprint)</ZP_Messtin_Blueprint.label>
+  <ZP_Messtin_Blueprint_Install.label>Mess Tin (blueprint)</ZP_Messtin_Blueprint_Install.label>
+  <ZP_Messtin_Frame.label>Mess Tin (building)</ZP_Messtin_Frame.label>
+  <ZP_Messtin_Frame.description>【燃料:薪,木材,藁,モミガライト,炭】\nA tin used for cooking rice and other simple recipes. Mess Tins are just a step above cooking on a stick. This lack of confectionery tools leads to a 30% drop in Cooking speed.</ZP_Messtin_Frame.description>
+
+
+</LanguageData>

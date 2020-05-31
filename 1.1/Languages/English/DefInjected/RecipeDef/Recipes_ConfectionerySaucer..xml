@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookZP_ConfectionerySaucer.label>菓子皿</CookZP_ConfectionerySaucer.label>
-  <CookZP_ConfectionerySaucer.description>【注意!!⇒家具です。】\nお菓子の盛り合わせ。作業台や椅子、ベッドの近くに置くことで、いつでもお菓子が食べれるようになり作業速度、快適度が上がる。</CookZP_ConfectionerySaucer.description>
-  <CookZP_ConfectionerySaucer.jobString>菓子皿を作成中。</CookZP_ConfectionerySaucer.jobString>
+  <CookZP_ConfectionerySaucer.label>Prepare Confectionery Saucer</CookZP_ConfectionerySaucer.label>
+  <CookZP_ConfectionerySaucer.description>(NOTE: This is furniture, not food.)\nA bowl of assorted sweets. By placing this near a workbench, chair, or bed colonists can eat sweets anytime! This access will surely speed up work and rest alike.</CookZP_ConfectionerySaucer.description>
+  <CookZP_ConfectionerySaucer.jobString>Preparing a Confectionery Saucer.</CookZP_ConfectionerySaucer.jobString>
 
 
 </LanguageData>

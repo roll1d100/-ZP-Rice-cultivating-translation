@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Soymilk.label>Soy milk</ZP_Soymilk.label>
+  <ZP_Soymilk.description>A dairy substitute created by pressing soybeans.\nYou can eat it raw or use it in a recipe.</ZP_Soymilk.description>
+  <ZP_Soymilk.ingestible.ingestCommandString>Drink {0}</ZP_Soymilk.ingestible.ingestCommandString>
+  <ZP_Soymilk.ingestible.ingestReportString>Drinking {0}.</ZP_Soymilk.ingestible.ingestReportString>
+
+  <ZP_Flour.label>Flour</ZP_Flour.label>
+  <ZP_Flour.description>A once proud grain that waved in the wind, but was then crushed, obliterated, and perfected into a fine powder.</ZP_Flour.description>
+
+</LanguageData>

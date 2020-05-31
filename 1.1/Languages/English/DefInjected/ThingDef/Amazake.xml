@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Amazake.label>Amazake</ZP_Amazake.label>
+  <ZP_Amazake.description>This traditional, low-alcohol beverage is often served in Japan at Shinto Shrines during New Year's or other festivals.\nMade from fermented rice and generally heated to a simmer, Amazake tends to have a white, cloudy appearance.\nMany believe it has great nutritional value. Amazake can be served cold in the Summer, to help escape the heat; or, as is more often the case, it's used during the Winter ward off the cold.</ZP_Amazake.description>
+  <ZP_Amazake.ingestible.ingestCommandString>Drink {0}</ZP_Amazake.ingestible.ingestCommandString>
+  <ZP_Amazake.ingestible.ingestReportString>Drinking {0}.</ZP_Amazake.ingestible.ingestReportString>
+
+
+</LanguageData>

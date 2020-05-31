@@ -3,47 +3,47 @@
 
   <!-- 米俵をつくる -->
 
-  <MakeStrawRiceBag_RawRice.label>米俵(米)を作る</MakeStrawRiceBag_RawRice.label>
-  <MakeStrawRiceBag_RawRice.description>米(生)を300個保管できて、特産品として売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_RawRice.description>
-  <MakeStrawRiceBag_RawRice.jobString>俵に米をつめる</MakeStrawRiceBag_RawRice.jobString>
+  <MakeStrawRiceBag_RawRice.label>Make a Straw rice bag (rice)</MakeStrawRiceBag_RawRice.label>
+  <MakeStrawRiceBag_RawRice.description>300 rice grains can be stored inside this bag; once filled it can be sold as an agricultural product./nCAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</MakeStrawRiceBag_RawRice.description>
+  <MakeStrawRiceBag_RawRice.jobString>Stuffing bag.</MakeStrawRiceBag_RawRice.jobString>
 
-  <MakeStrawRiceBag_RiceMomi.label>米俵(籾米)を作る</MakeStrawRiceBag_RiceMomi.label>
-  <MakeStrawRiceBag_RiceMomi.description>籾米を150個保管できて、特産品として売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_RiceMomi.description>
-  <MakeStrawRiceBag_RiceMomi.jobString>俵に米をつめる</MakeStrawRiceBag_RiceMomi.jobString>
+  <MakeStrawRiceBag_RiceMomi.label>Make a Straw rice bag (Momi)</MakeStrawRiceBag_RiceMomi.label>
+  <MakeStrawRiceBag_RiceMomi.description>150 Momi can be stored inside this bag; once filled it can be sold as an agricultural product./nCAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</MakeStrawRiceBag_RiceMomi.description>
+  <MakeStrawRiceBag_RiceMomi.jobString>Stuffing bag.</MakeStrawRiceBag_RiceMomi.jobString>
 
-  <MakeStrawRiceBag_BrownRice.label>米俵(玄米)を作る</MakeStrawRiceBag_BrownRice.label>
-  <MakeStrawRiceBag_BrownRice.description>玄米を300個保管できて、特産品として高く売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_BrownRice.description>
-  <MakeStrawRiceBag_BrownRice.jobString>俵に米をつめる</MakeStrawRiceBag_BrownRice.jobString>
+  <MakeStrawRiceBag_BrownRice.label>Make a Straw rice bag (Brown rice)</MakeStrawRiceBag_BrownRice.label>
+  <MakeStrawRiceBag_BrownRice.description>300 Brown Rice can be stored inside this bag; once filled it can be sold as an agricultural product./nCAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</MakeStrawRiceBag_BrownRice.description>
+  <MakeStrawRiceBag_BrownRice.jobString>Stuffing bag.</MakeStrawRiceBag_BrownRice.jobString>
 
-  <MakeStrawRiceBag_GlutinousRice.label>米俵(もち米)を作る</MakeStrawRiceBag_GlutinousRice.label>
-  <MakeStrawRiceBag_GlutinousRice.description>もち米を300個保管できて、特産品として高く売れる。\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_GlutinousRice.description>
-  <MakeStrawRiceBag_GlutinousRice.jobString>俵に米をつめる</MakeStrawRiceBag_GlutinousRice.jobString>
+  <MakeStrawRiceBag_GlutinousRice.label>Make a Straw rice bag (Glutinous rice)</MakeStrawRiceBag_GlutinousRice.label>
+  <MakeStrawRiceBag_GlutinousRice.description>300 Glutinous rice can be stored inside this bag; once filled it can be sold as an agricultural product./nCAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</MakeStrawRiceBag_GlutinousRice.description>
+  <MakeStrawRiceBag_GlutinousRice.jobString>Stuffing bag.</MakeStrawRiceBag_GlutinousRice.jobString>
 
-  <MakeStrawRiceBag_WhiteRice.label>米俵(白米)を作る</MakeStrawRiceBag_WhiteRice.label>
-  <MakeStrawRiceBag_WhiteRice.description>白米を300個保管できて、特産品として非常に高く売れる。\n\n！！注意！！　気密性が悪いのでほどく時に中身が減ります。</MakeStrawRiceBag_WhiteRice.description>
-  <MakeStrawRiceBag_WhiteRice.jobString>俵に米をつめる</MakeStrawRiceBag_WhiteRice.jobString>
+  <MakeStrawRiceBag_WhiteRice.label>Make a Straw rice bag (White rice)</MakeStrawRiceBag_WhiteRice.label>
+  <MakeStrawRiceBag_WhiteRice.description>300 White rice can be stored inside this bag; once filled it can be sold as an agricultural product./nCAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</MakeStrawRiceBag_WhiteRice.description>
+  <MakeStrawRiceBag_WhiteRice.jobString>Stuffing bag.</MakeStrawRiceBag_WhiteRice.jobString>
 
 
   <!-- 米俵をほどく -->
 
-  <UnwindStrawRiceBag_RawRice.label>米俵(米)をほどく</UnwindStrawRiceBag_RawRice.label>
-  <UnwindStrawRiceBag_RawRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_RawRice.description>
+  <UnwindStrawRiceBag_RawRice.label>Open Straw rice bag (rice)</UnwindStrawRiceBag_RawRice.label>
+  <UnwindStrawRiceBag_RawRice.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</UnwindStrawRiceBag_RawRice.description>
   <UnwindStrawRiceBag_RawRice.jobString>Unwind a bales.</UnwindStrawRiceBag_RawRice.jobString>
 
-  <UnwindStrawRiceBag_RiceMomi.label>米俵(籾米)をほどく</UnwindStrawRiceBag_RiceMomi.label>
-  <UnwindStrawRiceBag_RiceMomi.description>米俵から中身をとりだす。\n\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_RiceMomi.description>
+  <UnwindStrawRiceBag_RiceMomi.label>Open Straw rice bag (Momi)</UnwindStrawRiceBag_RiceMomi.label>
+  <UnwindStrawRiceBag_RiceMomi.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</UnwindStrawRiceBag_RiceMomi.description>
   <UnwindStrawRiceBag_RiceMomi.jobString>Unwind a bales.</UnwindStrawRiceBag_RiceMomi.jobString>
 
-  <UnwindStrawRiceBag_BrownRice.label>米俵(玄米)をほどく</UnwindStrawRiceBag_BrownRice.label>
-  <UnwindStrawRiceBag_BrownRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_BrownRice.description>
+  <UnwindStrawRiceBag_BrownRice.label>Open Straw rice bag (Brown rice)</UnwindStrawRiceBag_BrownRice.label>
+  <UnwindStrawRiceBag_BrownRice.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</UnwindStrawRiceBag_BrownRice.description>
   <UnwindStrawRiceBag_BrownRice.jobString>Unwind a bales.</UnwindStrawRiceBag_BrownRice.jobString>
 
-  <UnwindStrawRiceBag_GlutinousRice.label>米俵(もち米)をほどく</UnwindStrawRiceBag_GlutinousRice.label>
-  <UnwindStrawRiceBag_GlutinousRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_GlutinousRice.description>
+  <UnwindStrawRiceBag_GlutinousRice.label>Open Straw rice bag (Glutinous rice)</UnwindStrawRiceBag_GlutinousRice.label>
+  <UnwindStrawRiceBag_GlutinousRice.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</UnwindStrawRiceBag_GlutinousRice.description>
   <UnwindStrawRiceBag_GlutinousRice.jobString>Unwind a bales.</UnwindStrawRiceBag_GlutinousRice.jobString>
 
-  <UnwindStrawRiceBag_WhiteRice.label>米俵(白米)をほどく</UnwindStrawRiceBag_WhiteRice.label>
-  <UnwindStrawRiceBag_WhiteRice.description>米俵から中身をとりだす。\n気密性が悪いのでほどくさいに中身がこぼれて減っている。</UnwindStrawRiceBag_WhiteRice.description>
+  <UnwindStrawRiceBag_WhiteRice.label>Open Straw rice bag (White rice)</UnwindStrawRiceBag_WhiteRice.label>
+  <UnwindStrawRiceBag_WhiteRice.description>CAUTION: Due to frequent rips and tears in handling, some contents may spoil, leading to a decreased amount once opened.</UnwindStrawRiceBag_WhiteRice.description>
   <UnwindStrawRiceBag_WhiteRice.jobString>Unwind a bales.</UnwindStrawRiceBag_WhiteRice.jobString>
 
 

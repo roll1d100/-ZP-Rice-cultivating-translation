@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Andon.label>Andon</ZP_Andon.label>
+  <ZP_Andon.description>【燃料:薪,藁,バイオ科学燃料 快適度:5%up】\nA paper lantern that is often used as an indoor lighting fixture. Gives a small comfort bonus to all nearby beds.</ZP_Andon.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_ElectricAndon.label>電気行灯</ZP_ElectricAndon.label>
+  <ZP_ElectricAndon.description>【快適度:5%up】\n日本の伝統的な室内照明器具のひとつ。ベッドの近くに置くと優しい光に照らされて快適性が少し上がります。</ZP_ElectricAndon.description>
+
+  <ZP_Tuitate.label>Tsuitate</ZP_Tuitate.label>
+  <ZP_Tuitate.description>Partitions that are used to temporarily change the layout of a room. Tsuitate block line of sight, but still allow light to shine through.</ZP_Tuitate.description>
+
+  <ZP_Tuitate2nd.label>Tsuitate</ZP_Tuitate2nd.label>
+  <ZP_Tuitate2nd.description>Partitions that are used to temporarily change the layout of a room. Tsuitate block line of sight, but still allow light to shine through.</ZP_Tuitate2nd.description>
+
+  <ZP_ConfectionerySaucer.label>Confectionery Saucer</ZP_ConfectionerySaucer.label>
+  <ZP_ConfectionerySaucer.description>(Boosts Working Spped by %10; Research by %5; and Comfort by %5) Fuel: Zipangu's luxury items and chocolate.\nBy activating a ZP_Mizuame rush, a colonist's brain can be pushed passed its meager limits.</ZP_ConfectionerySaucer.description>
+  <ZP_ConfectionerySaucer_Blueprint.label>Confectionery Saucer (blueprint)</ZP_ConfectionerySaucer_Blueprint.label>
+  <ZP_ConfectionerySaucer_Blueprint_Install.label>Confectionery Saucer (blueprint)</ZP_ConfectionerySaucer_Blueprint_Install.label>
+  <ZP_ConfectionerySaucer_Frame.label>Confectionery Saucer (building)</ZP_ConfectionerySaucer_Frame.label>
+  <ZP_ConfectionerySaucer_Frame.description>(Boosts Working Spped by %10; Research by %5; and Comfort by %5) Fuel: Zipangu's luxury items and chocolate.\nBy activating a ZP_Mizuame rush, a colonist's brain can be pushed passed its meager limits.</ZP_ConfectionerySaucer_Frame.description>
+
+  <ZP_MedicineBox.label>薬箱</ZP_MedicineBox.label>
+  <ZP_MedicineBox.description>【燃料:薬草 治療品質:3%up,免疫獲得速度係数:2%up】\n薬を入れた箱をベッドのそばに置いとくことで病気になった際もすぐに飲めて安心できます。使用しない時は撤去してください。</ZP_MedicineBox.description>
+  <ZP_MedicineBox_Blueprint.label>薬箱 (blueprint)</ZP_MedicineBox_Blueprint.label>
+  <ZP_MedicineBox_Blueprint_Install.label>薬箱 (blueprint)</ZP_MedicineBox_Blueprint_Install.label>
+  <ZP_MedicineBox_Frame.label>薬箱 (building)</ZP_MedicineBox_Frame.label>
+  <ZP_MedicineBox_Frame.description>【燃料:薬草 治療品質:3%up,免疫獲得速度係数:2%up】\n薬を入れた箱をベッドのそばに置いとくことで病気になった際もすぐに飲めて安心できます。使用しない時は撤去してください。</ZP_MedicineBox_Frame.description>
+
+
+</LanguageData>

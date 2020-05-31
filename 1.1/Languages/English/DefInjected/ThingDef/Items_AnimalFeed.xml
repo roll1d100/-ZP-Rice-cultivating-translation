@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 飼料 -->
+
+  <Manger.label>Manger[ZP]</Manger.label>
+  <Manger.description>Named after the trough farm animals eat from, this livestock feed is high in nutrition, and aims to be the best solution for animal diets on the Rim.</Manger.description>
+
+  <PetFood.label>Pet Food[ZP]</PetFood.label>
+  <PetFood.description>Pet food, livestock feed, animal chow, and compulsory fourth name to pad out the list. It's less nutritious than Manger, but animals will eat it all the same.</PetFood.description>
+
+  <ZP_FishFood.label>FishFood[ZP]</ZP_FishFood.label>
+  <ZP_FishFood.description>米ぬかとジャガイモを水で練り合わせて作った魚の練り餌。\n動物も食べることが出来る。</ZP_FishFood.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_Earthworm.label>EarthWorm[ZP]</ZP_Earthworm.label>
+  <ZP_Earthworm.description>養殖魚の餌に必要。</ZP_Earthworm.description>
+
+
+</LanguageData>

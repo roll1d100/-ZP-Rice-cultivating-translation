@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Thresh_Polish.label>Thresh N' Polish</Thresh_Polish.label>
+  <Thresh_Polish.verb>Thresh N' Polish</Thresh_Polish.verb>
+  <Thresh_Polish.gerund>Threshing and Polishing</Thresh_Polish.gerund>
+
+  <Threshing_Husk.label>thresh</Threshing_Husk.label>
+  <Threshing_Husk.verb>thresh</Threshing_Husk.verb>
+  <Threshing_Husk.gerund>threshing</Threshing_Husk.gerund>
+
+  <Process_Rice.label>thresh milled rice</Process_Rice.label>
+  <Process_Rice.verb>process the rice</Process_Rice.verb>
+  <Process_Rice.gerund>processing</Process_Rice.gerund>
+
+  <DoBillsRiceCook.label>cook rice</DoBillsRiceCook.label>
+  <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
+  <DoBillsRiceCook.gerund>cooking at</DoBillsRiceCook.gerund>
+
+  <DoBillsRicePreparation.label>cook rice</DoBillsRicePreparation.label>
+  <DoBillsRicePreparation.verb>cook</DoBillsRicePreparation.verb>
+  <DoBillsRicePreparation.gerund>cooking at</DoBillsRicePreparation.gerund>
+
+  <DoBillsUseRiceCraftingSpot.label>do bills at crafting spot</DoBillsUseRiceCraftingSpot.label>
+  <DoBillsUseRiceCraftingSpot.verb>craft</DoBillsUseRiceCraftingSpot.verb>
+  <DoBillsUseRiceCraftingSpot.gerund>crafting at</DoBillsUseRiceCraftingSpot.gerund>
+
+
+</LanguageData>

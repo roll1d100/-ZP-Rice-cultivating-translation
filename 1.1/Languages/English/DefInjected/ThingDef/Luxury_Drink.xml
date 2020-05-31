@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Misosiru.label>Miso soup</ZP_Misosiru.label>
+  <ZP_Misosiru.description>A standard of Japanese cuisine. In Japan, Miso soup is made using miso paste and a stock called "dashi." Other ingredients are then added in based on personal preference. Colonists may find it beneficial to consume Miso soup on a daily basis.\nDashi is made by mixing edible kelp and skipjack tuna shavings together in near-boiling water and then straining the mixture.</ZP_Misosiru.description>
+  <ZP_Misosiru.ingestible.ingestCommandString>Drink {0}</ZP_Misosiru.ingestible.ingestCommandString>
+  <ZP_Misosiru.ingestible.ingestReportString>Drinking {0}.</ZP_Misosiru.ingestible.ingestReportString>
+
+  <ZP_SoyMilkShake.label>Soy milk shake</ZP_SoyMilkShake.label>
+  <ZP_SoyMilkShake.description>A simple beverage that nearly anyone can make, as it merely requires mixing soy milk and fruits together. By drinking a shake a day, colonists can expect to see some health benefits.</ZP_SoyMilkShake.description>
+  <ZP_SoyMilkShake.ingestible.ingestCommandString>Drink {0}</ZP_SoyMilkShake.ingestible.ingestCommandString>
+  <ZP_SoyMilkShake.ingestible.ingestReportString>Drinking {0}.</ZP_SoyMilkShake.ingestible.ingestReportString>
+
+
+</LanguageData>

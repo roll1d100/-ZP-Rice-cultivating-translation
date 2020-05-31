@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ASU_WhiteBread.label>Shokupan</ASU_WhiteBread.label>
+  <ASU_WhiteBread.description>【特産品】[Specialty Product] Plain white bread made with flour. The seasoning helps, but it just needs a little something more...</ASU_WhiteBread.description>
+
+  <ASU_ButterWhiteBread.label>Batātōsuto</ASU_ButterWhiteBread.label>
+  <ASU_ButterWhiteBread.description>Buttered toast made from white bread.</ASU_ButterWhiteBread.description>
+
+  <ASU_JamWhiteBread.label>Jamutōsuto</ASU_JamWhiteBread.label>
+  <ASU_JamWhiteBread.description>Toasted white bread that has been extravagantly covered in jam.</ASU_JamWhiteBread.description>
+
+  <ASU_OguraWhiteBread.label>Oguratōsuto</ASU_OguraWhiteBread.label>
+  <ASU_OguraWhiteBread.description>A simple luxury made of toast topped with Ogura mochi and butter.</ASU_OguraWhiteBread.description>
+
+  <ASU_BaconWhiteBread.label>Bēkontōsuto</ASU_BaconWhiteBread.label>
+  <ASU_BaconWhiteBread.description>Toast topped with bacon.</ASU_BaconWhiteBread.description>
+
+  <ASU_FriedEggWhiteBread.label>Medamayakitōsuto</ASU_FriedEggWhiteBread.label>
+  <ASU_FriedEggWhiteBread.description>Care has been take to perfectly place a fried egg on this piece of toast: enjoy it.</ASU_FriedEggWhiteBread.description>
+
+  <ASU_Sandwich.label>Sandoitchi</ASU_Sandwich.label>
+  <ASU_Sandwich.description>A vegetarian white bread sandwich.</ASU_Sandwich.description>
+
+
+</LanguageData>

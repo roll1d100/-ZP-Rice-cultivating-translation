@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- add 1.1 -->
+
+  <StoneMill.label>StoneMill</StoneMill.label>
+  <StoneMill.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</StoneMill.description>
+  <StoneMill_Blueprint.label>StoneMill (blueprint)</StoneMill_Blueprint.label>
+  <StoneMill_Blueprint_Install.label>StoneMill (blueprint)</StoneMill_Blueprint_Install.label>
+  <StoneMill_Frame.label>StoneMill (building)</StoneMill_Frame.label>
+  <StoneMill_Frame.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</StoneMill_Frame.description>
+
+  <ZP_FoodProcessor.label>FoodProcessor</ZP_FoodProcessor.label>
+  <ZP_FoodProcessor.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</ZP_FoodProcessor.description>
+  <ZP_FoodProcessor_Blueprint.label>FoodProcessor (blueprint)</ZP_FoodProcessor_Blueprint.label>
+  <ZP_FoodProcessor_Blueprint_Install.label>FoodProcessor (blueprint)</ZP_FoodProcessor_Blueprint_Install.label>
+  <ZP_FoodProcessor_Frame.label>FoodProcessor (building)</ZP_FoodProcessor_Frame.label>
+  <ZP_FoodProcessor_Frame.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</ZP_FoodProcessor_Frame.description>
+
+  <CookingTable.label>CookingTable</CookingTable.label>
+  <CookingTable.description>A workstation that specializes in food processing.\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable.description>
+  <CookingTable_Blueprint.label>CookingTable (blueprint)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>CookingTable (blueprint)</CookingTable_Blueprint_Install.label>
+  <CookingTable_Frame.label>CookingTable (building)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>A workstation that specializes in food processing.\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable_Frame.description>
+
+
+</LanguageData>

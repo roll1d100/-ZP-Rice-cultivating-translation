@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookRiceCracker.label>煎餅x4</CookRiceCracker.label>
-  <CookRiceCracker.description>凍り餅(穀物粉)で煎餅を作る。</CookRiceCracker.description>
-  <CookRiceCracker.jobString>煎餅を作成中。。</CookRiceCracker.jobString>
+  <CookRiceCracker.label>Cook Senbei x4</CookRiceCracker.label>
+  <CookRiceCracker.description>Prepare Senbei, a type of rice cracker.</CookRiceCracker.description>
+  <CookRiceCracker.jobString>Cooking Senbei.</CookRiceCracker.jobString>
 
-  <CookBoiledEdamame.label>塩茹で枝豆x4</CookBoiledEdamame.label>
-  <CookBoiledEdamame.description>枝豆を茹でててから塩を振る。</CookBoiledEdamame.description>
-  <CookBoiledEdamame.jobString>塩茹で枝豆を作成中。。</CookBoiledEdamame.jobString>
+  <CookBoiledEdamame.label>Cook Boiled Edamame x4</CookBoiledEdamame.label>
+  <CookBoiledEdamame.description>Boil soybeans and season with salt.</CookBoiledEdamame.description>
+  <CookBoiledEdamame.jobString>Boiling Edamame.</CookBoiledEdamame.jobString>
 
-  <CookYakitori.label>焼き鳥x4</CookYakitori.label>
-  <CookYakitori.description>味付け肉と長ネギを串に刺して焼く。</CookYakitori.description>
-  <CookYakitori.jobString>焼き鳥を作成中。。</CookYakitori.jobString>
+  <CookYakitori.label>Cook Yakitori x4</CookYakitori.label>
+  <CookYakitori.description>Grilled seasoned meat and onions on a long skewer.</CookYakitori.description>
+  <CookYakitori.jobString>Cooking Yakitori.</CookYakitori.jobString>
 
-  <CookHiyayakko.label>冷奴x4</CookHiyayakko.label>
-  <CookHiyayakko.description>豆腐に薬味をのせて醤油をかける。</CookHiyayakko.description>
-  <CookHiyayakko.jobString>冷奴を作成中。。</CookHiyayakko.jobString>
+  <CookHiyayakko.label>Cook Hiyayakko x4</CookHiyayakko.label>
+  <CookHiyayakko.description>A chilled cube of tofu with various vegetable toppings.</CookHiyayakko.description>
+  <CookHiyayakko.jobString>Cooking Hiyayakko.</CookHiyayakko.jobString>
 
-  <CookMisotanpo.label>みそたんぽx4</CookMisotanpo.label>
-  <CookMisotanpo.description>たんぽに味噌をぬって焼く。</CookMisotanpo.description>
-  <CookMisotanpo.jobString>みそたんぽを作成中。</CookMisotanpo.jobString>
+  <CookMisotanpo.label>Cook Kiritanpo x4</CookMisotanpo.label>
+  <CookMisotanpo.description>Toast pounded rice on skewers over an open flame; miso is then added for flavor.</CookMisotanpo.description>
+  <CookMisotanpo.jobString>Cooking Kiritanpo.</CookMisotanpo.jobString>
 
 
 </LanguageData>

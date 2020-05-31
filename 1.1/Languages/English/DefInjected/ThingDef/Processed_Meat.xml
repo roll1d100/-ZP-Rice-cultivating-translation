@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_Rawtofu.label>Raw Tofu</ZP_Rawtofu.label>
+  <ZP_Rawtofu.description>A protein-rich substance created by processing soybeans. It can be used as a substitute for meat.\nYou can eat it raw or use it in a recipe.</ZP_Rawtofu.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_ChoppedMeat.label>ぶつ切り肉</ZP_ChoppedMeat.label>
+  <ZP_ChoppedMeat.description>様々な種類の肉を食べやすい大きさに切った肉。</ZP_ChoppedMeat.description>
+
+  <ZP_SeasonedMeat.label>Seasoned meat</ZP_SeasonedMeat.label>
+  <ZP_SeasonedMeat.description>Heavily seasoned meat that has lost its natural "aroma." You can eat it raw or use it in a recipe.</ZP_SeasonedMeat.description>
+
+  <ZP_FishFillet.label>Fish fillet</ZP_FishFillet.label>
+  <ZP_FishFillet.description>A fish that was prepared for easy cooking.\nYou can eat it raw or use it in a recipe.</ZP_FishFillet.description>
+
+  <ZP_Tikuwa.label>Chikuwa</ZP_Tikuwa.label>
+  <ZP_Tikuwa.description>A jelly-like product created by shredding and mashing fish and taro together.\nYou can eat it raw or use it in a recipe.</ZP_Tikuwa.description>
+
+  <ZP_DriedFish.label>Dried fish</ZP_DriedFish.label>
+  <ZP_DriedFish.description>This fish was dried out in order to keep it from decaying.\nYou can eat it raw or use it in a recipe.</ZP_DriedFish.description>
+
+
+</LanguageData>

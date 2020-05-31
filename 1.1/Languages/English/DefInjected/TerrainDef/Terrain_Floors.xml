@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tatami_Green.label>Green Tatami</Tatami_Green.label>
+  <Tatami_Green.description>Traditionally, these mats use rice straw as their core, with rush grass-or "Igusa"-layered on the outside to give it healthy bit of padding. Tatami also purify the air, adjust humidity, and are quite flame retardant.On a side note, one of the Japenese terms for green is "Midori," which is oddly close to a certain green themed hero's name.</Tatami_Green.description>
+
+  <Tatami_Yellow.label>Yellow Tatami</Tatami_Yellow.label>
+  <Tatami_Yellow.description>Traditionally, these mats use rice straw as their core, with rush grass-or "Igusa"-layered on the outside to give it healthy bit of padding. Tatami also purify the air, adjust humidity, and are quite flame retardant.</Tatami_Yellow.description>
+
+  <Tatami_Hutinasi.label>Borderless Green Tatami</Tatami_Hutinasi.label>
+  <Tatami_Hutinasi.description>Traditionally, these mats use rice straw as their core, with rush grass-or "Igusa"-layered on the outside to give it healthy bit of padding. Tatami also purify the air, adjust humidity, and are quite flame retardant. On a side note, one of the Japenese terms for green is "Midori," which is oddly close to a certain green themed hero's name.</Tatami_Hutinasi.description>
+
+  <Tatami_Hutinasi2nd.label>Borderless Yellow Tatami</Tatami_Hutinasi2nd.label>
+  <Tatami_Hutinasi2nd.description>Traditionally, these mats use rice straw as their core, with rush grass-or "Igusa"-layered on the outside to give it healthy bit of padding. Tatami also purify the air, adjust humidity, and are quite flame retardant.</Tatami_Hutinasi2nd.description>
+
+  <RBCeramicTile.label>Rice Bran Ceramic Tile</RBCeramicTile.label>
+  <RBCeramicTile.description>By virtue of its smooth surface, these tiles offer a higher cleanliness than most standard floorings; however, Sterile tiles are still superior.</RBCeramicTile.description>
+
+
+  <!-- add 1.1 -->
+
+  <TileBMStone.label>建築石材タイル</TileBMStone.label>
+  <FlagstoneBMStone.label>建築石材の敷石</FlagstoneBMStone.label>
+
+
+</LanguageData>

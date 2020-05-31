@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_ThreshingMachine.label>Threshing machine</ZP_ThreshingMachine.label>
+  <ZP_ThreshingMachine.description>(Role: Threshing)\nA machine that converts Inaho into Momi.\nOutput suffers due to the machine's manual labor requirements.</ZP_ThreshingMachine.description>
+  <ZP_ThreshingMachine_Blueprint.label>Threshing machine (blueprint)</ZP_ThreshingMachine_Blueprint.label>
+  <ZP_ThreshingMachine_Blueprint_Install.label>Threshing machine (blueprint)</ZP_ThreshingMachine_Blueprint_Install.label>
+  <ZP_ThreshingMachine_Frame.label>Threshing machine (building)</ZP_ThreshingMachine_Frame.label>
+  <ZP_ThreshingMachine_Frame.description>(Role: Threshing)\nA machine that converts Inaho into Momi.\nOutput suffers due to the machine's manual labor requirements.</ZP_ThreshingMachine_Frame.description>
+
+  <ZP_RiceStoneSlurry.label>Rice stone slurry</ZP_RiceStoneSlurry.label>
+  <ZP_RiceStoneSlurry.description>(Role: Separating)\nA tool that converts Momi into Brown rice\nOutput suffers due to the machine's manual labor requirements.</ZP_RiceStoneSlurry.description>
+  <ZP_RiceStoneSlurry_Blueprint.label>Rice stone slurry (blueprint)</ZP_RiceStoneSlurry_Blueprint.label>
+  <ZP_RiceStoneSlurry_Blueprint_Install.label>Rice stone slurry (blueprint)</ZP_RiceStoneSlurry_Blueprint_Install.label>
+  <ZP_RiceStoneSlurry_Frame.label>Rice stone slurry (building)</ZP_RiceStoneSlurry_Frame.label>
+  <ZP_RiceStoneSlurry_Frame.description>(Role: Separating)\nA tool that converts Momi into Brown rice\nOutput suffers due to the machine's manual labor requirements.</ZP_RiceStoneSlurry_Frame.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_AgriculturalWaterMill.label>農業用水車</ZP_AgriculturalWaterMill.label>
+  <ZP_AgriculturalWaterMill.description>水流の力を利用して機械を動かすことで今まで人力でやってきた脱穀精米や各種加工食品などの製作が楽に行えるようになる。\n注意:発電量が表記されていますが発電しません。</ZP_AgriculturalWaterMill.description>
+  <ZP_AgriculturalWaterMill_Blueprint.label>農業用水車 (blueprint)</ZP_AgriculturalWaterMill_Blueprint.label>
+  <ZP_AgriculturalWaterMill_Frame.label>農業用水車 (building)</ZP_AgriculturalWaterMill_Frame.label>
+  <ZP_AgriculturalWaterMill_Frame.description>水流の力を利用して機械を動かすことで今まで人力でやってきた脱穀精米や各種加工食品などの製作が楽に行えるようになる。\n注意:発電量が表記されていますが発電しません。</ZP_AgriculturalWaterMill_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 米俵 -->
+
+  <StrawRiceBag_RawRice.label>Straw rice bag (Rice)</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>A bag fit to burst with rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_RawRice.description>
+
+  <StrawRiceBag_RiceMomi.label>Straw rice bag (Momi)</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>A bag fit to burst with Momi. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_RiceMomi.description>
+
+  <StrawRiceBag_BrownRice.label>Straw rice bag (Brown rice)</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>A bag fit to burst with Brown rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_BrownRice.description>
+
+  <StrawRiceBag_GlutinousRice.label>Straw rice bag (Glutinous rice)</StrawRiceBag_GlutinousRice.label>
+  <StrawRiceBag_GlutinousRice.description>A bag fit to burst with Glutinous rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_GlutinousRice.description>
+
+  <StrawRiceBag_WhiteRice.label>Straw rice bag (White rice)</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>A bag fit to burst with White rice. Colonists can either unpack it for food, or sell it to merchants at a high price.</StrawRiceBag_WhiteRice.description>
+
+
+</LanguageData>

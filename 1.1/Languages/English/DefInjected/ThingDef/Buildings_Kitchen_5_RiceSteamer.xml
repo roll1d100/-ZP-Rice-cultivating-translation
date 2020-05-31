@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ZP_RiceSteamer.label>Rice cooker</ZP_RiceSteamer.label>
+  <ZP_RiceSteamer.description>The natural successor of the Iron pot. Offers the same utility, but with a 30% increase to Cooking speed.</ZP_RiceSteamer.description>
+  <ZP_RiceSteamer_Blueprint.label>Rice cooker (blueprint)</ZP_RiceSteamer_Blueprint.label>
+  <ZP_RiceSteamer_Blueprint_Install.label>Rice cooker (blueprint)</ZP_RiceSteamer_Blueprint_Install.label>
+  <ZP_RiceSteamer_Frame.label>Rice cooker (building)</ZP_RiceSteamer_Frame.label>
+  <ZP_RiceSteamer_Frame.description>The natural successor of the Iron pot. Offers the same utility, but with a 30% increase to Cooking speed.</ZP_RiceSteamer_Frame.description>
+
+
+</LanguageData>

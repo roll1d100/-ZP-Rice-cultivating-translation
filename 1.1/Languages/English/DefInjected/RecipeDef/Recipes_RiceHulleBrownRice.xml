@@ -3,40 +3,40 @@
 
   <!-- All add 1.1 -->
 
-  <MakeRiceHulleBR10.label>籾米を玄米にするx10</MakeRiceHulleBR10.label>
-  <MakeRiceHulleBR10.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR10.description>
-  <MakeRiceHulleBR10.jobString>籾摺りをする</MakeRiceHulleBR10.jobString>
+  <MakeRiceHulleBR10.label>Thresh Momi into Brown rice x10</MakeRiceHulleBR10.label>
+  <MakeRiceHulleBR10.description>Momi is divided into Brown rice and Rice Husk.</MakeRiceHulleBR10.description>
+  <MakeRiceHulleBR10.jobString>Threshing Momi.</MakeRiceHulleBR10.jobString>
 
-  <MakeRiceHulleBR50.label>籾米を玄米にするx50</MakeRiceHulleBR50.label>
-  <MakeRiceHulleBR50.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR50.description>
-  <MakeRiceHulleBR50.jobString>籾摺りをする</MakeRiceHulleBR50.jobString>
+  <MakeRiceHulleBR50.label>Thresh Momi into Brown rice x50</MakeRiceHulleBR50.label>
+  <MakeRiceHulleBR50.description>Momi is divided into Brown rice and Rice Husk.</MakeRiceHulleBR50.description>
+  <MakeRiceHulleBR50.jobString>Threshing Momi.</MakeRiceHulleBR50.jobString>
 
-  <MakeRiceHulleBR100.label>籾米を玄米にするx100</MakeRiceHulleBR100.label>
-  <MakeRiceHulleBR100.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR100.description>
-  <MakeRiceHulleBR100.jobString>籾摺りをする</MakeRiceHulleBR100.jobString>
+  <MakeRiceHulleBR100.label>Thresh Momi into Brown rice x100</MakeRiceHulleBR100.label>
+  <MakeRiceHulleBR100.description>Momi is divided into Brown rice and Rice Husk.</MakeRiceHulleBR100.description>
+  <MakeRiceHulleBR100.jobString>Threshing Momi.</MakeRiceHulleBR100.jobString>
 
-  <MakeRiceHulleBR300.label>籾米を玄米にするx300</MakeRiceHulleBR300.label>
-  <MakeRiceHulleBR300.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR300.description>
-  <MakeRiceHulleBR300.jobString>籾摺りをする</MakeRiceHulleBR300.jobString>
+  <MakeRiceHulleBR300.label>Thresh Momi into Brown rice x300</MakeRiceHulleBR300.label>
+  <MakeRiceHulleBR300.description>Momi is divided into Brown rice and Rice Husk.</MakeRiceHulleBR300.description>
+  <MakeRiceHulleBR300.jobString>Threshing Momi.</MakeRiceHulleBR300.jobString>
 
 
   <!-- 籾摺り　籾米⇒もち米 -->
 
-  <MakeRiceHulleGR10.label>籾米(もち米)をもち米にするx10</MakeRiceHulleGR10.label>
-  <MakeRiceHulleGR10.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR10.description>
-  <MakeRiceHulleGR10.jobString>籾摺りをする</MakeRiceHulleGR10.jobString>
+  <MakeRiceHulleGR10.label>Thresh Momi into Glutinous rice x10</MakeRiceHulleGR10.label>
+  <MakeRiceHulleGR10.description>Momi is divided into Glutinous rice and Rice Husk.</MakeRiceHulleGR10.description>
+  <MakeRiceHulleGR10.jobString>Threshing Momi.</MakeRiceHulleGR10.jobString>
 
-  <MakeRiceHulleGR50.label>籾米(もち米)をもち米にするx50</MakeRiceHulleGR50.label>
-  <MakeRiceHulleGR50.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR50.description>
-  <MakeRiceHulleGR50.jobString>籾摺りをする</MakeRiceHulleGR50.jobString>
+  <MakeRiceHulleGR50.label>Thresh Momi into Glutinous rice x50</MakeRiceHulleGR50.label>
+  <MakeRiceHulleGR50.description>Momi is divided into Glutinous rice and Rice Husk.</MakeRiceHulleGR50.description>
+  <MakeRiceHulleGR50.jobString>Threshing Momi.</MakeRiceHulleGR50.jobString>
 
-  <MakeRiceHulleGR100.label>籾米(もち米)をもち米にするx100</MakeRiceHulleGR100.label>
-  <MakeRiceHulleGR100.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR100.description>
-  <MakeRiceHulleGR100.jobString>籾摺りをする</MakeRiceHulleGR100.jobString>
+  <MakeRiceHulleGR100.label>Thresh Momi into Glutinous rice x100</MakeRiceHulleGR100.label>
+  <MakeRiceHulleGR100.description>Momi is divided into Glutinous rice and Rice Husk.</MakeRiceHulleGR100.description>
+  <MakeRiceHulleGR100.jobString>Threshing Momi.</MakeRiceHulleGR100.jobString>
 
-  <MakeRiceHulleGR300.label>籾米(もち米)をもち米にするx300</MakeRiceHulleGR300.label>
-  <MakeRiceHulleGR300.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR300.description>
-  <MakeRiceHulleGR300.jobString>籾摺りをする</MakeRiceHulleGR300.jobString>
+  <MakeRiceHulleGR300.label>Thresh Momi into Glutinous rice x300</MakeRiceHulleGR300.label>
+  <MakeRiceHulleGR300.description>Momi is divided into Glutinous rice and Rice Husk.</MakeRiceHulleGR300.description>
+  <MakeRiceHulleGR300.jobString>Threshing Momi.</MakeRiceHulleGR300.jobString>
 
 
 </LanguageData>

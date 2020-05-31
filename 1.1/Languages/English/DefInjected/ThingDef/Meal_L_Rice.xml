@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MealLavish -->
+
+  <ZP_BRJubako.label>Jubako (BR)</ZP_BRJubako.label>
+  <ZP_BRJubako.description>【特産品】A lavish Bento. This lacquer box contains a full course meal, with the separate tiers acting as trays. Each tray has several compartments that help keep the various elements apart from each other. Colonists can expect the same on-the-go benefits that Bento offer (though the Jubako's extravagance may leave them even happier).</ZP_BRJubako.description>
+
+  <ZP_WRJubako.label>Jubako</ZP_WRJubako.label>
+  <ZP_WRJubako.description>【特産品】A lavish Bento. This lacquer box contains a full course meal, with the separate tiers acting as trays. Each tray has several compartments that help keep the various elements apart from each other. Colonists can expect the same on-the-go benefits that Bento offer (though the Jubako's extravagance may leave them even happier).</ZP_WRJubako.description>
+
+  <ZP_WRJPCurryRice.label>Japanese Curry</ZP_WRJPCurryRice.label>
+  <ZP_WRJPCurryRice.description>A dish that seems to be loved the galaxy over; if colonists could agree to disagree on ingredients-and thus focus on their love of the dish itself-then the galaxy would be one more common bond closer to peace.あまりの辛さに倒れる人が出る可能性があります。</ZP_WRJPCurryRice.description>
+
+  <ZP_Tendon.label>Tendon</ZP_Tendon.label>
+  <ZP_Tendon.description>A bowl of rice topped with tempura. The latter gives a crunchy texture that is immensely satisfying.</ZP_Tendon.description>
+
+
+  <!-- add 1.1 -->
+
+  <ZP_Jingisukan.label>ジンギスカン</ZP_Jingisukan.label>
+  <ZP_Jingisukan.description>羊肉を用いた日本の焼肉料理。北海道を代表する郷土料理で羊肉の薄切りと野菜を焼き羊肉から出る肉汁を用いて野菜を調理しながら食べる。</ZP_Jingisukan.description>
+
+  <ZP_HorseMeatSashimi.label>馬刺し</ZP_HorseMeatSashimi.label>
+  <ZP_HorseMeatSashimi.description>馬の肉を薄く切って生で食べる日本料理。おろしショウガやおろしニンニク、刻みネギなどを薬味に醤油につけて食べるのが主流。</ZP_HorseMeatSashimi.description>
+
+
+</LanguageData>
