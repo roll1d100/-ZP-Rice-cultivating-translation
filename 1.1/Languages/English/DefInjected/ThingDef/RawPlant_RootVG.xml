@@ -3,25 +3,27 @@
 
   <!-- 根菜類 -->
 
-  <RawPotatoes.label>Potatoes</RawPotatoes.label>
+  <RawPotatoes.label>potatoes</RawPotatoes.label>
   <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
 
-   <ZP_RawJapaneseRadish.label>Raw Daikon</ZP_RawJapaneseRadish.label>
-  <ZP_RawJapaneseRadish.description>Japanese radish. In cooking, Daikon is rarely ever the main focus; rather, it is often grated, chopped, or otherwise dispersed into a dish to compliment the main attraction's flavor. Daikno leaves are frequently used in salads, and are an important part of the Festival of Seven Herbs.</ZP_RawJapaneseRadish.description>
+  <ZP_RawJapaneseRadish.label>Daikon</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>This Japanese radish is defined by its white, carrot-like shape, big green leaves, and short growing period. Daikon are somewhat large, which makes storing them far more difficult than rice or wheat; however, this should be expected, as the name literally means, "Big root."</ZP_RawJapaneseRadish.description>
 
-  <ZP_RawTaro.label>Raw taro</ZP_RawTaro.label>
-  <ZP_RawTaro.description>A small, potato-like plant, taro is officially categorized as a Colocasia esculenta, which are known for their edible corms (that being the potato-like part of the plant). Taro is useful due to its ability to sub in for Konnyaku.</ZP_RawTaro.description>
+  <ZP_RawTaro.label>Taro</ZP_RawTaro.label>
+  <ZP_RawTaro.description>This potato-like plant has a long growing period and high yield. On the Rim, it is often used as a substitute for Konnyaku.</ZP_RawTaro.description>
+
 
   <!-- add 1.1 -->
 
-  <ZP_RawCarrot.label>Carrot[ZP]</ZP_RawCarrot.label>
-  <ZP_RawCarrot.description>Raw Carrot.</ZP_RawCarrot.description>
+  <ZP_RawCarrot.label>Carrot</ZP_RawCarrot.label>
+  <ZP_RawCarrot.description>Otherwise known as "Ninjin," this little veggie is rather cold resistant; moreover, its texture and flavor make it perfect as an ingredient for curry and other rice-based dishes.</ZP_RawCarrot.description>
 
-  <ZP_RawBambooShoot.label>Bamboo shoot[ZP]</ZP_RawBambooShoot.label>
-  <ZP_RawBambooShoot.description>Raw Bamboo Shoot.</ZP_RawBambooShoot.description>
+  <ZP_RawBambooShoot.label>Bamboo shoot</ZP_RawBambooShoot.label>
+  <ZP_RawBambooShoot.description>From the symbol, "竹," which is pronounced "Take," bamboo is a useful resource for any colony.</ZP_RawBambooShoot.description>
 
-  <ZP_SweetPotato.label>Sweet Potato[ZP]</ZP_SweetPotato.label>
-  <ZP_SweetPotato.description>Raw Sweet Potato.</ZP_SweetPotato.description>
+  <ZP_SweetPotato.label>Sweet potato</ZP_SweetPotato.label>
+  <ZP_SweetPotato.description>Called Satsuma-imo in Japan, the crop is quite revered by the island nation. It was introduced to the island nation by the Portuguese in the 1600's; afterwards, it was used to circumvent famine whenever the rice harvests were lacking. The "imo" part of the vegetable's name means "potato."</ZP_SweetPotato.description>
+
 
 
 </LanguageData>

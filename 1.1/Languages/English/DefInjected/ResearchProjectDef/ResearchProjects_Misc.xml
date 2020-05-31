@@ -3,110 +3,110 @@
 
   <!-- add 1.1 -->
 
-  <ReZPPrantRice.label>ZP:稲</ReZPPrantRice.label>
-  <ReZPPrantRice.description>【栽培skill:3 栽培場所:地面,水田】\n稲作の始まり。\n稲を栽培することで主食の米が手に入る。収穫後の稲からは藁、籾殻、米糠がとれる。これらの副産物は動物の餌や工芸品、燃料などに利用できる有用な資源となる。</ReZPPrantRice.description>
+  <ReZPPrantRice.label>Rice</ReZPPrantRice.label>
+  <ReZPPrantRice.description>Welcome to the beginning of rice cultivation! A staple food known across the galaxy, rice, has now made it to your corner of the Rim. Ine (rice) is a noble, flexible food, like wheat, corn, or bacon. Rice cultivation is a multistep process that results in several by-products, namely husks and bran. These by-products can be used for animal feed, crafting, and fuel.</ReZPPrantRice.description>
 
-  <ReZPPrantUplandRice.label>ZP:Upland rice</ReZPPrantUplandRice.label>
-  <ReZPPrantUplandRice.description>【栽培skill:4 栽培場所:地面】\n畑で栽培できる稲。\n成長がはやく条件が悪くなければ約4日で育つ。</ReZPPrantUplandRice.description>
+  <ReZPPrantUplandRice.label>Upland rice</ReZPPrantUplandRice.label>
+  <ReZPPrantUplandRice.description>Perhaps the fastest growing rice variant, Okabo (Upland rice) is grown on dry soil. This allows Okabo to be far more flexible in where it can be grown than Suitō, which requires paddie fields for proper cultivation. The low harvest yield dismays some farmers; yet, Okabo's fast growth time greatly helps: a strength only made better through soil improvements.</ReZPPrantUplandRice.description>
 
-  <ReZPPrantWetlandRice.label>ZP:Semiaquatic rice</ReZPPrantWetlandRice.label>
-  <ReZPPrantWetlandRice.description>【栽培skill:6 栽培場所:水田】\n水田で栽培できる稲。\n成長は従来の稲より遅いが、収穫量が多いため安定した栽培ができれば食料に困らなくなる。</ReZPPrantWetlandRice.description>
+  <ReZPPrantWetlandRice.label>Semiaquatic rice</ReZPPrantWetlandRice.label>
+  <ReZPPrantWetlandRice.description>Stable, constant, reliable, Suitō (Semiaquatic rice) can only be grown in rice paddies. Paddy fields forego the need for healthy soil, utilizing nutrient rich water instead; moreover, the large harvest that Suitō yields helps balance out its-relatively-long growth time.\nPaddy fields have played an important role in agriculture throughout history. In Japan these fields are referred to as Ta (田); originally, Ta was used to simply mean "field," but the meaning was later shifted to "rice paddy field." These fields continued to influence culture, as by the Meiji Period citizens were forced to take a family name. At the time nearly 3/4's of the population were farmers, thus many used Ta (田) in some capacity when making their family name. Popular examples include Nakata (中田) and Tanaka (田中), which mean "middle paddy field" and "in the paddy field" respectively.</ReZPPrantWetlandRice.description>
 
-  <ReGlutinousRice.label>ZP:Glutinous rice</ReGlutinousRice.label>
-  <ReGlutinousRice.description>【栽培skill：4 栽培場所:地面,水田】\n畑と水田で栽培できる稲。\nもちもちとした食感のお米を栽培できる。杵臼で凍り餅に加工することで長期保存も可能になる。</ReGlutinousRice.description>
+  <ReGlutinousRice.label>Glutinous rice</ReGlutinousRice.label>
+  <ReGlutinousRice.description>Derived from the Latin "glūtinōsus," Glutinous rice is so named for its sticky nature. Known as "Mochigome" in Japan, this variety of rice most reveals its eponymous trait when cooked; Japan's most common use of Mochigome is to turn it into Mochiko (rice flour), which can then be molded into the cooking ingredient, Mochi. Mochi is then further shaped and flavored into whatever kind of rice cake a recipe needs.\nOn the Rim, Mochigome can be turned into Freezer Mochi. This variety of Mochi keeps for a long time, making it ideal for almost any colony.\n\nRIMWORLD SERVICE ANNOUNCEMENT: GLUTINOUS RICE CONTAINS NO GLUTEN, REPEAT, NO GLUTEN.</ReGlutinousRice.description>
 
-  <ReZPSoilImprovement.label>ZP:土壌改良</ReZPSoilImprovement.label>
-  <ReZPSoilImprovement.description>土\n【建築skill:3,肥沃度:100%】\n農業が可能な土壌を研究する。\n設置場所：土、苔むした土、湿地、肥えた土、砂利。\n\n肥沃土\n【建築skill:3,肥沃度:140%】\n作物をより多く収穫するために肥沃な土壌を研究する。\n設置場所：畑を作れる土壌。</ReZPSoilImprovement.description>
+  <ReZPSoilImprovement.label>Soil Improvement</ReZPSoilImprovement.label>
+  <ReZPSoilImprovement.description>Reserch the production and placement of agriculturally friendly soil.\nSoil can be placed on sand, ice, gravel, rough stone, smooth stone.\nUnlocks: Soil (Fertility: 100%) and Fertile Soil (Fertility: 140%).</ReZPSoilImprovement.description>
 
-  <ReZPSoilImprovement2nd.label>ZP:土壌改良Ⅱ</ReZPSoilImprovement2nd.label>
-  <ReZPSoilImprovement2nd.description>泥\n【建築skill:5】\n水田作成に必要な土壌。\n設置場所：海,小川,外洋以外。\n\n砂利\n【建築skill:5,肥沃度：70%】\n足場の悪い場所を埋め立てる基礎工事としても使える。\n設置場所：海,小川,外洋以外。\n\n人工浅瀬\n【建築skill:5】\n水深の深い川を埋め立てて浅瀬を作る。\n設置場所：小川。</ReZPSoilImprovement2nd.description>
+  <ReZPSoilImprovement2nd.label>Soil Improvement II</ReZPSoilImprovement2nd.label>
+  <ReZPSoilImprovement2nd.description>Unlock the ability to create feasible soil out of swamp, mud, or shallow water. This can be done through either Gravel or Artificial Shoal; the former can be used to recleaim rough terrain (prepping it for soil placement), while the latter can convert deep water into shallow. More importantly, mud!\n\nMud is also unlocked by this research, and it can be used to create terrain for rice paddy construction. This foregoes the need for a body of water, and allows colonies with less access to water to utilize rice paddies.</ReZPSoilImprovement2nd.description>
 
-  <ReZPAgriculturalMachines.label>ZP:農具(中世時代)</ReZPAgriculturalMachines.label>
-  <ReZPAgriculturalMachines.description>脱穀精米の専用農具である足踏式脱穀機と籾摺り臼を開発する。</ReZPAgriculturalMachines.description>
+  <ReZPAgriculturalMachines.label>Farm Tools: Middle Ages</ReZPAgriculturalMachines.label>
+  <ReZPAgriculturalMachines.description>Nōgu: Chūsei Jidai-Develop a foot-operated threshing machine and paddy mortar, which are dedicated agricultural tools for processing rice.</ReZPAgriculturalMachines.description>
 
-  <ReZPAgriculturalMachines2nd.label>ZP:農具(中世時代Ⅱ)</ReZPAgriculturalMachines2nd.label>
-  <ReZPAgriculturalMachines2nd.description>水流の力を利用して脱穀精米できる農業用水車を開発する。</ReZPAgriculturalMachines2nd.description>
+  <ReZPAgriculturalMachines2nd.label>Farm Tools: Middle Ages II</ReZPAgriculturalMachines2nd.label>
+  <ReZPAgriculturalMachines2nd.description>Nōgu: Chūsei Jidai-Develop an agricultural water mill that can thresh rice using the power of water.</ReZPAgriculturalMachines2nd.description>
 
-  <ReZPAgriculturalMachines3rd.label>ZP:農具(産業時代)</ReZPAgriculturalMachines3rd.label>
-  <ReZPAgriculturalMachines3rd.description>電気の力を利用して脱穀精米できる電動脱穀機と精米機を開発する。</ReZPAgriculturalMachines3rd.description>
+  <ReZPAgriculturalMachines3rd.label>Farm Tools: Industrial Age</ReZPAgriculturalMachines3rd.label>
+  <ReZPAgriculturalMachines3rd.description>Nōgu: Sangyō Jidai-ZAP! Harness the power of electricity and drag your space age colony into the 20th Century! With such revolutionary devices as the an electric milling machine or the electric threshing machine, manual labor times around the colony will plummet, and colonist morale will be...electric.</ReZPAgriculturalMachines3rd.description>
 
-  <ReZPAgriculturalMachines4th.label>ZP:農具(産業時代Ⅱ)</ReZPAgriculturalMachines4th.label>
-  <ReZPAgriculturalMachines4th.description>電気の力を利用して最大効率で脱穀精米できるマルチ式脱穀精米機を開発する。</ReZPAgriculturalMachines4th.description>
+  <ReZPAgriculturalMachines4th.label>Farm Tools: Industrial Age II</ReZPAgriculturalMachines4th.label>
+  <ReZPAgriculturalMachines4th.description>Nōgu: Sangyō Jidai-ZAP, POW, ZING! Electricity strikes again! Unlike the proverbial lightning bolt, our scientists have made a second groundbreaking discovery. In the age of AI, orbital lasers, and archotech implants, our colony has learned how to make the panacea of rice processing machines! The Auto-Miller 3000 can do it all!\n\nCan it thresh? Hell yes! Can it polish? Without a mess! Can it mill? The name fits the bill! Why, the Auto-Miller 3000 is an amazing device, and can be found in 63.56% of all Rim World colonies.* So, what are you waiting for!? Buy/Build/Steal yours today!\n\n(*Sample size may vary.)</ReZPAgriculturalMachines4th.description>
 
 
   <!-- その他 -->
 
-  <ReZPScarecrow.label>ZP:Scarecrow of Fertility</ReZPScarecrow.label>
-  <ReZPScarecrow.description>【肥沃度:30%up,範囲:9×9,効果:重複】\nかかしに豊穣の神を宿らせる方法を学ぶ。\n効果を持続させるにはお供え物が必要になる。\n燃料:おにぎり類,酒類,餅類,煎餅,おこし\n注意:水田と水耕栽培機,大型植木鉢は恩恵を受けれません。</ReZPScarecrow.description>
+  <ReZPScarecrow.label>Scarecrow of Fertility</ReZPScarecrow.label>
+  <ReZPScarecrow.description>Acknowledge the god that watches over the colony, and learn how to direct its blessing of fertility into a scarecrow. As long as there is an offering (rice based foods), the scarecrow will increase soil fertility by 30% within 9 squares.\n\nCAUTION: Paddy fields and hydroponics cannot receive this blessing.</ReZPScarecrow.description>
 
 
   <!-- add 1.1 -->
 
-  <ReZPBonfire.label>ZP:篝火</ReZPBonfire.label>
-  <ReZPBonfire.description>篝火\n【燃料:炭,モミガライト 範囲:5×5 設置場所:地面】\n燃料式の発熱太陽灯。\n夜間などに燃料を節約する場合は、入植者にスイッチ操作をさせてください。\n\n高台式篝火\n【燃料:炭,モミガライト 範囲:3×3 設置場所:橋と同一】\n足場の悪い水田や養殖網に使える燃料式発熱太陽灯。\n夜間などに燃料を節約する場合は、入植者にスイッチ操作をさせてください。</ReZPBonfire.description>
+  <ReZPBonfire.label>Bonfire</ReZPBonfire.label>
+  <ReZPBonfire.description>Study the various agrarian applications of a Kagaribi (Bonfire). By suspending a Kagaribi in the air, we can enhance its visibility, bypassing the need for a large flame; furthermore, we can save resources by dousing the Kagaribi's flames at night, then stoking it back to full strength in the morning.\nOur research also suggests that by reinforcing the pedestal with steel the Kagaribi could be utilized in shallow water. This would help out when dealing with paddy fields or fish farms.\n\nBoth versions of the Kagaribi can utilize Charcoal and Momigalite as fuel.</ReZPBonfire.description>
 
-  <ReZPLargeCultivationPlanter.label>ZP:大型植木鉢</ReZPLargeCultivationPlanter.label>
-  <ReZPLargeCultivationPlanter.description>【燃料:生水,堆肥 肥沃度:200%】\n作物を栽培できる大型の植木鉢。\n定期的に管理しないと腐って消える。</ReZPLargeCultivationPlanter.description>
+  <ReZPLargeCultivationPlanter.label>Large Planter</ReZPLargeCultivationPlanter.label>
+  <ReZPLargeCultivationPlanter.description>The Ōgata Uekibachi (Large Flowerpot) can be used to grow plants where soil placement may be unadvisable. It has an innate Fertility of 200%; moreover, it also requires constant refueling, for which we can give it Compost or Namamizu (raw water).</ReZPLargeCultivationPlanter.description>
 
 
   <!-- 栽培 -->
 
-  <ReZPBeanFungus.label>ZP:豆・菌類</ReZPBeanFungus.label>
-  <ReZPBeanFungus.description>大豆\n【栽培skill:5 栽培場所:地面,水耕栽培器,大型植木鉢,水田】\n\n小豆\n【栽培skill:6 栽培場所:地面,水耕栽培器,大型植木鉢,水田】\n\n紅茸\n【栽培skill:6 栽培場所:大型植木鉢】\n\nアガリラックス\n【栽培skill:6 栽培場所:大型植木鉢】</ReZPBeanFungus.description>
+  <ReZPBeanFungus.label>Soybeans</ReZPBeanFungus.label>
+  <ReZPBeanFungus.description>Learn how to cultivate Daizu (Soybeans), Azuki (Red Mung Bean), and two types of Kinrui (Fungi).\nSoybeans are a staple crop of any self-respecting colony on the Rim; their versitility as a processed food-Soymilk and Tofu-allows colonies to satisfy a diversity of recipe/ingredient requirements from just one crop.\nAzuki is primarily used to make red bean paste (referred to as "Anko" or "Ogura" in Japan); this paste is then used to make various confectionary wonders.\nAs for the Kinrui, our colony will learn how to grow Agarilux and Glowstool.</ReZPBeanFungus.description>
 
 
   <!-- add 1.1 -->
 
-  <ReZPFruitVeg.label>ZP:果菜類</ReZPFruitVeg.label>
-  <ReZPFruitVeg.description>トマト\n【栽培skill:4 栽培場所:地面,水耕栽培器,大型植木鉢】\n\n茄子\n【栽培skill:4 栽培場所:地面,水耕栽培器】\n\n南瓜\n【栽培skill:6 栽培場所:地面,水耕栽培器,大型植木鉢】\n\nキュウリ\n【栽培skill:3 栽培場所:地面,水耕栽培器,大型植木鉢】</ReZPFruitVeg.description>
+  <ReZPFruitVeg.label>Fruits and Vegetables</ReZPFruitVeg.label>
+  <ReZPFruitVeg.description>Being a rather broad term, "Fruit," has several names in Japanese, the most common being "Furūtsu," "Kajitsu," and "Kudamono." The word, "Vegetable," shares a similar fate, with the Japanese for it being "Yasai," "Sosai," or "Bejitaburu."\nThis research will help introduce a variety of crops to the colony.</ReZPFruitVeg.description>
 
-  <ReZPRootVeg.label>ZP:根菜類</ReZPRootVeg.label>
-  <ReZPRootVeg.description>大根\n【栽培skill:3 栽培場所:地面,水耕栽培器,大型植木鉢】\n\n里芋\n【栽培skill:4 栽培場所:地面,水耕栽培器,水田】\n\n人参\n【栽培skill:3 栽培場所:地面,水耕栽培器,大型植木鉢】\n\n竹\n【栽培skill:6 栽培場所:地面】\n\n薩摩芋\n【栽培skill:4 栽培場所:地面,水耕栽培器,大型植木鉢】</ReZPRootVeg.description>
+  <ReZPRootVeg.label>Root Vegetables</ReZPRootVeg.label>
+  <ReZPRootVeg.description>Known as "Konsai" in Japanese, this research will help our colony cultivate root-focused crops. By nature, roots act as a plant's storage organ, allowing it to stow away carbohydrates as energy. Roots have a keen advantage over fruit: they can easily be stored for long amounts of time (months).</ReZPRootVeg.description>
 
-  <ReZPLeafStemVeg.label>ZP:葉茎菜類</ReZPLeafStemVeg.label>
-  <ReZPLeafStemVeg.description>長葱\n【栽培skill:6 栽培場所:地面,水耕栽培器,大型植木鉢】\n\nキャベツ\n【栽培skill:4 栽培場所:地面,水耕栽培器,大型植木鉢,水田】\n\nほうれん草\n【栽培skill:3 栽培場所:地面,水耕栽培器,大型植木鉢,水田】\n\n玉葱\n【栽培skill:6 栽培場所:地面,水耕栽培器,大型植木鉢,水田】</ReZPLeafStemVeg.description>
+  <ReZPLeafStemVeg.label>Leafy Vegetables</ReZPLeafStemVeg.label>
+  <ReZPLeafStemVeg.description>Learn how to cultivate Leafy vegetables, or, "Hamono Yasai." As the name suggests, the cultivation of these plants is mainly concerned with their leaves, which are eaten as vegetables after harvest. Colonists may seek out these veggies for their vitamin C and K content; vitamin K is particularly abundant in these plants due to its connection with photosynthetic tissue.</ReZPLeafStemVeg.description>
 
-  <ReZPFruit.label>ZP:果樹</ReZPFruit.label>
-  <ReZPFruit.description>蜜柑の木\n【栽培skill:8 栽培場所:地面】\n\n梅の木\n【栽培skill:8 栽培場所:地面】\n\n柿の木\n【栽培skill:8 栽培場所:地面】</ReZPFruit.description>
+  <ReZPFruit.label>Fruit Tree</ReZPFruit.label>
+  <ReZPFruit.description>With the magic of modern technology, learn how to sow genetically modified Kaju (fruit trees) that can bear fruit within a year's time! All three trees, the Mikan, Ume, and Kaki, are of Chinese origin, though each has come to play a part in Japanese cuisine.</ReZPFruit.description>
 
-  <ReZPAquacultureFish.label>ZP:魚</ReZPAquacultureFish.label>
-  <ReZPAquacultureFish.description>【栽培skill:8 栽培場所:養殖網】\n魚の養殖と魚の餌作りを学ぶ。\n成長期間は非常に長いが栄養価の高い魚を収穫できる。\n注意：餌がないと魚は養殖網を壊して脱走するので餌を運搬する人が必要です。育てる条件は通常の栽培と一緒です。</ReZPAquacultureFish.description>
+  <ReZPAquacultureFish.label>Fish Hatchery</ReZPAquacultureFish.label>
+  <ReZPAquacultureFish.description>Learn how to farm fish. It takes a while to properly breed a sizable stock; moreover, one must provide the hatchery with consistent lighting, feed, and temperature. The end yield is a large amount of nutritious fish.</ReZPAquacultureFish.description>
 
 
   <!-- 調味料 -->
 
-  <ReZPSeasoning.label>ZP:Seasoning</ReZPSeasoning.label>
-  <ReZPSeasoning.description>食生活を豊かにしてくれる調味料(天然塩,米飴,香辛料,酢,味噌,醤油,出汁)の作り方を学ぶ。</ReZPSeasoning.description>
+  <ReZPSeasoning.label>Seasoning</ReZPSeasoning.label>
+  <ReZPSeasoning.description>Learn how to make Shīzuningu (Seasonings) that will enrich your diet.\nUnlocks recipes such as: Salt, Spices, Dashi, Rice syrup, Rice vineger, Soy souce, and Miso.</ReZPSeasoning.description>
 
-  <ReZPPreservedFood.label>ZP:Preserved meals</ReZPPreservedFood.label>
-  <ReZPPreservedFood.description>食べ物を長期保存するための加工技術を学ぶ。</ReZPPreservedFood.description>
+  <ReZPPreservedFood.label>Preserved Meals</ReZPPreservedFood.label>
+  <ReZPPreservedFood.description>Learn how to make preserved meals that will keep for a long time.\nUnlocks recipes such as: Nukadoko, Dried fish, Tanpo, and Nuka pot.</ReZPPreservedFood.description>
 
-  <ReZPLuxury.label>ZP:Luxury Cuisine</ReZPLuxury.label>
-  <ReZPLuxury.description>嗜好品の作り方を学ぶ。</ReZPLuxury.description>
+  <ReZPLuxury.label>Luxury Cuisine</ReZPLuxury.label>
+  <ReZPLuxury.description>Want to forget about the impending raids, plagues, and mechanoid swarms? Then become the finest chef on the Rim by studying these luxurious dishes! Your colonists may never venture forth to the stars, but at least their taste buds can glimpse heaven.</ReZPLuxury.description>
 
 
   <!-- add 1.1 -->
 
-  <ReZPIceMakingTechnology.label>ZP:製氷技術</ReZPIceMakingTechnology.label>
-  <ReZPIceMakingTechnology.description>【建築skill:4 燃料:水】\n氷の作り方を学ぶことで食品を長期保存できる。</ReZPIceMakingTechnology.description>
+  <ReZPIceMakingTechnology.label>Ice Making Technology</ReZPIceMakingTechnology.label>
+  <ReZPIceMakingTechnology.description>By researching Seihyō (Ice Making) Gijutsu (Technology), our colony will be able to devise new food preservation methods.</ReZPIceMakingTechnology.description>
 
-  <ReZPPoultryRaisingTechnology.label>ZP:養鶏技術</ReZPPoultryRaisingTechnology.label>
-  <ReZPPoultryRaisingTechnology.description>【建築skill:6 燃料:ペットフード,増量ペットフード,魚の餌,飲料水】\n鶏小屋を作成できる。飼い葉を与えると2日後に無精卵が4つとれる。注意!!:設置後は撤去不可。</ReZPPoultryRaisingTechnology.description>
+  <ReZPPoultryRaisingTechnology.label>Poultry Farming</ReZPPoultryRaisingTechnology.label>
+  <ReZPPoultryRaisingTechnology.description>Yōkei (Poultry Farming) can be a reliable source of food; however, the Keisha (Chicken Coops) will need to be regularly provided with feed, and its temperature must also be monitored. When faced with such constraints, some colonies may prefer to keep their poultry free range; yet, Keisha protect our poultry from disease, predators, and-the most common of Rim afflictions-a stray bullet.</ReZPPoultryRaisingTechnology.description>
 
 
   <!-- 家具 -->
 
-  <ReZPFurniture.label>ZP:Japanese style furniture</ReZPFurniture.label>
-  <ReZPFurniture.description>住環境をよくする和風家具の建て方を学ぶ。</ReZPFurniture.description>
+  <ReZPFurniture.label>Japanese Style Furniture</ReZPFurniture.label>
+  <ReZPFurniture.description>Learn how to make some Wafū (Japanese style) Kagu (Furniture), such as Rejāshīto (picnic blankets), Irori, Kotatsu, and Uchiwa.</ReZPFurniture.description>
 
 
   <!-- add 1.1 -->
 
-  <ReZPLuxuryFurniture.label>ZP:高級和風家具</ReZPLuxuryFurniture.label>
-  <ReZPLuxuryFurniture.description>住環境をよくする高級和風家具の建て方を学ぶ。</ReZPLuxuryFurniture.description>
+  <ReZPLuxuryFurniture.label>Luxury Furniture</ReZPLuxuryFurniture.label>
+  <ReZPLuxuryFurniture.description>With the basics down, it's time to study Kōkyū (Luxury) Kagu (Furniture), and how to liven up the colony's interiors through rugs, bedding, and partitions.</ReZPLuxuryFurniture.description>
 
-  <ReZPTatami.label>ZP:畳</ReZPTatami.label>
-  <ReZPTatami.description>【建築or工芸skill:6 美しさ:2 清潔度:0.2】\n畳の作り方を学ぶ。</ReZPTatami.description>
+  <ReZPTatami.label>Tatami</ReZPTatami.label>
+  <ReZPTatami.description>No traditional colony would be complete without Tatami! These sleek floor mats offer fire retardance, cleanliness, and beauty; moreover, outside the Rim-where Igusa (soft rush) is accessible-Tatami are also made and utilized for air quality, temperature regulation, and humidity.</ReZPTatami.description>
 
 
 </LanguageData>

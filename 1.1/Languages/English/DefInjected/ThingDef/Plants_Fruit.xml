@@ -3,17 +3,17 @@
 
   <!-- 果物類 -->
 
-  <ZP_PlantTreeMandarinOrange.label>Mandarin Orange Tree</ZP_PlantTreeMandarinOrange.label>
-  <ZP_PlantTreeMandarinOrange.description>ミカンの木。寒さに弱いので温室栽培が有効です。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreeMandarinOrange.description>
+  <ZP_PlantTreeMandarinOrange.label>Tangerine tree</ZP_PlantTreeMandarinOrange.label>
+  <ZP_PlantTreeMandarinOrange.description>The Mikan no Ki (Tangerine Tree) is a slow growing tree that is vulnerable to the cold; however, once the tree is grown, the next harvest will be quick.\n\nBefore the genetic modification of plants was perfected, a Mikan tree could take 8 years to bear fruit, if grown from a seed. Those breeds were also quite resilient, however, as the trees could survive -9 to -11 degrees Celsius (15/12F).</ZP_PlantTreeMandarinOrange.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PlantTreePlum.label>Plum Tree</ZP_PlantTreePlum.label>
-  <ZP_PlantTreePlum.description>ウメの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreePlum.description>
+  <ZP_PlantTreePlum.label>Plum tree</ZP_PlantTreePlum.label>
+  <ZP_PlantTreePlum.description>The Ume no Ki (Plum Tree) can be planted to grow yummy Ume to eat. The tree originated near the Yangtze River in China; moreover, the Japanese term "Ume" shares a similar origin, and is derived from the Chinese term "Mei."\n\nThe tree is also used in Japanese culture. There are several varieties-Yabai, Hibai, and Bungo-that are used as ornamental trees; tradition also states that Ume act as a ward against evil, to which people have planted such trees in the northeast of their property (believing that to be the direction evil comes from).</ZP_PlantTreePlum.description>
 
-  <ZP_PlantPersimmon.label>Persimmon Tree</ZP_PlantPersimmon.label>
-  <ZP_PlantPersimmon.description>カキの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantPersimmon.description>
+  <ZP_PlantPersimmon.label>Persimmon tree</ZP_PlantPersimmon.label>
+  <ZP_PlantPersimmon.description>The Kaki no Ki (Persimmon Tree) will yield Kaki for colonists to eat. The tree has deciduous leaves and blooms from May to June; moreover, the dried leaves are used in Japan to make Kaki-No-Ha Cha (Persimmon Leaf Tea).</ZP_PlantPersimmon.description>
 
 
 </LanguageData>

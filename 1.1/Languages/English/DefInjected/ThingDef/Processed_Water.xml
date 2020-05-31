@@ -4,17 +4,17 @@
   <!-- All add 1.1 -->
 
   <ZP_RawWater.label>Natural Water</ZP_RawWater.label>
-  <ZP_RawWater.description>Water gather from natural sources, it might be dangerous to just drink the water as may contain harmful substances or imputies.\n生の水。そのまま飲むと高確率で食中毒になります</ZP_RawWater.description>
+  <ZP_RawWater.description>Namamizu means "raw water," and raw is exactly how a colonist will feel if they drink this water. Puking one's guts out after drinking parasite filled water is a lesson that most try to avoid.</ZP_RawWater.description>
   <ZP_RawWater.ingestible.ingestCommandString>Drink {0}</ZP_RawWater.ingestible.ingestCommandString>
   <ZP_RawWater.ingestible.ingestReportString>Drinking {0}.</ZP_RawWater.ingestible.ingestReportString>
 
   <ZP_Water.label>Boiled Water</ZP_Water.label>
-  <ZP_Water.description>Filtered water, safe for drinking.</ZP_Water.description>
+  <ZP_Water.description>From the Kanji "水," which can read as "Sui" or "Mizu:" though both mean "water." This water still bears some impurities, making it unfit for consumption; however, as most recipes call for boiling, it should be fine to cook with.</ZP_Water.description>
   <ZP_Water.ingestible.ingestCommandString>Drink {0}</ZP_Water.ingestible.ingestCommandString>
   <ZP_Water.ingestible.ingestReportString>Drinking {0}.</ZP_Water.ingestible.ingestReportString>
 
-  <ZP_DrinkingWater.label>Mineral water</ZP_DrinkingWater.label>
-  <ZP_DrinkingWater.description>飲料水。飲むことで簡単な熱中症対策にもなる。</ZP_DrinkingWater.description>
+  <ZP_DrinkingWater.label>Mineral Water</ZP_DrinkingWater.label>
+  <ZP_DrinkingWater.description>Nomimizu, or "drinking water," can be used as a simple measure against heat stroke.\n\nBoth Inryōsui and Nomimizu mean "drinking water," which parrots the Mizu/Sui situation for "water;" however, in this case we can also observe that Nomi means "drinking," while Inryō means "beverage."</ZP_DrinkingWater.description>
   <ZP_DrinkingWater.ingestible.ingestCommandString>Drink {0}</ZP_DrinkingWater.ingestible.ingestCommandString>
   <ZP_DrinkingWater.ingestible.ingestReportString>Drinking {0}.</ZP_DrinkingWater.ingestible.ingestReportString>
 

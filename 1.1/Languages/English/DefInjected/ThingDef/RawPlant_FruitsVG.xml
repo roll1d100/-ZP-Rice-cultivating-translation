@@ -3,23 +3,24 @@
 
   <!-- 果菜類 -->
 
-  <RawCorn.label>Corn</RawCorn.label>
+  <RawCorn.label>corn</RawCorn.label>
   <RawCorn.description>Raw corn.</RawCorn.description>
 
 
   <!-- add 1.1 -->
 
   <ZP_RawTomato.label>Tomato</ZP_RawTomato.label>
-  <ZP_RawTomato.description>Raw Tomato。生で食べることが出来ます。</ZP_RawTomato.description>
+  <ZP_RawTomato.description>Odd though it may seem, the Japanese for this fruit "トマト" is still pronounced as "Tomato." The fruit itself originated in South America, and was spread throughout the world by the Spanish in 16-17th Centuries.</ZP_RawTomato.description>
 
   <ZP_RawEggplant.label>Eggplant</ZP_RawEggplant.label>
-  <ZP_RawEggplant.description>生のナス。</ZP_RawEggplant.description>
+  <ZP_RawEggplant.description>Known as "Nasu" in Japan, eggplants have been specifically cultivated to have different features based on a nation's tastes. For example, Japan's Nasu are generally thin skinned, while in the Philippines they are more longer and slender.</ZP_RawEggplant.description>
 
   <ZP_RawPumpkin.label>Pumpkin</ZP_RawPumpkin.label>
-  <ZP_RawPumpkin.description>Raw Pumpkin.</ZP_RawPumpkin.description>
+  <ZP_RawPumpkin.description>The term "Kabocha" is used in Japan to refer to a pumpkin, or a specific type of winter squash, or as a general term for squashes. The Kabocha squash is small, green, rough-skinned, and has a very sweet taste. In this particular case, however, we're talking about a pumpkin, that big orange bowling ball that people carve up once a year.</ZP_RawPumpkin.description>
 
   <ZP_RawCucumber.label>Cucumber</ZP_RawCucumber.label>
-  <ZP_RawCucumber.description>Raw cucumber。生で食べることが出来ます。</ZP_RawCucumber.description>
+  <ZP_RawCucumber.description>Called "Kyūri" in Japan, this crop's low nutritional value is offset by its large yield./n/nWARNING: Attention to all Rim colonies, grow these at your own risk! The intergalatic food conglomerate, Big Sis Farms, has begun employing Kappas to "acquire" free-range cucumbers. Colonists that refuse to relinquish their crop have been known to be body slammed. The wrestling obsessed creatures will stop at nothing to accomplish their mission. You have been warned.</ZP_RawCucumber.description>
+
 
 
 </LanguageData>

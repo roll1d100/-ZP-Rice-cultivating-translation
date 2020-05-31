@@ -3,20 +3,20 @@
 
   <!-- 葉茎菜類 -->
 
-   <ZP_RawGreenOnion.label>Negi</ZP_RawGreenOnion.label>
-  <ZP_RawGreenOnion.description>Also known as naganegi, or "long onion," Negi is a popular garnish in Japanese cuisine.</ZP_RawGreenOnion.description>
+  <ZP_RawGreenOnion.label>Negi</ZP_RawGreenOnion.label>
+  <ZP_RawGreenOnion.description>This Japanese green onion resembles a leek, but is distinguishable by its longer, more slender appearance. As a crop, it has a long growing period and minor yield; yet, its high cold tolerance means it can continue to grow when most other crops can't.</ZP_RawGreenOnion.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_RawCabbage.label>Cabbage[ZP]</ZP_RawCabbage.label>
-  <ZP_RawCabbage.description>生のキャベツ。生で食べられる。</ZP_RawCabbage.description>
+  <ZP_RawCabbage.label>Cabbage</ZP_RawCabbage.label>
+  <ZP_RawCabbage.description>Kyabetsu (cabbage) is a cold resistant plant that can be grown in paddy fields.</ZP_RawCabbage.description>
 
-  <ZP_RawSpinach.label>Spinach[ZP]</ZP_RawSpinach.label>
-  <ZP_RawSpinach.description>Raw spinach。</ZP_RawSpinach.description>
+  <ZP_RawSpinach.label>Spinach</ZP_RawSpinach.label>
+  <ZP_RawSpinach.description>Hōrensō (spinach) is a cold resistant plant with a low yield and high nutritional value.</ZP_RawSpinach.description>
 
-  <ZP_RawOnion.label>Onion[ZP]</ZP_RawOnion.label>
-  <ZP_RawOnion.description>Raw Onion[ZP]</ZP_RawOnion.description>
+  <ZP_RawOnion.label>Onion</ZP_RawOnion.label>
+  <ZP_RawOnion.description>Tamanegi (onion) is a highly cold resistant plant.</ZP_RawOnion.description>
 
 
 </LanguageData>
