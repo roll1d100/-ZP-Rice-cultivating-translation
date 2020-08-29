@@ -3,17 +3,17 @@
 
   <!-- 米類 -->
 
-  <ZP_PrantRice.label>稲</ZP_PrantRice.label>
-  <ZP_PrantRice.description>畑で育成できる米。\n白米を食べるまでの手間隙は大変だが愛情をもって育てたお米は衣食住様々な事に活用できる。研究が進めば品種改良もできる優れた穀物。</ZP_PrantRice.description>
+  <ZP_PrantRice.label>米稻</ZP_PrantRice.label>
+  <ZP_PrantRice.description>想要种植大米并不容易，但只要花些时间用心培育，这种作物将可以满足你的各种需求。\n除此以外，还可以通过研究来改良它们的品质。</ZP_PrantRice.description>
 
-  <ZP_PrantUplandRice.label>陸稲</ZP_PrantUplandRice.label>
-  <ZP_PrantUplandRice.description>畑で育成できる米。熱に強く65℃まで成長できる。\n収穫の早さを重視しかつ収穫量が微増できた品種。</ZP_PrantUplandRice.description>
+  <ZP_PrantUplandRice.label>陆稻</ZP_PrantUplandRice.label>
+  <ZP_PrantUplandRice.description>在田地里育成的米稻，是重视生长速度和产量的品种。</ZP_PrantUplandRice.description>
 
-  <ZP_PrantWetlandRice.label>水稲</ZP_PrantWetlandRice.label>
-  <ZP_PrantWetlandRice.description>水田で育成できる米。\n稲穂に大量の米を実らすために改良したが、成長速度が犠牲になった品種。</ZP_PrantWetlandRice.description>
+  <ZP_PrantWetlandRice.label>水稻</ZP_PrantWetlandRice.label>
+  <ZP_PrantWetlandRice.description>在水田中培育的品种，是为了扩大产量而进行过改良的品种。</ZP_PrantWetlandRice.description>
 
-  <ZP_PrantGlutinousRice.label>もち米</ZP_PrantGlutinousRice.label>
-  <ZP_PrantGlutinousRice.description>畑と水田で育成できる米。凍り餅の原材料。\nもちもちとした食感を追求した品種。</ZP_PrantGlutinousRice.description>
+  <ZP_PrantGlutinousRice.label>糯米</ZP_PrantGlutinousRice.label>
+  <ZP_PrantGlutinousRice.description>旱地和水田都可以成长的品种，是追求软糯口感的品种。\n除此以外还可以用来制作特别的糕点和料理。</ZP_PrantGlutinousRice.description>
 
 
 </LanguageData>

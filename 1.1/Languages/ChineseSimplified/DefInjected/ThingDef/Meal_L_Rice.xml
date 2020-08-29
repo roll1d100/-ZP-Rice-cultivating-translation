@@ -3,26 +3,26 @@
 
   <!-- MealLavish -->
 
-  <ZP_BRJubako.label>重箱(玄米)</ZP_BRJubako.label>
-  <ZP_BRJubako.description>【特産品】どこでも食べれる豪華なお弁当。</ZP_BRJubako.description>
+  <ZP_BRJubako.label>豪华漆盒糙米饭便当</ZP_BRJubako.label>
+  <ZP_BRJubako.description>一份用精致漆器便当盒盛装的糙米饭便当，用以在远行等没有正式餐桌之类的情况下享受美味的饭菜。漆盒本身便是古典的东方艺术，加上艺术品一般精致的便当实在是更胜一筹呢。</ZP_BRJubako.description>
 
-  <ZP_WRJubako.label>重箱</ZP_WRJubako.label>
-  <ZP_WRJubako.description>【特産品】どこでも食べれる豪華で白米のお弁当。</ZP_WRJubako.description>
+  <ZP_WRJubako.label>豪华漆盒白米饭便当</ZP_WRJubako.label>
+  <ZP_WRJubako.description>一份用精致漆器便当盒盛装的米饭便当，用以在远行等没有正式餐桌之类的情况下享受美味的饭菜。漆盒本身便是古典的东方艺术，加上艺术品一般精致的便当实在是更胜一筹呢。</ZP_WRJubako.description>
 
-  <ZP_WRJPCurryRice.label>カレーライス</ZP_WRJPCurryRice.label>
-  <ZP_WRJPCurryRice.description>とある国では食べ方や食材を何にするかで戦争が起きるほど、皆が愛してやまない魅惑のカレーライス。あまりの辛さに倒れる人が出る可能性があります。</ZP_WRJPCurryRice.description>
+  <ZP_WRJPCurryRice.label>日式咖喱饭</ZP_WRJPCurryRice.label>
+  <ZP_WRJPCurryRice.description>据说在某个国家引起了因为吃法和食材之类的战争的充满魅惑的食物。而对日本的人们来说，是无论到哪里都会很怀念的味道呢。</ZP_WRJPCurryRice.description>
 
   <ZP_Tendon.label>天丼</ZP_Tendon.label>
-  <ZP_Tendon.description>白飯の上に天ぷらをのせたどんぶり。揚げたてサクサクの天ぷらは食欲をそそります。</ZP_Tendon.description>
+  <ZP_Tendon.description>在白米饭上面配上炸好的天妇罗，香脆的天妇罗和温软的米饭简直是绝配呢。\n天妇罗实际上不是某个具体菜肴的名称，而是对日式料理中油炸食品的总称，具体的种类则有蔬菜天妇罗、海鲜天妇罗、什锦天妇罗等，是用面粉、鸡蛋与水混合成浆状，然后将新鲜的鱼虾和时令蔬菜裹上浆放入油锅中炸成金黄色。</ZP_Tendon.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Jingisukan.label>ジンギスカン</ZP_Jingisukan.label>
-  <ZP_Jingisukan.description>羊肉を用いた日本の焼肉料理。北海道を代表する郷土料理で羊肉の薄切りと野菜を焼き羊肉から出る肉汁を用いて野菜を調理しながら食べる。</ZP_Jingisukan.description>
+  <ZP_Jingisukan.label>成吉思汗</ZP_Jingisukan.label>
+  <ZP_Jingisukan.description>以羊肉为主的日本烤肉料理。是北海道代表性的乡土料理，将羊肉薄片和蔬菜用汤汁一边烹饪一边吃。\n\n注：所谓成吉思汗料理，是在一种铁制的形状如帽子的特制锅上，将羊肉片和蔬菜（豆芽、圆白菜、南瓜等）蘸上调料汁，边烤边吃。是富有北海道野趣的痛快吃法。同时，成吉思汗料理的叫法，有说是因为蒙古帝国的开国君主成吉思汗远征时喜欢吃而得名，也有的说是因蒙古军的士兵用自己的头盔烤羊肉而得名，众说不一。</ZP_Jingisukan.description>
 
-  <ZP_HorseMeatSashimi.label>馬刺し</ZP_HorseMeatSashimi.label>
-  <ZP_HorseMeatSashimi.description>馬の肉を薄く切って生で食べる日本料理。おろしショウガやおろしニンニク、刻みネギなどを薬味に醤油につけて食べるのが主流。</ZP_HorseMeatSashimi.description>
+  <ZP_HorseMeatSashimi.label>马肉刺身</ZP_HorseMeatSashimi.label>
+  <ZP_HorseMeatSashimi.description>用生马肉薄片制成的日本料理。主流吃法是蘸着生姜、蒜泥、葱丝等佐料配酱油食用。</ZP_HorseMeatSashimi.description>
 
 
 </LanguageData>

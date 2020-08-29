@@ -2,14 +2,14 @@
 <LanguageData>
 
   <ZP_Misosiru.label>味噌汁</ZP_Misosiru.label>
-  <ZP_Misosiru.description>日本の代表的な汁物料理。毎日飲むことで健康効果も期待できる。</ZP_Misosiru.description>
-  <ZP_Misosiru.ingestible.ingestCommandString>Drink {0}</ZP_Misosiru.ingestible.ingestCommandString>
-  <ZP_Misosiru.ingestible.ingestReportString>Drinking {0}.</ZP_Misosiru.ingestible.ingestReportString>
+  <ZP_Misosiru.description>被誉为日本的“国汤”，是日本最具有代表性的特色汤料理，无论什么时候喝都可以，而且与餐点的相性都很好。\n味噌汤不仅美味，经常喝的话也对身体健康有益哟。</ZP_Misosiru.description>
+  <ZP_Misosiru.ingestible.ingestCommandString>饮用{0}</ZP_Misosiru.ingestible.ingestCommandString>
+  <ZP_Misosiru.ingestible.ingestReportString>正在饮用{0}。</ZP_Misosiru.ingestible.ingestReportString>
 
-  <ZP_SoyMilkShake.label>豆乳シェイク</ZP_SoyMilkShake.label>
-  <ZP_SoyMilkShake.description>豆乳に果物を入れて混ぜることで誰でも飲みやすくした飲料。毎日飲むことで健康効果も期待できる。</ZP_SoyMilkShake.description>
-  <ZP_SoyMilkShake.ingestible.ingestCommandString>Drink {0}</ZP_SoyMilkShake.ingestible.ingestCommandString>
-  <ZP_SoyMilkShake.ingestible.ingestReportString>Drinking {0}.</ZP_SoyMilkShake.ingestible.ingestReportString>
+  <ZP_SoyMilkShake.label>豆浆奶昔</ZP_SoyMilkShake.label>
+  <ZP_SoyMilkShake.description>无论热着喝还是冻着喝都完全没有问题的美味饮品，制作很容易，而且常喝的话也会对身体健康有益哟。</ZP_SoyMilkShake.description>
+  <ZP_SoyMilkShake.ingestible.ingestCommandString>饮用{0}</ZP_SoyMilkShake.ingestible.ingestCommandString>
+  <ZP_SoyMilkShake.ingestible.ingestReportString>正在饮用{0}。</ZP_SoyMilkShake.ingestible.ingestReportString>
 
 
 </LanguageData>

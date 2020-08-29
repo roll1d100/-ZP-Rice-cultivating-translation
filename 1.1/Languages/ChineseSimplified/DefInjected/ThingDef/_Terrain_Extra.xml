@@ -7,17 +7,17 @@
   <ZP_PackedDirt_Frame.label>踏み固められた土 (building)</ZP_PackedDirt_Frame.label>
   <ZP_PackedDirt_Frame.description>Terrain building in progress.</ZP_PackedDirt_Frame.description>
 
-  <ZP_Soil_Blueprint.label>土 (blueprint)</ZP_Soil_Blueprint.label>
-  <ZP_Soil_Frame.label>土 (building)</ZP_Soil_Frame.label>
-  <ZP_Soil_Frame.description>Terrain building in progress.</ZP_Soil_Frame.description>
+  <ZP_Soil_Blueprint.label>土壤(蓝图)</ZP_Soil_Blueprint.label>
+  <ZP_Soil_Frame.label>土壤(铺设中)</ZP_Soil_Frame.label>
+  <ZP_Soil_Frame.description>地形铺设中。</ZP_Soil_Frame.description>
 
-  <ZP_SoilRich_Blueprint.label>肥えた土 (blueprint)</ZP_SoilRich_Blueprint.label>
-  <ZP_SoilRich_Frame.label>肥えた土 (building)</ZP_SoilRich_Frame.label>
-  <ZP_SoilRich_Frame.description>Terrain building in progress.</ZP_SoilRich_Frame.description>
+  <ZP_SoilRich_Blueprint.label>肥沃土壤(蓝图)</ZP_SoilRich_Blueprint.label>
+  <ZP_SoilRich_Frame.label>肥沃土壤(铺设中)</ZP_SoilRich_Frame.label>
+  <ZP_SoilRich_Frame.description>地形铺设中。</ZP_SoilRich_Frame.description>
 
-  <ZP_Mud_Blueprint.label>泥 (blueprint)</ZP_Mud_Blueprint.label>
-  <ZP_Mud_Frame.label>泥 (building)</ZP_Mud_Frame.label>
-  <ZP_Mud_Frame.description>Terrain building in progress.</ZP_Mud_Frame.description>
+  <ZP_Mud_Blueprint.label>泥地(蓝图)</ZP_Mud_Blueprint.label>
+  <ZP_Mud_Frame.label>泥地(铺设中)</ZP_Mud_Frame.label>
+  <ZP_Mud_Frame.description>地形铺设中。</ZP_Mud_Frame.description>
 
   <ZP_Gravel_Blueprint.label>砂利 (blueprint)</ZP_Gravel_Blueprint.label>
   <ZP_Gravel_Frame.label>砂利 (building)</ZP_Gravel_Frame.label>
@@ -27,13 +27,13 @@
   <ZP_ArtificialWaterShallow_Frame.label>人工浅瀬 (building)</ZP_ArtificialWaterShallow_Frame.label>
   <ZP_ArtificialWaterShallow_Frame.description>Terrain building in progress.</ZP_ArtificialWaterShallow_Frame.description>
 
-  <Tatami_Green_Blueprint.label>畳 (blueprint)</Tatami_Green_Blueprint.label>
-  <Tatami_Green_Frame.label>畳 (building)</Tatami_Green_Frame.label>
-  <Tatami_Green_Frame.description>Terrain building in progress.</Tatami_Green_Frame.description>
+  <Tatami_Green_Blueprint.label>绿色榻榻米 (蓝图)</Tatami_Green_Blueprint.label>
+  <Tatami_Green_Frame.label>绿色榻榻米 (铺设中)</Tatami_Green_Frame.label>
+  <Tatami_Green_Frame.description>地形铺设中。</Tatami_Green_Frame.description>
 
-  <Tatami_Yellow_Blueprint.label>畳(黄縁) (blueprint)</Tatami_Yellow_Blueprint.label>
-  <Tatami_Yellow_Frame.label>畳(黄縁) (building)</Tatami_Yellow_Frame.label>
-  <Tatami_Yellow_Frame.description>Terrain building in progress.</Tatami_Yellow_Frame.description>
+  <Tatami_Yellow_Blueprint.label>黄色榻榻米 (蓝图)</Tatami_Yellow_Blueprint.label>
+  <Tatami_Yellow_Frame.label>黄色榻榻米 (铺设中)</Tatami_Yellow_Frame.label>
+  <Tatami_Yellow_Frame.description>地形铺设中。</Tatami_Yellow_Frame.description>
 
   <Tatami_Hutinasi_Blueprint.label>縁無畳 (blueprint)</Tatami_Hutinasi_Blueprint.label>
   <Tatami_Hutinasi_Frame.label>縁無畳 (building)</Tatami_Hutinasi_Frame.label>
@@ -43,9 +43,9 @@
   <Tatami_Hutinasi2nd_Frame.label>縁無畳(黄) (building)</Tatami_Hutinasi2nd_Frame.label>
   <Tatami_Hutinasi2nd_Frame.description>Terrain building in progress.</Tatami_Hutinasi2nd_Frame.description>
 
-  <RBCeramicTile_Blueprint.label>RBセラミックのタイル (blueprint)</RBCeramicTile_Blueprint.label>
-  <RBCeramicTile_Frame.label>RBセラミックのタイル (building)</RBCeramicTile_Frame.label>
-  <RBCeramicTile_Frame.description>Terrain building in progress.</RBCeramicTile_Frame.description>
+  <RBCeramicTile_Blueprint.label>RB瓷砖地板 (蓝图)</RBCeramicTile_Blueprint.label>
+  <RBCeramicTile_Frame.label>RB瓷砖地板 (铺设中)</RBCeramicTile_Frame.label>
+  <RBCeramicTile_Frame.description>地形铺设中。</RBCeramicTile_Frame.description>
 
 
 </LanguageData>

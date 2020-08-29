@@ -3,20 +3,19 @@
 
   <!-- 飼料 -->
 
-  <Manger.label>飼い葉</Manger.label>
-  <Manger.description>腹持ちのすごくいい家畜用の飼料。</Manger.description>
+  <Manger.label>饲草</Manger.label>
+  <Manger.description>为家养动物准备的饲料，拥有比较高的营养值，相当正义。</Manger.description>
 
-  <PetFood.label>増量ペットフード</PetFood.label>
-  <PetFood.description>かさ増しされたペットフード。</PetFood.description>
+  <PetFood.label>宠物饲料</PetFood.label>
+  <PetFood.description>进一步处理过的粗饲料，跟市面上常见的宠物饲料成分基本相同。\n或者说，你可以叫它狗粮。</PetFood.description>
 
-  <ZP_FishFood.label>魚の餌</ZP_FishFood.label>
-  <ZP_FishFood.description>米ぬかとジャガイモを水で練り合わせて作った魚の練り餌。\n動物も食べることが出来る。</ZP_FishFood.description>
+  <ZP_FishFood.label>鱼食</ZP_FishFood.label>
+  <ZP_FishFood.description>将米糠和捣碎的土豆混合、然后加水搅拌制成的颗粒状的饵料。\n当然，除了喂鱼以外你还可以用它喂别的动物。</ZP_FishFood.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Earthworm.label>ミミズ</ZP_Earthworm.label>
-  <ZP_Earthworm.description>養殖魚の餌に必要。</ZP_Earthworm.description>
-
+ <ZP_Earthworm.label>蚯蚓</ZP_Earthworm.label>
+ <ZP_Earthworm.description>养殖鱼的必要饲料。</ZP_Earthworm.description>
 
 </LanguageData>

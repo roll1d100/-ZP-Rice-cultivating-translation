@@ -3,17 +3,17 @@
 
   <!-- MealSimple -->
 
-  <ZP_BRGohan.label>ご飯(雑穀)</ZP_BRGohan.label>
-  <ZP_BRGohan.description>オカズが欲しいなんて言わずにお米そのままの味を楽しもう!!</ZP_BRGohan.description>
+  <ZP_BRGohan.label>糙米饭</ZP_BRGohan.label>
+  <ZP_BRGohan.description>一碗很健康的糙米饭，请好好享受吧。</ZP_BRGohan.description>
 
-  <ZP_WRGohan.label>ご飯</ZP_WRGohan.label>
-  <ZP_WRGohan.description>白米をじっくりと楽しむためにお椀によそられた最高の1杯</ZP_WRGohan.description>
+  <ZP_WRGohan.label>白米饭</ZP_WRGohan.label>
+  <ZP_WRGohan.description>不加任何配菜，就这么好好享受白米饭纯粹的美味吧。</ZP_WRGohan.description>
 
-  <ZP_BROnigiri.label>おにぎり(雑穀)</ZP_BROnigiri.label>
-  <ZP_BROnigiri.description>【特産品】どこでも食べれる塩味のきいたおにぎり</ZP_BROnigiri.description>
+  <ZP_BROnigiri.label>糙米饭团</ZP_BROnigiri.label>
+  <ZP_BROnigiri.description>日本的人们发明出来的无论到哪里都可以很方便吃到的传统手握饭团。</ZP_BROnigiri.description>
 
-  <ZP_WROnigiri.label>おにぎり</ZP_WROnigiri.label>
-  <ZP_WROnigiri.description>【特産品】どこでも食べれる塩味のきいた白米のおにぎり</ZP_WROnigiri.description>
+  <ZP_WROnigiri.label>白米饭团</ZP_WROnigiri.label>
+  <ZP_WROnigiri.description>日本的人们发明出来的无论到哪里都可以很方便吃到的手握饭团，可以通过制作者的爱好来添加不同的配料。</ZP_WROnigiri.description>
 
 
 </LanguageData>

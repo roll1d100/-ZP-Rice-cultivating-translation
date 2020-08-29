@@ -17,12 +17,12 @@
   <ZP_FoodProcessor_Frame.label>フードプロセッサー (building)</ZP_FoodProcessor_Frame.label>
   <ZP_FoodProcessor_Frame.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</ZP_FoodProcessor_Frame.description>
 
-  <CookingTable.label>仕込み台</CookingTable.label>
-  <CookingTable.description>下準備が必要な食材を仕込む専用の調理台。\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable.description>
-  <CookingTable_Blueprint.label>仕込み台 (blueprint)</CookingTable_Blueprint.label>
-  <CookingTable_Blueprint_Install.label>仕込み台 (blueprint)</CookingTable_Blueprint_Install.label>
-  <CookingTable_Frame.label>仕込み台 (building)</CookingTable_Frame.label>
-  <CookingTable_Frame.description>下準備が必要な食材を仕込む専用の調理台。\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable_Frame.description>
+  <CookingTable.label>料理台</CookingTable.label>
+  <CookingTable.description>专门用于准备食材和调料的工作台。\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable.description>
+  <CookingTable_Blueprint.label>料理台 (蓝图)</CookingTable_Blueprint.label>
+  <CookingTable_Blueprint_Install.label>料理台(蓝图)</CookingTable_Blueprint_Install.label>
+  <CookingTable_Frame.label>料理台 (建造中)</CookingTable_Frame.label>
+  <CookingTable_Frame.description>专门用于准备食材和调料的工作台。\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable_Frame.description>
 
 
 </LanguageData>

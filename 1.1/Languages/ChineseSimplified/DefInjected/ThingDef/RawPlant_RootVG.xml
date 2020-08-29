@@ -6,23 +6,23 @@
   <RawPotatoes.label>potatoes</RawPotatoes.label>
   <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
 
-  <ZP_RawJapaneseRadish.label>大根</ZP_RawJapaneseRadish.label>
-  <ZP_RawJapaneseRadish.description>生のダイコン。</ZP_RawJapaneseRadish.description>
+  <ZP_RawJapaneseRadish.label>萝卜</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>生的白萝卜，因为要大很多、而且不是橘红色的，因此绝对不会跟胡萝卜弄混。</ZP_RawJapaneseRadish.description>
 
-  <ZP_RawTaro.label>里芋</ZP_RawTaro.label>
-  <ZP_RawTaro.description>生のサトイモ。コンニャク芋の代わりにもなる。</ZP_RawTaro.description>
+  <ZP_RawTaro.label>芋</ZP_RawTaro.label>
+  <ZP_RawTaro.description>生的芋头，淀粉含量很高、可以制作成魔芋块。</ZP_RawTaro.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_RawCarrot.label>人参</ZP_RawCarrot.label>
-  <ZP_RawCarrot.description>生のにんじん。</ZP_RawCarrot.description>
+  <ZP_RawCarrot.label>胡萝卜</ZP_RawCarrot.label>
+  <ZP_RawCarrot.description>生胡萝卜。注：“人参”にんじん在日语中既可以指人参也可以指胡萝卜。</ZP_RawCarrot.description>
 
-  <ZP_RawBambooShoot.label>筍</ZP_RawBambooShoot.label>
-  <ZP_RawBambooShoot.description>生のタケノコ。</ZP_RawBambooShoot.description>
+  <ZP_RawBambooShoot.label>笋</ZP_RawBambooShoot.label>
+  <ZP_RawBambooShoot.description>生竹笋。</ZP_RawBambooShoot.description>
 
-  <ZP_SweetPotato.label>薩摩芋</ZP_SweetPotato.label>
-  <ZP_SweetPotato.description>生のサツマイモ。</ZP_SweetPotato.description>
+  <ZP_SweetPotato.label>番薯</ZP_SweetPotato.label>
+  <ZP_SweetPotato.description>生番薯。</ZP_SweetPotato.description>
 
 
 </LanguageData>

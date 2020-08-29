@@ -3,11 +3,14 @@
 
   <!-- ポン菓子ロープ -->
 
-  <ZP_Ponponrat.label>ポンポンねずみ</ZP_Ponponrat.label>
-  <ZP_Ponponrat.description>ボムネズミの亜種。通常の個体よりも足が速く、解体するとポン菓子がとれるらしい。\n\nとあるコロニーでポン菓子を餌付けされまくった結果、ついうっかりで突然変異してしまった。\nポン菓子を生成する際の爆発力を体内で生み出せるようになり移動速度、爆発力が強化されている。\n害はないが極度の興奮状態になると爆撃特攻野郎になるので注意。\n一部の愛好家達の間で人気が高く、訓練もしていたので知能は高い。</ZP_Ponponrat.description>
-  <ZP_Ponponrat.tools.0.label>left claw</ZP_Ponponrat.tools.0.label>
-  <ZP_Ponponrat.tools.1.label>right claw</ZP_Ponponrat.tools.1.label>
-  <ZP_Ponponrat.tools.3.label>head</ZP_Ponponrat.tools.3.label>
+  <ZP_Ponponrat.label>甜甜鼠</ZP_Ponponrat.label>
+  <ZP_Ponponrat.description>爆炸鼠的亚种。\n它们的移动速度比起通常的爆炸鼠要快，而且在当你屠宰它们的时候好像还有几率可以获得一些小点心的样子。\n这种亚种爆炸鼠实际上并不是经由自然因素产生，而是在某个殖民地中的爆炸鼠被喂养了爆米花后不经意间发生了突变的结果，爆米花的爆发力加成效果使得这些小家伙的速度和爆发力都得到了加强。\n虽然平时没有什么危害，但当它们进入极度兴奋的状态时，就会变成非常危险的移动炸弹，因此要特别注意。\n这种动物在一些爱好者之中很受欢迎，而且因为突变的缘故它们的智力变得很高，因此想要训练它们也很容易。</ZP_Ponponrat.description>
+  <ZP_Ponponrat.tools.0.label>左爪</ZP_Ponponrat.tools.0.label>
+  <ZP_Ponponrat.tools.1.label>右爪</ZP_Ponponrat.tools.1.label>
+  <ZP_Ponponrat.tools.3.label>头部</ZP_Ponponrat.tools.3.label>
+  <!-- Use Meat From: Boomrat -->
+  <ZP_Ponponrat_Corpse.label>甜甜鼠（死亡）</ZP_Ponponrat_Corpse.label>
+  <ZP_Ponponrat_Corpse.description>甜甜鼠的尸体。</ZP_Ponponrat_Corpse.description>
 
 
 </LanguageData>

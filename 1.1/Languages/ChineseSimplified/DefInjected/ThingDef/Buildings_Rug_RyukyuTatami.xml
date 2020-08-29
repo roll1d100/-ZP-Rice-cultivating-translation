@@ -3,89 +3,89 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_Rug_RyukyuTatami.label>琉球畳</ZP_Rug_RyukyuTatami.label>
-  <ZP_Rug_RyukyuTatami.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami.description>
-  <ZP_Rug_RyukyuTatami_Blueprint.label>琉球畳 (blueprint)</ZP_Rug_RyukyuTatami_Blueprint.label>
-  <ZP_Rug_RyukyuTatami_Blueprint_Install.label>琉球畳 (blueprint)</ZP_Rug_RyukyuTatami_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami_Frame.label>琉球畳 (building)</ZP_Rug_RyukyuTatami_Frame.label>
-  <ZP_Rug_RyukyuTatami_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami_Frame.description>
+  <ZP_Rug_RyukyuTatami.label>琉球榻榻米</ZP_Rug_RyukyuTatami.label>
+  <ZP_Rug_RyukyuTatami.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami.description>
+  <ZP_Rug_RyukyuTatami_Blueprint.label>琉球榻榻米 (blueprint)</ZP_Rug_RyukyuTatami_Blueprint.label>
+  <ZP_Rug_RyukyuTatami_Blueprint_Install.label>琉球榻榻米 (blueprint)</ZP_Rug_RyukyuTatami_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami_Frame.label>琉球榻榻米 (building)</ZP_Rug_RyukyuTatami_Frame.label>
+  <ZP_Rug_RyukyuTatami_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami_Frame.description>
 
-  <ZP_Rug_RyukyuTatami2nd.label>琉球畳2</ZP_Rug_RyukyuTatami2nd.label>
-  <ZP_Rug_RyukyuTatami2nd.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami2nd.description>
-  <ZP_Rug_RyukyuTatami2nd_Blueprint.label>琉球畳2 (blueprint)</ZP_Rug_RyukyuTatami2nd_Blueprint.label>
-  <ZP_Rug_RyukyuTatami2nd_Blueprint_Install.label>琉球畳2 (blueprint)</ZP_Rug_RyukyuTatami2nd_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami2nd_Frame.label>琉球畳2 (building)</ZP_Rug_RyukyuTatami2nd_Frame.label>
-  <ZP_Rug_RyukyuTatami2nd_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami2nd_Frame.description>
+  <ZP_Rug_RyukyuTatami2nd.label>琉球榻榻米2</ZP_Rug_RyukyuTatami2nd.label>
+  <ZP_Rug_RyukyuTatami2nd.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami2nd.description>
+  <ZP_Rug_RyukyuTatami2nd_Blueprint.label>琉球榻榻米2 (blueprint)</ZP_Rug_RyukyuTatami2nd_Blueprint.label>
+  <ZP_Rug_RyukyuTatami2nd_Blueprint_Install.label>琉球榻榻米2 (blueprint)</ZP_Rug_RyukyuTatami2nd_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami2nd_Frame.label>琉球榻榻米2 (building)</ZP_Rug_RyukyuTatami2nd_Frame.label>
+  <ZP_Rug_RyukyuTatami2nd_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami2nd_Frame.description>
 
-  <ZP_Rug_RyukyuTatami3rd.label>琉球畳3</ZP_Rug_RyukyuTatami3rd.label>
-  <ZP_Rug_RyukyuTatami3rd.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami3rd.description>
-  <ZP_Rug_RyukyuTatami3rd_Blueprint.label>琉球畳3 (blueprint)</ZP_Rug_RyukyuTatami3rd_Blueprint.label>
-  <ZP_Rug_RyukyuTatami3rd_Blueprint_Install.label>琉球畳3 (blueprint)</ZP_Rug_RyukyuTatami3rd_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami3rd_Frame.label>琉球畳3 (building)</ZP_Rug_RyukyuTatami3rd_Frame.label>
-  <ZP_Rug_RyukyuTatami3rd_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami3rd_Frame.description>
+  <ZP_Rug_RyukyuTatami3rd.label>琉球榻榻米3</ZP_Rug_RyukyuTatami3rd.label>
+  <ZP_Rug_RyukyuTatami3rd.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami3rd.description>
+  <ZP_Rug_RyukyuTatami3rd_Blueprint.label>琉球榻榻米3 (blueprint)</ZP_Rug_RyukyuTatami3rd_Blueprint.label>
+  <ZP_Rug_RyukyuTatami3rd_Blueprint_Install.label>琉球榻榻米3 (blueprint)</ZP_Rug_RyukyuTatami3rd_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami3rd_Frame.label>琉球榻榻米3 (building)</ZP_Rug_RyukyuTatami3rd_Frame.label>
+  <ZP_Rug_RyukyuTatami3rd_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami3rd_Frame.description>
 
-  <ZP_Rug_RyukyuTatami4th.label>琉球畳4</ZP_Rug_RyukyuTatami4th.label>
-  <ZP_Rug_RyukyuTatami4th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami4th.description>
-  <ZP_Rug_RyukyuTatami4th_Blueprint.label>琉球畳4 (blueprint)</ZP_Rug_RyukyuTatami4th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami4th_Blueprint_Install.label>琉球畳4 (blueprint)</ZP_Rug_RyukyuTatami4th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami4th_Frame.label>琉球畳4 (building)</ZP_Rug_RyukyuTatami4th_Frame.label>
-  <ZP_Rug_RyukyuTatami4th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami4th_Frame.description>
+  <ZP_Rug_RyukyuTatami4th.label>琉球榻榻米4</ZP_Rug_RyukyuTatami4th.label>
+  <ZP_Rug_RyukyuTatami4th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami4th.description>
+  <ZP_Rug_RyukyuTatami4th_Blueprint.label>琉球榻榻米4 (blueprint)</ZP_Rug_RyukyuTatami4th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami4th_Blueprint_Install.label>琉球榻榻米4 (blueprint)</ZP_Rug_RyukyuTatami4th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami4th_Frame.label>琉球榻榻米4 (building)</ZP_Rug_RyukyuTatami4th_Frame.label>
+  <ZP_Rug_RyukyuTatami4th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami4th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami5th.label>琉球畳5</ZP_Rug_RyukyuTatami5th.label>
-  <ZP_Rug_RyukyuTatami5th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami5th.description>
-  <ZP_Rug_RyukyuTatami5th_Blueprint.label>琉球畳5 (blueprint)</ZP_Rug_RyukyuTatami5th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami5th_Blueprint_Install.label>琉球畳5 (blueprint)</ZP_Rug_RyukyuTatami5th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami5th_Frame.label>琉球畳5 (building)</ZP_Rug_RyukyuTatami5th_Frame.label>
-  <ZP_Rug_RyukyuTatami5th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami5th_Frame.description>
+  <ZP_Rug_RyukyuTatami5th.label>琉球榻榻米5</ZP_Rug_RyukyuTatami5th.label>
+  <ZP_Rug_RyukyuTatami5th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami5th.description>
+  <ZP_Rug_RyukyuTatami5th_Blueprint.label>琉球榻榻米5 (blueprint)</ZP_Rug_RyukyuTatami5th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami5th_Blueprint_Install.label>琉球榻榻米5 (blueprint)</ZP_Rug_RyukyuTatami5th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami5th_Frame.label>琉球榻榻米5 (building)</ZP_Rug_RyukyuTatami5th_Frame.label>
+  <ZP_Rug_RyukyuTatami5th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami5th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami6th.label>琉球畳6</ZP_Rug_RyukyuTatami6th.label>
-  <ZP_Rug_RyukyuTatami6th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami6th.description>
-  <ZP_Rug_RyukyuTatami6th_Blueprint.label>琉球畳6 (blueprint)</ZP_Rug_RyukyuTatami6th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami6th_Blueprint_Install.label>琉球畳6 (blueprint)</ZP_Rug_RyukyuTatami6th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami6th_Frame.label>琉球畳6 (building)</ZP_Rug_RyukyuTatami6th_Frame.label>
-  <ZP_Rug_RyukyuTatami6th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami6th_Frame.description>
+  <ZP_Rug_RyukyuTatami6th.label>琉球榻榻米6</ZP_Rug_RyukyuTatami6th.label>
+  <ZP_Rug_RyukyuTatami6th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami6th.description>
+  <ZP_Rug_RyukyuTatami6th_Blueprint.label>琉球榻榻米6 (blueprint)</ZP_Rug_RyukyuTatami6th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami6th_Blueprint_Install.label>琉球榻榻米6 (blueprint)</ZP_Rug_RyukyuTatami6th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami6th_Frame.label>琉球榻榻米6 (building)</ZP_Rug_RyukyuTatami6th_Frame.label>
+  <ZP_Rug_RyukyuTatami6th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami6th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami7th.label>琉球畳7</ZP_Rug_RyukyuTatami7th.label>
-  <ZP_Rug_RyukyuTatami7th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami7th.description>
-  <ZP_Rug_RyukyuTatami7th_Blueprint.label>琉球畳7 (blueprint)</ZP_Rug_RyukyuTatami7th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami7th_Blueprint_Install.label>琉球畳7 (blueprint)</ZP_Rug_RyukyuTatami7th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami7th_Frame.label>琉球畳7 (building)</ZP_Rug_RyukyuTatami7th_Frame.label>
-  <ZP_Rug_RyukyuTatami7th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami7th_Frame.description>
+  <ZP_Rug_RyukyuTatami7th.label>琉球榻榻米7</ZP_Rug_RyukyuTatami7th.label>
+  <ZP_Rug_RyukyuTatami7th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami7th.description>
+  <ZP_Rug_RyukyuTatami7th_Blueprint.label>琉球榻榻米7 (blueprint)</ZP_Rug_RyukyuTatami7th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami7th_Blueprint_Install.label>琉球榻榻米7 (blueprint)</ZP_Rug_RyukyuTatami7th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami7th_Frame.label>琉球榻榻米7 (building)</ZP_Rug_RyukyuTatami7th_Frame.label>
+  <ZP_Rug_RyukyuTatami7th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami7th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami8th.label>琉球畳8</ZP_Rug_RyukyuTatami8th.label>
-  <ZP_Rug_RyukyuTatami8th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami8th.description>
-  <ZP_Rug_RyukyuTatami8th_Blueprint.label>琉球畳8 (blueprint)</ZP_Rug_RyukyuTatami8th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami8th_Blueprint_Install.label>琉球畳8 (blueprint)</ZP_Rug_RyukyuTatami8th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami8th_Frame.label>琉球畳8 (building)</ZP_Rug_RyukyuTatami8th_Frame.label>
-  <ZP_Rug_RyukyuTatami8th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami8th_Frame.description>
+  <ZP_Rug_RyukyuTatami8th.label>琉球榻榻米8</ZP_Rug_RyukyuTatami8th.label>
+  <ZP_Rug_RyukyuTatami8th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami8th.description>
+  <ZP_Rug_RyukyuTatami8th_Blueprint.label>琉球榻榻米8 (blueprint)</ZP_Rug_RyukyuTatami8th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami8th_Blueprint_Install.label>琉球榻榻米8 (blueprint)</ZP_Rug_RyukyuTatami8th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami8th_Frame.label>琉球榻榻米8 (building)</ZP_Rug_RyukyuTatami8th_Frame.label>
+  <ZP_Rug_RyukyuTatami8th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami8th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami9th.label>琉球畳9</ZP_Rug_RyukyuTatami9th.label>
-  <ZP_Rug_RyukyuTatami9th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami9th.description>
-  <ZP_Rug_RyukyuTatami9th_Blueprint.label>琉球畳9 (blueprint)</ZP_Rug_RyukyuTatami9th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami9th_Blueprint_Install.label>琉球畳9 (blueprint)</ZP_Rug_RyukyuTatami9th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami9th_Frame.label>琉球畳9 (building)</ZP_Rug_RyukyuTatami9th_Frame.label>
-  <ZP_Rug_RyukyuTatami9th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami9th_Frame.description>
+  <ZP_Rug_RyukyuTatami9th.label>琉球榻榻米9</ZP_Rug_RyukyuTatami9th.label>
+  <ZP_Rug_RyukyuTatami9th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami9th.description>
+  <ZP_Rug_RyukyuTatami9th_Blueprint.label>琉球榻榻米9 (blueprint)</ZP_Rug_RyukyuTatami9th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami9th_Blueprint_Install.label>琉球榻榻米9 (blueprint)</ZP_Rug_RyukyuTatami9th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami9th_Frame.label>琉球榻榻米9 (building)</ZP_Rug_RyukyuTatami9th_Frame.label>
+  <ZP_Rug_RyukyuTatami9th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami9th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami10th.label>琉球畳10</ZP_Rug_RyukyuTatami10th.label>
-  <ZP_Rug_RyukyuTatami10th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami10th.description>
-  <ZP_Rug_RyukyuTatami10th_Blueprint.label>琉球畳10 (blueprint)</ZP_Rug_RyukyuTatami10th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami10th_Blueprint_Install.label>琉球畳10 (blueprint)</ZP_Rug_RyukyuTatami10th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami10th_Frame.label>琉球畳10 (building)</ZP_Rug_RyukyuTatami10th_Frame.label>
-  <ZP_Rug_RyukyuTatami10th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami10th_Frame.description>
+  <ZP_Rug_RyukyuTatami10th.label>琉球榻榻米10</ZP_Rug_RyukyuTatami10th.label>
+  <ZP_Rug_RyukyuTatami10th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami10th.description>
+  <ZP_Rug_RyukyuTatami10th_Blueprint.label>琉球榻榻米10 (blueprint)</ZP_Rug_RyukyuTatami10th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami10th_Blueprint_Install.label>琉球榻榻米10 (blueprint)</ZP_Rug_RyukyuTatami10th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami10th_Frame.label>琉球榻榻米10 (building)</ZP_Rug_RyukyuTatami10th_Frame.label>
+  <ZP_Rug_RyukyuTatami10th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami10th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami11th.label>琉球畳11</ZP_Rug_RyukyuTatami11th.label>
-  <ZP_Rug_RyukyuTatami11th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami11th.description>
-  <ZP_Rug_RyukyuTatami11th_Blueprint.label>琉球畳11 (blueprint)</ZP_Rug_RyukyuTatami11th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami11th_Blueprint_Install.label>琉球畳11 (blueprint)</ZP_Rug_RyukyuTatami11th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami11th_Frame.label>琉球畳11 (building)</ZP_Rug_RyukyuTatami11th_Frame.label>
-  <ZP_Rug_RyukyuTatami11th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami11th_Frame.description>
+  <ZP_Rug_RyukyuTatami11th.label>琉球榻榻米11</ZP_Rug_RyukyuTatami11th.label>
+  <ZP_Rug_RyukyuTatami11th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami11th.description>
+  <ZP_Rug_RyukyuTatami11th_Blueprint.label>琉球榻榻米11 (blueprint)</ZP_Rug_RyukyuTatami11th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami11th_Blueprint_Install.label>琉球榻榻米11 (blueprint)</ZP_Rug_RyukyuTatami11th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami11th_Frame.label>琉球榻榻米11 (building)</ZP_Rug_RyukyuTatami11th_Frame.label>
+  <ZP_Rug_RyukyuTatami11th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami11th_Frame.description>
 
-  <ZP_Rug_RyukyuTatami12th.label>琉球畳12</ZP_Rug_RyukyuTatami12th.label>
-  <ZP_Rug_RyukyuTatami12th.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami12th.description>
-  <ZP_Rug_RyukyuTatami12th_Blueprint.label>琉球畳12 (blueprint)</ZP_Rug_RyukyuTatami12th_Blueprint.label>
-  <ZP_Rug_RyukyuTatami12th_Blueprint_Install.label>琉球畳12 (blueprint)</ZP_Rug_RyukyuTatami12th_Blueprint_Install.label>
-  <ZP_Rug_RyukyuTatami12th_Frame.label>琉球畳12 (building)</ZP_Rug_RyukyuTatami12th_Frame.label>
-  <ZP_Rug_RyukyuTatami12th_Frame.description>【Size：4×4】\n琉球畳。床の上に敷ける。</ZP_Rug_RyukyuTatami12th_Frame.description>
+  <ZP_Rug_RyukyuTatami12th.label>琉球榻榻米12</ZP_Rug_RyukyuTatami12th.label>
+  <ZP_Rug_RyukyuTatami12th.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami12th.description>
+  <ZP_Rug_RyukyuTatami12th_Blueprint.label>琉球榻榻米12 (blueprint)</ZP_Rug_RyukyuTatami12th_Blueprint.label>
+  <ZP_Rug_RyukyuTatami12th_Blueprint_Install.label>琉球榻榻米12 (blueprint)</ZP_Rug_RyukyuTatami12th_Blueprint_Install.label>
+  <ZP_Rug_RyukyuTatami12th_Frame.label>琉球榻榻米12 (building)</ZP_Rug_RyukyuTatami12th_Frame.label>
+  <ZP_Rug_RyukyuTatami12th_Frame.description>琉球榻榻米。可以铺在地板上。\n【尺寸：4x4】</ZP_Rug_RyukyuTatami12th_Frame.description>
 
 
 </LanguageData>

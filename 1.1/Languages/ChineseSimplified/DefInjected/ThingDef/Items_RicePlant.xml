@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Inaho.label>稲穂</Inaho.label>
-  <Inaho.description>白米を美味しく食べるための五箇条\n１、【脱穀】稲穂を脱穀して籾米と藁にわける\n２、【籾摺り】籾米を籾摺りして玄米と籾殻にわける\n３、【精米】玄米を精米機にかけて白米と米ぬかにわける\n４、【調理】美味しく調理をする\n５、【食事】大地の恵みに感謝していただきます!!</Inaho.description>
+  <Inaho.label>稻穗</Inaho.label>
+  <Inaho.description>为了享受到美味的白米的五条注意事项：\n１、【脱穀】将稻米和秸秆分离开 \n２、【研磨】将糙米和稻壳分离开 \n３、【精米】将糙米加工成白米 \n４、【调理】进行美味的调理 \n５、【食事】感谢大地的恩惠</Inaho.description>
 
-  <Inaho_Mochi.label>稲穂(もち米)</Inaho_Mochi.label>
-  <Inaho_Mochi.description>もち米を美味しく食べるための四箇条\n１、【脱穀】稲穂(もち米)を脱穀して籾米(もち米)と藁にわける\n２、【籾摺り】籾米(もち米)を籾摺りしてもち米と籾殻にわける\n３、【調理】美味しく調理をする\n４、【食事】大地の恵みに感謝していただきます!!</Inaho_Mochi.description>
+  <Inaho_Mochi.label>稻穂(糯米)</Inaho_Mochi.label>
+  <Inaho_Mochi.description>为了享受到美味的糯米的四条注意事项：\n１、【脱穀】将稻米和秸秆分开 \n２、【研磨】将糯米和稻壳分开\n３、【调理】进行美味的调理\n４、【食事】感谢大地的恩惠</Inaho_Mochi.description>
 
   <RiceMomi.label>籾米</RiceMomi.label>
-  <RiceMomi.description>籾付きのお米。このまま食べることは出来ないので籾摺りしよう!!\n籾摺りすることで、玄米と副産物が手に入る。</RiceMomi.description>
+  <RiceMomi.description>刚收获的大米。光是这样还不能吃，需要先经过脱粒处理。\n脱粒能得到糙米和秸秆。</RiceMomi.description>
 
-  <RiceMomi_Mochi.label>籾米(もち米)</RiceMomi_Mochi.label>
-  <RiceMomi_Mochi.description>籾付きのもち米。このまま食べることは出来ないので籾摺りしよう!!\n籾摺りすることで、もち米と副産物が手に入る。</RiceMomi_Mochi.description>
+  <RiceMomi_Mochi.label>籾米(糯米)</RiceMomi_Mochi.label>
+  <RiceMomi_Mochi.description>刚收获的糯米，光是这样还不能吃。\n经过脱粒处理可以得到糯米和副产品。</RiceMomi_Mochi.description>
 
-  <Straw.label>藁</Straw.label>
-  <Straw.description>脱穀したさいの副産物。\n動物の飼料、肥料、燃料または工芸品など様々な場面で活躍する。</Straw.description>
+  <Straw.label>秸秆</Straw.label>
+  <Straw.description>在脱粒过程中产生的副产品。 \n无论是用作动物饲料、肥料、燃料还是工艺品都没问题，它的用途相当广泛。</Straw.description>
 
-  <Chaff.label>籾殻</Chaff.label>
-  <Chaff.description>籾摺りをしたさいの副産物。\n使い道は肥料、燃料、動物の飼料などに加工できる。</Chaff.description>
+  <Chaff.label>谷壳</Chaff.label>
+  <Chaff.description>在研磨过程中产生的副产品。 \n可以作为肥料、燃料或是低营养价值的动物饲料使用。</Chaff.description>
 
-  <RiceBran.label>米ぬか</RiceBran.label>
-  <RiceBran.description>玄米を精米したさいの副産物。\n使い道は主に肥料、燃料、動物の飼料(低栄養)など。</RiceBran.description>
+  <RiceBran.label>米糠</RiceBran.label>
+  <RiceBran.description>在精米过程中产生的副产品。 \n可以加工成肥料、动物饲料或是贮存食物用的材料。</RiceBran.description>
 
-  <RiceByproduct.label>副産物袋</RiceByproduct.label>
-  <RiceByproduct.description>米ぬかと籾殻が詰まってる袋。堆肥や動物の飼料に加工できる。\n農作物加工所で米ぬかや籾殻に再仕分けできる。</RiceByproduct.description>
+  <RiceByproduct.label>副产物袋</RiceByproduct.label>
+  <RiceByproduct.description>装满大米生产过程中产生的副产品的袋子，可以加工成肥料或动物饲料。\n也可以在农作物加工点把内容物再取出来。</RiceByproduct.description>
 
 
 </LanguageData>

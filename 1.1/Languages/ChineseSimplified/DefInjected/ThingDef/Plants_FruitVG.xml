@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_PlantTomato.label>トマト</ZP_PlantTomato.label>
-  <ZP_PlantTomato.description>トマト。成熟すると真っ赤な実をつける。</ZP_PlantTomato.description>
+  <ZP_PlantTomato.label>西红柿</ZP_PlantTomato.label>
+  <ZP_PlantTomato.description>西红柿。成熟后会结成鲜红的果实。</ZP_PlantTomato.description>
 
   <ZP_PlantEggplant.label>茄子</ZP_PlantEggplant.label>
-  <ZP_PlantEggplant.description>ナス。肥沃な土壌でしか育たないが一度実れば手間が少ない作物。</ZP_PlantEggplant.description>
+  <ZP_PlantEggplant.description>茄子。可反复收获。成长需要一段时间，但长到成熟后结果就很快了。</ZP_PlantEggplant.description>
 
   <ZP_PlantPumpkin.label>南瓜</ZP_PlantPumpkin.label>
-  <ZP_PlantPumpkin.description>カボチャ。収穫数は少ないが栄養価が高い野菜。</ZP_PlantPumpkin.description>
+   <ZP_PlantPumpkin.description>南瓜。产出较少但营养价值高的蔬菜。</ZP_PlantPumpkin.description>
 
-  <ZP_PlantCucumber.label>キュウリ</ZP_PlantCucumber.label>
-  <ZP_PlantCucumber.description>栄養価は低いが沢山収穫できる。</ZP_PlantCucumber.description>
+  <ZP_PlantCucumber.label>黄瓜</ZP_PlantCucumber.label>
+  <ZP_PlantCucumber.description>黄瓜。产出较多但营养价值低的蔬菜。</ZP_PlantCucumber.description>
 
 
 </LanguageData>

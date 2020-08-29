@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_GinjoSake.label>吟醸酒</ZP_GinjoSake.label>
-  <ZP_GinjoSake.description>白米と穀物で作った醸造アルコールを吟醸造りによって製造した清酒。\n華やかな香りですっきりした味わいが特徴のお酒。</ZP_GinjoSake.description>
-  <ZP_GinjoSake.ingestible.ingestCommandString>Drink {0}</ZP_GinjoSake.ingestible.ingestCommandString>
-  <ZP_GinjoSake.ingestible.ingestReportString>Drinking {0}.</ZP_GinjoSake.ingestible.ingestReportString>
+  <ZP_GinjoSake.label>吟酿酒</ZP_GinjoSake.label>
+  <ZP_GinjoSake.description>日本清酒的一种，用白米和粮食酿制而成的酒。\n华美醇香的气味和清润爽滑的口感是这种酒引以为豪的特征。</ZP_GinjoSake.description>
+  <ZP_GinjoSake.ingestible.ingestCommandString>饮用{0}</ZP_GinjoSake.ingestible.ingestCommandString>
+  <ZP_GinjoSake.ingestible.ingestReportString>正在饮用{0}。</ZP_GinjoSake.ingestible.ingestReportString>
   <ZP_GinjoSake.tools.0.label>bottle</ZP_GinjoSake.tools.0.label>
-  <ZP_GinjoSake.tools.1.label>neck</ZP_GinjoSake.tools.1.label>
+  <ZP_GinjoSake.tools.1.label>颈</ZP_GinjoSake.tools.1.label>
 
 
 </LanguageData>

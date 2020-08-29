@@ -3,17 +3,17 @@
 
   <!-- 燃料 -->
 
-  <Momigalite.label>モミガライト</Momigalite.label>
-  <Momigalite.description>籾殻を燃料用に加工したもの。</Momigalite.description>
+  <Momigalite.label>谷壳炭</Momigalite.label>
+  <Momigalite.description>可以用作燃料。</Momigalite.description>
 
-  <TatamiStraw.label>製作用藁</TatamiStraw.label>
-  <TatamiStraw.description>藁を各種製作用に加工したもの。</TatamiStraw.description>
+  <TatamiStraw.label>建筑用秸秆</TatamiStraw.label>
+  <TatamiStraw.description>可用于建设的、处理过的稻草。</TatamiStraw.description>
 
-  <TatamiHG.label>半畳</TatamiHG.label>
-  <TatamiHG.description>１マス分の大きさの畳。敷き方にこだわりたい人用。</TatamiHG.description>
-
-  <TatamiG.label>畳</TatamiG.label>
-  <TatamiG.description>２マス分の大きさの畳。敷き方にこだわりたい人用。</TatamiG.description>
+  <TatamiHG.label>榻榻米</TatamiHG.label>
+  <TatamiHG.description>一个方格大小的榻榻米。给想纠结于铺法的人使用。</TatamiHG.description>
+  
+  <TatamiG.label>榻榻米(2格)</TatamiG.label>
+  <TatamiG.description>两个方格大小的榻榻米。给想纠结于铺法的人使用。</TatamiG.description>
 
 
 </LanguageData>

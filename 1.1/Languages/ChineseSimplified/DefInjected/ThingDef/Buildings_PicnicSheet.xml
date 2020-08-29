@@ -3,101 +3,101 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_PicnicSheet.label>レジャーシート(和柄)</ZP_PicnicSheet.label>
+  <ZP_PicnicSheet.label>休闲布(和式1)</ZP_PicnicSheet.label>
   <ZP_PicnicSheet.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet.description>
-  <ZP_PicnicSheet_Blueprint.label>レジャーシート(和柄) (blueprint)</ZP_PicnicSheet_Blueprint.label>
-  <ZP_PicnicSheet_Frame.label>レジャーシート(和柄) (building)</ZP_PicnicSheet_Frame.label>
+  <ZP_PicnicSheet_Blueprint.label>休闲布(和式1) (blueprint)</ZP_PicnicSheet_Blueprint.label>
+  <ZP_PicnicSheet_Frame.label>休闲布(和式1) (building)</ZP_PicnicSheet_Frame.label>
   <ZP_PicnicSheet_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet_Frame.description>
 
-  <ZP_PicnicSheet2nd.label>レジャーシート(和柄2)</ZP_PicnicSheet2nd.label>
-  <ZP_PicnicSheet2nd.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet2nd.description>
-  <ZP_PicnicSheet2nd_Blueprint.label>レジャーシート(和柄2) (blueprint)</ZP_PicnicSheet2nd_Blueprint.label>
-  <ZP_PicnicSheet2nd_Frame.label>レジャーシート(和柄2) (building)</ZP_PicnicSheet2nd_Frame.label>
-  <ZP_PicnicSheet2nd_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet2nd_Frame.description>
+  <ZP_PicnicSheet2nd.label>休闲布(和式2)</ZP_PicnicSheet2nd.label>
+  <ZP_PicnicSheet2nd.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet2nd.description>
+  <ZP_PicnicSheet2nd_Blueprint.label>休闲布(和式2) (blueprint)</ZP_PicnicSheet2nd_Blueprint.label>
+  <ZP_PicnicSheet2nd_Frame.label>休闲布(和式2) (building)</ZP_PicnicSheet2nd_Frame.label>
+  <ZP_PicnicSheet2nd_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet2nd_Frame.description>
 
-  <ZP_PicnicSheet3rd.label>レジャーシート(和柄3)</ZP_PicnicSheet3rd.label>
-  <ZP_PicnicSheet3rd.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet3rd.description>
-  <ZP_PicnicSheet3rd_Blueprint.label>レジャーシート(和柄3) (blueprint)</ZP_PicnicSheet3rd_Blueprint.label>
-  <ZP_PicnicSheet3rd_Frame.label>レジャーシート(和柄3) (building)</ZP_PicnicSheet3rd_Frame.label>
-  <ZP_PicnicSheet3rd_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet3rd_Frame.description>
+  <ZP_PicnicSheet3rd.label>休闲布(和式3)</ZP_PicnicSheet3rd.label>
+  <ZP_PicnicSheet3rd.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet3rd.description>
+  <ZP_PicnicSheet3rd_Blueprint.label>休闲布(和式3) (blueprint)</ZP_PicnicSheet3rd_Blueprint.label>
+  <ZP_PicnicSheet3rd_Frame.label>休闲布(和式3) (building)</ZP_PicnicSheet3rd_Frame.label>
+  <ZP_PicnicSheet3rd_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet3rd_Frame.description>
 
-  <ZP_PicnicSheet4th.label>レジャーシート(和柄4)</ZP_PicnicSheet4th.label>
-  <ZP_PicnicSheet4th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet4th.description>
-  <ZP_PicnicSheet4th_Blueprint.label>レジャーシート(和柄4) (blueprint)</ZP_PicnicSheet4th_Blueprint.label>
-  <ZP_PicnicSheet4th_Frame.label>レジャーシート(和柄4) (building)</ZP_PicnicSheet4th_Frame.label>
-  <ZP_PicnicSheet4th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet4th_Frame.description>
+  <ZP_PicnicSheet4th.label>休闲布(和式4)</ZP_PicnicSheet4th.label>
+  <ZP_PicnicSheet4th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet4th.description>
+  <ZP_PicnicSheet4th_Blueprint.label>休闲布(和式4) (blueprint)</ZP_PicnicSheet4th_Blueprint.label>
+  <ZP_PicnicSheet4th_Frame.label>休闲布(和式4) (building)</ZP_PicnicSheet4th_Frame.label>
+  <ZP_PicnicSheet4th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet4th_Frame.description>
 
-  <ZP_PicnicSheet5th.label>レジャーシート(和柄5)</ZP_PicnicSheet5th.label>
-  <ZP_PicnicSheet5th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet5th.description>
-  <ZP_PicnicSheet5th_Blueprint.label>レジャーシート(和柄5) (blueprint)</ZP_PicnicSheet5th_Blueprint.label>
-  <ZP_PicnicSheet5th_Frame.label>レジャーシート(和柄5) (building)</ZP_PicnicSheet5th_Frame.label>
-  <ZP_PicnicSheet5th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet5th_Frame.description>
+  <ZP_PicnicSheet5th.label>休闲布(和式5)</ZP_PicnicSheet5th.label>
+  <ZP_PicnicSheet5th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet5th.description>
+  <ZP_PicnicSheet5th_Blueprint.label>休闲布(和式5) (blueprint)</ZP_PicnicSheet5th_Blueprint.label>
+  <ZP_PicnicSheet5th_Frame.label>休闲布(和式5) (building)</ZP_PicnicSheet5th_Frame.label>
+  <ZP_PicnicSheet5th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet5th_Frame.description>
 
-  <ZP_PicnicSheet6th.label>レジャーシート(和柄6)</ZP_PicnicSheet6th.label>
-  <ZP_PicnicSheet6th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet6th.description>
-  <ZP_PicnicSheet6th_Blueprint.label>レジャーシート(和柄6) (blueprint)</ZP_PicnicSheet6th_Blueprint.label>
-  <ZP_PicnicSheet6th_Frame.label>レジャーシート(和柄6) (building)</ZP_PicnicSheet6th_Frame.label>
-  <ZP_PicnicSheet6th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet6th_Frame.description>
+  <ZP_PicnicSheet6th.label>休闲布(和式6)</ZP_PicnicSheet6th.label>
+  <ZP_PicnicSheet6th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet6th.description>
+  <ZP_PicnicSheet6th_Blueprint.label>休闲布(和式6) (blueprint)</ZP_PicnicSheet6th_Blueprint.label>
+  <ZP_PicnicSheet6th_Frame.label>休闲布(和式6) (building)</ZP_PicnicSheet6th_Frame.label>
+  <ZP_PicnicSheet6th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet6th_Frame.description>
 
-  <ZP_PicnicSheet7th.label>レジャーシート(アイヌ)</ZP_PicnicSheet7th.label>
-  <ZP_PicnicSheet7th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet7th.description>
-  <ZP_PicnicSheet7th_Blueprint.label>レジャーシート(アイヌ) (blueprint)</ZP_PicnicSheet7th_Blueprint.label>
-  <ZP_PicnicSheet7th_Frame.label>レジャーシート(アイヌ) (building)</ZP_PicnicSheet7th_Frame.label>
-  <ZP_PicnicSheet7th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet7th_Frame.description>
+  <ZP_PicnicSheet7th.label>休闲布(阿伊奴式1)</ZP_PicnicSheet7th.label>
+  <ZP_PicnicSheet7th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet7th.description>
+  <ZP_PicnicSheet7th_Blueprint.label>休闲布(阿伊奴式1) (blueprint)</ZP_PicnicSheet7th_Blueprint.label>
+  <ZP_PicnicSheet7th_Frame.label>休闲布(阿伊奴式1) (building)</ZP_PicnicSheet7th_Frame.label>
+  <ZP_PicnicSheet7th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet7th_Frame.description>
 
-  <ZP_PicnicSheet8th.label>レジャーシート(アイヌ2)</ZP_PicnicSheet8th.label>
-  <ZP_PicnicSheet8th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet8th.description>
-  <ZP_PicnicSheet8th_Blueprint.label>レジャーシート(アイヌ2) (blueprint)</ZP_PicnicSheet8th_Blueprint.label>
-  <ZP_PicnicSheet8th_Frame.label>レジャーシート(アイヌ2) (building)</ZP_PicnicSheet8th_Frame.label>
-  <ZP_PicnicSheet8th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet8th_Frame.description>
+  <ZP_PicnicSheet8th.label>休闲布(阿伊奴式2)</ZP_PicnicSheet8th.label>
+  <ZP_PicnicSheet8th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet8th.description>
+  <ZP_PicnicSheet8th_Blueprint.label>休闲布(阿伊奴式2) (blueprint)</ZP_PicnicSheet8th_Blueprint.label>
+  <ZP_PicnicSheet8th_Frame.label>休闲布(阿伊奴式2) (building)</ZP_PicnicSheet8th_Frame.label>
+  <ZP_PicnicSheet8th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet8th_Frame.description>
 
-  <ZP_PicnicSheet9th.label>レジャーシート(虎柄)</ZP_PicnicSheet9th.label>
-  <ZP_PicnicSheet9th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet9th.description>
-  <ZP_PicnicSheet9th_Blueprint.label>レジャーシート(虎柄) (blueprint)</ZP_PicnicSheet9th_Blueprint.label>
-  <ZP_PicnicSheet9th_Frame.label>レジャーシート(虎柄) (building)</ZP_PicnicSheet9th_Frame.label>
-  <ZP_PicnicSheet9th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet9th_Frame.description>
+  <ZP_PicnicSheet9th.label>休闲布(虎纹式)</ZP_PicnicSheet9th.label>
+  <ZP_PicnicSheet9th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet9th.description>
+  <ZP_PicnicSheet9th_Blueprint.label>休闲布(虎纹式) (blueprint)</ZP_PicnicSheet9th_Blueprint.label>
+  <ZP_PicnicSheet9th_Frame.label>休闲布(虎纹式) (building)</ZP_PicnicSheet9th_Frame.label>
+  <ZP_PicnicSheet9th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet9th_Frame.description>
 
-  <ZP_PicnicSheet10th.label>レジャーシート(マッファロー)</ZP_PicnicSheet10th.label>
-  <ZP_PicnicSheet10th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet10th.description>
-  <ZP_PicnicSheet10th_Blueprint.label>レジャーシート(マッファロー) (blueprint)</ZP_PicnicSheet10th_Blueprint.label>
-  <ZP_PicnicSheet10th_Frame.label>レジャーシート(マッファロー) (building)</ZP_PicnicSheet10th_Frame.label>
-  <ZP_PicnicSheet10th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet10th_Frame.description>
+  <ZP_PicnicSheet10th.label>休闲布(雪牛式)</ZP_PicnicSheet10th.label>
+  <ZP_PicnicSheet10th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet10th.description>
+  <ZP_PicnicSheet10th_Blueprint.label>休闲布(雪牛式) (blueprint)</ZP_PicnicSheet10th_Blueprint.label>
+  <ZP_PicnicSheet10th_Frame.label>休闲布(雪牛式) (building)</ZP_PicnicSheet10th_Frame.label>
+  <ZP_PicnicSheet10th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet10th_Frame.description>
 
-  <ZP_PicnicSheet11th.label>レジャーシート(青海波)</ZP_PicnicSheet11th.label>
-  <ZP_PicnicSheet11th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet11th.description>
-  <ZP_PicnicSheet11th_Blueprint.label>レジャーシート(青海波) (blueprint)</ZP_PicnicSheet11th_Blueprint.label>
-  <ZP_PicnicSheet11th_Frame.label>レジャーシート(青海波) (building)</ZP_PicnicSheet11th_Frame.label>
-  <ZP_PicnicSheet11th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet11th_Frame.description>
+  <ZP_PicnicSheet11th.label>休闲布(青海波)</ZP_PicnicSheet11th.label>
+  <ZP_PicnicSheet11th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet11th.description>
+  <ZP_PicnicSheet11th_Blueprint.label>休闲布(青海波) (blueprint)</ZP_PicnicSheet11th_Blueprint.label>
+  <ZP_PicnicSheet11th_Frame.label>休闲布(青海波) (building)</ZP_PicnicSheet11th_Frame.label>
+  <ZP_PicnicSheet11th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet11th_Frame.description>
 
-  <ZP_PicnicSheet12th.label>レジャーシート(手裏剣)</ZP_PicnicSheet12th.label>
-  <ZP_PicnicSheet12th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet12th.description>
-  <ZP_PicnicSheet12th_Blueprint.label>レジャーシート(手裏剣) (blueprint)</ZP_PicnicSheet12th_Blueprint.label>
-  <ZP_PicnicSheet12th_Frame.label>レジャーシート(手裏剣) (building)</ZP_PicnicSheet12th_Frame.label>
-  <ZP_PicnicSheet12th_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet12th_Frame.description>
+  <ZP_PicnicSheet12th.label>休闲布(手里剑)</ZP_PicnicSheet12th.label>
+  <ZP_PicnicSheet12th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet12th.description>
+  <ZP_PicnicSheet12th_Blueprint.label>休闲布(手里剑) (blueprint)</ZP_PicnicSheet12th_Blueprint.label>
+  <ZP_PicnicSheet12th_Frame.label>休闲布(手里剑) (building)</ZP_PicnicSheet12th_Frame.label>
+  <ZP_PicnicSheet12th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet12th_Frame.description>
 
-  <ZP_Goza.label>茣蓙</ZP_Goza.label>
-  <ZP_Goza.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza.description>
-  <ZP_Goza_Blueprint.label>茣蓙 (blueprint)</ZP_Goza_Blueprint.label>
-  <ZP_Goza_Frame.label>茣蓙 (building)</ZP_Goza_Frame.label>
-  <ZP_Goza_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza_Frame.description>
+  <ZP_Goza.label>席子</ZP_Goza.label>
+  <ZP_Goza.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza.description>
+  <ZP_Goza_Blueprint.label>席子 (blueprint)</ZP_Goza_Blueprint.label>
+  <ZP_Goza_Frame.label>席子 (building)</ZP_Goza_Frame.label>
+  <ZP_Goza_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza_Frame.description>
 
-  <ZP_Goza2nd.label>茣蓙2</ZP_Goza2nd.label>
-  <ZP_Goza2nd.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza2nd.description>
-  <ZP_Goza2nd_Blueprint.label>茣蓙2 (blueprint)</ZP_Goza2nd_Blueprint.label>
-  <ZP_Goza2nd_Frame.label>茣蓙2 (building)</ZP_Goza2nd_Frame.label>
-  <ZP_Goza2nd_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza2nd_Frame.description>
+  <ZP_Goza2nd.label>席子2</ZP_Goza2nd.label>
+  <ZP_Goza2nd.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza2nd.description>
+  <ZP_Goza2nd_Blueprint.label>席子2 (blueprint)</ZP_Goza2nd_Blueprint.label>
+  <ZP_Goza2nd_Frame.label>席子2 (building)</ZP_Goza2nd_Frame.label>
+  <ZP_Goza2nd_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza2nd_Frame.description>
 
-  <ZP_Goza3rd.label>茣蓙(大)</ZP_Goza3rd.label>
-  <ZP_Goza3rd.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza3rd.description>
-  <ZP_Goza3rd_Blueprint.label>茣蓙(大) (blueprint)</ZP_Goza3rd_Blueprint.label>
-  <ZP_Goza3rd_Frame.label>茣蓙(大) (building)</ZP_Goza3rd_Frame.label>
-  <ZP_Goza3rd_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza3rd_Frame.description>
+  <ZP_Goza3rd.label>席子(大)</ZP_Goza3rd.label>
+  <ZP_Goza3rd.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza3rd.description>
+  <ZP_Goza3rd_Blueprint.label>席子(大) (blueprint)</ZP_Goza3rd_Blueprint.label>
+  <ZP_Goza3rd_Frame.label>席子(大) (building)</ZP_Goza3rd_Frame.label>
+  <ZP_Goza3rd_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza3rd_Frame.description>
 
-  <ZP_Goza4th.label>茣蓙2(大)</ZP_Goza4th.label>
-  <ZP_Goza4th.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza4th.description>
-  <ZP_Goza4th_Blueprint.label>茣蓙2(大) (blueprint)</ZP_Goza4th_Blueprint.label>
-  <ZP_Goza4th_Frame.label>茣蓙2(大) (building)</ZP_Goza4th_Frame.label>
-  <ZP_Goza4th_Frame.description>外で食べるさいにテーブル代わりになる茣蓙。\n撤去不可だが素材はほぼ返ってきます。</ZP_Goza4th_Frame.description>
+  <ZP_Goza4th.label>席子2(大)</ZP_Goza4th.label>
+  <ZP_Goza4th.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza4th.description>
+  <ZP_Goza4th_Blueprint.label>席子2(大) (blueprint)</ZP_Goza4th_Blueprint.label>
+  <ZP_Goza4th_Frame.label>席子2(大) (building)</ZP_Goza4th_Frame.label>
+  <ZP_Goza4th_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_Goza4th_Frame.description>
 
 
 </LanguageData>

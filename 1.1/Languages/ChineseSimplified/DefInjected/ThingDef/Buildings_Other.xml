@@ -2,33 +2,44 @@
 <LanguageData>
 
   <ZP_Andon.label>行灯</ZP_Andon.label>
-  <ZP_Andon.description>【燃料:薪,藁,バイオ科学燃料 快適度:5%up】\n日本の伝統的な室内照明器具のひとつ。ベッドの近くに置くと優しい光に照らされて快適性が少し上がります。</ZP_Andon.description>
-
+  <ZP_Andon.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处于唐朝时期的中国和处于平安时代的日本，就有使用行灯的记载。</ZP_Andon.description>
+  <ZP_Andon_Blueprint.label>行灯 ((蓝图)</ZP_Andon_Blueprint.label>
+  <ZP_Andon_Blueprint_Install.label>行灯 (蓝图)</ZP_Andon_Blueprint_Install.label>
+  <ZP_Andon_Frame.label>行灯 (建造中)</ZP_Andon_Frame.label>
+  <ZP_Andon_Frame.description>一种传统的丶相当具有东方风格的照明设备，不需要电力，但是需要燃料。除了照明以外，还能为附近的床铺带来些许的舒适度奖励。\n\n“行灯”指的是“夜行时照明用的灯”，亦称“灯笼”，乃是古时灯具的一种，早在西元八世纪，当时处于唐朝时期的中国和处于平安时代的日本，就有使用行灯的记载。</ZP_Andon_Frame.description>
 
   <!-- add 1.1 -->
 
-  <ZP_ElectricAndon.label>電気行灯</ZP_ElectricAndon.label>
-  <ZP_ElectricAndon.description>【快適度:5%up】\n日本の伝統的な室内照明器具のひとつ。ベッドの近くに置くと優しい光に照らされて快適性が少し上がります。</ZP_ElectricAndon.description>
+  <ZP_ElectricAndon.label>电行灯</ZP_ElectricAndon.label>
+  <ZP_ElectricAndon.description>日本传统的室内照明器具之一。放在床附近的话，被温柔的光照射，舒适性会稍微提高。【舒适度：5%】</ZP_ElectricAndon.description>
 
-  <ZP_Tuitate.label>衝立</ZP_Tuitate.label>
-  <ZP_Tuitate.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate.description>
+  <ZP_Tuitate.label>冲立</ZP_Tuitate.label>
+  <ZP_Tuitate.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate.description>
+  <ZP_Tuitate_Blueprint.label>冲立 (蓝图)</ZP_Tuitate_Blueprint.label>
+  <ZP_Tuitate_Blueprint_Install.label>冲立 (蓝图)</ZP_Tuitate_Blueprint_Install.label>
+  <ZP_Tuitate_Frame.label>冲立 (建造中)</ZP_Tuitate_Frame.label>
+  <ZP_Tuitate_Frame.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate_Frame.description>
 
-  <ZP_Tuitate2nd.label>衝立</ZP_Tuitate2nd.label>
-  <ZP_Tuitate2nd.description>撤去できる目隠し用の壁。部屋を一時的に区切ったり、奥の部屋を見せないように目隠しにも使われる。光は遮らないのでレイアウトには困りません。</ZP_Tuitate2nd.description>
+  <ZP_Tuitate2nd.label>冲立</ZP_Tuitate2nd.label>
+  <ZP_Tuitate2nd.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate2nd.description>
+  <ZP_Tuitate2nd_Blueprint.label>冲立 (蓝图)</ZP_Tuitate2nd_Blueprint.label>
+  <ZP_Tuitate2nd_Blueprint_Install.label>冲立 (蓝图)</ZP_Tuitate2nd_Blueprint_Install.label>
+  <ZP_Tuitate2nd_Frame.label>冲立 (建造中)</ZP_Tuitate2nd_Frame.label>
+  <ZP_Tuitate2nd_Frame.description>一种可以很方便撤去的屏障，可以用来进行简单的临时房间隔断，也可以用以遮蔽屋内的陈列和摆设，既不会遮挡光线、也不会扰乱房间的格局。\n据说，在日本飞鸟时期从中国传入的“屏风”，就是冲立（ついたて）的最初原型。这种屏障非常便于设置和撤除，上面通常还带有一些图绘或雕塑来增强美感，因此也曾广泛应用于古代贵族和皇室的宫殿和宅邸。传统上冲立是设立在客厅使用的，但是在现代，除了设置在家庭的玄关口、庭院、厨房以外，也普遍应用于饮食店和温泉旅馆等。</ZP_Tuitate2nd_Frame.description>
 
   <ZP_ConfectionerySaucer.label>菓子皿</ZP_ConfectionerySaucer.label>
-  <ZP_ConfectionerySaucer.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】\n燃料:菓子皿のレシピに記載されているお菓子が燃料になります。\n糖分を摂る事で脳が活性化し作業効率を高める。</ZP_ConfectionerySaucer.description>
+  <ZP_ConfectionerySaucer.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】燃料:ジパングの嗜好品とチョコレート\n作業中に糖分を摂る事で脳が活性化し作業効率を高めることができる。</ZP_ConfectionerySaucer.description>
   <ZP_ConfectionerySaucer_Blueprint.label>菓子皿 (blueprint)</ZP_ConfectionerySaucer_Blueprint.label>
   <ZP_ConfectionerySaucer_Blueprint_Install.label>菓子皿 (blueprint)</ZP_ConfectionerySaucer_Blueprint_Install.label>
   <ZP_ConfectionerySaucer_Frame.label>菓子皿 (building)</ZP_ConfectionerySaucer_Frame.label>
-  <ZP_ConfectionerySaucer_Frame.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】\n燃料:菓子皿のレシピに記載されているお菓子が燃料になります。\n糖分を摂る事で脳が活性化し作業効率を高める。</ZP_ConfectionerySaucer_Frame.description>
+  <ZP_ConfectionerySaucer_Frame.description>【作業速度:10%up,研究速度係数:5%up,快適度:5%up】燃料:ジパングの嗜好品とチョコレート\n作業中に糖分を摂る事で脳が活性化し作業効率を高めることができる。</ZP_ConfectionerySaucer_Frame.description>
 
-  <ZP_MedicineBox.label>薬箱</ZP_MedicineBox.label>
-  <ZP_MedicineBox.description>【燃料:薬草 治療品質:3%up,免疫獲得速度係数:2%up】\n薬を入れた箱をベッドのそばに置いとくことで病気になった際もすぐに飲めて安心できます。使用しない時は撤去してください。</ZP_MedicineBox.description>
-  <ZP_MedicineBox_Blueprint.label>薬箱 (blueprint)</ZP_MedicineBox_Blueprint.label>
-  <ZP_MedicineBox_Blueprint_Install.label>薬箱 (blueprint)</ZP_MedicineBox_Blueprint_Install.label>
-  <ZP_MedicineBox_Frame.label>薬箱 (building)</ZP_MedicineBox_Frame.label>
-  <ZP_MedicineBox_Frame.description>【燃料:薬草 治療品質:3%up,免疫獲得速度係数:2%up】\n薬を入れた箱をベッドのそばに置いとくことで病気になった際もすぐに飲めて安心できます。使用しない時は撤去してください。</ZP_MedicineBox_Frame.description>
+  <ZP_MedicineBox.label>药箱</ZP_MedicineBox.label>
+  <ZP_MedicineBox.description>把装了药的箱子放在床边。不使用时请拆除。【燃料：药草治疗品质：3%，免疫获得速度系数：2%】</ZP_MedicineBox.description>
+  <ZP_MedicineBox_Blueprint.label>药箱 (blueprint)</ZP_MedicineBox_Blueprint.label>
+  <ZP_MedicineBox_Blueprint_Install.label>药箱 (blueprint)</ZP_MedicineBox_Blueprint_Install.label>
+  <ZP_MedicineBox_Frame.label>药箱 (building)</ZP_MedicineBox_Frame.label>
+  <ZP_MedicineBox_Frame.description>把装了药的箱子放在床边。不使用时请拆除。【燃料：药草治疗品质：3%，免疫获得速度系数：2%】</ZP_MedicineBox_Frame.description>
 
 
 </LanguageData>

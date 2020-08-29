@@ -59,12 +59,11 @@
   <FuelPalette_Frame.label>燃料置き場 (building)</FuelPalette_Frame.label>
   <FuelPalette_Frame.description>燃料の専用備蓄ゾーン。</FuelPalette_Frame.description>
 
-  <PetFeedingBox.label>飼い葉桶</PetFeedingBox.label>
-  <PetFeedingBox.description>動物のエサを入れるための専用の桶。</PetFeedingBox.description>
-  <PetFeedingBox_Blueprint.label>飼い葉桶 (blueprint)</PetFeedingBox_Blueprint.label>
-  <PetFeedingBox_Blueprint_Install.label>飼い葉桶 (blueprint)</PetFeedingBox_Blueprint_Install.label>
-  <PetFeedingBox_Frame.label>飼い葉桶 (building)</PetFeedingBox_Frame.label>
-  <PetFeedingBox_Frame.description>動物のエサを入れるための専用の桶。</PetFeedingBox_Frame.description>
-
+  <PetFeedingBox.label>家畜用餌箱</PetFeedingBox.label>
+  <PetFeedingBox.description>家畜用餌箱</PetFeedingBox.description>
+  <PetFeedingBox_Blueprint.label>家畜用餌箱 (blueprint)</PetFeedingBox_Blueprint.label>
+  <PetFeedingBox_Blueprint_Install.label>家畜用餌箱 (blueprint)</PetFeedingBox_Blueprint_Install.label>
+  <PetFeedingBox_Frame.label>家畜用餌箱 (building)</PetFeedingBox_Frame.label>
+  <PetFeedingBox_Frame.description>家畜用餌箱</PetFeedingBox_Frame.description>
 
 </LanguageData>

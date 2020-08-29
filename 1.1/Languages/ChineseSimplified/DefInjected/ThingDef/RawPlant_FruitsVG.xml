@@ -9,17 +9,17 @@
 
   <!-- add 1.1 -->
 
-  <ZP_RawTomato.label>とまと</ZP_RawTomato.label>
-  <ZP_RawTomato.description>生のトマト。生で食べることが出来ます。</ZP_RawTomato.description>
+  <ZP_RawTomato.label>西红柿</ZP_RawTomato.label>
+  <ZP_RawTomato.description>生西红柿。可以生吃。</ZP_RawTomato.description>
+  
+  <ZP_RawEggplant.label>茄子</ZP_RawEggplant.label>
+  <ZP_RawEggplant.description>生茄子。生吃味道很差。</ZP_RawEggplant.description>
 
-  <ZP_RawEggplant.label>なす</ZP_RawEggplant.label>
-  <ZP_RawEggplant.description>生のナス。</ZP_RawEggplant.description>
+  <ZP_RawPumpkin.label>南瓜</ZP_RawPumpkin.label>
+  <ZP_RawPumpkindescription>生南瓜。</ZP_RawPumpkindescription>
 
-  <ZP_RawPumpkin.label>かぼちゃ</ZP_RawPumpkin.label>
-  <ZP_RawPumpkin.description>生のカボチャ。</ZP_RawPumpkin.description>
-
-  <ZP_RawCucumber.label>きゅうり</ZP_RawCucumber.label>
-  <ZP_RawCucumber.description>生のきゅうり。生で食べることが出来ます。</ZP_RawCucumber.description>
+  <ZP_RawCucumber.label>黄瓜</ZP_RawCucumber.label>
+  <ZP_RawCucumber.description>生黄瓜。</ZP_RawCucumber.description>
 
 
 </LanguageData>

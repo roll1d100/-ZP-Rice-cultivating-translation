@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ASU_CroquetteBread.label>コロッケぱん</ASU_CroquetteBread.label>
-  <ASU_CroquetteBread.description>【特産品】日本で開発された惣菜パン。発祥は諸説あるがチョウシ屋が初めて売りに出したとされる。関東大震災後の食料不足の中で安くて美味しいと評判になり大衆の味として浸透した。</ASU_CroquetteBread.description>
+	<ASU_CroquetteBread.label>炸肉饼面包</ASU_CroquetteBread.label>
+	<ASU_CroquetteBread.description>【特产品】日本开发的副食系面包。其发源众说纷纭，据说是由チョウシ屋首次推出。在曾经关东大地震后粮食不足的日子里，这种特色的面包因为便宜又好吃的缘故而受到好评，此后作为大众口味而渗透到民间。</ASU_CroquetteBread.description>
 
-  <ASU_FriedNoodleSandwich.label>焼きそばぱん</ASU_FriedNoodleSandwich.label>
-  <ASU_FriedNoodleSandwich.description>【特産品】日本で開発された惣菜パン。起源は諸説あるが野澤屋が元祖であるという説が有力。お客さまからのリクエストでコッペぱんにに焼きそばをはさんで販売したところ爆発的にヒットした。</ASU_FriedNoodleSandwich.description>
+ 	<ASU_FriedNoodleSandwich.label>炒面面包</ASU_FriedNoodleSandwich.label>
+	<ASU_FriedNoodleSandwich.description>【特产品】日本开发的副食系面包。其起源众说纷纭，但有说野泽屋是发明鼻祖的说法。当时的面包师根据客人的要求，在牛角面包中包夹着炒面进行销售，结果爆发性地大受欢迎。</ASU_FriedNoodleSandwich.description>
 
-  <ASU_SweetBeanPasteBun.label>あんぱん</ASU_SweetBeanPasteBun.label>
-  <ASU_SweetBeanPasteBun.description>【特産品】日本の3大菓子ぱんの１つ。酒饅頭をヒントに木村屋の創業者・木村安兵衛が日本人に受け入れられるパンの研究を開発したのが元祖である。文明開化をイメージさせる、西洋のパンと日本の小豆餡・酒種酵母による和洋折衷のパン。</ASU_SweetBeanPasteBun.description>
+	<ASU_SweetBeanPasteBun.label>豆沙面包</ASU_SweetBeanPasteBun.label>
+	<ASU_SweetBeanPasteBun.description>【特产品】日本三大点心面包之一。从前，木村屋的创始人·木村安兵卫以酒馒头为灵感，进行了日本人所能接受的面包的研究。豆沙面包即是以文明开化为形象，由西洋面包和日本豆沙馅、酒种酵母相结合而成的和西合璧面包。</ASU_SweetBeanPasteBun.description>
 
-  <ASU_CreamBun.label>クリームぱん</ASU_CreamBun.label>
-  <ASU_CreamBun.description>【特産品】日本の3大菓子ぱんの１つ。シュークリームの美味しさに感銘を受けた中村屋の創業者・相馬愛蔵が製造と販売を始めたのが元祖である。当時は丸い形をしていたが発酵の段階で中に空洞ができしまうので、空気抜きの切れ目をいれたのが現在のグローブ型になる。</ASU_CreamBun.description>
+	<ASU_CreamBun.label>奶油面包</ASU_CreamBun.label>
+	<ASU_CreamBun.description>【特产品】日本三大点心面包之一。从前，中村屋的创始人·相马爱藏因为奶油泡芙的美味而深受感动，开始制造和销售的奶油泡芙面包即是其鼻祖。当时的奶油面包呈密封的圆形，但在发酵阶段会产生空洞，所以后来加入为了去除空气而留出的断口，即成为现在的开口型。</ASU_CreamBun.description>
 
-  <ASU_ChocolateCorne.label>チョココロネ</ASU_ChocolateCorne.label>
-  <ASU_ChocolateCorne.description>【特産品】日本で開発された菓子ぱん。語源は諸説あるが楽器の角笛（ホルン）と同じく、イタリア語で「corno(角笛)」に由来する。発売当初は「チョコスネール」と呼ばれていた。</ASU_ChocolateCorne.description>
+	<ASU_ChocolateCorne.label>巧克力面包卷</ASU_ChocolateCorne.label>
+	<ASU_ChocolateCorne.description>【特产品】日本开发的点心系面包。其起源众说纷纭，但据说是因为一种名为角笛（ホルン）的乐器的灵感而开发出来的的面包。其名字取用了意大利语中的“corno（角笛）”，因此也可以被理解为是「带有巧克力夹心的角笛」。这种面包发售初期也曾被称呼为「チョコスネール」。</ASU_ChocolateCorne.description>
 
-  <ASU_Melonpan.label>メロンぱん</ASU_Melonpan.label>
-  <ASU_Melonpan.description>【特産品】日本で開発された菓子ぱん。起源は日本から海外まで様々な諸説あり。日本で定番の円形のメロンパンは神戸の「金生堂」が元祖である。当時はメロンぱんではなく「サンライズ」と呼ばれ、日の出の形を真似て軍艦旗の放射状の線を付けていた。</ASU_Melonpan.description>
+	<ASU_Melonpan.label>蜜瓜面包</ASU_Melonpan.label>
+	<ASU_Melonpan.description>【特产品】日本开发的点心系面包。其起源有来自于日本或海外的各种各样的说法，不过在日本最常见的圆形蜜瓜面包是由神户的「金生堂」所发明。当这种面包最初面世的时候并不是称作密瓜面包(メロンぱん)，而是叫作“Sunrise（升阳，日出）”，是模仿日出的形状，其上有着军舰旗面形状的放射状的线。</ASU_Melonpan.description>
 
-  <ASU_CurryBun.label>カレーぱん</ASU_CurryBun.label>
-  <ASU_CurryBun.description>【特産品】日本で開発された惣菜ぱん。起源は諸説あるが名花堂の2代目・中田豊治が具の入ったパンをカツレツの様に揚げること思いつき洋食ぱんとして誕生したのがカレーぱんのご先祖様。</ASU_CurryBun.description>
+	<ASU_CurryBun.label>咖喱面包</ASU_CurryBun.label>
+	<ASU_CurryBun.description>【特产品】日本开发的副食系面包。其起源众说纷纭，但据说名花堂的第二代传人・中田丰治想到要把加入配料的面包制成像炸猪排一样的西式面包而诞生的产品即是咖喱面包的鼻祖。</ASU_CurryBun.description>
 
 
 </LanguageData>

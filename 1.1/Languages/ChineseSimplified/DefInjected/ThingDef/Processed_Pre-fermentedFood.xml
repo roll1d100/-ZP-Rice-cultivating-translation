@@ -3,32 +3,32 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_GinjoSakeMoromi.label>もろみ(吟醸酒)</ZP_GinjoSakeMoromi.label>
-  <ZP_GinjoSakeMoromi.description>醸造することで吟醸酒ができる。</ZP_GinjoSakeMoromi.description>
+  <ZP_GinjoSakeMoromi.label>吟酿酒(未完成)</ZP_GinjoSakeMoromi.label>
+  <ZP_GinjoSakeMoromi.description>通过发酵可以酿成吟酿酒。\n\n注：一种最高级的日本清酒。</ZP_GinjoSakeMoromi.description>
 
-  <ZP_JunmaiSakeMoromi.label>もろみ(純米酒)</ZP_JunmaiSakeMoromi.label>
-  <ZP_JunmaiSakeMoromi.description>醸造することで純米酒ができる。</ZP_JunmaiSakeMoromi.description>
+  <ZP_JunmaiSakeMoromi.label>纯米酒(未完成)</ZP_JunmaiSakeMoromi.label>
+  <ZP_JunmaiSakeMoromi.description>通过发酵可以酿成纯米酒。</ZP_JunmaiSakeMoromi.description>
 
   <ZP_UmeshuUnfinished.label>梅酒(未完成)</ZP_UmeshuUnfinished.label>
-  <ZP_UmeshuUnfinished.description>梅を吟醸酒に漬けて寝かせることで梅酒ができる。</ZP_UmeshuUnfinished.description>
+  <ZP_UmeshuUnfinished.description>把梅花泡在吟酿酒里使其发酵，就成了梅酒。\n\n注：梅子酒是以梅子干蒸馏酒（通常是米类蒸馏酒）里长时间浸泡入味的一种浸泡酒。</ZP_UmeshuUnfinished.description>
 
-  <ZP_VinegarMoromi.label>もろみ(酢)</ZP_VinegarMoromi.label>
-  <ZP_VinegarMoromi.description>発酵させることで酢ができる。</ZP_VinegarMoromi.description>
+  <ZP_VinegarMoromi.label>醋(未完成)</ZP_VinegarMoromi.label>
+  <ZP_VinegarMoromi.description>通过发酵可以酿成醋。</ZP_VinegarMoromi.description>
 
-  <ZP_SoySauceMoromi.label>もろみ(醤油)</ZP_SoySauceMoromi.label>
-  <ZP_SoySauceMoromi.description>発酵させることで醤油ができる。</ZP_SoySauceMoromi.description>
+  <ZP_SoySauceMoromi.label>酱油(未完成)</ZP_SoySauceMoromi.label>
+  <ZP_SoySauceMoromi.description>通过发酵可以酿成酱油。</ZP_SoySauceMoromi.description>
 
-  <ZP_MisoMoromi.label>もろみ(味噌)</ZP_MisoMoromi.label>
-  <ZP_MisoMoromi.description>発酵させることで味噌ができる。</ZP_MisoMoromi.description>
+  <ZP_MisoMoromi.label>味增(未完成)</ZP_MisoMoromi.label>
+  <ZP_MisoMoromi.description>通过发酵可以酿成味增。\n\n注：味噌，又称面豉酱，是以黄豆为主原料，加入盐及不同的种麴发酵而成。在日本，味噌是最受欢迎的调味料，它既可以做成汤品，又能与肉类烹煮成菜，还能做成火锅的汤底。</ZP_MisoMoromi.description>
 
-  <ZP_RiceBranPickled-Unfinished.label>ぬか漬け(未完成)</ZP_RiceBranPickled-Unfinished.label>
-  <ZP_RiceBranPickled-Unfinished.description>発酵させることでぬか漬けができる。</ZP_RiceBranPickled-Unfinished.description>
+  <ZP_RiceBranPickled-Unfinished.label>米糠酱菜(未完成)</ZP_RiceBranPickled-Unfinished.label>
+  <ZP_RiceBranPickled-Unfinished.description>通过发酵可以制成米糠酱菜。\n\n注：米糠腌菜，是利用米糠中乳酸菌发酵时所产生的米糠腌床（糠床）腌渍蔬菜等食材制作的一种咸菜。</ZP_RiceBranPickled-Unfinished.description>
 
-  <ZP_FermentedSoybeans-Unfinished.label>納豆(未完成)</ZP_FermentedSoybeans-Unfinished.label>
-  <ZP_FermentedSoybeans-Unfinished.description>1日待つことで納豆に変化します。\n完成時に太鼓の音がなります。</ZP_FermentedSoybeans-Unfinished.description>
+  <ZP_FermentedSoybeans-Unfinished.label>纳豆(未完成)</ZP_FermentedSoybeans-Unfinished.label>
+  <ZP_FermentedSoybeans-Unfinished.description>等一天就会变成纳豆。\n完成时会发出鼓声。</ZP_FermentedSoybeans-Unfinished.description>
 
-  <ZP_DriedFish-Unfinished.label>魚の干物(未完成)</ZP_DriedFish-Unfinished.label>
-  <ZP_DriedFish-Unfinished.description>3日待つことで魚の干物に変化します。\n完成時に太鼓の音がなります。</ZP_DriedFish-Unfinished.description>
+  <ZP_DriedFish-Unfinished.label>鱼干(未完成)</ZP_DriedFish-Unfinished.label>
+  <ZP_DriedFish-Unfinished.description>等3天就会变成鱼干。\n完成时会发出鼓声。</ZP_DriedFish-Unfinished.description>
 
 
 </LanguageData>

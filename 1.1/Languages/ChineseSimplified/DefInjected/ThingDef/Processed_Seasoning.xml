@@ -3,23 +3,23 @@
 
   <!-- 調味料 -->
 
-  <ZP_Salt.label>天然塩</ZP_Salt.label>
-  <ZP_Salt.description>料理に使える塩。</ZP_Salt.description>
+  <ZP_Salt.label>天然盐</ZP_Salt.label>
+  <ZP_Salt.description>含盐的水蒸馏出来的盐。 \n一种咸味的晶体，也是料理中不可或缺的调味品。</ZP_Salt.description>
 
   <ZP_Spice.label>香辛料</ZP_Spice.label>
-  <ZP_Spice.description>料理に使える香辛料</ZP_Spice.description>
+  <ZP_Spice.description>用于改善料理风味的、各种各样的调料。</ZP_Spice.description>
 
-  <ZP_Mizuame.label>水飴</ZP_Mizuame.label>
-  <ZP_Mizuame.description>伝統的な甘味料。\n原料となる米の種類や加工方法により、黄金色から赤銅色を呈する。\n砂糖が普及する前は日本全国どこでも利用されていた。</ZP_Mizuame.description>
+  <ZP_Mizuame.label>米糖</ZP_Mizuame.label>
+  <ZP_Mizuame.description>传统的甜味料，在砂糖普及前的日本到处都可以见到。 \n米糖，顾名思义就像是玉米糖浆是由玉米淀粉中提炼得出，它是一种由大米淀粉中提炼而来的葡萄糖浆。</ZP_Mizuame.description>
 
-  <ZP_Vinegar.label>酢</ZP_Vinegar.label>
-  <ZP_Vinegar.description>料理に使える酢。</ZP_Vinegar.description>
+  <ZP_Vinegar.label>米醋</ZP_Vinegar.label>
+  <ZP_Vinegar.description>料理时用得到的醋。 \n据现有文字记载，东方醋起源于中国，有文献记载的酿醋历史至少也在三千年以上。“醋”在古中国写作“酢”，所以在日本也写作“酢”。</ZP_Vinegar.description>
 
-  <ZP_SoySauce.label>醤油</ZP_SoySauce.label>
-  <ZP_SoySauce.description>料理に使える醤油</ZP_SoySauce.description>
+  <ZP_SoySauce.label>酱油</ZP_SoySauce.label>
+  <ZP_SoySauce.description>料理时用得到的酱油，是起源于中国的传统的调味品。 \n用豆、麦、麸皮酿造的液体调味品。色泽红褐色，有独特酱香，滋味鲜美，有助于促进食欲。</ZP_SoySauce.description>
 
   <ZP_Miso.label>味噌</ZP_Miso.label>
-  <ZP_Miso.description>料理に使える味噌</ZP_Miso.description>
+  <ZP_Miso.description>又称面豉酱，是以黄豆为主原料，加入盐及不同的种麴发酵而成。 \n在日本，味噌是最受欢迎的调味品，它既可以做成汤品，又能与肉类烹煮成菜，还能做成火锅的汤底，既美味又健康呢。</ZP_Miso.description>
 
 
   <!-- add 1.1 -->

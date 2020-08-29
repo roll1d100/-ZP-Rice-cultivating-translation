@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_RoundHandFan.label>うちわ</ZP_RoundHandFan.label>
-  <ZP_RoundHandFan.description>【最低気温:20℃,使用期間:15日】日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</ZP_RoundHandFan.description>
-  <ZP_RoundHandFan_Blueprint.label>うちわ (blueprint)</ZP_RoundHandFan_Blueprint.label>
-  <ZP_RoundHandFan_Blueprint_Install.label>うちわ (blueprint)</ZP_RoundHandFan_Blueprint_Install.label>
-  <ZP_RoundHandFan_Frame.label>うちわ (building)</ZP_RoundHandFan_Frame.label>
-  <ZP_RoundHandFan_Frame.description>【最低気温:20℃,使用期間:15日】日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</ZP_RoundHandFan_Frame.description>
+  <ZP_RoundHandFan.label>团扇</ZP_RoundHandFan.label>
+  <ZP_RoundHandFan.description>一种日本传统的降温器具。\n只要拿着它们扇风就可以起到驱散炎热的效果，因此是度过夏日的必需品呢。\n\n不过，在夏季结束的时候就会悄然消失掉了。</ZP_RoundHandFan.description>
+  <ZP_RoundHandFan_Blueprint.label>团扇 (蓝图)</ZP_RoundHandFan_Blueprint.label>
+  <ZP_RoundHandFan_Blueprint_Install.label>团扇 (蓝图)</ZP_RoundHandFan_Blueprint_Install.label>
+  <ZP_RoundHandFan_Frame.label>团扇 (建造中)</ZP_RoundHandFan_Frame.label>
+  <ZP_RoundHandFan_Frame.description>一种日本传统的降温器具。\n只要拿着它们扇风就可以起到驱散炎热的效果，因此是度过夏日的必需品呢。\n\n不过，在夏季结束的时候就会悄然消失掉了。</ZP_RoundHandFan_Frame.description>
 
 
   <!-- add 1.1 -->

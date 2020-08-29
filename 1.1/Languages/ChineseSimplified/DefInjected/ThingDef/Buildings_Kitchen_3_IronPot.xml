@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_IronPot.label>釜</ZP_IronPot.label>
+  <ZP_IronPot.label>锅</ZP_IronPot.label>
   <ZP_IronPot.description>【燃料:薪,藁,モミガライト,炭】\nご飯を炊いたり汁物を作ったりする時に便利な調理台。</ZP_IronPot.description>
-  <ZP_IronPot_Blueprint.label>釜 (blueprint)</ZP_IronPot_Blueprint.label>
-  <ZP_IronPot_Blueprint_Install.label>釜 (blueprint)</ZP_IronPot_Blueprint_Install.label>
-  <ZP_IronPot_Frame.label>釜 (building)</ZP_IronPot_Frame.label>
+  <ZP_IronPot_Blueprint.label>锅 (蓝图)</ZP_IronPot_Blueprint.label>
+  <ZP_IronPot_Blueprint_Install.label>锅 (蓝图)</ZP_IronPot_Blueprint_Install.label>
+  <ZP_IronPot_Frame.label>锅 (建造中)</ZP_IronPot_Frame.label>
   <ZP_IronPot_Frame.description>【燃料:薪,藁,モミガライト,炭】\nご飯を炊いたり汁物を作ったりする時に便利な調理台。</ZP_IronPot_Frame.description>
 
 

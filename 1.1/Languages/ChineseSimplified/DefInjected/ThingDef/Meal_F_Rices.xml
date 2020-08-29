@@ -3,38 +3,38 @@
 
   <!-- MealFine -->
 
-  <ZP_BRBento.label>日の丸弁当(雑穀)</ZP_BRBento.label>
-  <ZP_BRBento.description>【特産品】どこでも食べれるお弁当。</ZP_BRBento.description>
+  <ZP_BRBento.label>糙米饭便当</ZP_BRBento.label>
+  <ZP_BRBento.description>一份日式糙米饭便当，可以在远行等没有餐桌之类的情况下享用到饭菜。</ZP_BRBento.description>
 
-  <ZP_WRBento.label>日の丸弁当</ZP_WRBento.label>
-  <ZP_WRBento.description>【特産品】どこでも食べれる白米のお弁当。</ZP_WRBento.description>
+  <ZP_WRBento.label>日之丸便当</ZP_WRBento.label>
+  <ZP_WRBento.description>一份日式便当，可以在远行等没有餐桌之类的情况下享用到饭菜。</ZP_WRBento.description>
 
-  <ZP_BRTKG.label>卵かけご飯(玄米)</ZP_BRTKG.label>
-  <ZP_BRTKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</ZP_BRTKG.description>
+  <ZP_BRTKG.label>蛋盖糙米饭</ZP_BRTKG.label>
+  <ZP_BRTKG.description>一碗糙米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过也有人觉得加生鸡蛋是黑暗料理般的吃法呢。</ZP_BRTKG.description>
 
-  <ZP_WRTKG.label>卵かけご飯</ZP_WRTKG.label>
-  <ZP_WRTKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</ZP_WRTKG.description>
+  <ZP_WRTKG.label>蛋盖白米饭</ZP_WRTKG.label>
+  <ZP_WRTKG.description>一碗米饭，上面还打了一个生蛋，看起来就很好吃的样子。\n不过也有人觉得加生鸡蛋是黑暗料理般的吃法呢。</ZP_WRTKG.description>
 
-  <ZP_BRGyudon.label>肉丼(玄米)</ZP_BRGyudon.label>
-  <ZP_BRGyudon.description>ご飯の上にがっつり肉を盛り付けたどんぶり。</ZP_BRGyudon.description>
+  <ZP_BRGyudon.label>糙米肉丼</ZP_BRGyudon.label>
+  <ZP_BRGyudon.description>在饭上面盖有很多肉的大碗糙米饭。\n伴随着肉和饭一起吃进肚子里的、还有满满的幸福感呢。</ZP_BRGyudon.description>
 
-  <ZP_WRGyudon.label>肉丼</ZP_WRGyudon.label>
-  <ZP_WRGyudon.description>ご飯の上にがっつり肉を盛り付けた白米のどんぶり。</ZP_WRGyudon.description>
+  <ZP_WRGyudon.label>白米肉丼</ZP_WRGyudon.label>
+  <ZP_WRGyudon.description>在饭上面盖有很多肉的大碗白米饭。\n伴随着肉和饭一起吃进肚子里的、还有满满的幸福感呢。</ZP_WRGyudon.description>
 
-  <ZP_GRTakikomi.label>炊き込みご飯</ZP_GRTakikomi.label>
-  <ZP_GRTakikomi.description>もち米と具を一緒に炊き込んで作るご飯。</ZP_GRTakikomi.description>
+  <ZP_GRTakikomi.label>五目饭</ZP_GRTakikomi.label>
+  <ZP_GRTakikomi.description>将糯米和一些野菜、肉类一起放入锅中蒸煮而成的、即美味又健康的饭。\n“五目”指的就是五种食材，当然实际上不放那么多种也是可以的哟。</ZP_GRTakikomi.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_NattoRice.label>納豆ごはん</ZP_NattoRice.label>
-  <ZP_NattoRice.description>ご飯の上に納豆を盛り付けたシンプルなどんぶり。</ZP_NattoRice.description>
+  <ZP_NattoRice.label>纳豆饭</ZP_NattoRice.label>
+  <ZP_NattoRice.description>米饭上拌有纳豆的简单盖饭。</ZP_NattoRice.description>
 
-  <ZP_SalmonRiceBall.label>鮭おにぎり</ZP_SalmonRiceBall.label>
-  <ZP_SalmonRiceBall.description>【特産品】塩味のきいた鮭の入ったちょっと豪華なおにぎり。</ZP_SalmonRiceBall.description>
+  <ZP_SalmonRiceBall.label>鲑鱼饭团</ZP_SalmonRiceBall.label>
+  <ZP_SalmonRiceBall.description>【特产品】带有咸味的新鲜生鲑鱼片制成的豪华饭团。</ZP_SalmonRiceBall.description>
 
-  <ZP_TempuraRiceBall.label>天むす</ZP_TempuraRiceBall.label>
-  <ZP_TempuraRiceBall.description>【特産品】天ぷらの入ったちょっと豪華なおにぎり。</ZP_TempuraRiceBall.description>
+  <ZP_TempuraRiceBall.label>天妇罗饭团</ZP_TempuraRiceBall.label>
+  <ZP_TempuraRiceBall.description>【特产品】天妇罗制成的豪华饭团。\n\n注：天妇罗是四大日本料理之一，用面粉、鸡蛋与水和成浆，包裹新鲜的鱼虾和时令蔬菜制成的。</ZP_TempuraRiceBall.description>
 
 
 </LanguageData>

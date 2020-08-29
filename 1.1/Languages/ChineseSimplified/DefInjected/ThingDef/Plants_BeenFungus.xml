@@ -4,10 +4,10 @@
   <!-- 豆・菌類 -->
 
   <ZP_PlantSoy.label>大豆</ZP_PlantSoy.label>
-  <ZP_PlantSoy.description>収穫後は長期保存が可能。豆腐を作ることでお肉としても代用できる。成長は遅いが痩せた土地でも育つので重宝する。</ZP_PlantSoy.description>
+  <ZP_PlantSoy.description>一种豆类植物，可以长出被誉有“田地里的肉”之称的大豆。生长较慢，但是因为在贫瘠的地里也可以生长，所以还是很有用的一种植物呢。</ZP_PlantSoy.description>
 
   <ZP_PlantEdamame.label>枝豆</ZP_PlantEdamame.label>
-  <ZP_PlantEdamame.description>畑のお肉である枝豆を育成できる。成長が早く痩せた土地でも育つので重宝する。</ZP_PlantEdamame.description>
+  <ZP_PlantEdamame.description>即枝豆。一种豆类植物，因为不需要等待大豆长成，所以收获时间相对较短。而且因为在贫瘠的地里也可以生长的缘故，还算是很有用的一种植物呢。</ZP_PlantEdamame.description>
 
   <ZP_PrantAzuki.label>小豆</ZP_PrantAzuki.label>
   <ZP_PrantAzuki.description>収穫後は長期保存が可能。東アジアが原産地。砂糖と一緒に煮ることで甘い小豆餡をつくれる。</ZP_PrantAzuki.description>
@@ -15,11 +15,11 @@
 
   <!-- add 1.1 -->
 
-  <ZP_Glowstool.label>紅茸</ZP_Glowstool.label>
-  <ZP_Glowstool.description>大抵は洞窟の中で見つかる小さい茶色のキノコ.その臭いは,腐敗が進むマッファローの胃から取り出した古くて汚れた雑巾のようです - しかし,調理すると驚くほどに美味しくなります.陽にさらされると死にます.</ZP_Glowstool.description>
+  <ZP_Glowstool.label>光屎菇</ZP_Glowstool.label>
+  <ZP_Glowstool.description>通常出现在矿洞中的棕色小蘑菇。闻起来就像是从腐烂的雪牛的胃里拖出来的破旧抹布，但煮熟后的味道出奇地好。暴露在光照下会死亡。</ZP_Glowstool.description>
 
-  <ZP_Agarilux.label>アガリラックス</ZP_Agarilux.label>
-  <ZP_Agarilux.description>非常に大きい紫色のキノコ。その大きさと,傘が伸びていくさまは,このキノコを美しいものさせる.陽に当たると死にます。</ZP_Agarilux.description>
+  <ZP_Agarilux.label>荧覃</ZP_Agarilux.label>
+  <ZP_Agarilux.description>巨大的紫色蘑菇。其尺寸和发光的隆起让这种真菌看起来非常美丽。暴露在光照下会死亡。</ZP_Agarilux.description>
 
 
 </LanguageData>

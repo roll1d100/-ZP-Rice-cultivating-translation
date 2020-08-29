@@ -3,20 +3,20 @@
 
   <!-- MealFine -->
 
-  <ZP_SaltGrilledFish.label>魚の塩焼き</ZP_SaltGrilledFish.label>
-  <ZP_SaltGrilledFish.description>塩をまぶした魚を串にさし直火で焼いたもの。焼いた魚の旨味を堪能できる一品。</ZP_SaltGrilledFish.description>
+  <ZP_SaltGrilledFish.label>盐烤鱼</ZP_SaltGrilledFish.label>
+  <ZP_SaltGrilledFish.description>将鲜鱼抹上盐然后串在竹签上用炭火烘焙，这种简单而美味的吃法无论在哪里都相当受欢迎呢。</ZP_SaltGrilledFish.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Sasimi.label>刺身</ZP_Sasimi.label>
-  <ZP_Sasimi.description>新鮮な生魚を食べやすい大きさに切りお皿に盛り合わせたもの。</ZP_Sasimi.description>
+	<ZP_Sasimi.label>刺身</ZP_Sasimi.label>
+	<ZP_Sasimi.description>将新鲜的生鱼切成吃起来容易的小块装在盘子里制成的经典料理。</ZP_Sasimi.description>
 
-  <ZP_SteamedFish.label>魚の煮付け</ZP_SteamedFish.label>
-  <ZP_SteamedFish.description>魚を軽く茹でた後に調味料で味をつけ煮付けた食べ物。</ZP_SteamedFish.description>
+	<ZP_SteamedFish.label>蒸鱼</ZP_SteamedFish.label>
+	<ZP_SteamedFish.description>将鱼轻轻蒸熟后，用调味料配制成的食物。</ZP_SteamedFish.description>
 
-  <ZP_Oden.label>おでん</ZP_Oden.label>
-  <ZP_Oden.description>コンニャク、大根、ちくわを出汁で長時間煮込んだ煮込み料理。</ZP_Oden.description>
+	<ZP_Oden.label>关东煮</ZP_Oden.label>
+	<ZP_Oden.description>将魔芋、萝卜、鱼糕等长时间炖煮制成的料理。</ZP_Oden.description>
 
 
 </LanguageData>

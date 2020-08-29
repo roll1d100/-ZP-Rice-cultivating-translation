@@ -2,9 +2,9 @@
 <LanguageData>
 
   <ZP_Amazake.label>甘酒</ZP_Amazake.label>
-  <ZP_Amazake.description>日本の伝統的な甘味飲料で正月や祭りの時に振舞われる。\n見た目は白く混濁していて甘粥と呼ばれる。\n栄養豊富で夏は冷たくして夏ばて対策に冬は温めて風邪予防として活躍する健康飲料でもある。</ZP_Amazake.description>
-  <ZP_Amazake.ingestible.ingestCommandString>Drink {0}</ZP_Amazake.ingestible.ingestCommandString>
-  <ZP_Amazake.ingestible.ingestReportString>Drinking {0}.</ZP_Amazake.ingestible.ingestReportString>
+  <ZP_Amazake.description>一种日本传统的、在新年和节日祭典时很常见的甜味饮品，虽然名字里带有“酒”，但实际上酒精含量不足1%呢。\n这种饮品的外观发白且浑浊，因此也被称作“甜粥”。\n它的营养很丰富，而且在夏天时饮用清凉舒爽、冬天时饮用则温暖驱寒，是一种美味而健康的饮品。</ZP_Amazake.description>
+  <ZP_Amazake.ingestible.ingestCommandString>饮用{0}</ZP_Amazake.ingestible.ingestCommandString>
+  <ZP_Amazake.ingestible.ingestReportString>正在饮用{0}。</ZP_Amazake.ingestible.ingestReportString>
 
 
 </LanguageData>

@@ -3,17 +3,17 @@
 
   <!-- 果物類 -->
 
-  <ZP_PlantTreeMandarinOrange.label>蜜柑の木</ZP_PlantTreeMandarinOrange.label>
-  <ZP_PlantTreeMandarinOrange.description>ミカンの木。寒さに弱いので温室栽培が有効です。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreeMandarinOrange.description>
+  <ZP_PlantTreeMandarinOrange.label>柑橘树</ZP_PlantTreeMandarinOrange.label>
+  <ZP_PlantTreeMandarinOrange.description>会长出柑橘的树。收获一次果实之后，很快就能收获第二次。</ZP_PlantTreeMandarinOrange.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PlantTreePlum.label>梅の木</ZP_PlantTreePlum.label>
-  <ZP_PlantTreePlum.description>ウメの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreePlum.description>
+  <ZP_PlantTreePlum.label>梅树</ZP_PlantTreePlum.label>
+  <ZP_PlantTreePlum.description>梅树。可反复收获。成长需要很长时间，但长到成熟后结果就很快了。</ZP_PlantTreePlum.description>
 
-  <ZP_PlantPersimmon.label>柿の木</ZP_PlantPersimmon.label>
-  <ZP_PlantPersimmon.description>カキの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantPersimmon.description>
+  <ZP_PlantPersimmon.label>柿树</ZP_PlantPersimmon.label>
+  <ZP_PlantPersimmon.description>柿树。可反腐收获。成长需要很长时间，但长到成熟后结果就很快了。</ZP_PlantPersimmon.description>
 
 
 </LanguageData>

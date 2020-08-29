@@ -3,17 +3,17 @@
 
   <!-- 葉茎菜類 -->
 
-  <ZP_PrantGreenOnion.label>長葱</ZP_PrantGreenOnion.label>
-  <ZP_PrantGreenOnion.description>ナガネギ。生育期間が長く肥沃な土地でしか栽培できないが耐寒性が高いので枯れにくい。昔から風邪によく効く生薬としても使用されていた。</ZP_PrantGreenOnion.description>
+  <ZP_PrantGreenOnion.label>葱</ZP_PrantGreenOnion.label>
+  <ZP_PrantGreenOnion.description>生长期长产量低，但是很耐寒耐枯萎。</ZP_PrantGreenOnion.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PrantCabbage.label>キャベツ</ZP_PrantCabbage.label>
-  <ZP_PrantCabbage.description>キャベツ。耐寒性で水田でも育てられる。一度育てば手間が少ない作物。</ZP_PrantCabbage.description>
+  <ZP_PrantCabbage.label>卷心菜</ZP_PrantCabbage.label>
+  <ZP_PrantCabbage.description>卷心菜。具有一定耐寒性，也可以在水田种植。可反复收获，成熟后结果很快。</ZP_PrantCabbage.description>
 
-  <ZP_PrantSpinach.label>ほうれん草</ZP_PrantSpinach.label>
-  <ZP_PrantSpinach.description>ホウレンソウ。収穫数は少ないが栄養価が高く寒さに強い作物。水田でも育てられる。</ZP_PrantSpinach.description>
+  <ZP_PrantSpinach.label>菠菜</ZP_PrantSpinach.label>
+  <ZP_PrantSpinach.description>菠菜。具有一定耐寒性，也可以在水田种植。产出较多但营养价值低。</ZP_PrantSpinach.description>
 
   <ZP_PrantOnion.label>玉葱</ZP_PrantOnion.label>
   <ZP_PrantOnion.description>タマネギ。耐寒性の高い作物。肥沃な土地でしか育たたない。</ZP_PrantOnion.description>

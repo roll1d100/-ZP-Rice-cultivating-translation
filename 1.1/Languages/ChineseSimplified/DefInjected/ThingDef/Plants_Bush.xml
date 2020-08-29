@@ -3,8 +3,8 @@
 
   <!-- add 1.1 -->
 
-  <ZP_PlantBush.label>低木</ZP_PlantBush.label>
-  <ZP_PlantBush.description>低い灌木です。伐採すると薪を入手できます。</ZP_PlantBush.description>
+  <ZP_PlantBush.label>灌木丛</ZP_PlantBush.label>
+  <ZP_PlantBush.description>低矮的灌木，能通过砍伐采集到柴火。</ZP_PlantBush.description>
 
 
 </LanguageData>

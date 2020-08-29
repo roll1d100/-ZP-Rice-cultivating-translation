@@ -2,25 +2,25 @@
 <LanguageData>
 
   <ZP_Rawtofu.label>豆腐</ZP_Rawtofu.label>
-  <ZP_Rawtofu.description>タンパク質が豊富な大豆の加工食品。肉の代用品としても使える。\n心情を害することなく生で食べれて、調理にも使える。</ZP_Rawtofu.description>
+  <ZP_Rawtofu.description>最常见的豆制品之一，水嫩饱满的样子不仅很好看，味道也不错，同时营养价值也很高，是被誉为“植物肉”的存在呢。\n可以直接食用，或是作为食材进行烹调。\n相传豆腐由中国汉朝时期的淮南王刘安发明，但直到中国宋朝时豆腐才真正成为重要的食品之一，并且渐渐传向周边的国家。不过，日本学者筱田统根据五代陶谷所著《清异录》“为青阳丞，洁己勤民，肉味不给，日市豆腐数个”，认为现代豆腐的前身应该起源于唐朝末期。而日本传统观点也认为，早在公元757年，中国唐代的鉴真和尚在东渡日本时就已经将制作豆腐的工艺传入日本，因此豆腐在很早以前也就成为日本民众的主要食物之一了。豆腐也有南北豆腐之分，主要区别在于往豆浆中加入的材料不同。南方豆腐通常使用石膏，因此凝固的豆腐水分量较高、外观和口感都较为细嫩饱满。北方豆腐更多使用卤水或酸浆，因此凝固的豆腐水分相较于南方豆腐来说要低、外观和口感也会比较干，但是味道会比较浓重。\n当然了，显然你的殖民者们比较喜欢吃南方豆腐呢。</ZP_Rawtofu.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_ChoppedMeat.label>ぶつ切り肉</ZP_ChoppedMeat.label>
-  <ZP_ChoppedMeat.description>様々な種類の肉を食べやすい大きさに切った肉。</ZP_ChoppedMeat.description>
+  <ZP_ChoppedMeat.label>切制肉</ZP_ChoppedMeat.label>
+  <ZP_ChoppedMeat.description>把各种各样的肉切成大小合适的肉块。</ZP_ChoppedMeat.description>
 
-  <ZP_SeasonedMeat.label>味付け肉</ZP_SeasonedMeat.label>
-  <ZP_SeasonedMeat.description>調味料で肉の臭みを消して保存性を少し高めたお肉。調理にも使える。</ZP_SeasonedMeat.description>
+  <ZP_SeasonedMeat.label>腌制肉</ZP_SeasonedMeat.label>
+  <ZP_SeasonedMeat.description>用调料腌制过的肉，比生肉的营养要稍微高一点，而且更加耐以贮存。\n可以直接食用，或是作为食材进行烹调。</ZP_SeasonedMeat.description>
 
-  <ZP_FishFillet.label>魚の切り身</ZP_FishFillet.label>
-  <ZP_FishFillet.description>料理に使いやすいようにさばいた魚の切り身。\n心情を害することなく生で食べれて、調理にも使える。</ZP_FishFillet.description>
+  <ZP_FishFillet.label>鱼块</ZP_FishFillet.label>
+  <ZP_FishFillet.description>将整条生鱼切成的大块鱼肉，可以用于制作更为精致的料理。\n可以直接食用，或是作为食材进行烹调。</ZP_FishFillet.description>
 
-  <ZP_Tikuwa.label>ちくわ</ZP_Tikuwa.label>
-  <ZP_Tikuwa.description>魚から作った加工食品。肉の代用品としても使える。\n生でも食べれて、調理にも使える。</ZP_Tikuwa.description>
+  <ZP_Tikuwa.label>竹轮</ZP_Tikuwa.label>
+  <ZP_Tikuwa.description>鱼制成的加工食品，可作为肉的代替品使用。可以生吃，也可以做菜。\n\n注：香港及澳门俗称狮子狗鱼蛋、狮子狗丸、狮子狗卷或狮子狗。人们将明太鱼、鲨鱼、飞鱼、花鲫鱼等的鱼肉里加上盐、糖、淀粉、蛋白等塞入竹圈，以竹制或金属制的粗棒状扦子厚厚夹住，然后火烤或蒸熟。日式火锅，关东煮中较为常见。</ZP_Tikuwa.description>
 
-  <ZP_DriedFish.label>魚の干物</ZP_DriedFish.label>
-  <ZP_DriedFish.description>生魚を腐らせないよう干した保存食。調理にも使える。</ZP_DriedFish.description>
+  <ZP_DriedFish.label>鱼干</ZP_DriedFish.label>
+  <ZP_DriedFish.description>将新鲜鱼肉充分晒干，使它们可以贮存更长时间。\n可以直接食用，或是作为食材进行烹调。</ZP_DriedFish.description>
 
 
 </LanguageData>

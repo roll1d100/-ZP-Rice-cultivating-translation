@@ -6,14 +6,14 @@
   <RawRice.label>rice</RawRice.label>
   <RawRice.description>Raw rice.</RawRice.description>
 
-  <ZP_RawBrownRice.label>玄米</ZP_RawBrownRice.label>
-  <ZP_RawBrownRice.description>脱穀して籾を外すことで栄養価が高い玄米を食べることが出来る。</ZP_RawBrownRice.description>
+  <ZP_RawBrownRice.label>糙米</ZP_RawBrownRice.label>
+  <ZP_RawBrownRice.description>除去稻壳的糙米，营养价值比较高，而且可以吃了。</ZP_RawBrownRice.description>
 
-  <WhiteRice.label>White rice</WhiteRice.label>
-  <WhiteRice.description>Rice that has been thoroughly threshed and polished.\nNutrients are lost in the process of polishing, but the taste improves superbly.</WhiteRice.description>
+  <WhiteRice.label>白米</WhiteRice.label>
+  <WhiteRice.description>谨慎脱粒制成的精米。 \n在精米过程中谨慎切削，营养没有糙米那么丰富，但味道很出众。</WhiteRice.description>
 
-  <ZP_RawGlutinousRice.label>もち米</ZP_RawGlutinousRice.label>
-  <ZP_RawGlutinousRice.description>もちもちとした食感のお米。凍り餅の原料となる。</ZP_RawGlutinousRice.description>
+  <ZP_RawGlutinousRice.label>糯米</ZP_RawGlutinousRice.label>
+  <ZP_RawGlutinousRice.description>口感软糯的稻米，黏度比大米要高，因此可以用于制作一些特别的糕点和食品。</ZP_RawGlutinousRice.description>
 
 
 </LanguageData>

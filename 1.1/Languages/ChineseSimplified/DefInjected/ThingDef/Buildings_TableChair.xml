@@ -3,35 +3,56 @@
 
   <!-- 椅子 -->
 
-  <ZP_GroundSit.label>地べたに座る</ZP_GroundSit.label>
-  <ZP_GroundSit.description>地べたに座ることができるのでレジャーシートと一緒に使おう</ZP_GroundSit.description>
-  <ZP_GroundSit_Blueprint.label>地べたに座る (blueprint)</ZP_GroundSit_Blueprint.label>
-  <ZP_GroundSit_Frame.label>地べたに座る (building)</ZP_GroundSit_Frame.label>
-  <ZP_GroundSit_Frame.description>地べたに座ることができるのでレジャーシートと一緒に使おう</ZP_GroundSit_Frame.description>
+  <ZP_GroundSit.label>座位</ZP_GroundSit.label>
+  <ZP_GroundSit.description>设定一个殖民者可以坐下的位置，例如在草席或垫子周围。</ZP_GroundSit.description>
+  <ZP_GroundSit_Blueprint.label>座位 (蓝图)</ZP_GroundSit_Blueprint.label>
+  <ZP_GroundSit_Frame.label>座位 (建造中)</ZP_GroundSit_Frame.label>
+  <ZP_GroundSit_Frame.description>设定一个殖民者可以坐下的位置，例如在草席或垫子周围。</ZP_GroundSit_Frame.description>
 
-  <ZP_WaraZabuton.label>筵</ZP_WaraZabuton.label>
-  <ZP_WaraZabuton.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZP_WaraZabuton.description>
+  <ZP_WaraZabuton.label>草座布团</ZP_WaraZabuton.label>
+  <ZP_WaraZabuton.description>用稻草编织成的很朴素的坐席。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。\n草座布团在中国是称为“筵席”，中国古籍《周礼·春官·序官》中有言：“司几筵下士二人。”郑玄注：“铺陈曰筵，藉之曰席。”贾公彦疏：“设席之法，先设者皆言筵，后加者为席。”孙诒让正义：“筵长席短，筵铺陈于下，席在上，为人所坐藉。”。虽然早在汉朝时期的中国就已经有了椅子的概念，但实际上直到唐朝以后，椅子才逐渐开始推广。在这之前，人们会在地上铺上一些草席或是垫子然后坐在上面，特别是在举办酒宴聚会的时候，因此现在“筵席”在中国也是“宴席”的意思。而自从弥生时代稻米传入日本时起，用稻草来进行编织也就成了日本传统文化中不可或缺的一部分了。</ZP_WaraZabuton.description>
+  <ZP_WaraZabuton_Blueprint.label>草座布団 (蓝图)</ZP_WaraZabuton_Blueprint.label>
+  <ZP_WaraZabuton_Blueprint_Install.label>草座布団 (蓝图)</ZP_WaraZabuton_Blueprint_Install.label>
+  <ZP_WaraZabuton_Frame.label>草座布団 (建造中)</ZP_WaraZabuton_Frame.label>
+  <ZP_WaraZabuton_Frame.description>用稻草编织成的很朴素的坐席。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。\n草座布团在中国是称为“筵席”，中国古籍《周礼·春官·序官》中有言：“司几筵下士二人。”郑玄注：“铺陈曰筵，藉之曰席。”贾公彦疏：“设席之法，先设者皆言筵，后加者为席。”孙诒让正义：“筵长席短，筵铺陈于下，席在上，为人所坐藉。”。虽然早在汉朝时期的中国就已经有了椅子的概念，但实际上直到唐朝以后，椅子才逐渐开始推广。在这之前，人们会在地上铺上一些草席或是垫子然后坐在上面，特别是在举办酒宴聚会的时候，因此现在“筵席”在中国也是“宴席”的意思。而自从弥生时代稻米传入日本时起，用稻草来进行编织也就成了日本传统文化中不可或缺的一部分了。</ZP_WaraZabuton_Frame.description>
 
-  <ZP_WaraZabuton2nd.label>筵2</ZP_WaraZabuton2nd.label>
-  <ZP_WaraZabuton2nd.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZP_WaraZabuton2nd.description>
+  <ZP_Zabuton.label>座布团</ZP_Zabuton.label>
+  <ZP_Zabuton.description>一种日式的软坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton.description>
+  <ZP_Zabuton_Blueprint.label>座布团 (蓝图)</ZP_Zabuton_Blueprint.label>
+  <ZP_Zabuton_Blueprint_Install.label>座布团 (蓝图)</ZP_Zabuton_Blueprint_Install.label>
+  <ZP_Zabuton_Frame.label>座布团 (建造中)</ZP_Zabuton_Frame.label>
+  <ZP_Zabuton_Frame.description>一种日式的软坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton_Frame.description>
 
-  <ZP_Zabuton.label>座布団</ZP_Zabuton.label>
-  <ZP_Zabuton.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton.description>
+  <ZP_Zabuton1st.label>座布团(红)</ZP_Zabuton1st.label>
+  <ZP_Zabuton1st.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton1st.description>
+  <ZP_Zabuton1st_Blueprint.label>座布团(红) (蓝图)</ZP_Zabuton1st_Blueprint.label>
+  <ZP_Zabuton1st_Blueprint_Install.label>座布团(红) (蓝图)</ZP_Zabuton1st_Blueprint_Install.label>
+  <ZP_Zabuton1st_Frame.label>座布团(红) (建造中)</ZP_Zabuton1st_Frame.label>
+  <ZP_Zabuton1st_Frame.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton1st_Frame.description>
 
-  <ZP_Zabuton1st.label>座布団(赤)</ZP_Zabuton1st.label>
-  <ZP_Zabuton1st.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton1st.description>
+  <ZP_Zabuton2nd.label>座布团(蓝)</ZP_Zabuton2nd.label>
+  <ZP_Zabuton2nd.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton2nd.description>
+  <ZP_Zabuton2nd_Blueprint.label>座布团(蓝) (蓝图)</ZP_Zabuton2nd_Blueprint.label>
+  <ZP_Zabuton2nd_Blueprint_Install.label>座布团(蓝) (蓝图)</ZP_Zabuton2nd_Blueprint_Install.label>
+  <ZP_Zabuton2nd_Frame.label>座布团(蓝) (建造中)</ZP_Zabuton2nd_Frame.label>
+  <ZP_Zabuton2nd_Frame.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton2nd_Frame.description>
 
-  <ZP_Zabuton2nd.label>座布団(青)</ZP_Zabuton2nd.label>
-  <ZP_Zabuton2nd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton2nd.description>
-
-  <ZP_Zabuton3rd.label>座布団(紫)</ZP_Zabuton3rd.label>
-  <ZP_Zabuton3rd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton3rd.description>
+  <ZP_Zabuton3rd.label>座布团(紫)</ZP_Zabuton3rd.label>
+  <ZP_Zabuton3rd.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton3rd.description>
+  <ZP_Zabuton3rd_Blueprint.label>座布团(紫) (蓝图)</ZP_Zabuton3rd_Blueprint.label>
+  <ZP_Zabuton3rd_Blueprint_Install.label>座布团(紫) (蓝图)</ZP_Zabuton3rd_Blueprint_Install.label>
+  <ZP_Zabuton3rd_Frame.label>座布团(紫) (建造中)</ZP_Zabuton3rd_Frame.label>
+  <ZP_Zabuton3rd_Frame.description>一种日式的坐垫。\n铺着坐在榻榻米或地板上的话可以放松臀部和腿部的肌肉，用处和椅子是一样的。</ZP_Zabuton3rd_Frame.description>
 
 
   <!-- 机 -->
 
-  <ZP_Tyabudai.label>ちゃぶ台</ZP_Tyabudai.label>
-  <ZP_Tyabudai.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai.description>
+  <ZP_Tyabudai.label>卓袱台</ZP_Tyabudai.label>
+  <ZP_Tyabudai.description>一张较矮小的桌子，相当节省空间，如果将椅子或坐垫放在旁边的话还可以用来吃饭。</ZP_Tyabudai.description>
+  <ZP_Tyabudai_Blueprint.label>卓袱台 (蓝图)</ZP_Tyabudai_Blueprint.label>
+  <ZP_Tyabudai_Blueprint_Install.label>卓袱台 (蓝图)</ZP_Tyabudai_Blueprint_Install.label>
+  <ZP_Tyabudai_Frame.label>卓袱台 (建造中)</ZP_Tyabudai_Frame.label>
+  <ZP_Tyabudai_Frame.description>放在椅子旁边，用来吃饭的桌子。\n非常感谢Lost Forest的作者许可借用。</ZP_Tyabudai_Frame.description>
 
 
 </LanguageData>

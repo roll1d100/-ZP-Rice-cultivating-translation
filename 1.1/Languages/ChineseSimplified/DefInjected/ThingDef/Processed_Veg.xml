@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_FreezeMochi.label>凍り餅</ZP_FreezeMochi.label>
-  <ZP_FreezeMochi.description>餅を水に浸して凍らせたものを寒風に晒して乾燥させた保存食。\n心情を害することなく生で食べれて、調理にも使える。</ZP_FreezeMochi.description>
+  <ZP_FreezeMochi.label>冻米饼</ZP_FreezeMochi.label>
+  <ZP_FreezeMochi.description>将米饼浸湿、揉制、冷冻，然后用凉风风干。这样处理过的米饼可以贮存更长时间。\n可以直接食用，或是作为食材进行烹调。</ZP_FreezeMochi.description>
 
-  <ZP_RiceBranPickled.label>ぬか漬け</ZP_RiceBranPickled.label>
-  <ZP_RiceBranPickled.description>野菜をぬかにつけ漬物にした保存食。\n心情を害することなく生で食べれて、調理にも使える。</ZP_RiceBranPickled.description>
+  <ZP_RiceBranPickled.label>米糠酱菜</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>一种利用米糠中乳酸菌发酵时所产生的米糠腌床（糠床）腌渍蔬菜等食材而成的一种腌制食物。糠床主要由米糠磨成的粉制成。\n可以直接食用，或是作为食材进行烹调。\n米糠腌菜主要起源于日本江户时期初期，而它的雏形早在日本平安时期就已形成。在经济发达的江户时代，米糠腌菜已经成为一般民众的主食。</ZP_RiceBranPickled.description>
 
-  <ZP_FermentedSoybeans.label>納豆</ZP_FermentedSoybeans.label>
-  <ZP_FermentedSoybeans.description>大豆を納豆菌で発酵させた日本の発酵食品。\n生で食べれて、調理にも使える。</ZP_FermentedSoybeans.description>
+  <ZP_FermentedSoybeans.label>纳豆</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>由黄豆通过纳豆菌（枯草杆菌）发酵制成的豆制品，具有黏性，气味较臭但口味微甜，耐以贮存而且营养价值也很高。你可以直接食用，或是作为食材进行烹调。\n日本古籍《和漢三才圖會》(わかんさんさいずえ)记载：‘纳豆自秦汉以来开始制作。’这种食物始于中国的豆豉，日本也曾称纳豆为“豉”，平城京出土的木简中也有“豉”字出现。由于古代豆豉常在僧家寺院的纳所制造后放入瓮桶贮藏，后由禅僧从秦汉传到日本寺庙，所以纳豆首先在寺庙得到发展，因此亦被称为“唐纳豆”或“咸纳豆”。</ZP_FermentedSoybeans.description>
 
-  <ZP_Tanpo.label>たんぽ</ZP_Tanpo.label>
-  <ZP_Tanpo.description>つぶしたお米を棒に巻きつけて焼いたもの。棒から外して切ったものを「きりたんぽ」という。\n心情を害することなく生で食べれて、調理にも使える。</ZP_Tanpo.description>
+  <ZP_Tanpo.label>蒲英</ZP_Tanpo.label>
+  <ZP_Tanpo.description>日本秋田県的乡土料理，是一种将米捣碎后卷在竹签或细木棒上、抹上酱料烤制而成的食品。如果将米卷取下来的话，就称作“切蒲英（きりたんぽ）”。\n可以直接食用，或是作为食材进行烹调。</ZP_Tanpo.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Konnyaku.label>こんにゃく</ZP_Konnyaku.label>
-  <ZP_Konnyaku.description>里芋から作った加工食品。\n生でも食べれて、調理にも使える。</ZP_Konnyaku.description>
+  <ZP_Konnyaku.label>魔芋</ZP_Konnyaku.label>
+  <ZP_Konnyaku.description>将里芋蒸熟、磨碎，然后和草木灰碱水混合制成的块状物。\n可以直接食用，或是作为食材进行烹调。\n严格来说魔芋的原材料应该是另一种名为“蒟蒻”的植物块茎，不过由于里芋的淀粉含量同样很高的缘故、因此用里芋制作这种魔芋块也不是什么特别稀奇的事情呢。</ZP_Konnyaku.description>
 
 
 </LanguageData>

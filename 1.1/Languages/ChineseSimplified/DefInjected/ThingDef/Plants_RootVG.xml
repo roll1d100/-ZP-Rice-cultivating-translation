@@ -3,23 +3,23 @@
 
   <!-- 根菜類 -->
 
-  <ZP_PrantJapaneseRadish.label>大根</ZP_PrantJapaneseRadish.label>
-  <ZP_PrantJapaneseRadish.description>ダイコン。生育期間が短くたくさん収穫できるが大きいので保存場所に困る。</ZP_PrantJapaneseRadish.description>
+  <ZP_PrantJapaneseRadish.label>萝卜</ZP_PrantJapaneseRadish.label>
+  <ZP_PrantJapaneseRadish.description>生长期短而且产量大的萝卜，唯一的缺点就是不便于贮存。</ZP_PrantJapaneseRadish.description>
 
-  <ZP_PrantTaro.label>里芋</ZP_PrantTaro.label>
-  <ZP_PrantTaro.description>サトイモ。生育期間は長いが収穫量も多い。煮物や汁物などの料理に使える。</ZP_PrantTaro.description>
+  <ZP_PrantTaro.label>芋</ZP_PrantTaro.label>
+  <ZP_PrantTaro.description>生长期长，产量大，淀粉含量很高。</ZP_PrantTaro.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PrantCarrot.label>人参</ZP_PrantCarrot.label>
-  <ZP_PrantCarrot.description>ニンジン。寒さに強い作物。カレーライスの具材にぴったり。</ZP_PrantCarrot.description>
+  <ZP_PrantCarrot.label>胡萝卜</ZP_PrantCarrot.label>
+  <ZP_PrantCarrot.description>胡萝卜。具有极高的耐寒性，适合作为咖喱饭的食材。</ZP_PrantCarrot.description>
 
-  <ZP_PrantTreeBamboo.label>竹</ZP_PrantTreeBamboo.label>
-  <ZP_PrantTreeBamboo.description>タケノコがとれる。食用に特化しているため竹はとれない。</ZP_PrantTreeBamboo.description>
+  <ZP_PrantTreeBamboo.label>笋竹</ZP_PrantTreeBamboo.label>
+  <ZP_PrantTreeBamboo.description>能够长出竹笋的植物。因为专门用于食用，所以不能采摘竹子。\n\n注：事实上并没有什么竹子是专门长笋的，作者只是制作这个东西来获得食材。</ZP_PrantTreeBamboo.description>
 
-  <ZP_PrantSweetPotato.label>薩摩芋</ZP_PrantSweetPotato.label>
-  <ZP_PrantSweetPotato.description>サツマイモ。江戸時代の食糧危機の救世主。痩せた土地でも育つので重宝する。</ZP_PrantSweetPotato.description>
+  <ZP_PrantSweetPotato.label>番薯</ZP_PrantSweetPotato.label>
+  <ZP_PrantSweetPotato.description>番薯。江户时代粮食危机的救世主。在贫瘠的土地上也能生长。</ZP_PrantSweetPotato.description>
 
 
 </LanguageData>

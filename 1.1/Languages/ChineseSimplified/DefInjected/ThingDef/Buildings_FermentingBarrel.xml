@@ -52,11 +52,11 @@
   <ZP_FermentingBarrelVinegar_Frame.label>酢樽 (building)</ZP_FermentingBarrelVinegar_Frame.label>
   <ZP_FermentingBarrelVinegar_Frame.description>【容量:75】\nもろみ(酢)を発酵させて酢にする。</ZP_FermentingBarrelVinegar_Frame.description>
 
-  <ZP_FermentingBarrelRiceBranPickled.label>漬物壺</ZP_FermentingBarrelRiceBranPickled.label>
+  <ZP_FermentingBarrelRiceBranPickled.label>酱菜缸</ZP_FermentingBarrelRiceBranPickled.label>
   <ZP_FermentingBarrelRiceBranPickled.description>【燃料:米ぬか 容量:50】\n野菜をぬか床に漬けることでぬか漬けにできる。</ZP_FermentingBarrelRiceBranPickled.description>
-  <ZP_FermentingBarrelRiceBranPickled_Blueprint.label>漬物壺 (blueprint)</ZP_FermentingBarrelRiceBranPickled_Blueprint.label>
-  <ZP_FermentingBarrelRiceBranPickled_Blueprint_Install.label>漬物壺 (blueprint)</ZP_FermentingBarrelRiceBranPickled_Blueprint_Install.label>
-  <ZP_FermentingBarrelRiceBranPickled_Frame.label>漬物壺 (building)</ZP_FermentingBarrelRiceBranPickled_Frame.label>
+  <ZP_FermentingBarrelRiceBranPickled_Blueprint.label>酱菜缸(蓝图)</ZP_FermentingBarrelRiceBranPickled_Blueprint.label>
+  <ZP_FermentingBarrelRiceBranPickled_Blueprint_Install.label>酱菜缸(蓝图)</ZP_FermentingBarrelRiceBranPickled_Blueprint_Install.label>
+  <ZP_FermentingBarrelRiceBranPickled_Frame.label>酱菜缸(建造中)</ZP_FermentingBarrelRiceBranPickled_Frame.label>
   <ZP_FermentingBarrelRiceBranPickled_Frame.description>【燃料:米ぬか 容量:50】\n野菜をぬか床に漬けることでぬか漬けにできる。</ZP_FermentingBarrelRiceBranPickled_Frame.description>
 
   <ZP_FermentingBarrelWaterJar.label>水瓶</ZP_FermentingBarrelWaterJar.label>

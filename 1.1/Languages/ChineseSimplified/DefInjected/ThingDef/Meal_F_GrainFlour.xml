@@ -3,11 +3,11 @@
 
   <!-- MealFine -->
 
-  <ZP_Udon.label>うどん</ZP_Udon.label>
-  <ZP_Udon.description>穀物粉を練って長く伸ばした白い麺。もちもちとした食感とツルっとしたのどこしが特徴の麺。</ZP_Udon.description>
+  <ZP_Udon.label>乌冬面</ZP_Udon.label>
+  <ZP_Udon.description>乌冬面（うどん，英文为udon，在日文汉字中写作“饂饨”），又被称作乌龙面，是一种以小麦为主要原料的谷物粉制作而成的、外观呈白色的东方面食，在粗细和长度方面有特别的要求。\n乌冬面是最具日本特色的面条之一，与荞麦面、绿茶面并称日本三大面条，是日式料理店不可或缺的主角。其口感介于切面和米粉之间，口感偏软，再配上精心调制的汤料，就成了一道可口的面食。其制法是将盐和水混入面粉中制作成的白色较粗（直径4毫米～6毫米）的面条，冬天可加入热汤、夏天则可放凉食用。</ZP_Udon.description>
 
-  <ZP_Okonomiyaki.label>お好み焼き</ZP_Okonomiyaki.label>
-  <ZP_Okonomiyaki.description>水に溶いた穀物粉を生地に野菜と肉を材料に鉄板で焼く日本の庶民的料理。</ZP_Okonomiyaki.description>
+  <ZP_Okonomiyaki.label>什锦煎饼</ZP_Okonomiyaki.label>
+  <ZP_Okonomiyaki.description>将谷物粉、新鲜蔬菜和肉一起在铁板上烤制而成的料理，在日本是几乎每家每户都会做的平民料理。</ZP_Okonomiyaki.description>
 
 
 </LanguageData>

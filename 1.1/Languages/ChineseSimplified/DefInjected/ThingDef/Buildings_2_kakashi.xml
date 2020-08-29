@@ -1,8 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPMOD_Kakashi.label>豊穣のカカシ</ZPMOD_Kakashi.label>
+  <ZPMOD_Kakashi.label>丰穣稻草人</ZPMOD_Kakashi.label>
   <ZPMOD_Kakashi.description>【燃料:おにぎり類,酒類,餅類,煎餅,おこし 効果:肥沃度30%up,範囲:9×9,効果重複】\n豊穣の神が宿っているかかし。周囲の作物の生長を促してくれる。お供え物がある間は効果は持続する、なくなると役目を果たして自壊する。\n注意!!→かかしの効果範囲の土壌をテラフォームした場合は再設置が必要です。水田と水耕栽培機,大型植木鉢は恩恵を受けれません。</ZPMOD_Kakashi.description>
+  <ZPMOD_Kakashi_Blueprint.label>丰穣稻草人 (蓝图)</ZPMOD_Kakashi_Blueprint.label>
+  <ZPMOD_Kakashi_Blueprint_Install.label>丰穣稻草人 (蓝图)</ZPMOD_Kakashi_Blueprint_Install.label>
+  <ZPMOD_Kakashi_Frame.label>丰穣稻草人 (建造中)</ZPMOD_Kakashi_Frame.label>
+  <ZPMOD_Kakashi_Frame.description>【燃料:おにぎり類,酒類,餅類,煎餅,おこし 効果:肥沃度30%up,範囲:9×9,効果重複】\n豊穣の神が宿っているかかし。周囲の作物の生長を促してくれる。お供え物がある間は効果は持続する、なくなると役目を果たして自壊する。\n注意!!→かかしの効果範囲の土壌をテラフォームした場合は再設置が必要です。水田と水耕栽培機,大型植木鉢は恩恵を受けれません。</ZPMOD_Kakashi_Frame.description>
 
 
 </LanguageData>

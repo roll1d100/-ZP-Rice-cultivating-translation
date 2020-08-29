@@ -3,17 +3,17 @@
 
   <!-- MealSimple -->
 
-  <ZP_RoastedMochi.label>焼き餅</ZP_RoastedMochi.label>
-  <ZP_RoastedMochi.description>シンプルに焼いただけの餅。</ZP_RoastedMochi.description>
+  <ZP_RoastedMochi.label>焙米饼</ZP_RoastedMochi.label>
+  <ZP_RoastedMochi.description>只是一个简单的焙米饼(日语的“饼”是年糕的意思)。</ZP_RoastedMochi.description>
 
-  <ZP_VinegarMochi.label>酢餅</ZP_VinegarMochi.label>
-  <ZP_VinegarMochi.description>大根おろしと酢をからませた餅。九州の郷土料理。</ZP_VinegarMochi.description>
+  <ZP_VinegarMochi.label>醋饼</ZP_VinegarMochi.label>
+  <ZP_VinegarMochi.description>用萝卜泥和醋焙制而成的特别的米饼(日语的“饼”是年糕的意思)。九州的乡土料理。</ZP_VinegarMochi.description>
 
-  <ZP_IsobeMochi.label>磯辺餅</ZP_IsobeMochi.label>
-  <ZP_IsobeMochi.description>焼いた餅に醤油をたらして海苔で巻いた餅。</ZP_IsobeMochi.description>
+  <ZP_IsobeMochi.label>矶辺饼</ZP_IsobeMochi.label>
+  <ZP_IsobeMochi.description>在焙米饼(日语的“饼”是年糕的意思)上包上酱油海苔卷制成的特别的米饼。</ZP_IsobeMochi.description>
 
-  <ZP_GoheiMochi.label>五平餅</ZP_GoheiMochi.label>
-  <ZP_GoheiMochi.description>餅を板に付け火であぶり、味噌を塗ったもの。</ZP_GoheiMochi.description>
+  <ZP_GoheiMochi.label>五平饼</ZP_GoheiMochi.label>
+  <ZP_GoheiMochi.description>五平饼(日语的“饼”是年糕的意思)是木曾地区与伊那地区的地方料理，是一种米饭串烧，属于以长野县为中心的中部地区南部山间传统的乡土料理，因为是纯自家制造而颇有人气。由于外形极似神道上奉献给神明用的“御币”，因此得名五平（Gohei）饼。日语的饼虽然叫做“年糕”，但却不是用糯米做的，是将粳米饭粒压扁，用签子串起来，蘸上佐料汁烤出香味的食品。据说这种食物在过去每年春天和秋天都会供奉于神前，祈祷丰收以及感谢收获。</ZP_GoheiMochi.description>
 
 
 </LanguageData>

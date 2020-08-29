@@ -3,23 +3,48 @@
 
   <!-- ベッド -->
 
-  <StrawBed.label>寝藁</StrawBed.label>
-  <StrawBed.description>寝心地は最悪だが無いよりマシな寝床。藁の塊なのでキャラバンに持っていける。</StrawBed.description>
+  <StrawBed.label>稻草床</StrawBed.label>
+  <StrawBed.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</StrawBed.description>
+  <StrawBed_Blueprint.label>稻草床 (蓝图)</StrawBed_Blueprint.label>
+  <StrawBed_Blueprint_Install.label>稻草床 (蓝图)</StrawBed_Blueprint_Install.label>
+  <StrawBed_Frame.label>稻草床 (建造中)</StrawBed_Frame.label>
+  <StrawBed_Frame.description>可以稍微将就着睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</StrawBed_Frame.description>
 
-  <DoubleStrawBed.label>2人用寝藁</DoubleStrawBed.label>
-  <DoubleStrawBed.description>寝心地は最悪だが無いよりマシな寝床。藁の塊なのでキャラバンに持っていける。</DoubleStrawBed.description>
+  <DoubleStrawBed.label>稻草床（大）</DoubleStrawBed.label>
+  <DoubleStrawBed.description>可以稍微将就着让二人睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed.description>
+  <DoubleStrawBed_Blueprint.label>稻草床（大）(蓝图)</DoubleStrawBed_Blueprint.label>
+  <DoubleStrawBed_Blueprint_Install.label>稻草床（大）(蓝图)</DoubleStrawBed_Blueprint_Install.label>
+  <DoubleStrawBed_Frame.label>稻草床（大）(建造中)</DoubleStrawBed_Frame.label>
+  <DoubleStrawBed_Frame.description>可以稍微将就着让二人睡下、但对你的背部来说不是那么友好的床，而且也稍微有些不卫生。 【不可出售】</DoubleStrawBed_Frame.description>
 
-  <ZP_SuperiorStrawBed.label>藁編みベッド</ZP_SuperiorStrawBed.label>
-  <ZP_SuperiorStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</ZP_SuperiorStrawBed.description>
+  <ZP_SuperiorStrawBed.label>稻草编织床</ZP_SuperiorStrawBed.label>
+  <ZP_SuperiorStrawBed.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</ZP_SuperiorStrawBed.description>
+  <ZP_SuperiorStrawBed_Blueprint.label>稻草编织床 (蓝图)</ZP_SuperiorStrawBed_Blueprint.label>
+  <ZP_SuperiorStrawBed_Blueprint_Install.label>稻草编织床 (蓝图)</ZP_SuperiorStrawBed_Blueprint_Install.label>
+  <ZP_SuperiorStrawBed_Frame.label>稻草编织床 (建造中)</ZP_SuperiorStrawBed_Frame.label>
+  <ZP_SuperiorStrawBed_Frame.description>用处理过的稻草编织成的简单的床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</ZP_SuperiorStrawBed_Frame.description>
 
-  <ZP_SuperiorDoubleStrawBed.label>2人用藁編みベッド</ZP_SuperiorDoubleStrawBed.label>
-  <ZP_SuperiorDoubleStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</ZP_SuperiorDoubleStrawBed.description>
+  <ZP_SuperiorDoubleStrawBed.label>稻草编织床（大）</ZP_SuperiorDoubleStrawBed.label>
+  <ZP_SuperiorDoubleStrawBed.description>用处理过的稻草编织成的简单的双人床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</ZP_SuperiorDoubleStrawBed.description>
+  <ZP_SuperiorDoubleStrawBed_Blueprint.label>稻草编织床（大）(蓝图)</ZP_SuperiorDoubleStrawBed_Blueprint.label>
+  <ZP_SuperiorDoubleStrawBed_Blueprint_Install.label>稻草编织床（大）(蓝图)</ZP_SuperiorDoubleStrawBed_Blueprint_Install.label>
+  <ZP_SuperiorDoubleStrawBed_Frame.label>稻草编织床（大）(建造中)</ZP_SuperiorDoubleStrawBed_Frame.label>
+  <ZP_SuperiorDoubleStrawBed_Frame.description>用处理过的稻草编织成的简单的双人床铺，相对于只是把稻草铺在地上要好上一点。\n虽然在品质方面还是比普通的床要低上一些，不过也总比没有强，对吧？</ZP_SuperiorDoubleStrawBed_Frame.description>
 
-  <ZP_Ofuton.label>お布団</ZP_Ofuton.label>
-  <ZP_Ofuton.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
+  <ZP_Ofuton.label>布团</ZP_Ofuton.label>
+  <ZP_Ofuton.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_Ofuton.description>
+  <ZP_Ofuton_Blueprint.label>布团 (蓝图)</ZP_Ofuton_Blueprint.label>
+  <ZP_Ofuton_Blueprint_Install.label>布团 (蓝图))</ZP_Ofuton_Blueprint_Install.label>
+  <ZP_Ofuton_Frame.label>布团 (建造中)</ZP_Ofuton_Frame.label>
+  <ZP_Ofuton_Frame.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_Ofuton_Frame.description>
 
-  <ZP_DoubleOfuton.label>2人用お布団</ZP_DoubleOfuton.label>
-  <ZP_DoubleOfuton.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton.label>家庭用布团</ZP_DoubleOfuton.label>
+  <ZP_DoubleOfuton.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton_Blueprint.label>布团（大） (蓝图)</ZP_DoubleOfuton_Blueprint.label>
+  <ZP_DoubleOfuton_Blueprint_Install.label>布团（大） (蓝图)</ZP_DoubleOfuton_Blueprint_Install.label>
+  <ZP_DoubleOfuton_Frame.label>家庭用布团 (建造中)</ZP_DoubleOfuton_Frame.label>
+  <ZP_DoubleOfuton_Frame.description>在日本几乎每个家庭里都可以见到的、一种在用织物编成的口袋中填入棉花或是羽毛等柔软的材料缝制而成的传统寝具。\n一套完整的布团（お布団，Futon）由一张垫子(敷き布団 shikibuton，意思是"用以摊开的布团")和一张羽绒被(掛け布団 kakebuton，意思是“用来盖的布团”)组成，在不需要用的时候这两个部份都可以很方便地折叠在一起进行贮存，使房间可以起到作为卧室以外的其它用途。\n通常情况下布团还是铺在榻榻米上使用会比较好，因为榻榻米比大多数坚硬的地板类型（例如木材或石质）要柔软一些，不至于让睡在上面的人腰酸背痛。</ZP_DoubleOfuton_Frame.description>
+
 
 
 </LanguageData>

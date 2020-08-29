@@ -3,8 +3,8 @@
 
   <!-- add 1.1 -->
 
-  <ASU_BreakfastBreadSet.label>朝食ぱんセット</ASU_BreakfastBreadSet.label>
-  <ASU_BreakfastBreadSet.description>コッペぱん,牛乳,ミカンがセットになった朝ごはん。</ASU_BreakfastBreadSet.description>
+	<ASU_BreakfastBreadSet.label>早餐套餐</ASU_BreakfastBreadSet.label>
+	<ASU_BreakfastBreadSet.description>烤面包，牛奶，橘子搭配成的早餐。\n\n注："コッペぱん"koppepan日式英语，是一种面包。纺锤形，底是平的。非常普通，有夹心的也有不夹心的。类似美式热狗外面的面包完整的样子。</ASU_BreakfastBreadSet.description>
 
 
 </LanguageData>

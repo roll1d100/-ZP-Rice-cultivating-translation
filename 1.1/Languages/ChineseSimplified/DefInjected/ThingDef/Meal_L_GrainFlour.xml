@@ -3,8 +3,8 @@
 
   <!-- MealLavish -->
 
-  <ZP_Ramen.label>ラーメン</ZP_Ramen.label>
-  <ZP_Ramen.description>穀物粉を練って長く伸ばした細い黄色い麺。中華スープに様々な具材を食みあわせた麺料理。</ZP_Ramen.description>
+  <ZP_Ramen.label>拉面</ZP_Ramen.label>
+  <ZP_Ramen.description>拉面（ラーメン，英文为Ramen），是一种以小麦为主要原料的谷物粉制作而成的、外观呈金黄色的东方面食，通常由拉面师手工拉制而成，因此每一份拉面都相当重视拉面职人的技术体现和中华汤底的熬制水平呢。</ZP_Ramen.description>
 
 
 </LanguageData>

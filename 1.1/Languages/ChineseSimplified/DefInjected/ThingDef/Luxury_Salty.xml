@@ -3,20 +3,20 @@
 
   <!-- 塩味 -->
 
-  <ZP_RiceCracker.label>煎餅</ZP_RiceCracker.label>
-  <ZP_RiceCracker.description>【特産品】とても歯ごたえのあるお菓子。醤油、味噌等で好きな味付けを楽しもう。</ZP_RiceCracker.description>
+  <ZP_RiceCracker.label>仙贝</ZP_RiceCracker.label>
+  <ZP_RiceCracker.description>一种日本米果，有着各种不同的形状、大小和口味，不过通常都是淡咸味的，可以根据自己的爱好添加酱油或味噌。\n“仙贝”实际上在日语中是“煎餅”的意思，不过与中国的"煎饼"不同，日本的“仙贝”通常指的是小块的、脆脆的点心，而不是大块的面饼。仙贝常常与茶搭配作为休闲小吃，也被提供给到访的客人作为招待的茶点。\n值得一提的是，“仙贝（senbei）”和“前辈（senpai）”的读音很像因此需要多加注意、因为前辈是不可以切成小块烤来吃的哟。</ZP_RiceCracker.description>
 
-  <ZP_BoiledEdamame.label>塩茹で枝豆</ZP_BoiledEdamame.label>
-  <ZP_BoiledEdamame.description>枝豆を塩茹でした日本の定番おつまみ。暑い日に冷えたビールのお供にすることが多い。</ZP_BoiledEdamame.description>
+  <ZP_BoiledEdamame.label>枝豆盐茹</ZP_BoiledEdamame.label>
+  <ZP_BoiledEdamame.description>将枝豆煮过以后抹上盐。虽然听起来是很简单的料理但实际上却也是大受欢迎的美味前菜呢，在炎热的夏天用来下酒再合适不过了。</ZP_BoiledEdamame.description>
 
-  <ZP_Yakitori.label>焼き鳥</ZP_Yakitori.label>
-  <ZP_Yakitori.description>肉を一口大に切った後に串に刺して焼いた日本の定番おつまみ。味は塩かタレを選べます。</ZP_Yakitori.description>
+  <ZP_Yakitori.label>烧鸟</ZP_Yakitori.label>
+  <ZP_Yakitori.description>一种大块肉串烧，在日本的居酒屋是常见的下酒菜。\n「焼き鳥」实际上就是“烤鸡肉”的意思呢，因为在日语中“鳥”和“鷄”的发音是一样的。不过因为现在所说的「焼き鳥」的含义比较广泛，泛指不用锅、铁板等烹具，用炭火直接烤制的串类日式料理，因此明确写作「焼き鷄」的话就不是很妥当了呢。</ZP_Yakitori.description>
 
   <ZP_Hiyayakko.label>冷奴</ZP_Hiyayakko.label>
-  <ZP_Hiyayakko.description>豆腐に薬味をのせ醤油をかけたシンプルな料理。酒の肴やおかずに1品足したい時に便利。</ZP_Hiyayakko.description>
+  <ZP_Hiyayakko.description>一块鲜嫩的豆腐、加上配菜和酱油就可以制成这种简单却有着别具一格的风味的料理啦。\n在炎热的夏天用来下酒再合适不过了呢。</ZP_Hiyayakko.description>
 
-  <ZP_Misotanpo.label>みそたんぽ</ZP_Misotanpo.label>
-  <ZP_Misotanpo.description>焼いたたんぽに味噌をつけたもの。秋田県の郷土料理。</ZP_Misotanpo.description>
+  <ZP_Misotanpo.label>味噌蒲英</ZP_Misotanpo.label>
+  <ZP_Misotanpo.description>日本秋田県的乡土料理，是一种将米捣碎后卷在竹签或细木棒上、抹上酱料烤制而成的食品。如果将米卷取下来的话，就称作“切蒲英（きりたんぽ）”。</ZP_Misotanpo.description>
 
 
 </LanguageData>

@@ -3,8 +3,8 @@
 
   <!-- 魚類 -->
 
-  <ZP_AquacultureFish.label>養殖魚</ZP_AquacultureFish.label>
-  <ZP_AquacultureFish.description>生育期間は非常に長いが栄養価の高い魚を収穫することができる。</ZP_AquacultureFish.description>
+  <ZP_AquacultureFish.label>养殖鱼</ZP_AquacultureFish.label>
+  <ZP_AquacultureFish.description>一些可食用鱼类，只要定时喂养、等待它们长成就好啦。</ZP_AquacultureFish.description>
 
 
 </LanguageData>

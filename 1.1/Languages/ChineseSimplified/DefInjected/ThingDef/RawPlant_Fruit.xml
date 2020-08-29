@@ -9,17 +9,17 @@
   <RawBerries.label>berries</RawBerries.label>
   <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
 
-  <ZP_RawMandarinOrange.label>みかん</ZP_RawMandarinOrange.label>
-  <ZP_RawMandarinOrange.description>甘酸っぱくて美味しいミカン。</ZP_RawMandarinOrange.description>
+  <ZP_RawMandarinOrange.label>橘子</ZP_RawMandarinOrange.label>
+  <ZP_RawMandarinOrange.description>酸酸甜甜美味可口的橘子。</ZP_RawMandarinOrange.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_RawPlum.label>梅</ZP_RawPlum.label>
-  <ZP_RawPlum.description>生のウメ。生の梅はそのまま食べても美味しくない。</ZP_RawPlum.description>
+  <ZP_RawPlum.label>梅果</ZP_RawPlum.label>
+  <ZP_RawPlum.description>生梅果。生吃味道很差。</ZP_RawPlum.description>
 
-  <ZP_RawPersimmon.label>柿</ZP_RawPersimmon.label>
-  <ZP_RawPersimmon.description>生の柿。栄養価が高く生で食べても美味しい。</ZP_RawPersimmon.description>
+  <ZP_RawPersimmon.label>柿子</ZP_RawPersimmon.label>
+  <ZP_RawPersimmon.description>生柿子。营养价值很高，就算生吃味道也很好。</ZP_RawPersimmon.description>
 
 
 </LanguageData>

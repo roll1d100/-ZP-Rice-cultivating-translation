@@ -3,35 +3,35 @@
 
   <!-- 甘味 -->
 
-  <ZP_PuffedRice.label>ポン菓子</ZP_PuffedRice.label>
-  <ZP_PuffedRice.description>【特産品】米に圧力をかけた後に一気に開放することによって膨らませた、サクサクした食感の駄菓子です。</ZP_PuffedRice.description>
+  <ZP_PuffedRice.label>爆米花</ZP_PuffedRice.label>
+  <ZP_PuffedRice.description>在密封容器内不断施用高压然后一下子打开，容器内的大米就会膨化成这种口感松脆的甜点。</ZP_PuffedRice.description>
 
-  <ZP_Okoshi.label>おこし</ZP_Okoshi.label>
-  <ZP_Okoshi.description>【特産品】米を熱して干した後に米飴で固めた和菓子。戦国時代は「身を起こし 家を起こし 国を起こす」縁起の良いお菓子として広く人々に親しまれていた。</ZP_Okoshi.description>
+  <ZP_Okoshi.label>粔籹</ZP_Okoshi.label>
+  <ZP_Okoshi.description>将米烤熟后用米糖固定成型制成的点心。其日文名おこし(okoshi)在日文里有着「身を起こし 家を起こし 国を起こす」（修身治国平天下）之美意，因此广受喜爱。\n起源于平安时代，是由遣唐使从唐朝的中国带回的点心之一，命名为“粔籹（きょじゅ）”。由于制作工艺并不算复杂，只要可以筹集到足够的粮食和糖稀的话，平民也能制造出来，所以在江户时代粔籹作为白点心和零食在全日本传播开来。在中国华南地区也有类似的点心，主要原料也是米，称为“米通（ミートン）”。</ZP_Okoshi.description>
 
-  <ZP_Kasutera.label>ベビーカステラ</ZP_Kasutera.label>
-  <ZP_Kasutera.description>【特産品】縁日の定番お菓子。素朴なカステラのような味で、何個も口に入れてしまうほど美味しい。</ZP_Kasutera.description>
+  <ZP_Kasutera.label>迷你蛋糕</ZP_Kasutera.label>
+  <ZP_Kasutera.description>在各种祭典上经常可以见到，有着浓浓的奶香和鸡蛋的香味，是无论吃多少都不会腻的、很朴素却又很美味的小蛋糕。中国的香港和台湾等地区也有类似制法的名为“鸡蛋仔”的点心。</ZP_Kasutera.description>
 
   <ZP_Kompeito.label>金平糖</ZP_Kompeito.label>
-  <ZP_Kompeito.description>【特産品】戦国時代にポルトガルから日本に伝来したお菓子。カラフルな見た目と優しい甘さが入植者を癒してくれる。</ZP_Kompeito.description>
+  <ZP_Kompeito.description>战国时代时自葡萄牙传入的糖果。多彩的外表，温柔的甜味，非常治愈。</ZP_Kompeito.description>
 
-  <ZP_CottonCandy.label>わたあめ</ZP_CottonCandy.label>
-  <ZP_CottonCandy.description>縁日の定番お菓子。ふわふわした食感と甘さを楽しむ事ができる。\n時間が経つと萎んで固くなってしまうのではやめに食べよう。</ZP_CottonCandy.description>
+  <ZP_CottonCandy.label>棉花糖</ZP_CottonCandy.label>
+  <ZP_CottonCandy.description>在各种祭典上很常见的糖果，因为缠绕在细木棒上的糖丝和棉花很像因而得名。其蓬松的外表、松软的口感和甜甜的味道，尤其受到女性和孩子们的欢迎。\n但是如果放置时间过长的话，棉花糖就会融化、塌陷，不再适合食用。</ZP_CottonCandy.description>
 
-  <ZP_ThreeColoredDumplings.label>三色団子</ZP_ThreeColoredDumplings.label>
-  <ZP_ThreeColoredDumplings.description>ほんのり甘い団子。諸説あるが赤は桜の象徴である春を、白は雪の象徴である冬を、緑は新緑の象徴である夏をあらわしてる。\n秋が無いのは飽きないと商いをかけて、いくら食べても飽きないので商売が繁盛するという洒落からきてる。</ZP_ThreeColoredDumplings.description>
+  <ZP_ThreeColoredDumplings.label>三色团子</ZP_ThreeColoredDumplings.label>
+  <ZP_ThreeColoredDumplings.description>有各种说法，红色是樱花，象征着春天；白色的是雪，象征冬天；绿色是夏天，是新绿的象征。\n没有秋天的腻烦，因为做生意嘛，当然是希望客人无论来多少也不会腻的，是生意兴隆的诙谐表达呢。</ZP_ThreeColoredDumplings.description>
 
-  <ZP_ZundaMochi.label>ずんだ餅</ZP_ZundaMochi.label>
-  <ZP_ZundaMochi.description>すり潰した枝豆をからませた甘いお餅。東北の郷土料理。\nずん!!ずん!!ずんだ!!とある国の少女はずんだ餅を愛するがゆえに狂人となった逸話がある。</ZP_ZundaMochi.description>
+  <ZP_ZundaMochi.label>枝豆麻糬</ZP_ZundaMochi.label>
+  <ZP_ZundaMochi.description>一种用捣碎的枝豆包裹焙米饼制成的糕点，颜色碧绿，使人还未入口便先开胃。日本东北的乡土料理。\n\n"枝豆！！枝豆！！是枝豆泥！！"有一个国家的少女对枝豆麻糬有着特别的喜爱，以至于都到了近乎疯狂的地步了。</ZP_ZundaMochi.description>
 
-  <ASU_Dorayaki.label>どら焼き</ASU_Dorayaki.label>
-  <ASU_Dorayaki.description>【特産品】カステラ風の生地に小豆餡を挟み込んだ和菓子。</ASU_Dorayaki.description>
+  <ASU_Dorayaki.label>铜锣烧</ASU_Dorayaki.label>
+  <ASU_Dorayaki.description>在有着西式蛋糕风格的面饼夹层里加入豆沙馅的日式点心，也是某个机器猫的最爱。</ASU_Dorayaki.description>
 
 
   <!-- add 1.1 -->
 
-  <ASU_Pancake.label>ホットケーキ</ASU_Pancake.label>
-  <ASU_Pancake.description>小麦粉に牛乳,砂糖を混ぜて円盤状に焼いたケーキ。</ASU_Pancake.description>
+  <ASU_Pancake.label>烤蛋糕</ASU_Pancake.label>
+  <ASU_Pancake.description>在面粉里加入牛奶、砂糖，做成圆盘状烘烤成的蛋糕。</ASU_Pancake.description>
 
 
 </LanguageData>
