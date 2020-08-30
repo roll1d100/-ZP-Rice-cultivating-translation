@@ -3,8 +3,8 @@
 
   <!-- 豆・菌類 -->
 
-  <RawFungus.label>raw fungus</RawFungus.label>
-  <RawFungus.description>Raw fungus.</RawFungus.description>
+  <RawFungus.label>生真菌</RawFungus.label>
+  <RawFungus.description>生真菌，取自各种菌类的可食用部分，含有较高的蛋白质，可以代替肉类。</RawFungus.description>
 
   <ZP_SoyBeen.label>大豆</ZP_SoyBeen.label>
   <ZP_SoyBeen.description>通称黄豆，一种营养价值很高、堪比肉类的豆类植物。\n除了可以在烹饪中起到肉类的作用以外，也是味噌和酱油的原料呢。</ZP_SoyBeen.description>
@@ -12,8 +12,8 @@
   <ZP_RawEdamame.label>枝豆</ZP_RawEdamame.label>
   <ZP_RawEdamame.description>即枝豆。就是新鲜连荚的嫩黄豆啦。\n基本的效果跟大豆差不多，只不过营养价值会稍微低一些。</ZP_RawEdamame.description>
 
-  <WA_Azuki.label>Azuki</WA_Azuki.label>
-  <WA_Azuki.description>Raw Red beens.The seeds are used for sweet beans, sweets, candies, red rice and the like.</WA_Azuki.description>
+  <WA_Azuki.label>红豆</WA_Azuki.label>
+  <WA_Azuki.description>生红豆，种子可以拿来做甜品。</WA_Azuki.description>
 
 
 </LanguageData>
