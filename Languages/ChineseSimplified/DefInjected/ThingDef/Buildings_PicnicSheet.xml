@@ -4,10 +4,10 @@
   <!-- All add 1.1 -->
 
   <ZP_PicnicSheet.label>休闲布(和式1)</ZP_PicnicSheet.label>
-  <ZP_PicnicSheet.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet.description>
+  <ZP_PicnicSheet.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet.description>
   <ZP_PicnicSheet_Blueprint.label>休闲布(和式1) (blueprint)</ZP_PicnicSheet_Blueprint.label>
   <ZP_PicnicSheet_Frame.label>休闲布(和式1) (building)</ZP_PicnicSheet_Frame.label>
-  <ZP_PicnicSheet_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet_Frame.description>
+  <ZP_PicnicSheet_Frame.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet_Frame.description>
 
   <ZP_PicnicSheet2nd.label>休闲布(和式2)</ZP_PicnicSheet2nd.label>
   <ZP_PicnicSheet2nd.description>在外面吃的时候可以代替桌子的休闲座位。虽然不能拆除，但是材料基本上都会返还。</ZP_PicnicSheet2nd.description>
