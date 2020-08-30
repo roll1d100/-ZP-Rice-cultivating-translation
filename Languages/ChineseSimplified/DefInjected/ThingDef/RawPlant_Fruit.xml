@@ -3,11 +3,11 @@
 
   <!-- 果物類 -->
 
-  <RawAgave.label>agave fruit</RawAgave.label>
-  <RawAgave.description>Raw agave fruit.</RawAgave.description>
+  <RawAgave.label>龙舌兰果</RawAgave.label>
+  <RawAgave.description>生龙舌兰果</RawAgave.description>
 
-  <RawBerries.label>berries</RawBerries.label>
-  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+  <RawBerries.label>莓果</RawBerries.label>
+  <RawBerries.description>生莓果，即使是生吃味道也不错。</RawBerries.description>
 
   <ZP_RawMandarinOrange.label>橘子</ZP_RawMandarinOrange.label>
   <ZP_RawMandarinOrange.description>酸酸甜甜美味可口的橘子。</ZP_RawMandarinOrange.description>
