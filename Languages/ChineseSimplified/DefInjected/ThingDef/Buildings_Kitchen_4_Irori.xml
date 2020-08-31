@@ -1,12 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Irori.label>围炉里</ZP_Irori.label>
-  <ZP_Irori.description>【燃料:薪,藁,モミガライト,炭】\n日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZP_Irori.description>
-  <ZP_Irori_Blueprint.label>围炉里 (蓝图)</ZP_Irori_Blueprint.label>
-  <ZP_Irori_Blueprint_Install.label>围炉里 (蓝图)</ZP_Irori_Blueprint_Install.label>
-  <ZP_Irori_Frame.label>围炉里 (建造中)</ZP_Irori_Frame.label>
-  <ZP_Irori_Frame.description>【燃料:薪,藁,モミガライト,炭】\n日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZP_Irori_Frame.description>
+  <ZP_Irori.label>地炉</ZP_Irori.label>
+  <ZP_Irori.description>是日本房屋中的一种炉。主要的目的是取暖和烹饪，同时也是人们聚餐的地方，能够使人放松。【燃料:柴火,秸秆,谷壳,炭】\n\n注：围炉里又叫地炉，主要是日本农家使用的烹饪器具及暖房器具。具体样式就是将客厅的地板下挖一个四角型空间，铺上灰，再放上柴或炭，以便生火。围炉里一般都在房间的中央处，晚餐时大家可以围着地炉，享受家族团聚的时光。</ZP_Irori.description>
 
 
 </LanguageData>

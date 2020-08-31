@@ -24,8 +24,8 @@
 
   <!-- add 1.1 -->
 
-  <ZP_SoupStock.label>出汁</ZP_SoupStock.label>
-  <ZP_SoupStock.description>肉や野菜から作った出汁。</ZP_SoupStock.description>
+  <ZP_SoupStock.label>高汤</ZP_SoupStock.label>
+  <ZP_SoupStock.description>用肉与野菜烹饪出的高汤。</ZP_SoupStock.description>
 
 
 </LanguageData>

@@ -11,17 +11,10 @@
 
   <!-- add 1.1 -->
 
-  <ZP_IcePillar.label>氷柱</ZP_IcePillar.label>
-  <ZP_IcePillar.description>【燃料:氷,最低気温:-3℃,容量:150】\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。向きを回転すると氷柱の種類を変えられる。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IcePillar.description>
-  <ZP_IcePillar_Blueprint.label>氷柱 (blueprint)</ZP_IcePillar_Blueprint.label>
-  <ZP_IcePillar_Frame.label>氷柱 (building)</ZP_IcePillar_Frame.label>
-  <ZP_IcePillar_Frame.description>【燃料:氷,最低気温:-3℃,容量:150】\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。向きを回転すると氷柱の種類を変えられる。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IcePillar_Frame.description>
+  <ZP_IcePillar.label>冰柱</ZP_IcePillar.label>
+  <ZP_IcePillar.description>通过巨大的冰块吸热来降低食物温度，在夏季用于防腐非常方便。转动方向可以改变冰的种类。当冰用完后消失。在严寒时采出的大量冰块在专用的冰窖里进行彻底的温度管理，便可以长期使用。【燃料:冰,最低温:-3℃,容量:150】</ZP_IcePillar.description>
 
-  <ZP_IceSculpture.label>マファッローの氷像</ZP_IceSculpture.label>
-  <ZP_IceSculpture.description>【燃料:氷,最低気温:-3℃,容量:300】\nマッファローの氷像。\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IceSculpture.description>
-  <ZP_IceSculpture_Blueprint.label>マファッローの氷像 (blueprint)</ZP_IceSculpture_Blueprint.label>
-  <ZP_IceSculpture_Frame.label>マファッローの氷像 (building)</ZP_IceSculpture_Frame.label>
-  <ZP_IceSculpture_Frame.description>【燃料:氷,最低気温:-3℃,容量:300】\nマッファローの氷像。\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IceSculpture_Frame.description>
-
+  <ZP_IceSculpture.label>马法罗的冰像</ZP_IceSculpture.label>
+  <ZP_IceSculpture.description>通过巨大的冰块吸热来降低食物温度，在夏季用于防腐非常方便。转动方向可以改变冰的种类。当冰用完后消失。在严寒时采出的大量冰块在专用的冰窖里进行彻底的温度管理，便可以长期使用。【燃料:冰,最低温:-3℃,容量:300】</ZP_IceSculpture.description>
 
 </LanguageData>

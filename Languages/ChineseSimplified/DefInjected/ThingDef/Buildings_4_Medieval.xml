@@ -8,8 +8,8 @@
   <ZP_ThreshingMachine_Frame.label>脱粒机(建造中)</ZP_ThreshingMachine_Frame.label>
   <ZP_ThreshingMachine_Frame.description>【作用：脱粒】 \n用以将稻穗加工分离出籾米的农用机械。毕竟以人力来做这件事可不是什么好主意。</ZP_ThreshingMachine_Frame.description>
 
-  <ZP_RiceStoneSlurry.label>籾摺り臼</ZP_RiceStoneSlurry.label>
-  <ZP_RiceStoneSlurry.description>【役割：籾摺り・精米】\n脱稃精米するための臼。人力でやるため効率は悪い。</ZP_RiceStoneSlurry.description>
+  <ZP_RiceStoneSlurry.label>稻谷臼</ZP_RiceStoneSlurry.label>
+  <ZP_RiceStoneSlurry.description>【作用：脱粒，精米】\n脱粒精米用的臼。由于使用人力所以效率低下。</ZP_RiceStoneSlurry.description>
   <ZP_RiceStoneSlurry_Blueprint.label>籾摺り臼 (blueprint)</ZP_RiceStoneSlurry_Blueprint.label>
   <ZP_RiceStoneSlurry_Blueprint_Install.label>籾摺り臼 (blueprint)</ZP_RiceStoneSlurry_Blueprint_Install.label>
   <ZP_RiceStoneSlurry_Frame.label>籾摺り臼 (building)</ZP_RiceStoneSlurry_Frame.label>

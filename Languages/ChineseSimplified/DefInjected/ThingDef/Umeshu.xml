@@ -4,9 +4,9 @@
   <!-- All add 1.1 -->
 
   <ZP_Umeshu.label>梅酒</ZP_Umeshu.label>
-  <ZP_Umeshu.description>梅を吟醸酒に漬け込んで作る果実酒の一種。</ZP_Umeshu.description>
-  <ZP_Umeshu.ingestible.ingestCommandString>Drink {0}</ZP_Umeshu.ingestible.ingestCommandString>
-  <ZP_Umeshu.ingestible.ingestReportString>Drinking {0}.</ZP_Umeshu.ingestible.ingestReportString>
+  <ZP_Umeshu.description>一种将莓果泡在酒中制成的果酒。</ZP_Umeshu.description>
+  <ZP_Umeshu.ingestible.ingestCommandString>喝{0}</ZP_Umeshu.ingestible.ingestCommandString>
+  <ZP_Umeshu.ingestible.ingestReportString>正在饮用{0}。</ZP_Umeshu.ingestible.ingestReportString>
 
 
 </LanguageData>

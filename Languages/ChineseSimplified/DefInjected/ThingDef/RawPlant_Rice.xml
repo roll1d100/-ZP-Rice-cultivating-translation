@@ -3,9 +3,6 @@
 
   <!-- 米類 -->
 
-  <RawRice.label>rice</RawRice.label>
-  <RawRice.description>Raw rice.</RawRice.description>
-
   <ZP_RawBrownRice.label>糙米</ZP_RawBrownRice.label>
   <ZP_RawBrownRice.description>除去稻壳的糙米，营养价值比较高，而且可以吃了。</ZP_RawBrownRice.description>
 

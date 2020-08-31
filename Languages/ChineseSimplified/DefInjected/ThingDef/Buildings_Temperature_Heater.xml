@@ -1,12 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Brazier.label>火缽</ZP_Brazier.label>
-  <ZP_Brazier.description>【燃料:薪,藁,モミガライト,炭 最高気温:28℃ 容量:120】\n日本の伝統的な暖房器具。火鉢を囲んでみんなで団欒できる。</ZP_Brazier.description>
-  <ZP_Brazier_Blueprint.label>火钵 (蓝图)</ZP_Brazier_Blueprint.label>
-  <ZP_Brazier_Blueprint_Install.label>火钵 (蓝图)</ZP_Brazier_Blueprint_Install.label>
-  <ZP_Brazier_Frame.label>火钵 (建造中)</ZP_Brazier_Frame.label>
-  <ZP_Brazier_Frame.description>【燃料:薪,藁,モミガライト,炭 最高気温:28℃ 容量:120】\n日本の伝統的な暖房器具。火鉢を囲んでみんなで団欒できる。</ZP_Brazier_Frame.description>
+  <ZP_Brazier.label>火钵</ZP_Brazier.label>
+  <ZP_Brazier.description>日本传统的取暖设备，人们可以聚集在火炉旁【燃料:柴火,秸秆,谷壳,炭 最高温:28℃ 容量:120】</ZP_Brazier.description>
 
   <ZP_Kotatu.label>被炉</ZP_Kotatu.label>
   <ZP_Kotatu.description>一种具有日本特色的传统取暖器具。一张特制的正方形矮桌、上面铺上一张棉被、桌下安置一盆炭火，就可以用来取暖了。\n“炬燵（こたつ）”在中文里也被叫作“暖桌”或“被炉”，旧式的炬燵桌下有个约数十公分深的坑可以用于安置炭火，因此取暖的时候并不需要盘膝而坐，可以将下半身、甚至于全身都伸进桌下取暖。炬燵最早出现于日本的室町时代，据说起源自中国佛教僧侣带入日本的「行火」。通常在日本和中国南方一些地区的家庭都有将炬燵放在客厅里的电视机前的习惯，这样可以在冬天的时候一边取暖、一边看电视、吃饭或聊天。</ZP_Kotatu.description>

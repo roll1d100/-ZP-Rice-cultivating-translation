@@ -2,11 +2,6 @@
 <LanguageData>
 
   <ZP_Messtin.label>饭盒</ZP_Messtin.label>
-  <ZP_Messtin.description>【燃料:薪,木材,藁,モミガライト,炭】\nご飯を炊いたり簡単な料理をするのに使われる。\n最低限の設備しかないため調理速度が30%低下する。</ZP_Messtin.description>
-  <ZP_Messtin_Blueprint.label>饭盒 (蓝图)</ZP_Messtin_Blueprint.label>
-  <ZP_Messtin_Blueprint_Install.label>饭盒 (蓝图)</ZP_Messtin_Blueprint_Install.label>
-  <ZP_Messtin_Frame.label>煮饭器 (蓝图)</ZP_Messtin_Frame.label>
-  <ZP_Messtin_Frame.description>【燃料:薪,木材,藁,モミガライト,炭】\nご飯を炊いたり簡単な料理をするのに使われる。\n最低限の設備しかないため調理速度が30%低下する。</ZP_Messtin_Frame.description>
-
+  <ZP_Messtin.description>用于煮饭和烹饪简单的菜肴的饭盒。由于只有最低等级的设备，烹饪速度降低30%。【燃料：柴火，木材，秸秆，谷壳，炭】</ZP_Messtin.description>
 
 </LanguageData>

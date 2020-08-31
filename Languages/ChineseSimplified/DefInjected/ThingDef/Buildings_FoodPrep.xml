@@ -4,25 +4,15 @@
   <!-- add 1.1 -->
 
   <StoneMill.label>石臼</StoneMill.label>
-  <StoneMill.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</StoneMill.description>
-  <StoneMill_Blueprint.label>石臼 (blueprint)</StoneMill_Blueprint.label>
-  <StoneMill_Blueprint_Install.label>石臼 (blueprint)</StoneMill_Blueprint_Install.label>
-  <StoneMill_Frame.label>石臼 (building)</StoneMill_Frame.label>
-  <StoneMill_Frame.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</StoneMill_Frame.description>
+  <StoneMill.description>把材料捣碎做成谷粉、豆浆和豆腐。</StoneMill.description>
 
-  <ZP_FoodProcessor.label>フードプロセッサー</ZP_FoodProcessor.label>
-  <ZP_FoodProcessor.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</ZP_FoodProcessor.description>
-  <ZP_FoodProcessor_Blueprint.label>フードプロセッサー (blueprint)</ZP_FoodProcessor_Blueprint.label>
-  <ZP_FoodProcessor_Blueprint_Install.label>フードプロセッサー (blueprint)</ZP_FoodProcessor_Blueprint_Install.label>
-  <ZP_FoodProcessor_Frame.label>フードプロセッサー (building)</ZP_FoodProcessor_Frame.label>
-  <ZP_FoodProcessor_Frame.description>材料を粉砕して穀物粉や豆乳,豆腐をつくる。</ZP_FoodProcessor_Frame.description>
+
+  <ZP_FoodProcessor.label>食品处理器</ZP_FoodProcessor.label>
+  <ZP_FoodProcessor.description>把材料捣碎做成谷粉、豆浆和豆腐。</ZP_FoodProcessor.description>
 
   <CookingTable.label>料理台</CookingTable.label>
-  <CookingTable.description>专门用于准备食材和调料的工作台。\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable.description>
-  <CookingTable_Blueprint.label>料理台 (蓝图)</CookingTable_Blueprint.label>
-  <CookingTable_Blueprint_Install.label>料理台(蓝图)</CookingTable_Blueprint_Install.label>
-  <CookingTable_Frame.label>料理台 (建造中)</CookingTable_Frame.label>
-  <CookingTable_Frame.description>专门用于准备食材和调料的工作台。\n調理台と隣接することで場所が広くなり作業効率が上がる。</CookingTable_Frame.description>
+  <CookingTable.description>专门用于准备食材和调料的工作台。</CookingTable.description>
+
 
 
 </LanguageData>

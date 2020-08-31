@@ -3,8 +3,8 @@
 
   <ZP_Soymilk.label>豆浆</ZP_Soymilk.label>
   <ZP_Soymilk.description>营养价值及味道都可以和牛奶相媲美、但却是用大豆制成的不可思议的饮料，因此也被誉作是“植物奶”。\n可以直接饮用，也可以作为食材进行烹调。</ZP_Soymilk.description>
-  <ZP_Soymilk.ingestible.ingestCommandString>Drink {0}</ZP_Soymilk.ingestible.ingestCommandString>
-  <ZP_Soymilk.ingestible.ingestReportString>Drinking {0}.</ZP_Soymilk.ingestible.ingestReportString>
+  <ZP_Soymilk.ingestible.ingestCommandString>喝{0}</ZP_Soymilk.ingestible.ingestCommandString>
+  <ZP_Soymilk.ingestible.ingestReportString>正在引用{0}。</ZP_Soymilk.ingestible.ingestReportString>
 
   <Flour.label>谷物粉</Flour.label>
   <Flour.description>将谷物磨碎之后筛选出来的、可以用于烹饪的粉。</Flour.description>

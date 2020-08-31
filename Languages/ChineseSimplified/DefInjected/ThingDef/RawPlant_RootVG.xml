@@ -3,9 +3,6 @@
 
   <!-- 根菜類 -->
 
-  <RawPotatoes.label>potatoes</RawPotatoes.label>
-  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
-
   <ZP_RawJapaneseRadish.label>萝卜</ZP_RawJapaneseRadish.label>
   <ZP_RawJapaneseRadish.description>生的白萝卜，因为要大很多、而且不是橘红色的，因此绝对不会跟胡萝卜弄混。</ZP_RawJapaneseRadish.description>
 

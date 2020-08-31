@@ -5,7 +5,7 @@
   <ZP_GinjoSake.description>日本清酒的一种，用白米和粮食酿制而成的酒。\n华美醇香的气味和清润爽滑的口感是这种酒引以为豪的特征。</ZP_GinjoSake.description>
   <ZP_GinjoSake.ingestible.ingestCommandString>饮用{0}</ZP_GinjoSake.ingestible.ingestCommandString>
   <ZP_GinjoSake.ingestible.ingestReportString>正在饮用{0}。</ZP_GinjoSake.ingestible.ingestReportString>
-  <ZP_GinjoSake.tools.0.label>bottle</ZP_GinjoSake.tools.0.label>
+  <ZP_GinjoSake.tools.0.label>瓶</ZP_GinjoSake.tools.0.label>
   <ZP_GinjoSake.tools.1.label>颈</ZP_GinjoSake.tools.1.label>
 
 

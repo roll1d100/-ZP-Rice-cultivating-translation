@@ -5,18 +5,18 @@
 
   <ZP_RawWater.label>生水</ZP_RawWater.label>
   <ZP_RawWater.description>生的水。直接引用有很高概率会引发食物中毒。</ZP_RawWater.description>
-  <ZP_RawWater.ingestible.ingestCommandString>Drink {0}</ZP_RawWater.ingestible.ingestCommandString>
-  <ZP_RawWater.ingestible.ingestReportString>Drinking {0}.</ZP_RawWater.ingestible.ingestReportString>
+  <ZP_RawWater.ingestible.ingestCommandString>喝{0}</ZP_RawWater.ingestible.ingestCommandString>
+  <ZP_RawWater.ingestible.ingestReportString>正在引用{0}。</ZP_RawWater.ingestible.ingestReportString>
 
   <ZP_Water.label>水</ZP_Water.label>
   <ZP_Water.description>过滤后的水。没有煮沸，不适合直接引用。可用于烹饪。</ZP_Water.description>
-  <ZP_Water.ingestible.ingestCommandString>Drink {0}</ZP_Water.ingestible.ingestCommandString>
-  <ZP_Water.ingestible.ingestReportString>Drinking {0}.</ZP_Water.ingestible.ingestReportString>
+  <ZP_Water.ingestible.ingestCommandString>喝{0}</ZP_Water.ingestible.ingestCommandString>
+  <ZP_Water.ingestible.ingestReportString>正在引用{0}。</ZP_Water.ingestible.ingestReportString>
 
   <ZP_DrinkingWater.label>饮用水</ZP_DrinkingWater.label>
   <ZP_DrinkingWater.description>饮用水。可以简单地应对中暑。</ZP_DrinkingWater.description>
-  <ZP_DrinkingWater.ingestible.ingestCommandString>Drink {0}</ZP_DrinkingWater.ingestible.ingestCommandString>
-  <ZP_DrinkingWater.ingestible.ingestReportString>Drinking {0}.</ZP_DrinkingWater.ingestible.ingestReportString>
+  <ZP_DrinkingWater.ingestible.ingestCommandString>喝{0}</ZP_DrinkingWater.ingestible.ingestCommandString>
+  <ZP_DrinkingWater.ingestible.ingestReportString>正在引用{0}。</ZP_DrinkingWater.ingestible.ingestReportString>
 
 
 </LanguageData>

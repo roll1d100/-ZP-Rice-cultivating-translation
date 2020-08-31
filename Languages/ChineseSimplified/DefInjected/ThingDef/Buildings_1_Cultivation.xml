@@ -28,10 +28,10 @@
   <ZP_LargeCultivationPlanter_Frame.description>可以栽培作物的花盆。不定期管理的话植物会腐烂消失。\n【燃料：生水，堆肥；肥沃度200%】</ZP_LargeCultivationPlanter_Frame.description>
 
   <ZP_PaddyField.label>水田</ZP_PaddyField.label>
-  <ZP_PaddyField.description>【肥沃土:200% 設置場所:橋と同一】\n水稲を育てることが出来る水田。稲作を休耕してる間は裏作で別の作物も栽培できる。</ZP_PaddyField.description>
+  <ZP_PaddyField.description>可以培育水稻，稻米等的水田。休耕期间可以翻种其他作物。\n【肥沃度:200% 地形:同桥】</ZP_PaddyField.description>
   <ZP_PaddyField_Blueprint.label>水田 (蓝图)</ZP_PaddyField_Blueprint.label>
   <ZP_PaddyField_Frame.label>水田 (建造中)</ZP_PaddyField_Frame.label>
-  <ZP_PaddyField_Frame.description>【肥沃土:200% 設置場所:橋と同一】\n水稲を育てることが出来る水田。稲作を休耕してる間は裏作で別の作物も栽培できる。</ZP_PaddyField_Frame.description>
+  <ZP_PaddyField_Frame.description>可以培育水稻，稻米等的水田。休耕期间可以翻种其他作物。\n【肥沃度:200% 地形:同桥】</ZP_PaddyField_Frame.description>
 
   <ZP_AquacultureNet.label>养殖网箱3×3)</ZP_AquacultureNet.label>
   <ZP_AquacultureNet.description>【燃料:蚯蚓、鱼食、虫肉 肥沃度:100% 設置場所:浅瀬,浅海,流水,沼】\n你可以在这些养殖网箱中投放鱼苗，然后等待它们长成。\n【注意】如果长时间未投喂饵料的话，鱼群会有破坏网箱并逃离的可能。</ZP_AquacultureNet.description>
@@ -52,14 +52,14 @@
   <ZP_Bonfire_Frame.description>燃料式发热太阳灯。因为是燃料式的，所以范围很窄，耗油效率很差。\n【燃料：谷壳炭，木炭，安装场所：地面】</ZP_Bonfire_Frame.description>
 
   <ZP_Bonfire_Floating.label>高台式篝火</ZP_Bonfire_Floating.label>
-  <ZP_Bonfire_Floating.description>用于地形恶劣的燃料式发热太阳灯。因为是燃料式的，所以范围很窄，耗油效率很差。\n【燃料：谷壳炭，木炭，安装场所：桥梁</ZP_Bonfire_Floating.description>
+  <ZP_Bonfire_Floating.description>用于地形恶劣的燃料式发热太阳灯。因为是燃料式的，所以范围很窄，耗油效率很差。\n【燃料：谷壳炭，木炭，安装场所：同桥】</ZP_Bonfire_Floating.description>
   <ZP_Bonfire_Floating_Blueprint.label>高台式篝火 (blueprint)</ZP_Bonfire_Floating_Blueprint.label>
   <ZP_Bonfire_Floating_Frame.label>高台式篝火 (building)</ZP_Bonfire_Floating_Frame.label>
-  <ZP_Bonfire_Floating_Frame.description>用于地形恶劣的燃料式发热太阳灯。因为是燃料式的，所以范围很窄，耗油效率很差。\n【燃料：谷壳炭，木炭，安装场所：桥梁</ZP_Bonfire_Floating_Frame.description>
+  <ZP_Bonfire_Floating_Frame.description>用于地形恶劣的燃料式发热太阳灯。因为是燃料式的，所以范围很窄，耗油效率很差。\n【燃料：谷壳炭，木炭，安装场所：同桥】</ZP_Bonfire_Floating_Frame.description>
 
-  <ZP_FloatingSunLamp.label>浮遊式太陽灯</ZP_FloatingSunLamp.label>
-  <ZP_FloatingSunLamp.description>【設置場所：橋と同一】水田や養殖網に使える太陽灯。夜になると自動で消灯する。</ZP_FloatingSunLamp.description>
-  <ZP_FloatingSunLamp.comps.2.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.2.offMessage>
+  <ZP_FloatingSunLamp.label>浮游式太阳灯</ZP_FloatingSunLamp.label>
+  <ZP_FloatingSunLamp.description>用于水田和养殖网的太阳灯。到了晚上自动熄灯。【地形：同桥】</ZP_FloatingSunLamp.description>
+  <ZP_FloatingSunLamp.comps.2.offMessage>植物休眠期间关闭</ZP_FloatingSunLamp.comps.2.offMessage>
 
   <ZP_DeepDrill.label>深层土壤采集机</ZP_DeepDrill.label>
   <ZP_DeepDrill.description>从深部采集各种各样的土壤资源。</ZP_DeepDrill.description>

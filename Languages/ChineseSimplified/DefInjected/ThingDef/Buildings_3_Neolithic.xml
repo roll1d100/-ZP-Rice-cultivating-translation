@@ -8,11 +8,6 @@
   <ZP_RiceCraftingSpot_Frame.description>专门用于对农作物及其副产品进行加工的场所。</ZP_RiceCraftingSpot_Frame.description>
 
   <ZP_PestleAndMortar.label>杵臼</ZP_PestleAndMortar.label>
-  <ZP_PestleAndMortar.description>杵と臼。籾摺り精米や凍り餅をつくる際に使用する。</ZP_PestleAndMortar.description>
-  <ZP_PestleAndMortar_Blueprint.label>杵臼(蓝图)</ZP_PestleAndMortar_Blueprint.label>
-  <ZP_PestleAndMortar_Blueprint_Install.label>杵臼(蓝图)</ZP_PestleAndMortar_Blueprint_Install.label>
-  <ZP_PestleAndMortar_Frame.label>杵臼(建造中)</ZP_PestleAndMortar_Frame.label>
-  <ZP_PestleAndMortar_Frame.description>杵と臼。籾摺り精米や凍り餅をつくる際に使用する。</ZP_PestleAndMortar_Frame.description>
-
+  <ZP_PestleAndMortar.description>杵臼。能够将米做成精米，也用来制作冻糕。</ZP_PestleAndMortar.description>
 
 </LanguageData>
