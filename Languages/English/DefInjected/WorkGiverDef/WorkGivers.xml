@@ -25,5 +25,13 @@
   <DoBillsUseRiceCraftingSpot.verb>craft</DoBillsUseRiceCraftingSpot.verb>
   <DoBillsUseRiceCraftingSpot.gerund>crafting at</DoBillsUseRiceCraftingSpot.gerund>
 
+  <FK_WorkGiver_FillFiringKiln.label>TargetA に搬入する</FK_WorkGiver_FillFiringKiln.label>
+  <FK_WorkGiver_FillFiringKiln.gerund>に搬入する</FK_WorkGiver_FillFiringKiln.gerund>
+  <FK_WorkGiver_FillFiringKiln.verb>搬入</FK_WorkGiver_FillFiringKiln.verb>
+
+  <FK_WorkGiver_TakeOutOfFiringKiln.label>TargetA から取り出す</FK_WorkGiver_TakeOutOfFiringKiln.label>
+  <FK_WorkGiver_TakeOutOfFiringKiln.gerund>から取り出す</FK_WorkGiver_TakeOutOfFiringKiln.gerund>
+  <FK_WorkGiver_TakeOutOfFiringKiln.verb>取り出し</FK_WorkGiver_TakeOutOfFiringKiln.verb>
+
 
 </LanguageData>
