@@ -2,13 +2,13 @@
 <LanguageData>
 
   <HedBadBreath.label>口臭</HedBadBreath.label>
-  <HedBadBreath.description>時間が経てば収まるが、社交に影響が出る。</HedBadBreath.description>
+  <HedBadBreath.description>令人不想接近你，影响社交，会在一段时间后消失。</HedBadBreath.description>
 
-  <HedFull.label>満腹で体が重い・・・</HedFull.label>
-  <HedFull.description>時間が経てば収まるが、移動速度が落ちる。</HedFull.description>
+  <HedFull.label>重量级饱腹</HedFull.label>
+  <HedFull.description>吃得过饱导致移动速度下降，会在一段时间后消失。</HedFull.description>
 
-  <HedSpicy.label>辛いんじゃあああああああ!!</HedSpicy.label>
-  <HedSpicy.description>時間が経てば収まるが、あまりの辛さに皮膚が鋭敏になり痛みに弱くなる。</HedSpicy.description>
+  <HedSpicy.label>极度辛辣</HedSpicy.label>
+  <HedSpicy.description>辛辣导致皮肤肌肉变得敏感，疼痛而虚弱，会在一段时间后消失。</HedSpicy.description>
 
 
 </LanguageData>

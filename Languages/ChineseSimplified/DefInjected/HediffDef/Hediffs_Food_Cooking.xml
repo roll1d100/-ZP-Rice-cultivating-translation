@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_CookingLv1.label>料理の心得Lv.1</Hediffs_CookingLv1.label>
-  <Hediffs_CookingLv1.description>Tips5:最大で16種類の永久型の能力上昇バフを獲得できます。</Hediffs_CookingLv1.description>
+  <Hediffs_CookingLv1.label>料理的心得Lv.1</Hediffs_CookingLv1.label>
+  <Hediffs_CookingLv1.description>注:通过吃各种食物最多可以获得16种永久型的能力加成。</Hediffs_CookingLv1.description>
   <Hediffs_CookingLv1.stages.0.label></Hediffs_CookingLv1.stages.0.label>
 
-  <Hediffs_CookingLv2.label>料理の心得Lv.2</Hediffs_CookingLv2.label>
-  <Hediffs_CookingLv2.description>Tips7:食事によって蓄積される経験値量は違います。</Hediffs_CookingLv2.description>
+  <Hediffs_CookingLv2.label>料理的心得Lv.2</Hediffs_CookingLv2.label>
+  <Hediffs_CookingLv2.description>注:根据饮食不同，积攒的经验值也不同。</Hediffs_CookingLv2.description>
   <Hediffs_CookingLv2.stages.0.label></Hediffs_CookingLv2.stages.0.label>
 
-  <Hediffs_Cooking.label>料理の心得</Hediffs_Cooking.label>
-  <Hediffs_Cooking.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Cooking.description>
-  <Hediffs_Cooking.stages.0.label>initial</Hediffs_Cooking.stages.0.label>
+  <Hediffs_Cooking.label>料理的心得</Hediffs_Cooking.label>
+  <Hediffs_Cooking.description>请对天下的食物给予最真挚的感谢吧！\n通过牺牲动植物生命并食用而积攒的太古知识，最终成为强大的力量。</Hediffs_Cooking.description>
+  <Hediffs_Cooking.stages.0.label>初级</Hediffs_Cooking.stages.0.label>
   <Hediffs_Cooking.stages.1.label>Lv.3</Hediffs_Cooking.stages.1.label>
   <Hediffs_Cooking.stages.2.label>Lv.4 Max</Hediffs_Cooking.stages.2.label>
 

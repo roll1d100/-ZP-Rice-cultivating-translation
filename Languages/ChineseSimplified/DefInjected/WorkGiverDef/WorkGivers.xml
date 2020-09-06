@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thresh_Polish.label>脱穀精米</Thresh_Polish.label>
-  <Thresh_Polish.verb>thresh and polish</Thresh_Polish.verb>
-  <Thresh_Polish.gerund>threshing and polishing</Thresh_Polish.gerund>
+  <Thresh_Polish.label>脱壳精米</Thresh_Polish.label>
+  <Thresh_Polish.verb>脱壳并精米</Thresh_Polish.verb>
+  <Thresh_Polish.gerund>正在脱壳并精米</Thresh_Polish.gerund>
 
-  <Threshing_Husk.label>脱穀</Threshing_Husk.label>
-  <Threshing_Husk.verb>thresh</Threshing_Husk.verb>
-  <Threshing_Husk.gerund>threshing</Threshing_Husk.gerund>
+  <Threshing_Husk.label>脱壳</Threshing_Husk.label>
+  <Threshing_Husk.verb>脱壳</Threshing_Husk.verb>
+  <Threshing_Husk.gerund>正在脱壳</Threshing_Husk.gerund>
 
   <Process_Rice.label>精米</Process_Rice.label>
-  <Process_Rice.verb>process</Process_Rice.verb>
-  <Process_Rice.gerund>processing</Process_Rice.gerund>
+  <Process_Rice.verb>精米</Process_Rice.verb>
+  <Process_Rice.gerund>正在精米</Process_Rice.gerund>
 
-  <DoBillsRiceCook.label>米料理</DoBillsRiceCook.label>
-  <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
-  <DoBillsRiceCook.gerund>cooking at</DoBillsRiceCook.gerund>
+  <DoBillsRiceCook.label>烹饪</DoBillsRiceCook.label>
+  <DoBillsRiceCook.verb>烹饪</DoBillsRiceCook.verb>
+  <DoBillsRiceCook.gerund>烹饪</DoBillsRiceCook.gerund>
 
-  <DoBillsRicePreparation.label>下拵え</DoBillsRicePreparation.label>
-  <DoBillsRicePreparation.verb>cook</DoBillsRicePreparation.verb>
-  <DoBillsRicePreparation.gerund>cooking at</DoBillsRicePreparation.gerund>
+  <DoBillsRicePreparation.label>准备</DoBillsRicePreparation.label>
+  <DoBillsRicePreparation.verb>准备</DoBillsRicePreparation.verb>
+  <DoBillsRicePreparation.gerund>准备</DoBillsRicePreparation.gerund>
 
-  <DoBillsUseRiceCraftingSpot.label>農作物を加工</DoBillsUseRiceCraftingSpot.label>
-  <DoBillsUseRiceCraftingSpot.verb>craft</DoBillsUseRiceCraftingSpot.verb>
-  <DoBillsUseRiceCraftingSpot.gerund>crafting at</DoBillsUseRiceCraftingSpot.gerund>
+  <DoBillsUseRiceCraftingSpot.label>农作物加工</DoBillsUseRiceCraftingSpot.label>
+  <DoBillsUseRiceCraftingSpot.verb>加工</DoBillsUseRiceCraftingSpot.verb>
+  <DoBillsUseRiceCraftingSpot.gerund>加工</DoBillsUseRiceCraftingSpot.gerund>
 
 
 </LanguageData>

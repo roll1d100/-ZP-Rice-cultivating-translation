@@ -3,55 +3,55 @@
 
   <!-- add 1.1 -->
 
-  <ReZPPrantRice.label>ZP:稲</ReZPPrantRice.label>
-  <ReZPPrantRice.description>【栽培skill:3 栽培場所:地面,水田】\n稲作の始まり。\n稲を栽培することで主食の米が手に入る。収穫後の稲からは藁、籾殻、米糠がとれる。これらの副産物は動物の餌や工芸品、燃料などに利用できる有用な資源となる。</ReZPPrantRice.description>
+  <ReZPPrantRice.label>ZP:稻</ReZPPrantRice.label>
+  <ReZPPrantRice.description>【栽培技能:3，种植地:土，水田】\n稻耕的开始。\n种植水稻可以获得主食大米。收获后的稻子中可以收获稻草、稻壳和米糠。这些副产品是可以用来喂动物、工艺品、燃料等的有用资源。</ReZPPrantRice.description>
 
-  <ReZPPrantUplandRice.label>ZP:陸稲</ReZPPrantUplandRice.label>
-  <ReZPPrantUplandRice.description>【栽培skill:4 栽培場所:地面】\n畑で栽培できる稲。\n成長がはやく条件が悪くなければ約4日で育つ。</ReZPPrantUplandRice.description>
+  <ReZPPrantUplandRice.label>ZP:陆稻</ReZPPrantUplandRice.label>
+  <ReZPPrantUplandRice.description>【栽培技能:4，种植地:土】\n陆上专用的稻米。\n成长速度快，在条件不差的情况下大约4天就能成长。</ReZPPrantUplandRice.description>
 
-  <ReZPPrantWetlandRice.label>ZP:水稲</ReZPPrantWetlandRice.label>
-  <ReZPPrantWetlandRice.description>【栽培skill:6 栽培場所:水田】\n水田で栽培できる稲。\n成長は従来の稲より遅いが、収穫量が多いため安定した栽培ができれば食料に困らなくなる。</ReZPPrantWetlandRice.description>
+  <ReZPPrantWetlandRice.label>ZP:水稻</ReZPPrantWetlandRice.label>
+  <ReZPPrantWetlandRice.description>【栽培技能:6，种植地:水田】\n水田专用的稻米。\n虽然成长速度更慢，但由于收获产出多，如果种植稳定，就不愁粮食了。</ReZPPrantWetlandRice.description>
 
-  <ReGlutinousRice.label>ZP:もち米</ReGlutinousRice.label>
-  <ReGlutinousRice.description>【栽培skill：4 栽培場所:地面,水田】\n畑と水田で栽培できる稲。\nもちもちとした食感のお米を栽培できる。杵臼で凍り餅に加工することで長期保存も可能になる。</ReGlutinousRice.description>
+  <ReGlutinousRice.label>ZP:糯米</ReGlutinousRice.label>
+  <ReGlutinousRice.description>【栽培技能4，种植地:土,水田】\n种植于水田或陆上的糯米。\n可以栽培口感粘糯的糯米。用杵臼加工成冷冻年糕可以长期保存。</ReGlutinousRice.description>
 
   <ReZPSoilImprovement.label>ZP:土壌改良</ReZPSoilImprovement.label>
-  <ReZPSoilImprovement.description>土\n【建築skill:3,肥沃度:100%】\n農業が可能な土壌を研究する。\n設置場所：土、苔むした土、湿地、肥えた土、砂利。\n\n肥沃土\n【建築skill:3,肥沃度:140%】\n作物をより多く収穫するために肥沃な土壌を研究する。\n設置場所：畑を作れる土壌。</ReZPSoilImprovement.description>
+  <ReZPSoilImprovement.description>土\n【建筑技能:3,肥沃度:100%】\n研究出能够种植的土壤\n建筑地形：土，苔土，湿地，肥沃的土壤，沙砾。\n\n肥沃的土壤\n【建築技能:3,肥沃度:140%】\n研究出可以提高收成的肥沃的土壤。\n设置地面:地面土壤。</ReZPSoilImprovement.description>
 
   <ReZPSoilImprovement2nd.label>ZP:土壌改良Ⅱ</ReZPSoilImprovement2nd.label>
-  <ReZPSoilImprovement2nd.description>泥\n【建築skill:5】\n水田作成に必要な土壌。\n設置場所：海,小川,外洋以外。\n\n砂利\n【建築skill:5,肥沃度：70%】\n足場の悪い場所を埋め立てる基礎工事としても使える。\n設置場所：海,小川,外洋以外。\n\n人工浅瀬\n【建築skill:5】\n水深の深い川を埋め立てて浅瀬を作る。\n設置場所：小川。</ReZPSoilImprovement2nd.description>
+  <ReZPSoilImprovement2nd.description>泥\n【建筑技能:5】\n建筑水田必要的地面\n建筑地形：除海，河以外\n\n沙砾\n【建筑技能:5,肥沃度：70%】\n在基础工程中用于填平地形崎岖的地方。可铺设在海，河以外的地方。\n\n人工浅滩\n【建筑技能:5】\n通过填埋小河建成最适合渔场建设的浅滩。\n建筑地形：河。</ReZPSoilImprovement2nd.description>
 
-  <ReZPAgriculturalMachines.label>ZP:農具(中世時代)</ReZPAgriculturalMachines.label>
-  <ReZPAgriculturalMachines.description>脱穀精米の専用農具である足踏式脱穀機と籾摺り臼を開発する。</ReZPAgriculturalMachines.description>
+  <ReZPAgriculturalMachines.label>ZP:农具(中世时代)</ReZPAgriculturalMachines.label>
+  <ReZPAgriculturalMachines.description>开发脱谷精米专用农具:稻谷臼和脱粒机</ReZPAgriculturalMachines.description>
 
-  <ReZPAgriculturalMachines2nd.label>ZP:農具(中世時代Ⅱ)</ReZPAgriculturalMachines2nd.label>
-  <ReZPAgriculturalMachines2nd.description>水流の力を利用して脱穀精米できる農業用水車を開発する。</ReZPAgriculturalMachines2nd.description>
+  <ReZPAgriculturalMachines2nd.label>ZP:农具(中世时代Ⅱ)</ReZPAgriculturalMachines2nd.label>
+  <ReZPAgriculturalMachines2nd.description>利用水流的力量开发可以脱谷精米的农业用水车。</ReZPAgriculturalMachines2nd.description>
 
-  <ReZPAgriculturalMachines3rd.label>ZP:農具(産業時代)</ReZPAgriculturalMachines3rd.label>
-  <ReZPAgriculturalMachines3rd.description>電気の力を利用して脱穀精米できる電動脱穀機と精米機を開発する。</ReZPAgriculturalMachines3rd.description>
+  <ReZPAgriculturalMachines3rd.label>ZP:农具(产业时代)</ReZPAgriculturalMachines3rd.label>
+  <ReZPAgriculturalMachines3rd.description>开发利用电能脱谷精米的电动脱壳机和精米机。</ReZPAgriculturalMachines3rd.description>
 
-  <ReZPAgriculturalMachines4th.label>ZP:農具(産業時代Ⅱ)</ReZPAgriculturalMachines4th.label>
-  <ReZPAgriculturalMachines4th.description>電気の力を利用して最大効率で脱穀精米できるマルチ式脱穀精米機を開発する。</ReZPAgriculturalMachines4th.description>
+  <ReZPAgriculturalMachines4th.label>ZP:农具(产业時代Ⅱ)</ReZPAgriculturalMachines4th.label>
+  <ReZPAgriculturalMachines4th.description>利用电的力量开发出最大效率脱谷精米的全能型脱壳精米加工机。</ReZPAgriculturalMachines4th.description>
 
 
   <!-- その他 -->
 
-  <ReZPScarecrow.label>ZP:豊穣のかかし</ReZPScarecrow.label>
-  <ReZPScarecrow.description>【肥沃度:30%up,範囲:9×9,効果:重複】\nかかしに豊穣の神を宿らせる方法を学ぶ。\n効果を持続させるにはお供え物が必要になる。\n燃料:おにぎり類,酒類,餅類,煎餅,おこし\n注意:水田と水耕栽培機,大型植木鉢は恩恵を受けれません。</ReZPScarecrow.description>
+  <ReZPScarecrow.label>ZP:丰收的稻草人</ReZPScarecrow.label>
+  <ReZPScarecrow.description>【肥沃度:+30%,范围:9×9,效果可重叠】\n学习让稻草人寄宿丰收之神的方法。\n需要贡品来维持效果。\n注意:水田、水耕栽培机、大型花盆不能接受恩惠</ReZPScarecrow.description>
 
 
   <!-- add 1.1 -->
 
   <ReZPBonfire.label>ZP:篝火</ReZPBonfire.label>
-  <ReZPBonfire.description>篝火\n【燃料:炭,モミガライト 範囲:5×5 設置場所:地面】\n燃料式の発熱太陽灯。\n夜間などに燃料を節約する場合は、入植者にスイッチ操作をさせてください。\n\n高台式篝火\n【燃料:炭,モミガライト 範囲:3×3 設置場所:橋と同一】\n足場の悪い水田や養殖網に使える燃料式発熱太陽灯。\n夜間などに燃料を節約する場合は、入植者にスイッチ操作をさせてください。</ReZPBonfire.description>
+  <ReZPBonfire.description>篝火\n【燃料：谷壳炭，木炭，安装场所：地面，范围:3x3】\n燃料式发热太阳灯。\n请在夜间时手动关闭以节省燃料。\n\n高台式篝火\n【燃料：谷壳炭，木炭，安装场所：同桥，范围:3x3】\n用于地形恶劣的燃料式发热太阳灯。\n请在夜间时手动关闭以节省燃料。</ReZPBonfire.description>
 
-  <ReZPLargeCultivationPlanter.label>ZP:大型植木鉢</ReZPLargeCultivationPlanter.label>
-  <ReZPLargeCultivationPlanter.description>【燃料:生水,堆肥 肥沃度:200%】\n作物を栽培できる大型の植木鉢。\n定期的に管理しないと腐って消える。</ReZPLargeCultivationPlanter.description>
+  <ReZPLargeCultivationPlanter.label>ZP:大型花盆</ReZPLargeCultivationPlanter.label>
+  <ReZPLargeCultivationPlanter.description>【燃料：生水，堆肥；肥沃度200%】\n可以栽培作物的花盆。\n不定期管理的话植物会腐烂消失。</ReZPLargeCultivationPlanter.description>
 
 
   <!-- 栽培 -->
 
-  <ReZPBeanFungus.label>ZP:豆・菌類</ReZPBeanFungus.label>
+  <ReZPBeanFungus.label>ZP:豆菌类</ReZPBeanFungus.label>
   <ReZPBeanFungus.description>大豆\n【栽培skill:5 栽培場所:地面,水耕栽培器,大型植木鉢,水田】\n\n小豆\n【栽培skill:6 栽培場所:地面,水耕栽培器,大型植木鉢,水田】\n\n紅茸\n【栽培skill:6 栽培場所:大型植木鉢】\n\nアガリラックス\n【栽培skill:6 栽培場所:大型植木鉢】</ReZPBeanFungus.description>
 
 

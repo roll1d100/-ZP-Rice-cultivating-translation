@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_AnimalsLv1.label>動物の心得Lv.1</Hediffs_AnimalsLv1.label>
-  <Hediffs_AnimalsLv1.description>Tips1:同じ種類のバフを持つ食べ物を食べ続けると経験値が貯まる。</Hediffs_AnimalsLv1.description>
+  <Hediffs_AnimalsLv1.label>驯兽的心得Lv.1</Hediffs_AnimalsLv1.label>
+  <Hediffs_AnimalsLv1.description>注:坚持食用同种种类的食物能够积累经验值。</Hediffs_AnimalsLv1.description>
   <Hediffs_AnimalsLv1.stages.0.label></Hediffs_AnimalsLv1.stages.0.label>
 
-  <Hediffs_AnimalsLv2.label>動物の心得Lv.2</Hediffs_AnimalsLv2.label>
-  <Hediffs_AnimalsLv2.description>Tips3:Lv1,2は時間制限付きの能力上昇バフが発動します。</Hediffs_AnimalsLv2.description>
+  <Hediffs_AnimalsLv2.label>驯兽的心得Lv.2</Hediffs_AnimalsLv2.label>
+  <Hediffs_AnimalsLv2.description>注:Lv1,Lv2能够触发一定时间内的加成。</Hediffs_AnimalsLv2.description>
   <Hediffs_AnimalsLv2.stages.0.label></Hediffs_AnimalsLv2.stages.0.label>
 
-  <Hediffs_Animals.label>動物の心得</Hediffs_Animals.label>
-  <Hediffs_Animals.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Animals.description>
-  <Hediffs_Animals.stages.0.label>initial</Hediffs_Animals.stages.0.label>
+  <Hediffs_Animals.label>驯兽的心得</Hediffs_Animals.label>
+  <Hediffs_Animals.description>请对天下的食物给予最真挚的感谢吧！\n通过牺牲动植物生命并食用而积攒的太古知识，最终成为强大的力量。</Hediffs_Animals.description>
+  <Hediffs_Animals.stages.0.label>初级</Hediffs_Animals.stages.0.label>
   <Hediffs_Animals.stages.1.label>Lv.3</Hediffs_Animals.stages.1.label>
   <Hediffs_Animals.stages.2.label>Lv.4 Max</Hediffs_Animals.stages.2.label>
 

@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_DexterousLv1.label>器用さLv.1</Hediffs_DexterousLv1.label>
-  <Hediffs_DexterousLv1.description>Tips9:手の込んだ食事を1日2食で30日間食べると、Lv3の永久型のバフを獲得できます。</Hediffs_DexterousLv1.description>
+  <Hediffs_DexterousLv1.label>灵活Lv.1</Hediffs_DexterousLv1.label>
+  <Hediffs_DexterousLv1.description>注:如果每天吃两顿精心制作的食物，吃三十天就可以获得Lv3的永久型加成。</Hediffs_DexterousLv1.description>
   <Hediffs_DexterousLv1.stages.0.label></Hediffs_DexterousLv1.stages.0.label>
 
   <Hediffs_DexterousLv2.label>器用さLv.2</Hediffs_DexterousLv2.label>
-  <Hediffs_DexterousLv2.description>Tips11:Lv3の永久型の能力上昇バフはSkill2up分相当です。</Hediffs_DexterousLv2.description>
+  <Hediffs_DexterousLv2.description>注:Lv3的永久型加成相当于提升了对应的两级技能。</Hediffs_DexterousLv2.description>
   <Hediffs_DexterousLv2.stages.0.label></Hediffs_DexterousLv2.stages.0.label>
 
   <Hediffs_Dexterous.label>器用さ</Hediffs_Dexterous.label>
-  <Hediffs_Dexterous.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Dexterous.description>
-  <Hediffs_Dexterous.stages.0.label>initial</Hediffs_Dexterous.stages.0.label>
+  <Hediffs_Dexterous.description>请对天下的食物给予最真挚的感谢吧！\n通过牺牲动植物生命并食用而积攒的太古知识，最终成为强大的力量。</Hediffs_Dexterous.description>
+  <Hediffs_Dexterous.stages.0.label>初级</Hediffs_Dexterous.stages.0.label>
   <Hediffs_Dexterous.stages.1.label>Lv.3</Hediffs_Dexterous.stages.1.label>
   <Hediffs_Dexterous.stages.2.label>Lv.4 Max</Hediffs_Dexterous.stages.2.label>
 

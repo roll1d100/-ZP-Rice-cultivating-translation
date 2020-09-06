@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_IntellectualLv1.label>研究の心得Lv.1</Hediffs_IntellectualLv1.label>
-  <Hediffs_IntellectualLv1.description>Tips10:Lv2の時間制限付きの能力上昇バフはSkill1up分相当です。</Hediffs_IntellectualLv1.description>
+  <Hediffs_IntellectualLv1.label>研究的心得Lv.1</Hediffs_IntellectualLv1.label>
+  <Hediffs_IntellectualLv1.description>注:Lv2的暂时型加成相当于提升了对应的一级技能。</Hediffs_IntellectualLv1.description>
   <Hediffs_IntellectualLv1.stages.0.label></Hediffs_IntellectualLv1.stages.0.label>
 
   <Hediffs_IntellectualLv2.label>研究の心得Lv.2</Hediffs_IntellectualLv2.label>
-  <Hediffs_IntellectualLv2.description>Tips12:Lv4の永久型の能力上昇バフはSkill3up分相当です。</Hediffs_IntellectualLv2.description>
+  <Hediffs_IntellectualLv2.description>注:Lv4的永久型加成相当于提升了对应的三级技能。</Hediffs_IntellectualLv2.description>
   <Hediffs_IntellectualLv2.stages.0.label></Hediffs_IntellectualLv2.stages.0.label>
 
   <Hediffs_Intellectual.label>研究の心得</Hediffs_Intellectual.label>
-  <Hediffs_Intellectual.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Intellectual.description>
-  <Hediffs_Intellectual.stages.0.label>initial</Hediffs_Intellectual.stages.0.label>
+  <Hediffs_Intellectual.description>请对天下的食物给予最真挚的感谢吧！\n通过牺牲动植物生命并食用而积攒的太古知识，最终成为强大的力量。</Hediffs_Intellectual.description>
+  <Hediffs_Intellectual.stages.0.label>初级</Hediffs_Intellectual.stages.0.label>
   <Hediffs_Intellectual.stages.1.label>Lv.3</Hediffs_Intellectual.stages.1.label>
   <Hediffs_Intellectual.stages.2.label>Lv.4 Max</Hediffs_Intellectual.stages.2.label>
 

@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_MiningLv1.label>採掘の心得Lv.1</Hediffs_MiningLv1.label>
-  <Hediffs_MiningLv1.description>Tips3:Lv1,2は時間制限付きの能力上昇バフが発動します。</Hediffs_MiningLv1.description>
+  <Hediffs_MiningLv1.label>采矿的心得Lv.1</Hediffs_MiningLv1.label>
+  <Hediffs_MiningLv1.description>注:Lv1,2能够触发一定时间内的能力加成。</Hediffs_MiningLv1.description>
   <Hediffs_MiningLv1.stages.0.label></Hediffs_MiningLv1.stages.0.label>
 
-  <Hediffs_MiningLv2.label>採掘の心得Lv.2</Hediffs_MiningLv2.label>
-  <Hediffs_MiningLv2.description>Tips4:Lv3,4は一定量の経験値を獲得後に、永久型の能力上昇バフを獲得できます。</Hediffs_MiningLv2.description>
+  <Hediffs_MiningLv2.label>采矿的心得Lv.2</Hediffs_MiningLv2.label>
+  <Hediffs_MiningLv2.description>注:在Lv3，Lv4获得一定量经验值后，可获得永久的能力加成。</Hediffs_MiningLv2.description>
   <Hediffs_MiningLv2.stages.0.label></Hediffs_MiningLv2.stages.0.label>
 
-  <Hediffs_Mining.label>採掘の心得</Hediffs_Mining.label>
-  <Hediffs_Mining.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Mining.description>
-  <Hediffs_Mining.stages.0.label>initial</Hediffs_Mining.stages.0.label>
+  <Hediffs_Mining.label>采矿的心得</Hediffs_Mining.label>
+  <Hediffs_Mining.description>请对天下的食物给予最真挚的感谢吧！\n通过牺牲动植物生命并食用而积攒的太古知识，最终成为强大的力量。</Hediffs_Mining.description>
+  <Hediffs_Mining.stages.0.label>初级</Hediffs_Mining.stages.0.label>
   <Hediffs_Mining.stages.1.label>Lv.3</Hediffs_Mining.stages.1.label>
   <Hediffs_Mining.stages.2.label>Lv.4 Max</Hediffs_Mining.stages.2.label>
 

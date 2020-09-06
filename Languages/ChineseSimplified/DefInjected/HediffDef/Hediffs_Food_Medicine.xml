@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_MedicineLv1.label>医術の心得Lv.1</Hediffs_MedicineLv1.label>
-  <Hediffs_MedicineLv1.description>Tips13:簡単な食事、嗜好品、加工食品でもLv1,2の能力上昇バフが発動するものがある。</Hediffs_MedicineLv1.description>
+  <Hediffs_MedicineLv1.label>医疗的心得Lv.1</Hediffs_MedicineLv1.label>
+  <Hediffs_MedicineLv1.description>注:简单的食物，成瘾品，加工食品也能使经验值增长到Lv1,2。</Hediffs_MedicineLv1.description>
   <Hediffs_MedicineLv1.stages.0.label></Hediffs_MedicineLv1.stages.0.label>
 
-  <Hediffs_MedicineLv2.label>医術の心得Lv.2</Hediffs_MedicineLv2.label>
-  <Hediffs_MedicineLv2.description>Tips15:バフの種類は建築、料理、動物、農業、採掘、医術、研究、工芸、社交がある。</Hediffs_MedicineLv2.description>
+  <Hediffs_MedicineLv2.label>医疗的心得Lv.2</Hediffs_MedicineLv2.label>
+  <Hediffs_MedicineLv2.description>注:加成种类有:建筑，烹饪，驯兽，种植，挖掘，医疗，研究，手工，社交。</Hediffs_MedicineLv2.description>
   <Hediffs_MedicineLv2.stages.0.label></Hediffs_MedicineLv2.stages.0.label>
 
-  <Hediffs_Medicine.label>医術の心得</Hediffs_Medicine.label>
-  <Hediffs_Medicine.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Medicine.description>
-  <Hediffs_Medicine.stages.0.label>initial</Hediffs_Medicine.stages.0.label>
+  <Hediffs_Medicine.label>医疗的心得</Hediffs_Medicine.label>
+  <Hediffs_Medicine.description>请对天下的食物给予最真挚的感谢吧！\n通过牺牲动植物生命并食用而积攒的太古知识，最终成为强大的力量。</Hediffs_Medicine.description>
+  <Hediffs_Medicine.stages.0.label>初级</Hediffs_Medicine.stages.0.label>
   <Hediffs_Medicine.stages.1.label>Lv.3</Hediffs_Medicine.stages.1.label>
   <Hediffs_Medicine.stages.2.label>Lv.4 Max</Hediffs_Medicine.stages.2.label>
 
