@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_AnimalsLv1.label>動物の心得Lv.1</Hediffs_AnimalsLv1.label>
-  <Hediffs_AnimalsLv1.description>Tips1:同じ種類のバフを持つ食べ物を食べ続けると経験値が貯まる。</Hediffs_AnimalsLv1.description>
+  <Hediffs_AnimalsLv1.label>동물의 심득Lv.1</Hediffs_AnimalsLv1.label>
+  <Hediffs_AnimalsLv1.description>Tips1:같은 종류의 버프를 가진 음식을 계속 먹으면 경험치가 모입니다.</Hediffs_AnimalsLv1.description>
   <Hediffs_AnimalsLv1.stages.0.label></Hediffs_AnimalsLv1.stages.0.label>
 
-  <Hediffs_AnimalsLv2.label>動物の心得Lv.2</Hediffs_AnimalsLv2.label>
-  <Hediffs_AnimalsLv2.description>Tips3:Lv1,2は時間制限付きの能力上昇バフが発動します。</Hediffs_AnimalsLv2.description>
+  <Hediffs_AnimalsLv2.label>동물의 심득Lv.2</Hediffs_AnimalsLv2.label>
+  <Hediffs_AnimalsLv2.description>Tips3:Lv1,2시간 제한의 능력 상승 버프가 발동합니다.</Hediffs_AnimalsLv2.description>
   <Hediffs_AnimalsLv2.stages.0.label></Hediffs_AnimalsLv2.stages.0.label>
 
-  <Hediffs_Animals.label>動物の心得</Hediffs_Animals.label>
-  <Hediffs_Animals.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Animals.description>
+  <Hediffs_Animals.label>동물의 심득</Hediffs_Animals.label>
+  <Hediffs_Animals.description> 세상 모든 재료에 감사를 담아 잘 먹겠습니다. 먹어오며 희생된 생명에 깃든 태고의 지식이 조금씩 쌓여 큰 힘이 됩니다.</Hediffs_Animals.description>
   <Hediffs_Animals.stages.0.label>initial</Hediffs_Animals.stages.0.label>
   <Hediffs_Animals.stages.1.label>Lv.3</Hediffs_Animals.stages.1.label>
   <Hediffs_Animals.stages.2.label>Lv.4 Max</Hediffs_Animals.stages.2.label>
