@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <HedBadBreath.label>口臭</HedBadBreath.label>
-  <HedBadBreath.description>時間が経てば収まるが、社交に影響が出る。</HedBadBreath.description>
+  <HedBadBreath.label>입냄새</HedBadBreath.label>
+  <HedBadBreath.description>시간이 지나면 수그러들지만 사교에 영향을 줍니다.</HedBadBreath.description>
 
-  <HedFull.label>満腹で体が重い・・・</HedFull.label>
-  <HedFull.description>時間が経てば収まるが、移動速度が落ちる。</HedFull.description>
+  <HedFull.label>너무 배불러...</HedFull.label>
+  <HedFull.description>시간이 지나면 수그러들지만 이동속도가 떨어집니다.</HedFull.description>
 
-  <HedSpicy.label>辛いんじゃあああああああ!!</HedSpicy.label>
-  <HedSpicy.description>時間が経てば収まるが、あまりの辛さに皮膚が鋭敏になり痛みに弱くなる。</HedSpicy.description>
+  <HedSpicy.label>너무 매워!!</HedSpicy.label>
+  <HedSpicy.description>시간이 지나면 수그러들지만 너무 괴로워서 피부가 예민해지고 통증에 약해집니다. </HedSpicy.description>
 
 
 </LanguageData>
