@@ -39,11 +39,11 @@
   <ZP_AquacultureNet_Frame.label> 양식망(3×3) (building) </ZP_AquacultureNet_Frame.label>
   <ZP_AquacultureNet_Frame.description>[연료:물고기 먹이, 지렁이, 벌레 고기 비옥도: 100% 설치장소: 얕은 물, 얕은 바다, 흐르는 물, 늪]\n 물고기를 기를 수 있는 활어조. </ZP_AquacultureNet_Frame.description>
 
-  <ZP_AquacultureNet_Large.label>養殖網(4×5)</ZP_AquacultureNet_Large.label>
-  <ZP_AquacultureNet_Large.description>【燃料:魚の餌,ミミズ,虫の肉 肥沃度:100% 設置場所:浅瀬,浅海,流水,沼】\n魚を育てることができる生け簀。</ZP_AquacultureNet_Large.description>
-  <ZP_AquacultureNet_Large_Blueprint.label>養殖網(4×5) (blueprint)</ZP_AquacultureNet_Large_Blueprint.label>
-  <ZP_AquacultureNet_Large_Frame.label>養殖網(4×5) (building)</ZP_AquacultureNet_Large_Frame.label>
-  <ZP_AquacultureNet_Large_Frame.description>【燃料:魚の餌,ミミズ,虫の肉 肥沃度:100% 設置場所:浅瀬,浅海,流水,沼】\n魚を育てることができる生け簀。</ZP_AquacultureNet_Large_Frame.description>
+  <ZP_AquacultureNet_Large.label>양식망(4×5)</ZP_AquacultureNet_Large.label>
+  <ZP_AquacultureNet_Large.description>[연료:물고기 먹이, 지렁이, 벌레 고기 비옥도:100% 설치장소:물간, 얕은 바다, 흐르는 물, 늪]\n 물고기를 기를 수 있는 활어조.</ZP_AquacultureNet_Large.description>
+  <ZP_AquacultureNet_Large_Blueprint.label>양식망(4×5) (blueprint)</ZP_AquacultureNet_Large_Blueprint.label>
+  <ZP_AquacultureNet_Large_Frame.label>양식망(4×5) (building)</ZP_AquacultureNet_Large_Frame.label>
+  <ZP_AquacultureNet_Large_Frame.description>[연료:물고기 먹이, 지렁이, 벌레 고기 비옥도: 100% 설치장소: 얕은 물, 얕은 바다, 흐르는 물, 늪]\n 물고기를 기를 수 있는 활어조.</ZP_AquacultureNet_Large_Frame.description>
 
   <ZP_Bonfire.label>모닥불</ZP_Bonfire.label>
   <ZP_Bonfire.description>[연료: 숯, 왕겨장작 설치장소:지면] /n연료식 발열 태양등입니다./n연료식이므로 범위는 좁고 연비 효율은 나쁩니다.</ZP_Bonfire.description>
