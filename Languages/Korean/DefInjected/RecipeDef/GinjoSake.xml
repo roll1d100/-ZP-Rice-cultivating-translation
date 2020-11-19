@@ -3,9 +3,9 @@
 
   <!-- add 1.1 -->
 
-  <Make_GinjoSakeMoromi.label>もろみ(吟醸酒)×25</Make_GinjoSakeMoromi.label>
-  <Make_GinjoSakeMoromi.description>吟醸酒の原料であるもろみ(吟醸酒)を作る。</Make_GinjoSakeMoromi.description>
-  <Make_GinjoSakeMoromi.jobString>もろみ(吟醸酒)を作成中。</Make_GinjoSakeMoromi.jobString>
+  <Make_GinjoSakeMoromi.label>모주(긴조사케)×25</Make_GinjoSakeMoromi.label>
+  <Make_GinjoSakeMoromi.description>긴조사케의 원료인 모주(긴조사케)를 만듭니다.</Make_GinjoSakeMoromi.description>
+  <Make_GinjoSakeMoromi.jobString>모주(긴조사케)를 만드는 중.</Make_GinjoSakeMoromi.jobString>
 
 
 </LanguageData>
