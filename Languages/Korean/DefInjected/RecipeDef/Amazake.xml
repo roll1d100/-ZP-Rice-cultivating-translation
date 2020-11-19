@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Make_DrinkAmazake.label>甘酒x4</Make_DrinkAmazake.label>
-  <Make_DrinkAmazake.description>白米を原料にして甘酒を造る。</Make_DrinkAmazake.description>
-  <Make_DrinkAmazake.jobString>甘酒を造る。</Make_DrinkAmazake.jobString>
+  <Make_DrinkAmazake.label>아마자케x4</Make_DrinkAmazake.label>
+  <Make_DrinkAmazake.description>쌀을 이용해 감주를 만듭니다.</Make_DrinkAmazake.description>
+  <Make_DrinkAmazake.jobString>아마자케 제조중.</Make_DrinkAmazake.jobString>
 
 
 </LanguageData>
