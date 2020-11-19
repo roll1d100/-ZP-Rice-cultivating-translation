@@ -9,9 +9,9 @@
 
   <ZP_Pestle And Mortar.label> 절구</ZPestle And Mortar.label>
   <ZP_Pestle And Mortar.description 절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다.</ZPestle And Mortar.description>
-  <ZP_PestleAndMortar_Blueprint.label> 키우스(blueprint)</ZPestleAndMortar_Blueprint.label>
+  <ZP_PestleAndMortar_Blueprint.label> 절구(blueprint)</ZPestleAndMortar_Blueprint.label>
   <ZP_PestleAndMortar_Blueprint_Install.label> 절구(blueprint) </ZPestleAndMortar_Blueprint_Install.label>
-  <ZP_PestleAndMortar_Frame.label>키우스(building)</ZPestleAndMortar_Frame.label>
+  <ZP_PestleAndMortar_Frame.label>절구(building)</ZPestleAndMortar_Frame.label>
   <ZP_PestleAndMortar_Frame.description> 절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다.</ZPestle And Mortar_Frame.description>
 
 
