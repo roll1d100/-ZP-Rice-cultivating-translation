@@ -3,35 +3,35 @@
 
   <!-- All add 1.1 -->
 
-  <MakeIPTWhiteRice100.label>稲穂を白米にするx100</MakeIPTWhiteRice100.label>
-  <MakeIPTWhiteRice100.description>稲穂を脱穀精米して白米、藁、副産物袋にわける</MakeIPTWhiteRice100.description>
-  <MakeIPTWhiteRice100.jobString>脱穀精米中</MakeIPTWhiteRice100.jobString>
+  <MakeIPTWhiteRice100.label>벼 이삭을 백미로x100</MakeIPTWhiteRice100.label>
+  <MakeIPTWhiteRice100.description>벼 이삭을 탈곡정미하여 흰쌀, 짚, 부산물 포대로 나눕니다. </MakeIPTWhiteRice100.description>
+  <MakeIPTWhiteRice100.jobString>탈곡정미중</MakeIPTWhiteRice100.jobString>
 
-  <MakeIPTWhiteRice300.label>稲穂を白米にするx300</MakeIPTWhiteRice300.label>
-  <MakeIPTWhiteRice300.description>稲穂を脱穀精米して白米、藁、副産物袋にわける</MakeIPTWhiteRice300.description>
-  <MakeIPTWhiteRice300.jobString>脱穀精米中</MakeIPTWhiteRice300.jobString>
+  <MakeIPTWhiteRice300.label>벼 이삭을 백미로x300</MakeIPTWhiteRice300.label>
+  <MakeIPTWhiteRice300.description>벼 이삭을 탈곡정미하여 흰쌀, 짚, 부산물 포대로 나눕니다.</MakeIPTWhiteRice300.description>
+  <MakeIPTWhiteRice300.jobString>탈곡정미중</MakeIPTWhiteRice300.jobString>
 
 
   <!-- 稲穂⇒玄米 -->
 
-  <MakeIPTBrownRice100.label>稲穂を玄米にするx100</MakeIPTBrownRice100.label>
-  <MakeIPTBrownRice100.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeIPTBrownRice100.description>
-  <MakeIPTBrownRice100.jobString>脱穀中</MakeIPTBrownRice100.jobString>
+  <MakeIPTBrownRice100.label>벼 이삭을 현미로x100</MakeIPTBrownRice100.label>
+  <MakeIPTBrownRice100.description>벼 이삭을 탈곡하여 현미, 짚, 왕겨로 나눕니다.</MakeIPTBrownRice100.description>
+  <MakeIPTBrownRice100.jobString>탈곡중</MakeIPTBrownRice100.jobString>
 
-  <MakeIPTBrownRice300.label>稲穂を玄米にするx300</MakeIPTBrownRice300.label>
-  <MakeIPTBrownRice300.description>稲穂を脱穀して玄米、藁、籾殻にわける</MakeIPTBrownRice300.description>
-  <MakeIPTBrownRice300.jobString>脱穀中</MakeIPTBrownRice300.jobString>
+  <MakeIPTBrownRice300.label>벼 이삭을 현미로x300</MakeIPTBrownRice300.label>
+  <MakeIPTBrownRice300.description>벼 이삭을 탈곡하여 현미, 짚, 왕겨로 나눕니다.</MakeIPTBrownRice300.description>
+  <MakeIPTBrownRice300.jobString>탈곡중</MakeIPTBrownRice300.jobString>
 
 
   <!-- 稲穂⇒もち米 -->
 
-  <MakeIPTGlutinousRice100.label>稲穂(もち米)をもち米にするx100</MakeIPTGlutinousRice100.label>
-  <MakeIPTGlutinousRice100.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeIPTGlutinousRice100.description>
-  <MakeIPTGlutinousRice100.jobString>脱穀中</MakeIPTGlutinousRice100.jobString>
+  <MakeIPTGlutinousRice100.label>벼 이삭(찹쌀)을 찹쌀로x100</MakeIPTGlutinousRice100.label>
+  <MakeIPTGlutinousRice100.description>벼 이삭을 탈곡하여 찹쌀, 짚, 왕겨로 나눕니다.</MakeIPTGlutinousRice100.description>
+  <MakeIPTGlutinousRice100.jobString>탈곡중</MakeIPTGlutinousRice100.jobString>
 
-  <MakeIPTGlutinousRice300.label>稲穂(もち米)をもち米にするx300</MakeIPTGlutinousRice300.label>
-  <MakeIPTGlutinousRice300.description>稲穂を脱穀してもち米、藁、籾殻にわける</MakeIPTGlutinousRice300.description>
-  <MakeIPTGlutinousRice300.jobString>脱穀中</MakeIPTGlutinousRice300.jobString>
+  <MakeIPTGlutinousRice300.label>벼 이삭(찹쌀)을 찹쌀로x300</MakeIPTGlutinousRice300.label>
+  <MakeIPTGlutinousRice300.description>벼 이삭을 탈곡하여 찹쌀, 짚, 왕겨로 나눕니다.</MakeIPTGlutinousRice300.description>
+  <MakeIPTGlutinousRice300.jobString>탈곡중</MakeIPTGlutinousRice300.jobString>
 
 
 </LanguageData>
