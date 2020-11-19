@@ -3,37 +3,37 @@
 
   <!-- All add 1.1 -->
 
-  <RPC_Gathering_RawWater10.label>生水×10</RPC_Gathering_RawWater10.label>
-  <RPC_Gathering_RawWater10.description>生水を採取する。</RPC_Gathering_RawWater10.description>
-  <RPC_Gathering_RawWater10.jobString>生水を採取中。</RPC_Gathering_RawWater10.jobString>
+  <RPC_Gathering_RawWater10.label>생수×10</RPC_Gathering_RawWater10.label>
+  <RPC_Gathering_RawWater10.description>생수를 채취합니다.</RPC_Gathering_RawWater10.description>
+  <RPC_Gathering_RawWater10.jobString>생수 채취중</RPC_Gathering_RawWater10.jobString>
 
-  <RPC_Gathering_RawWater50.label>生水×50</RPC_Gathering_RawWater50.label>
-  <RPC_Gathering_RawWater50.description>生水を採取する。</RPC_Gathering_RawWater50.description>
-  <RPC_Gathering_RawWater50.jobString>生水を採取中。</RPC_Gathering_RawWater50.jobString>
+  <RPC_Gathering_RawWater50.label>생수×50</RPC_Gathering_RawWater50.label>
+  <RPC_Gathering_RawWater50.description>생수를 채취합니다.</RPC_Gathering_RawWater50.description>
+  <RPC_Gathering_RawWater50.jobString>생수 채취중</RPC_Gathering_RawWater50.jobString>
 
-  <RPC_Gathering_RawWater100.label>生水×100</RPC_Gathering_RawWater100.label>
-  <RPC_Gathering_RawWater100.description>生水を採取する。</RPC_Gathering_RawWater100.description>
-  <RPC_Gathering_RawWater100.jobString>生水を採取中。</RPC_Gathering_RawWater100.jobString>
+  <RPC_Gathering_RawWater100.label>생수×100</RPC_Gathering_RawWater100.label>
+  <RPC_Gathering_RawWater100.description>생수를 채취합니다.</RPC_Gathering_RawWater100.description>
+  <RPC_Gathering_RawWater100.jobString>생수 채취중</RPC_Gathering_RawWater100.jobString>
 
-  <RPC_Gathering_RawWater100_D.label>生水×100</RPC_Gathering_RawWater100_D.label>
-  <RPC_Gathering_RawWater100_D.description>生水を採取する。</RPC_Gathering_RawWater100_D.description>
-  <RPC_Gathering_RawWater100_D.jobString>生水を採取中。</RPC_Gathering_RawWater100_D.jobString>
+  <RPC_Gathering_RawWater100_D.label>생수×100</RPC_Gathering_RawWater100_D.label>
+  <RPC_Gathering_RawWater100_D.description>생수를 채취합니다.</RPC_Gathering_RawWater100_D.description>
+  <RPC_Gathering_RawWater100_D.jobString>생수 채취중</RPC_Gathering_RawWater100_D.jobString>
 
-  <Make_DrinkingWater10.label>飲料水x10</Make_DrinkingWater10.label>
-  <Make_DrinkingWater10.description>水を煮沸消毒して飲料水にする。</Make_DrinkingWater10.description>
-  <Make_DrinkingWater10.jobString>煮沸消毒中。</Make_DrinkingWater10.jobString>
+  <Make_DrinkingWater10.label>마시는 물x10</Make_DrinkingWater10.label>
+  <Make_DrinkingWater10.description>물을 끓여 마실 물을 만듭니다.</Make_DrinkingWater10.description>
+  <Make_DrinkingWater10.jobString>물 끓이는 중</Make_DrinkingWater10.jobString>
 
-  <Make_DrinkingWater50.label>飲料水x50</Make_DrinkingWater50.label>
-  <Make_DrinkingWater50.description>水を煮沸消毒して飲料水にする。</Make_DrinkingWater50.description>
-  <Make_DrinkingWater50.jobString>煮沸消毒中。</Make_DrinkingWater50.jobString>
+  <Make_DrinkingWater50.label>마시는 물x50</Make_DrinkingWater50.label>
+  <Make_DrinkingWater50.description>물을 끓여 마실 물을 만듭니다.</Make_DrinkingWater50.description>
+  <Make_DrinkingWater50.jobString>물 끓이는 중</Make_DrinkingWater50.jobString>
 
-  <Make_Water10.label>水x10</Make_Water10.label>
-  <Make_Water10.description>氷を溶かして水にする。</Make_Water10.description>
-  <Make_Water10.jobString>水を作成中。</Make_Water10.jobString>
+  <Make_Water10.label>물x10</Make_Water10.label>
+  <Make_Water10.description>얼음을 녹여 물을 얻습니다.</Make_Water10.description>
+  <Make_Water10.jobString>얼음 녹이는중</Make_Water10.jobString>
 
-  <Make_Water50.label>水x50</Make_Water50.label>
-  <Make_Water50.description>氷を溶かして水にする。</Make_Water50.description>
-  <Make_Water50.jobString>水を作成中。</Make_Water50.jobString>
+  <Make_Water50.label>물x50</Make_Water50.label>
+  <Make_Water50.description>얼음을 녹여 물을 얻습니다.</Make_Water50.description>
+  <Make_Water50.jobString>얼음 녹이는중</Make_Water50.jobString>
 
 
 </LanguageData>
