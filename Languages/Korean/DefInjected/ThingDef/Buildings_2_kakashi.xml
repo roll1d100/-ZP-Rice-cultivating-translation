@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPMOD_Kakashi.label>豊穣のカカシ</ZPMOD_Kakashi.label>
-  <ZPMOD_Kakashi.description>【燃料:おにぎり類,酒類,餅類,煎餅,おこし 効果:肥沃度30%up,範囲:9×9,効果重複】\n豊穣の神が宿っているかかし。周囲の作物の生長を促してくれる。お供え物がある間は効果は持続する、なくなると役目を果たして自壊する。\n注意!!→かかしの効果範囲の土壌をテラフォームした場合は再設置が必要です。水田と水耕栽培機,大型植木鉢は恩恵を受けれません。</ZPMOD_Kakashi.description>
+  <ZPMOD_Kakashi.label>풍요의 허수아비</ZPMOD_Kakashi.label>
+  <ZPMOD_Kakashi.description>[연료: 주먹밥류, 주류, 떡류, 전병, 쌀강정 燃料:おにぎり類,酒類,餅類,煎餅,おこし 효과: 비옥도 30%up, 범위: 9×9, 효과 중복]\n풍요의 신이 깃들어 있는 허수아비입니다.주위 작물의 생장을 촉진시켜 줍니다.제물이 있는 동안은 효과는 지속되고, 없어지면 역할을 다해 사라집니다.\n주의!!→허수아비 효과 범위의 토양을 테라폼한 경우 재설치가 필요합니다.논과 수경재배기, 대형 화분은 혜택을 받을 수 없어요.</ZPMOD_Kakashi.description>
 
 
 </LanguageData>
