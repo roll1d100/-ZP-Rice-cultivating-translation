@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
   <!-- Firing Kiln -->
-  <ContainsProducts>内容物 {0} / {1} </ContainsProducts>
-  <ContainsMaterial>内容物 {0} / {1} </ContainsMaterial>
-  <Baked>作製完了</Baked>
-  <BakingProgress>完成度: {0} (残り{1})</BakingProgress>
-  <BakingProgressWithNoFuel>完成度: {0}</BakingProgressWithNoFuel>
-  <BakengNoFuel>燃料切れにより停止中</BakengNoFuel>
+  <ContainsProducts>내용물 {0} / {1} </ContainsProducts>
+  <ContainsMaterial>내용물 {0} / {1} </ContainsMaterial>
+  <Baked>제작완료</Baked>
+  <BakingProgress>완성도: {0} (残り{1})</BakingProgress>
+  <BakingProgressWithNoFuel>완성도: {0}</BakingProgressWithNoFuel>
+  <BakengNoFuel>연료 부족에 의해 정지 중</BakengNoFuel>
 
 
 </LanguageData>
