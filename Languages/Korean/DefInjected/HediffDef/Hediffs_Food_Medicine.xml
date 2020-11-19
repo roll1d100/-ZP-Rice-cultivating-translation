@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_MedicineLv1.label>医術の心得Lv.1</Hediffs_MedicineLv1.label>
-  <Hediffs_MedicineLv1.description>Tips13:簡単な食事、嗜好品、加工食品でもLv1,2の能力上昇バフが発動するものがある。</Hediffs_MedicineLv1.description>
+  <Hediffs_MedicineLv1.label>의료의 깨달음Lv.1</Hediffs_MedicineLv1.label>
+  <Hediffs_MedicineLv1.description>Tips13:간단한 식사, 기호품, 가공식품에서도 Lv1,2의 능력상승 버프가 발동하는 것이 있습니다.</Hediffs_MedicineLv1.description>
   <Hediffs_MedicineLv1.stages.0.label></Hediffs_MedicineLv1.stages.0.label>
 
-  <Hediffs_MedicineLv2.label>医術の心得Lv.2</Hediffs_MedicineLv2.label>
-  <Hediffs_MedicineLv2.description>Tips15:バフの種類は建築、料理、動物、農業、採掘、医術、研究、工芸、社交がある。</Hediffs_MedicineLv2.description>
+  <Hediffs_MedicineLv2.label>의료의 깨달음Lv.2</Hediffs_MedicineLv2.label>
+  <Hediffs_MedicineLv2.description>Tips15:버프의 종류는 건축, 요리, 조련, 재배, 채굴, 의료, 연구, 제작, 사교가 있습니다.</Hediffs_MedicineLv2.description>
   <Hediffs_MedicineLv2.stages.0.label></Hediffs_MedicineLv2.stages.0.label>
 
-  <Hediffs_Medicine.label>医術の心得</Hediffs_Medicine.label>
-  <Hediffs_Medicine.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Medicine.description>
+  <Hediffs_Medicine.label>의료의 깨달음</Hediffs_Medicine.label>
+  <Hediffs_Medicine.description>세상 모든 식재에 감사를 담아 잘 먹겠습니다! \n먹으며 배운 지식을 활용합니다.</Hediffs_Medicine.description>
   <Hediffs_Medicine.stages.0.label>initial</Hediffs_Medicine.stages.0.label>
   <Hediffs_Medicine.stages.1.label>Lv.3</Hediffs_Medicine.stages.1.label>
   <Hediffs_Medicine.stages.2.label>Lv.4 Max</Hediffs_Medicine.stages.2.label>
