@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <MakeFirewood.label>薪割りx10</MakeFirewood.label>
-  <MakeFirewood.description>木材を薪に加工する</MakeFirewood.description>
-  <MakeFirewood.jobString>薪割りをする</MakeFirewood.jobString>
+  <MakeFirewood.label>장작x10</MakeFirewood.label>
+  <MakeFirewood.description>목재를 장작으로 만듭니다.</MakeFirewood.description>
+  <MakeFirewood.jobString>장작 패는중</MakeFirewood.jobString>
 
-  <MakeFirewood2nd.label>薪割りx50</MakeFirewood2nd.label>
-  <MakeFirewood2nd.description>木材を薪に加工する</MakeFirewood2nd.description>
-  <MakeFirewood2nd.jobString>薪割りをする</MakeFirewood2nd.jobString>
+  <MakeFirewood2nd.label>장작x50</MakeFirewood2nd.label>
+  <MakeFirewood2nd.description>목재를 장작으로 만듭니다.</MakeFirewood2nd.description>
+  <MakeFirewood2nd.jobString>장작 패는중</MakeFirewood2nd.jobString>
 
-  <MakeFirewood3rd.label>薪割りx100</MakeFirewood3rd.label>
-  <MakeFirewood3rd.description>木材を薪に加工する</MakeFirewood3rd.description>
-  <MakeFirewood3rd.jobString>薪割りをする</MakeFirewood3rd.jobString>
+  <MakeFirewood3rd.label>장작x100</MakeFirewood3rd.label>
+  <MakeFirewood3rd.description>목재를 장작으로 만듭니다.</MakeFirewood3rd.description>
+  <MakeFirewood3rd.jobString>장작 패는중</MakeFirewood3rd.jobString>
 
 
 </LanguageData>
