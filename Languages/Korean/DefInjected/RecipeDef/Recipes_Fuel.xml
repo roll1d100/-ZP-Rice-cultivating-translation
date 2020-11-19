@@ -3,21 +3,21 @@
 
   <!-- 燃料作成 -->
 
-  <MakeMomigalite10.label>モミガライトx10</MakeMomigalite10.label>
-  <MakeMomigalite10.description>籾殻を燃料に加工する</MakeMomigalite10.description>
-  <MakeMomigalite10.jobString>モミガライトを作成中。</MakeMomigalite10.jobString>
+  <MakeMomigalite10.label>왕겨 장작x10</MakeMomigalite10.label>
+  <MakeMomigalite10.description>왕겨를 연료로 가공합니다.</MakeMomigalite10.description>
+  <MakeMomigalite10.jobString>왕겨장작 만드는 중</MakeMomigalite10.jobString>
 
-  <MakeMomigalite50.label>モミガライトx50</MakeMomigalite50.label>
-  <MakeMomigalite50.description>籾殻を燃料に加工する</MakeMomigalite50.description>
-  <MakeMomigalite50.jobString>モミガライトを作成中。</MakeMomigalite50.jobString>
+  <MakeMomigalite50.label>왕겨 장작x50</MakeMomigalite50.label>
+  <MakeMomigalite50.description>왕겨를 연료로 가공합니다.</MakeMomigalite50.description>
+  <MakeMomigalite50.jobString>왕겨장작 만드는 중</MakeMomigalite50.jobString>
 
-  <MakeMomigalite100.label>モミガライトx100</MakeMomigalite100.label>
-  <MakeMomigalite100.description>籾殻を燃料に加工する</MakeMomigalite100.description>
-  <MakeMomigalite100.jobString>モミガライトを作成中。</MakeMomigalite100.jobString>
+  <MakeMomigalite100.label>왕겨 장작x100</MakeMomigalite100.label>
+  <MakeMomigalite100.description>왕겨를 연료로 가공합니다.</MakeMomigalite100.description>
+  <MakeMomigalite100.jobString>왕겨장작 만드는 중</MakeMomigalite100.jobString>
 
-  <MakeChemfuelFromRice.label>液化燃料を精製(藁、副産物袋)</MakeChemfuelFromRice.label>
-  <MakeChemfuelFromRice.description>藁や副産物袋をガス化することでバイオ液化燃料を作成します。</MakeChemfuelFromRice.description>
-  <MakeChemfuelFromRice.jobString>藁を精製中</MakeChemfuelFromRice.jobString>
+  <MakeChemfuelFromRice.label>액화연료를 정제(짚, 부산물 봉지)</MakeChemfuelFromRice.label>
+  <MakeChemfuelFromRice.description>짚이나 부산물 봉지를 가스화하는 것을 통해 바이오 액화 연료를 작성합니다.</MakeChemfuelFromRice.description>
+  <MakeChemfuelFromRice.jobString>부산물 정제중</MakeChemfuelFromRice.jobString>
 
 
 </LanguageData>
