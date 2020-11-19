@@ -3,32 +3,32 @@
 
   <!-- 副産物なし -->
 
-  <MakeIPTWhiteRiceN300.label>N:稲穂を白米にするx300</MakeIPTWhiteRiceN300.label>
-  <MakeIPTWhiteRiceN300.description>稲穂を脱穀精米して白米にする。副産物は粉砕して消滅させる。</MakeIPTWhiteRiceN300.description>
-  <MakeIPTWhiteRiceN300.jobString>脱穀精米中</MakeIPTWhiteRiceN300.jobString>
+  <MakeIPTWhiteRiceN300.label>N:벼 이삭을 백미로x300</MakeIPTWhiteRiceN300.label>
+  <MakeIPTWhiteRiceN300.description>벼이삭을 탈곡정미하여 백미로 만듭니다. 부산물은 분쇄하여 소멸시킵니다.</MakeIPTWhiteRiceN300.description>
+  <MakeIPTWhiteRiceN300.jobString>탈곡정미중</MakeIPTWhiteRiceN300.jobString>
 
-  <MakeIPTBrownRiceN300.label>N:稲穂を玄米にするx300</MakeIPTBrownRiceN300.label>
-  <MakeIPTBrownRiceN300.description>稲穂を脱穀精米して玄米にする。副産物は粉砕して消滅させる。</MakeIPTBrownRiceN300.description>
-  <MakeIPTBrownRiceN300.jobString>脱穀精米中</MakeIPTBrownRiceN300.jobString>
+  <MakeIPTBrownRiceN300.label>N:벼 이삭을 백미로x300</MakeIPTBrownRiceN300.label>
+  <MakeIPTBrownRiceN300.description>벼이삭을 탈곡정미하여 현미로 만듭니다. 부산물은 분쇄하여 소멸시킵니다.</MakeIPTBrownRiceN300.description>
+  <MakeIPTBrownRiceN300.jobString>탈곡정미중</MakeIPTBrownRiceN300.jobString>
 
-  <MakeITGlutinousMomiN300.label>N:稲穂(もち米)をもち米にするx300</MakeITGlutinousMomiN300.label>
-  <MakeITGlutinousMomiN300.description>稲穂を脱穀精米してもち米にする。副産物は粉砕して消滅させる。</MakeITGlutinousMomiN300.description>
-  <MakeITGlutinousMomiN300.jobString>脱穀精米中</MakeITGlutinousMomiN300.jobString>
+  <MakeITGlutinousMomiN300.label>N:벼 이삭(찹쌀)을 찹쌀로x300</MakeITGlutinousMomiN300.label>
+  <MakeITGlutinousMomiN300.description>벼이삭을 탈곡정미하여 찹쌀로 만듭니다. 부산물은 분쇄하여 소멸시킵니다.</MakeITGlutinousMomiN300.description>
+  <MakeITGlutinousMomiN300.jobString>탈곡정미중</MakeITGlutinousMomiN300.jobString>
 
 
   <!-- バイオ科学燃料 -->
 
-  <MakeIPTWhiteRiceC300.label>C:稲穂を白米にするx300</MakeIPTWhiteRiceC300.label>
-  <MakeIPTWhiteRiceC300.description>稲穂を脱穀精米して白米にする。副産物は少量のバイオ科学燃料に変換される。</MakeIPTWhiteRiceC300.description>
-  <MakeIPTWhiteRiceC300.jobString>脱穀精米中</MakeIPTWhiteRiceC300.jobString>
+  <MakeIPTWhiteRiceC300.label>C:벼 이삭을 백미로x300</MakeIPTWhiteRiceC300.label>
+  <MakeIPTWhiteRiceC300.description>벼이삭을 탈곡정미하여 백미로 만듭니다. 부산물을 소량의 바이오 연료로 변환합니다.</MakeIPTWhiteRiceC300.description>
+  <MakeIPTWhiteRiceC300.jobString>탈곡정미중</MakeIPTWhiteRiceC300.jobString>
 
-  <MakeITGlutinousMomiC300.label>C:稲穂(もち米)をもち米にするx300</MakeITGlutinousMomiC300.label>
-  <MakeITGlutinousMomiC300.description>稲穂を脱穀精米してもち米にする。副産物は少量のバイオ科学燃料に変換される。</MakeITGlutinousMomiC300.description>
-  <MakeITGlutinousMomiC300.jobString>脱穀精米中</MakeITGlutinousMomiC300.jobString>
+  <MakeITGlutinousMomiC300.label>C:벼 이삭(찹쌀)을 찹쌀로x300</MakeITGlutinousMomiC300.label>
+  <MakeITGlutinousMomiC300.description>벼이삭을 탈곡정미하여 찹쌀로 만듭니다. 부산물을 소량의 바이오 연료로 변환합니다.</MakeITGlutinousMomiC300.description>
+  <MakeITGlutinousMomiC300.jobString>탈곡정미중</MakeITGlutinousMomiC300.jobString>
 
-  <MakeIPTBrownRiceC300.label>C:稲穂を玄米にする(200)</MakeIPTBrownRiceC300.label>
-  <MakeIPTBrownRiceC300.description>稲穂を脱穀精米して玄米にする。副産物は少量のバイオ科学燃料に変換される。</MakeIPTBrownRiceC300.description>
-  <MakeIPTBrownRiceC300.jobString>脱穀精米中</MakeIPTBrownRiceC300.jobString>
+  <MakeIPTBrownRiceC300.label>C:벼 이삭을 현미로(200)</MakeIPTBrownRiceC300.label>
+  <MakeIPTBrownRiceC300.description>벼이삭을 탈곡정미하여 현미로 만듭니다. 부산물을 소량의 바이오 연료로 변환합니다.</MakeIPTBrownRiceC300.description>
+  <MakeIPTBrownRiceC300.jobString>탈곡정미중</MakeIPTBrownRiceC300.jobString>
 
 
 </LanguageData>
