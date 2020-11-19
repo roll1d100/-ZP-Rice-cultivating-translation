@@ -2,7 +2,7 @@
 <LanguageData>
 
   <ZP_Amazake.label>감주</ZP_Amazake.label>
-  <ZP_Amazake.description>일본의 전통적인 감미 음료로 설날이나 축제 때 선보입니다.\n겉모습은 희고 혼탁해서 단죽이라고 부릅니다.영양이 풍부해 여름에는 차갑게, 더위 대책으로 겨울에는 따뜻하게 데워 감기 예방으로 활약하는 건강 음료이기도 합니다.</ZP_Amazake.description>
+  <ZP_Amazake.description>일본의 전통적인 감미 음료로 설날이나 축제 때 선보입니다.\n겉모습은 희고 혼탁하며 식혜라고 부릅니다.영양이 풍부해 여름에는 차갑게, 더위 대책으로 겨울에는 따뜻하게 데워 감기 예방으로 활약하는 건강 음료이기도 합니다.</ZP_Amazake.description>
   <ZP_Amazake.ingestible.ingestCommandString>Drink {0}</ZP_Amazake.ingestible.ingestCommandString>
   <ZP_Amazake.ingestible.ingestReportString>Drinking {0}.</ZP_Amazake.ingestible.ingestReportString>
 
