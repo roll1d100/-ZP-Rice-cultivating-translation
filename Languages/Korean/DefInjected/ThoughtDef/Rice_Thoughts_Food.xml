@@ -3,41 +3,41 @@
 
   <!-- ジャムトースト -->
 
-  <AteFoodJamToast.stages.0.label>ちょっとした贅沢</AteFoodJamToast.stages.0.label>
-  <AteFoodJamToast.stages.0.description>味付けしたトーストは更に美味しい</AteFoodJamToast.stages.0.description>
+  <AteFoodJamToast.stages.0.label>약간 사치로워</AteFoodJamToast.stages.0.label>
+  <AteFoodJamToast.stages.0.description>이 잼토스트 정말 맛있네!</AteFoodJamToast.stages.0.description>
 
 
   <!-- 嗜好品 -->
 
-  <AteFoodBreaktime.stages.0.label>至福の時</AteFoodBreaktime.stages.0.label>
-  <AteFoodBreaktime.stages.0.description>間食の時間だけは邪魔されたくない。</AteFoodBreaktime.stages.0.description>
+  <AteFoodBreaktime.stages.0.label>행복한 한때</AteFoodBreaktime.stages.0.label>
+  <AteFoodBreaktime.stages.0.description>간식시간은 방해받고 싶지 않은걸.</AteFoodBreaktime.stages.0.description>
 
 
   <!-- 簡単+0 白米 -->
 
-  <RiceAteMealSimple.stages.0.label>美味しい白米を食べた!!</RiceAteMealSimple.stages.0.label>
-  <RiceAteMealSimple.stages.0.description>自家製白米が食べられて幸せだ</RiceAteMealSimple.stages.0.description>
+  <RiceAteMealSimple.stages.0.label>백미를 먹었어!!</RiceAteMealSimple.stages.0.label>
+  <RiceAteMealSimple.stages.0.description>직접 키운 백미를 먹어서 행복해.</RiceAteMealSimple.stages.0.description>
 
 
   <!-- 手の込んだ+5 -->
 
-  <RiceAteFineMeal.stages.0.label>美味しい白米を食べた!!</RiceAteFineMeal.stages.0.label>
-  <RiceAteFineMeal.stages.0.description>自家製白米を使った手の込んだ料理が食べられて幸せだ</RiceAteFineMeal.stages.0.description>
+  <RiceAteFineMeal.stages.0.label>좋은 백미를 먹었어!!</RiceAteFineMeal.stages.0.label>
+  <RiceAteFineMeal.stages.0.description>직접 키운 백미로 만든 요리를 먹어서 행복해</RiceAteFineMeal.stages.0.description>
 
 
   <!-- 豪華+10 -->
 
-  <RiceAteLavishMeal.stages.0.label>美味しい白米を食べた!!</RiceAteLavishMeal.stages.0.label>
-  <RiceAteLavishMeal.stages.0.description>最高に美味しい自家製白米を使った豪華な料理が食べられて幸せだ</RiceAteLavishMeal.stages.0.description>
+  <RiceAteLavishMeal.stages.0.label> 최고의 백미를 먹었어!!</RiceAteLavishMeal.stages.0.label>
+  <RiceAteLavishMeal.stages.0.description>직접 키운 백미로 정말 맛있는 요리를 먹어서 행복해.</RiceAteLavishMeal.stages.0.description>
 
-  <AteCurryRice.stages.0.label>カレーライス最高!!</AteCurryRice.stages.0.label>
-  <AteCurryRice.stages.0.description>具材をかえ食べ方を変えれば、毎日違う味を楽しめる!!</AteCurryRice.stages.0.description>
+  <AteCurryRice.stages.0.label>카레 최고!!</AteCurryRice.stages.0.label>
+  <AteCurryRice.stages.0.description>맛이 입안에서 춤추는 것 같아. 또 먹어야겠어!!</AteCurryRice.stages.0.description>
 
 
   <!-- add 1.1 -->
 
-  <RiceDrinkWater.stages.0.label>おいしい水</RiceDrinkWater.stages.0.label>
-  <RiceDrinkWater.stages.0.description>安心安全なきれいな水を飲めた。</RiceDrinkWater.stages.0.description>
+  <RiceDrinkWater.stages.0.label>맛있는 물</RiceDrinkWater.stages.0.label>
+  <RiceDrinkWater.stages.0.description>안전하고 맛있는 물을 마셨어.</RiceDrinkWater.stages.0.description>
 
 
 </LanguageData>
