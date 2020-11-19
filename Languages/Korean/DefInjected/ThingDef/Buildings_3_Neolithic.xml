@@ -8,7 +8,7 @@
   <ZP_RiceCraftingSpot_Frame.description> 농작물이나 부산물을 가공하는 전용 작업장</ZRiceCraftingSpot_Frame.description>
 
   <ZP_Pestle And Mortar.label> 절구</ZP_PestleAndMortar.label>
-  <ZP_Pestle And Mortar.description 절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다.</ZP_PestleAndMortar.description>
+  <ZP_Pestle And Mortar.description 절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다. </ZP_PestleAndMortar.description>
   <ZP_PestleAndMortar_Blueprint.label> 절구(blueprint)</ZP_PestleAndMortar_Blueprint.label>
   <ZP_PestleAndMortar_Blueprint_Install.label> 절구(blueprint) </ZP_PestleAndMortar_Blueprint_Install.label>
   <ZP_PestleAndMortar_Frame.label>절구(building)</ZP_PestleAndMortar_Frame.label>
