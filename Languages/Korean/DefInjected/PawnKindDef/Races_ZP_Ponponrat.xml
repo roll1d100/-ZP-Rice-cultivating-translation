@@ -3,30 +3,30 @@
 
   <!-- ポン菓子ロープ -->
 
-  <ZP_Ponponrat.label>Pomb rat</ZP_Ponponrat.label>
-  <ZP_Ponponrat.labelPlural>Pomb rats</ZP_Ponponrat.labelPlural>
-  <ZP_Ponponrat.labelMale>male Pomb rat</ZP_Ponponrat.labelMale>
-  <ZP_Ponponrat.labelMalePlural>male Pomb rats</ZP_Ponponrat.labelMalePlural>
-  <ZP_Ponponrat.labelFemale>female Pomb rat</ZP_Ponponrat.labelFemale>
-  <ZP_Ponponrat.labelFemalePlural>female Pomb rats</ZP_Ponponrat.labelFemalePlural>
-  <ZP_Ponponrat.lifeStages.0.label>Pomb rat</ZP_Ponponrat.lifeStages.0.label>
-  <ZP_Ponponrat.lifeStages.0.labelPlural>Pomb rat</ZP_Ponponrat.lifeStages.0.labelPlural>
-  <ZP_Ponponrat.lifeStages.0.labelMale>male Pomb rat</ZP_Ponponrat.lifeStages.0.labelMale>
-  <ZP_Ponponrat.lifeStages.0.labelMalePlural>male Pomb rats</ZP_Ponponrat.lifeStages.0.labelMalePlural>
-  <ZP_Ponponrat.lifeStages.0.labelFemale>female Pomb rat</ZP_Ponponrat.lifeStages.0.labelFemale>
-  <ZP_Ponponrat.lifeStages.0.labelFemalePlural>female Pomb rats</ZP_Ponponrat.lifeStages.0.labelFemalePlural>
-  <ZP_Ponponrat.lifeStages.1.label>Pomb rat</ZP_Ponponrat.lifeStages.1.label>
-  <ZP_Ponponrat.lifeStages.1.labelPlural>Pomb rat</ZP_Ponponrat.lifeStages.1.labelPlural>
-  <ZP_Ponponrat.lifeStages.1.labelMale>male Pomb rat</ZP_Ponponrat.lifeStages.1.labelMale>
-  <ZP_Ponponrat.lifeStages.1.labelMalePlural>male Pomb rats</ZP_Ponponrat.lifeStages.1.labelMalePlural>
-  <ZP_Ponponrat.lifeStages.1.labelFemale>female Pomb rat</ZP_Ponponrat.lifeStages.1.labelFemale>
-  <ZP_Ponponrat.lifeStages.1.labelFemalePlural>female Pomb rats</ZP_Ponponrat.lifeStages.1.labelFemalePlural>
-  <ZP_Ponponrat.lifeStages.2.label>Pomb rat</ZP_Ponponrat.lifeStages.2.label>
-  <ZP_Ponponrat.lifeStages.2.labelPlural>Pomb rat</ZP_Ponponrat.lifeStages.2.labelPlural>
-  <ZP_Ponponrat.lifeStages.2.labelMale>male Pomb rat</ZP_Ponponrat.lifeStages.2.labelMale>
-  <ZP_Ponponrat.lifeStages.2.labelMalePlural>male Pomb rats</ZP_Ponponrat.lifeStages.2.labelMalePlural>
-  <ZP_Ponponrat.lifeStages.2.labelFemale>female Pomb rat</ZP_Ponponrat.lifeStages.2.labelFemale>
-  <ZP_Ponponrat.lifeStages.2.labelFemalePlural>female Pomb rats</ZP_Ponponrat.lifeStages.2.labelFemalePlural>
+  <ZP_Ponponrat.label>퐁퐁 쥐</ZP_Ponponrat.label>
+  <ZP_Ponponrat.labelPlural>퐁퐁 쥐들</ZP_Ponponrat.labelPlural>
+  <ZP_Ponponrat.labelMale>male 퐁퐁 쥐</ZP_Ponponrat.labelMale>
+  <ZP_Ponponrat.labelMalePlural>수컷 퐁퐁 쥐들</ZP_Ponponrat.labelMalePlural>
+  <ZP_Ponponrat.labelFemale>암컷 퐁퐁 쥐</ZP_Ponponrat.labelFemale>
+  <ZP_Ponponrat.labelFemalePlural>암컷 퐁퐁 쥐들</ZP_Ponponrat.labelFemalePlural>
+  <ZP_Ponponrat.lifeStages.0.label>퐁퐁 쥐</ZP_Ponponrat.lifeStages.0.label>
+  <ZP_Ponponrat.lifeStages.0.labelPlural>퐁퐁 쥐</ZP_Ponponrat.lifeStages.0.labelPlural>
+  <ZP_Ponponrat.lifeStages.0.labelMale>수컷 퐁퐁 쥐</ZP_Ponponrat.lifeStages.0.labelMale>
+  <ZP_Ponponrat.lifeStages.0.labelMalePlural>수컷 퐁퐁 쥐들</ZP_Ponponrat.lifeStages.0.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.0.labelFemale>암컷 퐁퐁 쥐</ZP_Ponponrat.lifeStages.0.labelFemale>
+  <ZP_Ponponrat.lifeStages.0.labelFemalePlural>암컷 퐁퐁 쥐들</ZP_Ponponrat.lifeStages.0.labelFemalePlural>
+  <ZP_Ponponrat.lifeStages.1.label>퐁퐁 쥐</ZP_Ponponrat.lifeStages.1.label>
+  <ZP_Ponponrat.lifeStages.1.labelPlural>퐁퐁 쥐</ZP_Ponponrat.lifeStages.1.labelPlural>
+  <ZP_Ponponrat.lifeStages.1.labelMale>수컷 퐁퐁 쥐</ZP_Ponponrat.lifeStages.1.labelMale>
+  <ZP_Ponponrat.lifeStages.1.labelMalePlural>수컷 퐁퐁 쥐들</ZP_Ponponrat.lifeStages.1.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.1.labelFemale>암컷 퐁퐁 쥐</ZP_Ponponrat.lifeStages.1.labelFemale>
+  <ZP_Ponponrat.lifeStages.1.labelFemalePlural>암컷 퐁퐁 쥐들</ZP_Ponponrat.lifeStages.1.labelFemalePlural>
+  <ZP_Ponponrat.lifeStages.2.label>퐁퐁 쥐</ZP_Ponponrat.lifeStages.2.label>
+  <ZP_Ponponrat.lifeStages.2.labelPlural>퐁퐁 쥐</ZP_Ponponrat.lifeStages.2.labelPlural>
+  <ZP_Ponponrat.lifeStages.2.labelMale>수컷 퐁퐁 쥐</ZP_Ponponrat.lifeStages.2.labelMale>
+  <ZP_Ponponrat.lifeStages.2.labelMalePlural>수컷 퐁퐁 쥐들</ZP_Ponponrat.lifeStages.2.labelMalePlural>
+  <ZP_Ponponrat.lifeStages.2.labelFemale>암컷 퐁퐁 쥐</ZP_Ponponrat.lifeStages.2.labelFemale>
+  <ZP_Ponponrat.lifeStages.2.labelFemalePlural>암컷 퐁퐁 쥐들</ZP_Ponponrat.lifeStages.2.labelFemalePlural>
 
 
 </LanguageData>
