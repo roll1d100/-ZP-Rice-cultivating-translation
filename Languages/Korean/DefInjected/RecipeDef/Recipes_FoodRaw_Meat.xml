@@ -47,8 +47,8 @@
   <Prep_Tofu50.jobString>두부 만드는중</Prep_Tofu50.jobString>
 
   <Prep_Tofu100.label>두부x100</Prep_Tofu100.label>
-  <Prep_Tofu100.description>豆乳を使って豆腐を作る</Prep_Tofu100.description>
-  <Prep_Tofu100.jobString>豆腐を作成中。</Prep_Tofu100.jobString>
+  <Prep_Tofu100.description>두유를 사용해 두부를 만듭니다.</Prep_Tofu100.description>
+  <Prep_Tofu100.jobString>두부 만드는중</Prep_Tofu100.jobString>
 
   <Prep_Tikuwa10.label>어묵x10</Prep_Tikuwa10.label>
   <Prep_Tikuwa10.description>생선을 갈아 어묵을 만듭니다.</Prep_Tikuwa10.description>
