@@ -3,9 +3,9 @@
 
   <!-- add 1.1 -->
 
-  <Make_JunmaiSakeMoromi.label>もろみ(純米酒)×25</Make_JunmaiSakeMoromi.label>
-  <Make_JunmaiSakeMoromi.description>純米酒の原料であるもろみ(純米酒)を作る。</Make_JunmaiSakeMoromi.description>
-  <Make_JunmaiSakeMoromi.jobString>もろみ(純米酒)を作成中。</Make_JunmaiSakeMoromi.jobString>
+  <Make_JunmaiSakeMoromi.label>모주(준마이 사케)×25</Make_JunmaiSakeMoromi.label>
+  <Make_JunmaiSakeMoromi.description>준마이 사케의 원료인 모주(준마이 사케)를 만든다.</Make_JunmaiSakeMoromi.description>
+  <Make_JunmaiSakeMoromi.jobString>모주(준마이 사케)를 만드는 중.</Make_JunmaiSakeMoromi.jobString>
 
 
 </LanguageData>
