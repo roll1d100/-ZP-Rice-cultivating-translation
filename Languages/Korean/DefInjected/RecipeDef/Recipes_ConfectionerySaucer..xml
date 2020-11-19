@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookZP_ConfectionerySaucer.label>菓子皿</CookZP_ConfectionerySaucer.label>
-  <CookZP_ConfectionerySaucer.description>【注意!!⇒家具です。】\nお菓子の盛り合わせ。作業台や椅子、ベッドの近くに置くことで、いつでもお菓子が食べれるようになり作業速度、快適度が上がる。</CookZP_ConfectionerySaucer.description>
-  <CookZP_ConfectionerySaucer.jobString>菓子皿を作成中。</CookZP_ConfectionerySaucer.jobString>
+  <CookZP_ConfectionerySaucer.label>과자접시</CookZP_ConfectionerySaucer.label>
+  <CookZP_ConfectionerySaucer.description>[주의!!] 가구입니다.\n모듬 과자입니다.작업대나 의자, 침대 가까이에 두면 언제든지 과자를 먹을 수 있게 되어 작업 속도, 쾌적도가 높아집니다.</CookZP_ConfectionerySaucer.description>
+  <CookZP_ConfectionerySaucer.jobString>과자접시를 만드는중</CookZP_ConfectionerySaucer.jobString>
 
 
 </LanguageData>
