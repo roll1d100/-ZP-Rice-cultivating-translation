@@ -1,37 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Thresh_Polish.label>脱穀精米</Thresh_Polish.label>
+  <Thresh_Polish.label>타작정미</Thresh_Polish.label>
   <Thresh_Polish.verb>thresh and polish</Thresh_Polish.verb>
   <Thresh_Polish.gerund>threshing and polishing</Thresh_Polish.gerund>
 
-  <Threshing_Husk.label>脱穀</Threshing_Husk.label>
+  <Threshing_Husk.label>타작</Threshing_Husk.label>
   <Threshing_Husk.verb>thresh</Threshing_Husk.verb>
   <Threshing_Husk.gerund>threshing</Threshing_Husk.gerund>
 
-  <Process_Rice.label>精米</Process_Rice.label>
+  <Process_Rice.label>정미</Process_Rice.label>
   <Process_Rice.verb>process</Process_Rice.verb>
   <Process_Rice.gerund>processing</Process_Rice.gerund>
 
-  <DoBillsRiceCook.label>米料理</DoBillsRiceCook.label>
+  <DoBillsRiceCook.label>쌀 요리</DoBillsRiceCook.label>
   <DoBillsRiceCook.verb>cook</DoBillsRiceCook.verb>
   <DoBillsRiceCook.gerund>cooking at</DoBillsRiceCook.gerund>
 
-  <DoBillsRicePreparation.label>下拵え</DoBillsRicePreparation.label>
+  <DoBillsRicePreparation.label>사전 조리</DoBillsRicePreparation.label>
   <DoBillsRicePreparation.verb>cook</DoBillsRicePreparation.verb>
   <DoBillsRicePreparation.gerund>cooking at</DoBillsRicePreparation.gerund>
 
-  <DoBillsUseRiceCraftingSpot.label>農作物を加工</DoBillsUseRiceCraftingSpot.label>
+  <DoBillsUseRiceCraftingSpot.label>농작물을 가공</DoBillsUseRiceCraftingSpot.label>
   <DoBillsUseRiceCraftingSpot.verb>craft</DoBillsUseRiceCraftingSpot.verb>
   <DoBillsUseRiceCraftingSpot.gerund>crafting at</DoBillsUseRiceCraftingSpot.gerund>
 
-  <FK_WorkGiver_FillFiringKiln.label>TargetA に搬入する</FK_WorkGiver_FillFiringKiln.label>
-  <FK_WorkGiver_FillFiringKiln.gerund>に搬入する</FK_WorkGiver_FillFiringKiln.gerund>
-  <FK_WorkGiver_FillFiringKiln.verb>搬入</FK_WorkGiver_FillFiringKiln.verb>
+  <FK_WorkGiver_FillFiringKiln.label>TargetA 에 넣다</FK_WorkGiver_FillFiringKiln.label>
+  <FK_WorkGiver_FillFiringKiln.gerund>에 넣다</FK_WorkGiver_FillFiringKiln.gerund>
+  <FK_WorkGiver_FillFiringKiln.verb>넣다</FK_WorkGiver_FillFiringKiln.verb>
 
-  <FK_WorkGiver_TakeOutOfFiringKiln.label>TargetA から取り出す</FK_WorkGiver_TakeOutOfFiringKiln.label>
-  <FK_WorkGiver_TakeOutOfFiringKiln.gerund>から取り出す</FK_WorkGiver_TakeOutOfFiringKiln.gerund>
-  <FK_WorkGiver_TakeOutOfFiringKiln.verb>取り出し</FK_WorkGiver_TakeOutOfFiringKiln.verb>
+  <FK_WorkGiver_TakeOutOfFiringKiln.label>TargetA 에서 꺼내다</FK_WorkGiver_TakeOutOfFiringKiln.label>
+  <FK_WorkGiver_TakeOutOfFiringKiln.gerund>에서 꺼내다</FK_WorkGiver_TakeOutOfFiringKiln.gerund>
+  <FK_WorkGiver_TakeOutOfFiringKiln.verb>꺼내다</FK_WorkGiver_TakeOutOfFiringKiln.verb>
 
 
 </LanguageData>
