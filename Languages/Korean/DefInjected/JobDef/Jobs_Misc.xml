@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <LanguageData>
-  <FK_FillFiringKiln.reportString>TargetA に投入している</FK_FillFiringKiln.reportString>
-  <FK_TakeOutOfFiringKiln.reportString>TargetA から取り出している</FK_TakeOutOfFiringKiln.reportString>
+  <FK_FillFiringKiln.reportString>TargetA 에 넣는다</FK_FillFiringKiln.reportString>
+  <FK_TakeOutOfFiringKiln.reportString>TargetA 에서 꺼낸다</FK_TakeOutOfFiringKiln.reportString>
 </LanguageData>
