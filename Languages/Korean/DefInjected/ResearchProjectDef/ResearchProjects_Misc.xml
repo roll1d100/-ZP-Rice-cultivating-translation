@@ -13,16 +13,16 @@
   <ReZPPrantWetlandRice.description>[재배 skill:6 재배장소: 논]\n논에서 재배할 수 있는 벼입니다.\n성장은 기존의 벼보다 느리지만 수확량이 많기 때문에 안정적으로 재배할 수 있다면 식량에 어려움을 겪지 않을 것입니다.</ReZPPrantWetlandRice.description>
 
   <ReGlutinousRice.label>ZP:찹쌀</ReGlutinousRice.label>
-  <ReGlutinousRice.description>[재배skill：4 재배장소:지면,논]\n밭과 논에서 재배할 수 있는 쫀득한 식감의 벼입니다.\n 방아로 떡을 가공하면 장기 보존도 가능합니다.</ReGlutinousRice.description>
+  <ReGlutinousRice.description>[재배skill：4 재배장소:지면,논]\n밭과 논에서 재배할 수 있는 쫀득한 식감의 벼입니다.\n 방아로 언 모찌를 가공하면 장기 보존도 가능합니다.</ReGlutinousRice.description>
 
   <ReZPSoilImprovement.label>ZP:토양개량</ReZPSoilImprovement.label>
   <ReZPSoilImprovement.description>흙\n[건축skill:3,비옥도:100%]\n농업이 가능한 토양을 연구합니다.\n설치장소: 흙, 이끼 낀 흙, 습지, 기름진 흙, 자갈.\n\n기름진 흙\n[건축skill:3, 비옥도:140%]\n작물을 더 많이 수확하기 위해 기름진 흙을 연구합니다.\n설치장소:밭을만들수있는토양입니다農業が可能な土壌を研究する。\n設置場所：土、苔むした土、湿地、肥えた土、砂利。\n\n肥沃土\n【建築skill:3,肥沃度:140%】\n作物をより多く収穫するために肥沃な土壌を研究する。\n設置場所：畑を作れる土壌。</ReZPSoilImprovement.description>
 
   <ReZPSoilImprovement2nd.label>ZP:토양개량 2</ReZPSoilImprovement2nd.label>
-  <ReZPSoilImprovement2nd.description>泥\n진흙\n[건축 skill:5]\n논 작성에 필요한 토양입니다.\n\n자갈\n[건축skill:5,비옥도:70%]\n발판이 좋지 않은 곳을 매립하는 기초 공사로도 사용될 수 있습니다.\n\n인공 얕은 물\n[건축 skill:5]\n수심이 깊은 물을 매립하여 얕은 물을 만듭니다.\n설치장소: 깊은 물.</ReZPSoilImprovement2nd.description>
+  <ReZPSoilImprovement2nd.description>진흙\n[건축 skill:5]\n논 작성에 필요한 토양입니다.\n\n자갈\n[건축skill:5,비옥도:70%]\n발판이 좋지 않은 곳을 매립하는 기초 공사로도 사용될 수 있습니다.\n\n인공 얕은 물\n[건축 skill:5]\n수심이 깊은 물을 매립하여 얕은 물을 만듭니다.\n설치장소: 깊은 물.</ReZPSoilImprovement2nd.description>
 
   <ReZPAgriculturalMachines.label>ZP:농기구(중세시대)</ReZPAgriculturalMachines.label>
-  <ReZPAgriculturalMachines.description>탈곡정미의 전용 농기구인 족답식 탈곡기와 쌀방아를 개발합니다.</ReZPAgriculturalMachines.description>
+  <ReZPAgriculturalMachines.description>탈곡정미 전용 농기구인 족답식 탈곡기와 쌀방아를 개발합니다.</ReZPAgriculturalMachines.description>
 
   <ReZPAgriculturalMachines2nd.label>ZP:농기구(중세시대2)</ReZPAgriculturalMachines2nd.label>
   <ReZPAgriculturalMachines2nd.description>물줄기의 힘을 이용하여 탈곡정미가 가능한 농업용 수차를 개발합니다. </ReZPAgriculturalMachines2nd.description>
