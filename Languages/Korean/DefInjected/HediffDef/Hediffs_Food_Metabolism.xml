@@ -3,16 +3,16 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_MetabolismLv1.label>回復力Lv.1</Hediffs_MetabolismLv1.label>
-  <Hediffs_MetabolismLv1.description>Tips1:同じ種類のバフを持つ食べ物を食べ続けると経験値が貯まる。</Hediffs_MetabolismLv1.description>
+  <Hediffs_MetabolismLv1.label>회복력Lv.1</Hediffs_MetabolismLv1.label>
+  <Hediffs_MetabolismLv1.description>Tips1:같은 종류의 음식을 계속 먹으면 경험치가 쌓입니다.</Hediffs_MetabolismLv1.description>
   <Hediffs_MetabolismLv1.stages.0.label></Hediffs_MetabolismLv1.stages.0.label>
 
-  <Hediffs_MetabolismLv2.label>回復力Lv.2</Hediffs_MetabolismLv2.label>
-  <Hediffs_MetabolismLv2.description>Tips2:能力上昇バフはLv4まで存在する。</Hediffs_MetabolismLv2.description>
+  <Hediffs_MetabolismLv2.label>회복력Lv.2</Hediffs_MetabolismLv2.label>
+  <Hediffs_MetabolismLv2.description>Tips2:능력 상승 버프는 LV4까지 있습니다.</Hediffs_MetabolismLv2.description>
   <Hediffs_MetabolismLv2.stages.0.label></Hediffs_MetabolismLv2.stages.0.label>
 
-  <Hediffs_Metabolism.label>回復力</Hediffs_Metabolism.label>
-  <Hediffs_Metabolism.description>この世の全ての食材に感謝を込めていただきます!\n食べ続けることで犠牲となった命に宿っていた太古の知識を少しづつ獲得して最終的に大きな力となる。</Hediffs_Metabolism.description>
+  <Hediffs_Metabolism.label>회복력</Hediffs_Metabolism.label>
+  <Hediffs_Metabolism.description>세상 모든 식재에 감사를 담아 잘 먹겠습니다! \n먹으며 배운 지식을 활용합니다.</Hediffs_Metabolism.description>
   <Hediffs_Metabolism.stages.0.label>initial</Hediffs_Metabolism.stages.0.label>
   <Hediffs_Metabolism.stages.1.label>Lv.3</Hediffs_Metabolism.stages.1.label>
   <Hediffs_Metabolism.stages.2.label>Lv.4 Max</Hediffs_Metabolism.stages.2.label>
