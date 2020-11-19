@@ -3,60 +3,60 @@
 
   <!-- 肉加工品 0.25 -->
 
-  <Prep_SeasonedMeat10.label>味付け肉x10</Prep_SeasonedMeat10.label>
-  <Prep_SeasonedMeat10.description>調味料で生肉の臭みを消し保存性を少し高めた味付け肉を作る。生でも心情を害することなく食べれます。</Prep_SeasonedMeat10.description>
-  <Prep_SeasonedMeat10.jobString>味付け肉を作成中。</Prep_SeasonedMeat10.jobString>
+  <Prep_SeasonedMeat10.label>양념고기x10</Prep_SeasonedMeat10.label>
+  <Prep_SeasonedMeat10.description>양념으로 생고기의 비린내를 없애고 저장성을 조금 높인 양념육을 만듭니다.생으로도 맛있게 먹을 수 있어요.</Prep_SeasonedMeat10.description>
+  <Prep_SeasonedMeat10.jobString>양념고기 만드는중</Prep_SeasonedMeat10.jobString>
 
   <Prep_SeasonedMeat50.label>味付け肉x50</Prep_SeasonedMeat50.label>
-  <Prep_SeasonedMeat50.description>調味料で生肉の臭みを消し栄養素と保存性を少し高めた味付け肉を作る。生でも心情を害することなく食べれます。</Prep_SeasonedMeat50.description>
-  <Prep_SeasonedMeat50.jobString>味付け肉を作成中。</Prep_SeasonedMeat50.jobString>
+  <Prep_SeasonedMeat50.description>양념으로 생고기의 비린내를 없애고 저장성을 조금 높인 양념육을 만듭니다.생으로도 맛있게 먹을 수 있어요.</Prep_SeasonedMeat50.description>
+  <Prep_SeasonedMeat50.jobString>양념고기 만드는중</Prep_SeasonedMeat50.jobString>
 
 
   <!-- add 1.1 -->
 
-  <Prep_ChoppedMeat10.label>ぶつ切り肉x10</Prep_ChoppedMeat10.label>
-  <Prep_ChoppedMeat10.description>調理しやすいように様々な種類の生肉をぶつ切りにしてまとめる。</Prep_ChoppedMeat10.description>
-  <Prep_ChoppedMeat10.jobString>ぶつ切り肉を作成中。</Prep_ChoppedMeat10.jobString>
+  <Prep_ChoppedMeat10.label>고기 토막x10</Prep_ChoppedMeat10.label>
+  <Prep_ChoppedMeat10.description>조리하기 쉽도록 다양한 종류의 생고기를 토막내어 정리합니다.</Prep_ChoppedMeat10.description>
+  <Prep_ChoppedMeat10.jobString>고기 토막 만드는중</Prep_ChoppedMeat10.jobString>
 
-  <Prep_ChoppedMeat50.label>ぶつ切り肉x50</Prep_ChoppedMeat50.label>
-  <Prep_ChoppedMeat50.description>調理しやすいように様々な種類の生肉をぶつ切りにしてまとめる。</Prep_ChoppedMeat50.description>
-  <Prep_ChoppedMeat50.jobString>ぶつ切り肉を作成中。</Prep_ChoppedMeat50.jobString>
+  <Prep_ChoppedMeat50.label>고기 토막x50</Prep_ChoppedMeat50.label>
+  <Prep_ChoppedMeat50.description>조리하기 쉽도록 다양한 종류의 생고기를 토막내어 정리합니다.</Prep_ChoppedMeat50.description>
+  <Prep_ChoppedMeat50.jobString>고기 토막 만드는중</Prep_ChoppedMeat50.jobString>
 
-  <Prep_ChoppedMeat100.label>ぶつ切り肉x100</Prep_ChoppedMeat100.label>
-  <Prep_ChoppedMeat100.description>調理しやすいように様々な種類の生肉をぶつ切りにしてまとめる。</Prep_ChoppedMeat100.description>
-  <Prep_ChoppedMeat100.jobString>ぶつ切り肉を作成中。</Prep_ChoppedMeat100.jobString>
+  <Prep_ChoppedMeat100.label>고기 토막x100</Prep_ChoppedMeat100.label>
+  <Prep_ChoppedMeat100.description>조리하기 쉽도록 다양한 종류의 생고기를 토막내어 정리합니다.</Prep_ChoppedMeat100.description>
+  <Prep_ChoppedMeat100.jobString>고기 토막 만드는중</Prep_ChoppedMeat100.jobString>
 
-  <Prep_FishFillet.label>魚の切り身x4</Prep_FishFillet.label>
-  <Prep_FishFillet.description>生魚をさばいて切り身にする。</Prep_FishFillet.description>
-  <Prep_FishFillet.jobString>切り身を作成中。</Prep_FishFillet.jobString>
+  <Prep_FishFillet.label>생선 토막x4</Prep_FishFillet.label>
+  <Prep_FishFillet.description>날생선을 손질해 토막냅니다.</Prep_FishFillet.description>
+  <Prep_FishFillet.jobString>생선 토막 만드는중</Prep_FishFillet.jobString>
 
-  <Prep_FishFillet100.label>魚の切り身x100</Prep_FishFillet100.label>
-  <Prep_FishFillet100.description>生魚をさばいて切り身にする。</Prep_FishFillet100.description>
-  <Prep_FishFillet100.jobString>切り身を作成中。</Prep_FishFillet100.jobString>
+  <Prep_FishFillet100.label>생선 토막x100</Prep_FishFillet100.label>
+  <Prep_FishFillet100.description>날생선을 손질해 토막냅니다.</Prep_FishFillet100.description>
+  <Prep_FishFillet100.jobString>생선 토막 만드는중.</Prep_FishFillet100.jobString>
 
-  <Prep_DriedFish50.label>魚の干物(未完成)x50</Prep_DriedFish50.label>
-  <Prep_DriedFish50.description>魚の切り身を塩水に浸して余分な水分を抜く。</Prep_DriedFish50.description>
-  <Prep_DriedFish50.jobString>魚の干物を作成中。</Prep_DriedFish50.jobString>
+  <Prep_DriedFish50.label>건어물(미완성)x50</Prep_DriedFish50.label>
+  <Prep_DriedFish50.description>생선살을 소금물에 담가 여분의 수분을 빼줍니다.</Prep_DriedFish50.description>
+  <Prep_DriedFish50.jobString>건어물을 만드는중.</Prep_DriedFish50.jobString>
 
-  <Prep_Tofu10.label>豆腐x10</Prep_Tofu10.label>
-  <Prep_Tofu10.description>豆乳を使って豆腐を作る</Prep_Tofu10.description>
-  <Prep_Tofu10.jobString>豆腐を作成中。</Prep_Tofu10.jobString>
+  <Prep_Tofu10.label>두부x10</Prep_Tofu10.label>
+  <Prep_Tofu10.description>두유를 사용해 두부를 만듭니다.</Prep_Tofu10.description>
+  <Prep_Tofu10.jobString>두부 만드는중</Prep_Tofu10.jobString>
 
-  <Prep_Tofu50.label>豆腐x50</Prep_Tofu50.label>
-  <Prep_Tofu50.description>豆乳を使って豆腐を作る</Prep_Tofu50.description>
-  <Prep_Tofu50.jobString>豆腐を作成中。</Prep_Tofu50.jobString>
+  <Prep_Tofu50.label>두부x50</Prep_Tofu50.label>
+  <Prep_Tofu50.description>두유를 사용해 두부를 만듭니다.</Prep_Tofu50.description>
+  <Prep_Tofu50.jobString>두부 만드는중</Prep_Tofu50.jobString>
 
-  <Prep_Tofu100.label>豆腐x100</Prep_Tofu100.label>
+  <Prep_Tofu100.label>두부x100</Prep_Tofu100.label>
   <Prep_Tofu100.description>豆乳を使って豆腐を作る</Prep_Tofu100.description>
   <Prep_Tofu100.jobString>豆腐を作成中。</Prep_Tofu100.jobString>
 
-  <Prep_Tikuwa10.label>ちくわx10</Prep_Tikuwa10.label>
-  <Prep_Tikuwa10.description>生魚をすりおろしてちくわを作る</Prep_Tikuwa10.description>
-  <Prep_Tikuwa10.jobString>ちくわを作成中。</Prep_Tikuwa10.jobString>
+  <Prep_Tikuwa10.label>어묵x10</Prep_Tikuwa10.label>
+  <Prep_Tikuwa10.description>생선을 갈아 어묵을 만듭니다.</Prep_Tikuwa10.description>
+  <Prep_Tikuwa10.jobString>어묵 만드는중</Prep_Tikuwa10.jobString>
 
-  <Prep_Tikuwa50.label>ちくわx50</Prep_Tikuwa50.label>
-  <Prep_Tikuwa50.description>生魚をすりおろしてちくわを作る</Prep_Tikuwa50.description>
-  <Prep_Tikuwa50.jobString>ちくわを作成中。</Prep_Tikuwa50.jobString>
+  <Prep_Tikuwa50.label>어묵x50</Prep_Tikuwa50.label>
+  <Prep_Tikuwa50.description>생선을 갈아 어묵을 만듭니다.</Prep_Tikuwa50.description>
+  <Prep_Tikuwa50.jobString>어묵 만드는중</Prep_Tikuwa50.jobString>
 
 
 </LanguageData>
