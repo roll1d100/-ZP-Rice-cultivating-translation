@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Tatami_Green.label>畳</Tatami_Green.label>
-  <Tatami_Green.description>藁で作れる床材。畳は空気を浄化し湿度を調整する機能を持っている。また、難燃性も大変優れているので火事がおきても燃えない。</Tatami_Green.description>
+  <Tatami_Green.label>다다미</Tatami_Green.label>
+  <Tatami_Green.description>짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</Tatami_Green.description>
 
-  <Tatami_Yellow.label>畳(黄縁)</Tatami_Yellow.label>
-  <Tatami_Yellow.description>藁で作れる床材。畳は空気を浄化し湿度を調整する機能を持っている。また、難燃性も大変優れているので火事がおきても燃えない。</Tatami_Yellow.description>
+  <Tatami_Yellow.label>다다미(황색)</Tatami_Yellow.label>
+  <Tatami_Yellow.description>짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</Tatami_Yellow.description>
 
-  <Tatami_Hutinasi.label>縁無畳</Tatami_Hutinasi.label>
-  <Tatami_Hutinasi.description>藁で作れる床材。畳は空気を浄化し湿度を調整する機能を持っている。また、難燃性も大変優れているので火事がおきても燃えない。</Tatami_Hutinasi.description>
+  <Tatami_Hutinasi.label>틀 없는 다다미</Tatami_Hutinasi.label>
+  <Tatami_Hutinasi.description>짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</Tatami_Hutinasi.description>
 
-  <Tatami_Hutinasi2nd.label>縁無畳(黄)</Tatami_Hutinasi2nd.label>
-  <Tatami_Hutinasi2nd.description>藁で作れる床材。畳は空気を浄化し湿度を調整する機能を持っている。また、難燃性も大変優れているので火事がおきても燃えない。</Tatami_Hutinasi2nd.description>
+  <Tatami_Hutinasi2nd.label>틀 없는 다다미(황색)</Tatami_Hutinasi2nd.label>
+  <Tatami_Hutinasi2nd.description>짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</Tatami_Hutinasi2nd.description>
 
-  <RBCeramicTile.label>RBセラミックのタイル</RBCeramicTile.label>
-  <RBCeramicTile.description>表面がツルツルしているため清潔性を保ちやすいですが抗菌タイルには劣ります。</RBCeramicTile.description>
+  <RBCeramicTile.label>RB세라믹 타일</RBCeramicTile.label>
+  <RBCeramicTile.description>표면이 반들반들하기 때문에 청결성을 유지하기 쉽지만 항균 타일보다는 떨어집니다.</RBCeramicTile.description>
 
 
   <!-- add 1.1 -->
 
-  <TileBMStone.label>建築石材タイル</TileBMStone.label>
-  <FlagstoneBMStone.label>建築石材の敷石</FlagstoneBMStone.label>
+  <TileBMStone.label>건축석재타일</TileBMStone.label>
+  <FlagstoneBMStone.label>건축석재판석</FlagstoneBMStone.label>
 
 
 </LanguageData>
