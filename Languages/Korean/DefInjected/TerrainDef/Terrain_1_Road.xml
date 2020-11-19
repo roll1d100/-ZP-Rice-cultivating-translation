@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_PackedDirt.label>踏み固められた土</ZP_PackedDirt.label>
-  <ZP_PackedDirt.description>歩きやすく踏み固めた土の道。延焼防止用にも最適。</ZP_PackedDirt.description>
+  <ZP_PackedDirt.label>밟아서 다진 흙</ZP_PackedDirt.label>
+  <ZP_PackedDirt.description>걷기 좋게 다진 흙길입니다. 화재 방지용으로도 아주 좋습니다.</ZP_PackedDirt.description>
 
 
 </LanguageData>
