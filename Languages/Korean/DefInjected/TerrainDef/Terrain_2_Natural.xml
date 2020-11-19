@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Soil.label>土</ZP_Soil.label>
-  <ZP_Soil.description>【肥沃度：100%】\n農業が可能な土壌にする。\n土,苔むした土,湿地,肥えた土,砂利の場所に土が敷けます。</ZP_Soil.description>
+  <ZP_Soil.label>흙</ZP_Soil.label>
+  <ZP_Soil.description>【비옥도：100%】\n농사 가능한 땅으로 만듭니다.\n흙, 이끼낀 흙, 습지, 비옥한 흙, 자갈이 있는 자리에 흙을 깔 수 있습니다.</ZP_Soil.description>
   <ZP_Soil.tools.0.label>dirt</ZP_Soil.tools.0.label>
 
-  <ZP_SoilRich.label>肥えた土</ZP_SoilRich.label>
-  <ZP_SoilRich.description>【肥沃度：140%】\n農業が可能な土壌を肥沃度の高い肥えた土にする。\n土,苔むした土,肥えた土,踏み固められた土の場所に敷けます。</ZP_SoilRich.description>
+  <ZP_SoilRich.label>기름진 흙</ZP_SoilRich.label>
+  <ZP_SoilRich.description>【비옥도：140%】\n농사가 가능한 땅을 비옥도가 높은 기름진 흙으로 만듭니다.\n흙, 이끼낀 흙, 비옥한 흙, 밟아 다져진 흙이 있는 자리에 깔 수 있습니다.</ZP_SoilRich.description>
   <ZP_SoilRich.tools.0.label>dirt</ZP_SoilRich.tools.0.label>
 
-  <ZP_Mud.label>泥</ZP_Mud.label>
-  <ZP_Mud.description>水田作成に必要な土壌。</ZP_Mud.description>
+  <ZP_Mud.label>진흙</ZP_Mud.label>
+  <ZP_Mud.description>논을 위해 필요한 토양입니다.</ZP_Mud.description>
   <ZP_Mud.tools.0.label>mud</ZP_Mud.tools.0.label>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Gravel.label>砂利</ZP_Gravel.label>
-  <ZP_Gravel.description>【肥沃度：70%】足場の悪い場所を埋め立てる基礎工事としても使える。\n海,小川,外洋以外の場所に敷くことがきでます。</ZP_Gravel.description>
+  <ZP_Gravel.label>자갈</ZP_Gravel.label>
+  <ZP_Gravel.description>【비옥도：70%】발판이 좋지 않은 곳을 매립하는 기초 공사로도 사용할 수 있습니다.\n바다, 개울, 깊은 바다 이외의 장소에 깔 수 있습니다.</ZP_Gravel.description>
   <ZP_Gravel.tools.0.label>gravel</ZP_Gravel.tools.0.label>
 
 
