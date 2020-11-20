@@ -3,8 +3,8 @@
 
   <!-- add 1.1 -->
 
-  <ASU_BreakfastBreadSet.label>朝食ぱんセット</ASU_BreakfastBreadSet.label>
-  <ASU_BreakfastBreadSet.description>コッペぱん,牛乳,ミカンがセットになった朝ごはん。</ASU_BreakfastBreadSet.description>
+  <ASU_BreakfastBreadSet.label>아침식사용 빵 모음</ASU_BreakfastBreadSet.label>
+  <ASU_BreakfastBreadSet.description>햄버거빵, 우유, 귤이 세트로 구성된 아침식사</ASU_BreakfastBreadSet.description>
 
 
 </LanguageData>
