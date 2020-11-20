@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_GinjoSake.label>吟醸酒</ZP_GinjoSake.label>
-  <ZP_GinjoSake.description>白米と穀物で作った醸造アルコールを吟醸造りによって製造した清酒。\n華やかな香りですっきりした味わいが特徴のお酒。</ZP_GinjoSake.description>
+  <ZP_GinjoSake.label>음양주</ZP_GinjoSake.label>
+  <ZP_GinjoSake.description>쌀과 곡물로 만든 양조 알콜로 공들여 만든 청주입니다. 순미주와 다르게 쌀이 아닌 재료도 들어갈 수 있습니다. /화려한 향과 산뜻한 맛이 특징인 술입니다.</ZP_GinjoSake.description>
   <ZP_GinjoSake.ingestible.ingestCommandString>Drink {0}</ZP_GinjoSake.ingestible.ingestCommandString>
   <ZP_GinjoSake.ingestible.ingestReportString>Drinking {0}.</ZP_GinjoSake.ingestible.ingestReportString>
   <ZP_GinjoSake.tools.0.label>bottle</ZP_GinjoSake.tools.0.label>
