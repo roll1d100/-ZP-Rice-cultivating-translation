@@ -3,17 +3,17 @@
 
   <!-- MealSimple -->
 
-  <ZP_RoastedMochi.label>焼き餅</ZP_RoastedMochi.label>
-  <ZP_RoastedMochi.description>シンプルに焼いただけの餅。</ZP_RoastedMochi.description>
+  <ZP_RoastedMochi.label>구운 떡</ZP_RoastedMochi.label>
+  <ZP_RoastedMochi.description>간단히 구운 떡입니다.</ZP_RoastedMochi.description>
 
-  <ZP_VinegarMochi.label>酢餅</ZP_VinegarMochi.label>
-  <ZP_VinegarMochi.description>大根おろしと酢をからませた餅。九州の郷土料理。</ZP_VinegarMochi.description>
+  <ZP_VinegarMochi.label>식초 떡</ZP_VinegarMochi.label>
+  <ZP_VinegarMochi.description>무즙과 식초를 섞은 떡입니다.큐슈의 향토 요리입니다.</ZP_VinegarMochi.description>
 
-  <ZP_IsobeMochi.label>磯辺餅</ZP_IsobeMochi.label>
-  <ZP_IsobeMochi.description>焼いた餅に醤油をたらして海苔で巻いた餅。</ZP_IsobeMochi.description>
+  <ZP_IsobeMochi.label>이소베 모찌</ZP_IsobeMochi.label>
+  <ZP_IsobeMochi.description>구운 떡에 간장을 뿌려 김으로 감은 떡입니다.</ZP_IsobeMochi.description>
 
-  <ZP_GoheiMochi.label>五平餅</ZP_GoheiMochi.label>
-  <ZP_GoheiMochi.description>餅を板に付け火であぶり、味噌を塗ったもの。</ZP_GoheiMochi.description>
+  <ZP_GoheiMochi.label>고헤이 모찌</ZP_GoheiMochi.label>
+  <ZP_GoheiMochi.description>된장을 발라 철판에서 구운 떡입니다.</ZP_GoheiMochi.description>
 
 
 </LanguageData>
