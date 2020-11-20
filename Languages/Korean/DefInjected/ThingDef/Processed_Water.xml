@@ -3,18 +3,18 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_RawWater.label>生水</ZP_RawWater.label>
-  <ZP_RawWater.description>生の水。そのまま飲むと高確率で食中毒になります。</ZP_RawWater.description>
+  <ZP_RawWater.label>생수</ZP_RawWater.label>
+  <ZP_RawWater.description>생수. 그냥 마시면 높은 확률로 식중독에 걸려요.</ZP_RawWater.description>
   <ZP_RawWater.ingestible.ingestCommandString>Drink {0}</ZP_RawWater.ingestible.ingestCommandString>
   <ZP_RawWater.ingestible.ingestReportString>Drinking {0}.</ZP_RawWater.ingestible.ingestReportString>
 
-  <ZP_Water.label>水</ZP_Water.label>
-  <ZP_Water.description>濾過した水。煮沸前の水なので飲料水には向かない。料理の際は煮沸消毒されるので安心して使える。</ZP_Water.description>
+  <ZP_Water.label>물</ZP_Water.label>
+  <ZP_Water.description>여과한 물. 끓이기 전의 물이므로 음료수로는 적합하지 않습니다.조리할 때는 끓여져 소독이 되므로 안심하고 사용할 수 있습니다.</ZP_Water.description>
   <ZP_Water.ingestible.ingestCommandString>Drink {0}</ZP_Water.ingestible.ingestCommandString>
   <ZP_Water.ingestible.ingestReportString>Drinking {0}.</ZP_Water.ingestible.ingestReportString>
 
-  <ZP_DrinkingWater.label>飲料水</ZP_DrinkingWater.label>
-  <ZP_DrinkingWater.description>飲料水。飲むことで簡単な熱中症対策にもなる。</ZP_DrinkingWater.description>
+  <ZP_DrinkingWater.label>마시는 물</ZP_DrinkingWater.label>
+  <ZP_DrinkingWater.description>마시는 물. 마시는 것으로 간단한 열사병 대책도 됩니다.</ZP_DrinkingWater.description>
   <ZP_DrinkingWater.ingestible.ingestCommandString>Drink {0}</ZP_DrinkingWater.ingestible.ingestCommandString>
   <ZP_DrinkingWater.ingestible.ingestReportString>Drinking {0}.</ZP_DrinkingWater.ingestible.ingestReportString>
 
