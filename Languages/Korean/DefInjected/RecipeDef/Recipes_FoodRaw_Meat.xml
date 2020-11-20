@@ -50,13 +50,13 @@
   <Prep_Tofu100.description>두유를 사용해 두부를 만듭니다.</Prep_Tofu100.description>
   <Prep_Tofu100.jobString>두부 만드는중</Prep_Tofu100.jobString>
 
-  <Prep_Tikuwa10.label>어묵x10</Prep_Tikuwa10.label>
-  <Prep_Tikuwa10.description>생선을 갈아 어묵을 만듭니다.</Prep_Tikuwa10.description>
-  <Prep_Tikuwa10.jobString>어묵 만드는중</Prep_Tikuwa10.jobString>
+  <Prep_Tikuwa10.label>오뎅꼬치x10</Prep_Tikuwa10.label>
+  <Prep_Tikuwa10.description>생선을 갈아 오뎅 꼬치를 만듭니다.</Prep_Tikuwa10.description>
+  <Prep_Tikuwa10.jobString>오뎅 꼬치 만드는중</Prep_Tikuwa10.jobString>
 
-  <Prep_Tikuwa50.label>어묵x50</Prep_Tikuwa50.label>
-  <Prep_Tikuwa50.description>생선을 갈아 어묵을 만듭니다.</Prep_Tikuwa50.description>
-  <Prep_Tikuwa50.jobString>어묵 만드는중</Prep_Tikuwa50.jobString>
+  <Prep_Tikuwa50.label>오뎅꼬치x50</Prep_Tikuwa50.label>
+  <Prep_Tikuwa50.description>생선을 갈아 오뎅 꼬치를 만듭니다.</Prep_Tikuwa50.description>
+  <Prep_Tikuwa50.jobString>오뎅 꼬치 만드는중</Prep_Tikuwa50.jobString>
 
 
 </LanguageData>
