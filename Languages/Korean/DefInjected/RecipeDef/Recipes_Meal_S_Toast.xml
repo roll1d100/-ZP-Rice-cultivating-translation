@@ -3,40 +3,40 @@
 
   <!-- 簡単な食事 トースト -->
 
-  <CookASUWhiteBread.label>食ぱん</CookASUWhiteBread.label>
-  <CookASUWhiteBread.description>穀物粉,水,水飴をこねて食ぱんを作る。</CookASUWhiteBread.description>
-  <CookASUWhiteBread.jobString>食ぱんを作成中。</CookASUWhiteBread.jobString>
+  <CookASUWhiteBread.label>식빵</CookASUWhiteBread.label>
+  <CookASUWhiteBread.description>곡물가루, 물, 물엿을 반죽해 빵을 만듭니다.</CookASUWhiteBread.description>
+  <CookASUWhiteBread.jobString>식빵 굽는중</CookASUWhiteBread.jobString>
 
-  <CookASUWhiteBread10.label>食ぱんx10</CookASUWhiteBread10.label>
-  <CookASUWhiteBread10.description>穀物粉,水,水飴をこねて食ぱんを作る。</CookASUWhiteBread10.description>
-  <CookASUWhiteBread10.jobString>食ぱんを作成中。</CookASUWhiteBread10.jobString>
+  <CookASUWhiteBread10.label>식빵x10</CookASUWhiteBread10.label>
+  <CookASUWhiteBread10.description>곡물가루, 물, 물엿을 반죽해 빵을 만듭니다.</CookASUWhiteBread10.description>
+  <CookASUWhiteBread10.jobString>식빵 굽는중</CookASUWhiteBread10.jobString>
 
 
   <!-- 簡単な食事 単品 -->
 
-  <CookASUButterWhiteBread.label>バタートーストx2</CookASUButterWhiteBread.label>
-  <CookASUButterWhiteBread.description>バタートーストを作る</CookASUButterWhiteBread.description>
-  <CookASUButterWhiteBread.jobString>バタートーストを作成中。</CookASUButterWhiteBread.jobString>
+  <CookASUButterWhiteBread.label>버터토스트x2</CookASUButterWhiteBread.label>
+  <CookASUButterWhiteBread.description>버터를 바른 식빵입니다./CookASUButterWhiteBread.description>
+  <CookASUButterWhiteBread.jobString>버터토스트 굽는 중</CookASUButterWhiteBread.jobString>
 
-  <CookASUJamWhiteBread.label>ジャムトーストx3</CookASUJamWhiteBread.label>
-  <CookASUJamWhiteBread.description>ジャムトーストを作る</CookASUJamWhiteBread.description>
-  <CookASUJamWhiteBread.jobString>ジャムトーストを作成中。</CookASUJamWhiteBread.jobString>
+  <CookASUJamWhiteBread.label>잼 토스트x3</CookASUJamWhiteBread.label>
+  <CookASUJamWhiteBread.description>잼 토스트를 만듭니다.</CookASUJamWhiteBread.description>
+  <CookASUJamWhiteBread.jobString>잼 토스트 만드는 중</CookASUJamWhiteBread.jobString>
 
-  <CookASUOguraWhiteBread.label>小倉トーストx3</CookASUOguraWhiteBread.label>
-  <CookASUOguraWhiteBread.description>小倉トーストを作る</CookASUOguraWhiteBread.description>
-  <CookASUOguraWhiteBread.jobString>小倉トーストを作成中。</CookASUOguraWhiteBread.jobString>
+  <CookASUOguraWhiteBread.label>단팥 토스트x3</CookASUOguraWhiteBread.label>
+  <CookASUOguraWhiteBread.description>버터를 바른 구운 식빵 위에 단팥소를 올린 토스트입니다. 오구라토스트라 부릅니다.</CookASUOguraWhiteBread.description>
+  <CookASUOguraWhiteBread.jobString>단팥 토스트 만드는 중</CookASUOguraWhiteBread.jobString>
 
-  <CookASUJBaconWhiteBread.label>ベーコントーストx3</CookASUJBaconWhiteBread.label>
-  <CookASUJBaconWhiteBread.description>ベーコントーストを作る</CookASUJBaconWhiteBread.description>
-  <CookASUJBaconWhiteBread.jobString>ベーコントーストを作成中。</CookASUJBaconWhiteBread.jobString>
+  <CookASUJBaconWhiteBread.label>베이컨 토스트x3</CookASUJBaconWhiteBread.label>
+  <CookASUJBaconWhiteBread.description>베이컨이 들어간 토스트를 만듭니다.</CookASUJBaconWhiteBread.description>
+  <CookASUJBaconWhiteBread.jobString>베이컨 토스트 만드는 중</CookASUJBaconWhiteBread.jobString>
 
-  <CookASUFriedEggWhiteBread.label>目玉焼きトーストx3</CookASUFriedEggWhiteBread.label>
-  <CookASUFriedEggWhiteBread.description>目玉焼きトーストを作る</CookASUFriedEggWhiteBread.description>
-  <CookASUFriedEggWhiteBread.jobString>目玉焼きトーストを作成中。</CookASUFriedEggWhiteBread.jobString>
+  <CookASUFriedEggWhiteBread.label>계란토스트x3</CookASUFriedEggWhiteBread.label>
+  <CookASUFriedEggWhiteBread.description>계란후라이가 들어간 토스트입니다.</CookASUFriedEggWhiteBread.description>
+  <CookASUFriedEggWhiteBread.jobString>계란토스트 만드는 중</CookASUFriedEggWhiteBread.jobString>
 
-  <CookASUSandwich.label>サンドイッチx3</CookASUSandwich.label>
-  <CookASUSandwich.description>サンドイッチを作る</CookASUSandwich.description>
-  <CookASUSandwich.jobString>サンドイッチを作成中。</CookASUSandwich.jobString>
+  <CookASUSandwich.label>샌드위치x3</CookASUSandwich.label>
+  <CookASUSandwich.description>샌드위치 만들기</CookASUSandwich.description>
+  <CookASUSandwich.jobString>샌드위치 만드는 중</CookASUSandwich.jobString>
 
 
 </LanguageData>
