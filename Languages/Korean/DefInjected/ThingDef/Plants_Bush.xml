@@ -3,8 +3,8 @@
 
   <!-- add 1.1 -->
 
-  <ZP_PlantBush.label>低木</ZP_PlantBush.label>
-  <ZP_PlantBush.description>低い灌木です。伐採すると薪を入手できます。</ZP_PlantBush.description>
+  <ZP_PlantBush.label>관목</ZP_PlantBush.label>
+  <ZP_PlantBush.description>낮은 관목입니다. 벌채하면 장작을 얻을 수 있습니다.</ZP_PlantBush.description>
 
 
 </LanguageData>
