@@ -3,8 +3,8 @@
 
   <!-- ポン菓子ロープ -->
 
-  <ZP_Ponponrat.label>ポンポンねずみ</ZP_Ponponrat.label>
-  <ZP_Ponponrat.description>ボムネズミの亜種。通常の個体よりも足が速く、解体するとポン菓子がとれるらしい。\n\nとあるコロニーでポン菓子を餌付けされまくった結果、ついうっかりで突然変異してしまった。\nポン菓子を生成する際の爆発力を体内で生み出せるようになり移動速度、爆発力が強化されている。\n害はないが極度の興奮状態になると爆撃特攻野郎になるので注意。\n一部の愛好家達の間で人気が高く、訓練もしていたので知能は高い。</ZP_Ponponrat.description>
+  <ZP_Ponponrat.label>퐁퐁 쥐</ZP_Ponponrat.label>
+  <ZP_Ponponrat.description>폭탄쥐의 아종입니다. 일반 폭탄쥐보다 발이 빠르고, 해체하면 뻥튀기가 나옵니다./n 어떤 콜로니에서 뻥튀기를 먹다 변이했습니다. 뻥튀기같은 폭발력을 체내에서 만들 수 있게 되어 이동속도와 폭발력이 강화되었습니다. /n/n해는 없지만 흥분상태가 되면 자폭하기 때문에 주의하세요. 일부 애호가들 사이에서 인기가 높고, 훈련도 하기 때문에 지능이 높습니다.</ZP_Ponponrat.description>
   <ZP_Ponponrat.tools.0.label>left claw</ZP_Ponponrat.tools.0.label>
   <ZP_Ponponrat.tools.1.label>right claw</ZP_Ponponrat.tools.1.label>
   <ZP_Ponponrat.tools.3.label>head</ZP_Ponponrat.tools.3.label>
