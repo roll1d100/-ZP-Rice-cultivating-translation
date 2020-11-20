@@ -3,23 +3,23 @@
 
   <!-- 豆・菌類 -->
 
-  <ZP_PlantSoy.label>大豆</ZP_PlantSoy.label>
-  <ZP_PlantSoy.description>収穫後は長期保存が可能。豆腐を作ることでお肉としても代用できる。成長は遅いが痩せた土地でも育つので重宝する。</ZP_PlantSoy.description>
+  <ZP_PlantSoy.label>대두</ZP_PlantSoy.label>
+  <ZP_PlantSoy.description>수확 후에는 장기 보존이 가능합니다.두부를 만듦으로써 고기로도 대용할 수 있습니다.성장은 더디지만 메마른 땅에서도 자라는 것이 장점입니다.</ZP_PlantSoy.description>
 
-  <ZP_PlantEdamame.label>枝豆</ZP_PlantEdamame.label>
-  <ZP_PlantEdamame.description>畑のお肉である枝豆を育成できる。成長が早く痩せた土地でも育つので重宝する。</ZP_PlantEdamame.description>
+  <ZP_PlantEdamame.label>강낭콩</ZP_PlantEdamame.label>
+  <ZP_PlantEdamame.description>밭의 고기인 완두콩을 육성할 수 있습니다.빨리 메마른 땅에서도 자라는 것이 장점입니다.</ZP_PlantEdamame.description>
 
-  <ZP_PrantAzuki.label>小豆</ZP_PrantAzuki.label>
-  <ZP_PrantAzuki.description>収穫後は長期保存が可能。東アジアが原産地。砂糖と一緒に煮ることで甘い小豆餡をつくれる。</ZP_PrantAzuki.description>
+  <ZP_PrantAzuki.label>팥</ZP_PrantAzuki.label>
+  <ZP_PrantAzuki.description>수확 후에는 장기 보존이 가능합니다.동아시아가 원산지입니다.설탕과 함께 삶으면 달콤한 팥소를 만들 수 있습니다.</ZP_PrantAzuki.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Glowstool.label>紅茸</ZP_Glowstool.label>
-  <ZP_Glowstool.description>大抵は洞窟の中で見つかる小さい茶色のキノコ.その臭いは,腐敗が進むマッファローの胃から取り出した古くて汚れた雑巾のようです - しかし,調理すると驚くほどに美味しくなります.陽にさらされると死にます.</ZP_Glowstool.description>
+  <ZP_Glowstool.label>붉은 버섯</ZP_Glowstool.label>
+  <ZP_Glowstool.description>대개는 동굴속에서 발견되는 작은 갈색 버섯. 그 냄새는 부패가 진행되는 매펄로의 위에서 꺼낸 낡고 더러워진 걸레와 같습니다 - 하지만, 조리하면 놀랄 만큼 맛있어집니다. 햇빛에 노출되면 죽습니다.</ZP_Glowstool.description>
 
-  <ZP_Agarilux.label>アガリラックス</ZP_Agarilux.label>
-  <ZP_Agarilux.description>非常に大きい紫色のキノコ。その大きさと,傘が伸びていくさまは,このキノコを美しいものさせる.陽に当たると死にます。</ZP_Agarilux.description>
+  <ZP_Agarilux.label>발광버섯</ZP_Agarilux.label>
+  <ZP_Agarilux.description>매우 큰 보라색 버섯입니다. 큰 크기와 우산을 뻗는 모습이 아름답습니다. 햇빛에 쬐면 죽습니다.</ZP_Agarilux.description>
 
 
 </LanguageData>
