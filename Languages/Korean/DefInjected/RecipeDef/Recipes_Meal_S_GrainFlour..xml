@@ -3,9 +3,9 @@
 
   <!-- 簡単な食事 単品 -->
 
-  <CookKorokke4.label>コロッケx4</CookKorokke4.label>
-  <CookKorokke4.description>コロッケを４個作る</CookKorokke4.description>
-  <CookKorokke4.jobString>コロッケを作成中。</CookKorokke4.jobString>
+  <CookKorokke4.label>고로케x4</CookKorokke4.label>
+  <CookKorokke4.description>고로케를 네 개 만듭니다.</CookKorokke4.description>
+  <CookKorokke4.jobString>고로케 만드는 중</CookKorokke4.jobString>
 
 
 </LanguageData>
