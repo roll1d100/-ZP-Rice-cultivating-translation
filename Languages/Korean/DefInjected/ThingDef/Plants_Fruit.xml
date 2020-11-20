@@ -3,17 +3,17 @@
 
   <!-- 果物類 -->
 
-  <ZP_PlantTreeMandarinOrange.label>蜜柑の木</ZP_PlantTreeMandarinOrange.label>
-  <ZP_PlantTreeMandarinOrange.description>ミカンの木。寒さに弱いので温室栽培が有効です。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreeMandarinOrange.description>
+  <ZP_PlantTreeMandarinOrange.label>감귤나무</ZP_PlantTreeMandarinOrange.label>
+  <ZP_PlantTreeMandarinOrange.description>감귤나무입니다.추위에 약하기 때문에 온실재배가 효과적입니다.처음에는 나무가 다 자랄 때까지 느리지만 한 번 열리면 다음 수확까지 빨라집니다.</ZP_PlantTreeMandarinOrange.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PlantTreePlum.label>梅の木</ZP_PlantTreePlum.label>
-  <ZP_PlantTreePlum.description>ウメの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantTreePlum.description>
+  <ZP_PlantTreePlum.label>매실나무</ZP_PlantTreePlum.label>
+  <ZP_PlantTreePlum.description>매화나무입니다.처음에는 나무가 다 자랄 때까지 느리지만 한 번 열리면 다음 수확까지 빨라집니다.</ZP_PlantTreePlum.description>
 
-  <ZP_PlantPersimmon.label>柿の木</ZP_PlantPersimmon.label>
-  <ZP_PlantPersimmon.description>カキの木。最初は木が成長するまで遅いが1度実ると次の収穫までがはやくなる。</ZP_PlantPersimmon.description>
+  <ZP_PlantPersimmon.label>감나무</ZP_PlantPersimmon.label>
+  <ZP_PlantPersimmon.description>감나무입니다.처음에는 나무가 다 자랄 때까지 느리지만 한 번 열리면 다음 수확까지 빨라집니다.</ZP_PlantPersimmon.description>
 
 
 </LanguageData>
