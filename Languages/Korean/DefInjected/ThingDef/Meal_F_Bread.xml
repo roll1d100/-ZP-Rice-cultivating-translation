@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ASU_CroquetteBread.label>コロッケぱん</ASU_CroquetteBread.label>
-  <ASU_CroquetteBread.description>【特産品】日本で開発された惣菜パン。発祥は諸説あるがチョウシ屋が初めて売りに出したとされる。関東大震災後の食料不足の中で安くて美味しいと評判になり大衆の味として浸透した。</ASU_CroquetteBread.description>
+  <ASU_CroquetteBread.label>고로케 빵</ASU_CroquetteBread.label>
+  <ASU_CroquetteBread.description>【특산품】일본에서 개발된 반찬빵입니다.발상지는 여러 설이 있지만 쵸시야가 처음으로 팔았다고 합니다.간토대지진 이후 식량부족 속에서 싸고 맛있다는 평을 들으며 대중의 맛으로 자리 잡았습니다.</ASU_CroquetteBread.description>
 
-  <ASU_FriedNoodleSandwich.label>焼きそばぱん</ASU_FriedNoodleSandwich.label>
-  <ASU_FriedNoodleSandwich.description>【特産品】日本で開発された惣菜パン。起源は諸説あるが野澤屋が元祖であるという説が有力。お客さまからのリクエストでコッペぱんにに焼きそばをはさんで販売したところ爆発的にヒットした。</ASU_FriedNoodleSandwich.description>
+  <ASU_FriedNoodleSandwich.label>야끼소바 빵</ASU_FriedNoodleSandwich.label>
+  <ASU_FriedNoodleSandwich.description>【특산품】일본에서 개발된 반찬빵. 기원은 여러가지 설이 있지만 노자와야가 원조라는 설이 유력합니다.핫도그 빵에 야끼소바를 넣은 것입니다.</ASU_FriedNoodleSandwich.description>
 
-  <ASU_SweetBeanPasteBun.label>あんぱん</ASU_SweetBeanPasteBun.label>
-  <ASU_SweetBeanPasteBun.description>【特産品】日本の3大菓子ぱんの１つ。酒饅頭をヒントに木村屋の創業者・木村安兵衛が日本人に受け入れられるパンの研究を開発したのが元祖である。文明開化をイメージさせる、西洋のパンと日本の小豆餡・酒種酵母による和洋折衷のパン。</ASU_SweetBeanPasteBun.description>
+  <ASU_SweetBeanPasteBun.label>단팥빵</ASU_SweetBeanPasteBun.label>
+  <ASU_SweetBeanPasteBun.description>【특산품】일본의 3대 과자빵 중 하나입니다.술만두를 힌트로 기무라야 창업자 기무라 야스베가 일본인이 받아들일 수 있는 빵 연구를 개발한 것이 원조입니다.문명개화를 이미지화시키는, 서양의 빵과 일본의 팥소·주종 효모에 의한 일본과 서양 절충의 빵.</ASU_SweetBeanPasteBun.description>
 
-  <ASU_CreamBun.label>クリームぱん</ASU_CreamBun.label>
-  <ASU_CreamBun.description>【特産品】日本の3大菓子ぱんの１つ。シュークリームの美味しさに感銘を受けた中村屋の創業者・相馬愛蔵が製造と販売を始めたのが元祖である。当時は丸い形をしていたが発酵の段階で中に空洞ができしまうので、空気抜きの切れ目をいれたのが現在のグローブ型になる。</ASU_CreamBun.description>
+  <ASU_CreamBun.label>크림빵</ASU_CreamBun.label>
+  <ASU_CreamBun.description>【특산품】일본의 3대 과자빵의 하나입니다.슈크림의 맛에 감명받은 나카무라야의 창업자 소마 아이조가 제조와 판매를 시작한 것이 원조입니다.당시에는 둥근 모양을 하고 있었지만 발효단계에서 안에 공동이 생기므로 공기를 뺀 것이 현재의 글로브형입니다.</ASU_CreamBun.description>
 
-  <ASU_ChocolateCorne.label>チョココロネ</ASU_ChocolateCorne.label>
-  <ASU_ChocolateCorne.description>【特産品】日本で開発された菓子ぱん。語源は諸説あるが楽器の角笛（ホルン）と同じく、イタリア語で「corno(角笛)」に由来する。発売当初は「チョコスネール」と呼ばれていた。</ASU_ChocolateCorne.description>
+  <ASU_ChocolateCorne.label>초코 소라빵</ASU_ChocolateCorne.label>
+  <ASU_ChocolateCorne.description>【특산품】일본에서 개발된 과자빵. 초코코로네라고 불리는 어원은 여러 가지 설이 있지만 악기의 뿔피리(호른)와 마찬가지로 이탈리아어로 "corno(뿔피리)"에서 유래했습니다. 발매당시에는 「초코스네일」이라고 불렸습니다.</ASU_ChocolateCorne.description>
 
-  <ASU_Melonpan.label>メロンぱん</ASU_Melonpan.label>
-  <ASU_Melonpan.description>【特産品】日本で開発された菓子ぱん。起源は日本から海外まで様々な諸説あり。日本で定番の円形のメロンパンは神戸の「金生堂」が元祖である。当時はメロンぱんではなく「サンライズ」と呼ばれ、日の出の形を真似て軍艦旗の放射状の線を付けていた。</ASU_Melonpan.description>
+  <ASU_Melonpan.label>멜론빵</ASU_Melonpan.label>
+  <ASU_Melonpan.description>【특산품】일본에서 개발된 과자빵입니다. 기원은 일본부터 해외까지 여러가지 설이 있습니다.일본에서 정통 원형 멜론빵은 고베의 '긴세이도'가 원조입니다.당시에는 멜론빵이 아니라 '선라이즈'라고 불리며 일출 모양을 본떠 군함기의 방사형 선을 달고 있었습니다.</ASU_Melonpan.description>
 
-  <ASU_CurryBun.label>カレーぱん</ASU_CurryBun.label>
-  <ASU_CurryBun.description>【特産品】日本で開発された惣菜ぱん。起源は諸説あるが名花堂の2代目・中田豊治が具の入ったパンをカツレツの様に揚げること思いつき洋食ぱんとして誕生したのがカレーぱんのご先祖様。</ASU_CurryBun.description>
+  <ASU_CurryBun.label>카레빵</ASU_CurryBun.label>
+  <ASU_CurryBun.description>【특산품】일본에서 개발된 반찬빵. 기원은 여러 가지 설이 있지만 명화당의 2대손 나카타 도요하루가 건더기가 들어간 빵을 커틀릿처럼 튀기는 것을 생각해 양식빵으로 탄생한 것이 카레빵의 조상님입니다.</ASU_CurryBun.description>
 
 
 </LanguageData>
