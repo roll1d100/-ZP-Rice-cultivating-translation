@@ -3,17 +3,17 @@
 
   <!-- 米類 -->
 
-  <RawRice.label>rice</RawRice.label>
-  <RawRice.description>Raw rice.</RawRice.description>
+  <RawRice.label>쌀</RawRice.label>
+  <RawRice.description>생 쌀입니다.</RawRice.description>
 
-  <ZP_RawBrownRice.label>玄米</ZP_RawBrownRice.label>
-  <ZP_RawBrownRice.description>脱穀して籾を外すことで栄養価が高い玄米を食べることが出来る。</ZP_RawBrownRice.description>
+  <ZP_RawBrownRice.label>현미</ZP_RawBrownRice.label>
+  <ZP_RawBrownRice.description>탈곡으로 왕겨를 제거하여 영양가가 높은 현미를 먹을 수 있습니다.</ZP_RawBrownRice.description>
 
-  <WhiteRice.label>White rice</WhiteRice.label>
-  <WhiteRice.description>Rice that has been thoroughly threshed and polished.\nNutrients are lost in the process of polishing, but the taste improves superbly.</WhiteRice.description>
+  <WhiteRice.label>백미</WhiteRice.label>
+  <WhiteRice.description>탈곡과 정미를 거친 쌀입니다. 영양소는 손실되지만 맛이 크게 좋아집니다.</WhiteRice.description>
 
-  <ZP_RawGlutinousRice.label>もち米</ZP_RawGlutinousRice.label>
-  <ZP_RawGlutinousRice.description>もちもちとした食感のお米。凍り餅の原料となる。</ZP_RawGlutinousRice.description>
+  <ZP_RawGlutinousRice.label>찹쌀</ZP_RawGlutinousRice.label>
+  <ZP_RawGlutinousRice.description>쫀득쫀득한 식감의 쌀입니다. 언 떡의 재료입니다.</ZP_RawGlutinousRice.description>
 
 
 </LanguageData>
