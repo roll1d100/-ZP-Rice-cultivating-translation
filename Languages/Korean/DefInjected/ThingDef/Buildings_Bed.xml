@@ -3,23 +3,23 @@
 
   <!-- ベッド -->
 
-  <StrawBed.label>寝藁</StrawBed.label>
-  <StrawBed.description>寝心地は最悪だが無いよりマシな寝床。藁の塊なのでキャラバンに持っていける。</StrawBed.description>
+  <StrawBed.label>짚 더미</StrawBed.label>
+  <StrawBed.description>잠자리는 최악이지만 없는 것보다는 나은 잠자리.</StrawBed.description>
 
-  <DoubleStrawBed.label>2人用寝藁</DoubleStrawBed.label>
-  <DoubleStrawBed.description>寝心地は最悪だが無いよりマシな寝床。藁の塊なのでキャラバンに持っていける。</DoubleStrawBed.description>
+  <DoubleStrawBed.label>큰 짚 더미</DoubleStrawBed.label>
+  <DoubleStrawBed.description>잠자리는 최악이지만 없는 것보다는 나은 잠자리.</DoubleStrawBed.description>
 
-  <ZP_SuperiorStrawBed.label>藁編みベッド</ZP_SuperiorStrawBed.label>
-  <ZP_SuperiorStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</ZP_SuperiorStrawBed.description>
+  <ZP_SuperiorStrawBed.label>짚 침대</ZP_SuperiorStrawBed.label>
+  <ZP_SuperiorStrawBed.description>짚을 이용하여 좀 더 침대같이 만든 짚 침대. 그래도 보통의 침대보다 질은 조금 부족하다.</ZP_SuperiorStrawBed.description>
 
-  <ZP_SuperiorDoubleStrawBed.label>2人用藁編みベッド</ZP_SuperiorDoubleStrawBed.label>
-  <ZP_SuperiorDoubleStrawBed.description>藁ベッドを改良して寝心地をよくした上質な藁ベッド。\nそれでも通常のベッドより質は少し落ちる。</ZP_SuperiorDoubleStrawBed.description>
+  <ZP_SuperiorDoubleStrawBed.label>2인용 짚 침대</ZP_SuperiorDoubleStrawBed.label>
+  <ZP_SuperiorDoubleStrawBed.description>짚을 이용하여 좀 더 침대같이 만든 짚 침대. 그래도 보통의 침대보다 질은 조금 부족하다.</ZP_SuperiorDoubleStrawBed.description>
 
-  <ZP_Ofuton.label>お布団</ZP_Ofuton.label>
-  <ZP_Ofuton.description>日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_Ofuton.description>
+  <ZP_Ofuton.label>이부자리</ZP_Ofuton.label>
+  <ZP_Ofuton.description>일본에서 사용되는 침구. 속에 솜과 깃털을 넣은 것으로 까는 이불도 포함이다.</ZP_Ofuton.description>
 
-  <ZP_DoubleOfuton.label>2人用お布団</ZP_DoubleOfuton.label>
-  <ZP_DoubleOfuton.description>2人用の布団。日本で使われている伝統的な寝具。\n布袋の中に綿や羽毛などを入れたもので敷き布団と掛け布団がある。</ZP_DoubleOfuton.description>
+  <ZP_DoubleOfuton.label>2인용 이부자리</ZP_DoubleOfuton.label>
+  <ZP_DoubleOfuton.description>2인용 이불. 속에 솜과 깃털을 넣은 것으로 까는 이불도 포함이다.</ZP_DoubleOfuton.description>
 
 
 </LanguageData>
