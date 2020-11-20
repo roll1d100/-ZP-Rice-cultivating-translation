@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RBCeramic.label>RBセラミックス</RBCeramic.label>
-  <RBCeramic.description>副産物袋を粉砕圧縮して熱加工したセラミックスです。軽量かつ強度が高く燃えないので建築、工作機械、兵器等、広い用途に使えます。</RBCeramic.description>
+  <RBCeramic.label>RB세라믹</RBCeramic.label>
+  <RBCeramic.description>부산물 봉투를 분쇄 압축하여 열가공한 세라믹입니다.경량이고 강도가 높아 타지 않으므로 건축, 제작기계, 무기 등 넓은 용도로 사용할 수 있습니다.</RBCeramic.description>
 
 
   <!-- add 1.1 -->
 
-  <BlocksBMStone.label>建築石材</BlocksBMStone.label>
-  <BlocksBMStone.description>各種石材の寸法や形状を規格統一した石材。通常の石材より素早く建築できるが耐久性や武器性能は落ちる。</BlocksBMStone.description>
-  <BlocksBMStone.stuffProps.stuffAdjective>建築石材</BlocksBMStone.stuffProps.stuffAdjective>
+  <BlocksBMStone.label>건축 석재</BlocksBMStone.label>
+  <BlocksBMStone.description>각종 석재의 치수와 모양을 규격으로 통일한 석재입니다.보통 석재보다 빠르게 건축할 수 있지만 내구성과 무기 성능은 떨어집니다.</BlocksBMStone.description>
+  <BlocksBMStone.stuffProps.stuffAdjective>건축석재</BlocksBMStone.stuffProps.stuffAdjective>
 
 
 </LanguageData>
