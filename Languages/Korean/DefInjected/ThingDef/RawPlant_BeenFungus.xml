@@ -3,8 +3,8 @@
 
   <!-- 豆・菌類 -->
 
-  <RawFungus.label>raw fungus</RawFungus.label>
-  <RawFungus.description>Raw fungus.</RawFungus.description>
+  <RawFungus.label>버섯</RawFungus.label>
+  <RawFungus.description>생 버섯입니다.</RawFungus.description>
 
   <ZP_SoyBeen.label>대두</ZP_SoyBeen.label>
   <ZP_SoyBeen.description>생 콩입니다. 보존성이 높아 가공하면 고기의 대체품으로 편리하며, 된장이나 간장의 원재료입니다.</ZP_SoyBeen.description>
