@@ -3,26 +3,26 @@
 
   <!-- 根菜類 -->
 
-  <RawPotatoes.label>potatoes</RawPotatoes.label>
-  <RawPotatoes.description>Raw potatoes.</RawPotatoes.description>
+  <RawPotatoes.label>감자</RawPotatoes.label>
+  <RawPotatoes.description>생 감자입니다.</RawPotatoes.description>
 
-  <ZP_RawJapaneseRadish.label>大根</ZP_RawJapaneseRadish.label>
-  <ZP_RawJapaneseRadish.description>生のダイコン。</ZP_RawJapaneseRadish.description>
+  <ZP_RawJapaneseRadish.label>무</ZP_RawJapaneseRadish.label>
+  <ZP_RawJapaneseRadish.description>생 무입니다.</ZP_RawJapaneseRadish.description>
 
-  <ZP_RawTaro.label>里芋</ZP_RawTaro.label>
-  <ZP_RawTaro.description>生のサトイモ。コンニャク芋の代わりにもなる。</ZP_RawTaro.description>
+  <ZP_RawTaro.label>토란</ZP_RawTaro.label>
+  <ZP_RawTaro.description>고구마 대용이나 곤약이 되기도 합니다.</ZP_RawTaro.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_RawCarrot.label>人参</ZP_RawCarrot.label>
-  <ZP_RawCarrot.description>生のにんじん。</ZP_RawCarrot.description>
+  <ZP_RawCarrot.label>당근</ZP_RawCarrot.label>
+  <ZP_RawCarrot.description>생 당근입니다.</ZP_RawCarrot.description>
 
-  <ZP_RawBambooShoot.label>筍</ZP_RawBambooShoot.label>
-  <ZP_RawBambooShoot.description>生のタケノコ。</ZP_RawBambooShoot.description>
+  <ZP_RawBambooShoot.label>죽순</ZP_RawBambooShoot.label>
+  <ZP_RawBambooShoot.description>생 죽순입니다.</ZP_RawBambooShoot.description>
 
-  <ZP_SweetPotato.label>薩摩芋</ZP_SweetPotato.label>
-  <ZP_SweetPotato.description>生のサツマイモ。</ZP_SweetPotato.description>
+  <ZP_SweetPotato.label>고구마</ZP_SweetPotato.label>
+  <ZP_SweetPotato.description>생 고구마입니다.</ZP_SweetPotato.description>
 
 
 </LanguageData>
