@@ -3,35 +3,35 @@
 
   <!-- 甘味 -->
 
-  <ZP_PuffedRice.label>ポン菓子</ZP_PuffedRice.label>
-  <ZP_PuffedRice.description>【特産品】米に圧力をかけた後に一気に開放することによって膨らませた、サクサクした食感の駄菓子です。</ZP_PuffedRice.description>
+  <ZP_PuffedRice.label>뻥튀기</ZP_PuffedRice.label>
+  <ZP_PuffedRice.description>【특산품】쌀에 압력을 가했다가 한번에 풀어 만듭니다.</ZP_PuffedRice.description>
 
-  <ZP_Okoshi.label>おこし</ZP_Okoshi.label>
-  <ZP_Okoshi.description>【特産品】米を熱して干した後に米飴で固めた和菓子。戦国時代は「身を起こし 家を起こし 国を起こす」縁起の良いお菓子として広く人々に親しまれていた。</ZP_Okoshi.description>
+  <ZP_Okoshi.label>강정</ZP_Okoshi.label>
+  <ZP_Okoshi.description>【특산품】곡물류를 가공해서 엿으로 굳힙니다. 오꼬시라 부릅니다.\n 전국시대에는 상서로운 과자로 널리 사랑받았습니다.</ZP_Okoshi.description>
 
-  <ZP_Kasutera.label>ベビーカステラ</ZP_Kasutera.label>
-  <ZP_Kasutera.description>【特産品】縁日の定番お菓子。素朴なカステラのような味で、何個も口に入れてしまうほど美味しい。</ZP_Kasutera.description>
+  <ZP_Kasutera.label>카스테라</ZP_Kasutera.label>
+  <ZP_Kasutera.description>【특산품】잿날(일본 절의 행사)의 단골 과자입니다.소박한 카스테라와 같은 맛으로 여러 개를 입에 넣을 정도로 맛있습니다.</ZP_Kasutera.description>
 
-  <ZP_Kompeito.label>金平糖</ZP_Kompeito.label>
-  <ZP_Kompeito.description>【特産品】戦国時代にポルトガルから日本に伝来したお菓子。カラフルな見た目と優しい甘さが入植者を癒してくれる。</ZP_Kompeito.description>
+  <ZP_Kompeito.label>별사탕</ZP_Kompeito.label>
+  <ZP_Kompeito.description>【특산품】전국시대에 포르투갈에서 일본으로 전래된 과자입니다.알록달록한 생김새와 상냥한 달콤함이 정착민에게 위안을 줍니다.</ZP_Kompeito.description>
 
-  <ZP_CottonCandy.label>わたあめ</ZP_CottonCandy.label>
-  <ZP_CottonCandy.description>縁日の定番お菓子。ふわふわした食感と甘さを楽しむ事ができる。\n時間が経つと萎んで固くなってしまうのではやめに食べよう。</ZP_CottonCandy.description>
+  <ZP_CottonCandy.label>솜사탕</ZP_CottonCandy.label>
+  <ZP_CottonCandy.description>잿날(일본 절의 행사)의 단골 과자입니다.폭신폭신한 식감과 달콤함을 즐길 수 있습니다.\n시간이 지나면 수그러들고 딱딱해져버리니 바로 먹는게 좋습니다.</ZP_CottonCandy.description>
 
-  <ZP_ThreeColoredDumplings.label>三色団子</ZP_ThreeColoredDumplings.label>
-  <ZP_ThreeColoredDumplings.description>ほんのり甘い団子。諸説あるが赤は桜の象徴である春を、白は雪の象徴である冬を、緑は新緑の象徴である夏をあらわしてる。\n秋が無いのは飽きないと商いをかけて、いくら食べても飽きないので商売が繁盛するという洒落からきてる。</ZP_ThreeColoredDumplings.description>
+  <ZP_ThreeColoredDumplings.label>삼색 경단</ZP_ThreeColoredDumplings.label>
+  <ZP_ThreeColoredDumplings.description>아련히 달콤한 경단입니다.여러가지 설이 있지만 빨강은 벚꽃의 상징인 봄을, 흰색은 눈의 상징인 겨울을, 초록은 신록의 상징인 여름을 나타냅니다.가을(아키)이 없는 것은 질리지(아키나이토) 않는다고 장사를 하고(아키나이오), 아무리 먹어도 질리지 않기 때문에(아키나이데) 장사가 번창한다고 하는 말장난 때문입니다.</ZP_ThreeColoredDumplings.description>
 
-  <ZP_ZundaMochi.label>ずんだ餅</ZP_ZundaMochi.label>
-  <ZP_ZundaMochi.description>すり潰した枝豆をからませた甘いお餅。東北の郷土料理。\nずん!!ずん!!ずんだ!!とある国の少女はずんだ餅を愛するがゆえに狂人となった逸話がある。</ZP_ZundaMochi.description>
+  <ZP_ZundaMochi.label>즌다 모찌</ZP_ZundaMochi.label>
+  <ZP_ZundaMochi.description>갈은 완두콩을 버무린 달콤한 떡입니다.토호쿠 요리입니다.\n앙!!앙!!앙꼬!! 어느 나라의 소녀는 앙증맞은 떡을 사랑했기 때문에 미치광이가 된 일화가 있습니다.</ZP_ZundaMochi.description>
 
-  <ASU_Dorayaki.label>どら焼き</ASU_Dorayaki.label>
-  <ASU_Dorayaki.description>【特産品】カステラ風の生地に小豆餡を挟み込んだ和菓子。</ASU_Dorayaki.description>
+  <ASU_Dorayaki.label>도라야끼</ASU_Dorayaki.label>
+  <ASU_Dorayaki.description>【특산품】카스테라 풍의 반죽에 팥소를 끼워넣은 일본식 과자.</ASU_Dorayaki.description>
 
 
   <!-- add 1.1 -->
 
-  <ASU_Pancake.label>ホットケーキ</ASU_Pancake.label>
-  <ASU_Pancake.description>小麦粉に牛乳,砂糖を混ぜて円盤状に焼いたケーキ。</ASU_Pancake.description>
+  <ASU_Pancake.label>팬케이크</ASU_Pancake.label>
+  <ASU_Pancake.description>밀가루에 우유, 설탕을 섞어 원반 모양으로 구운 케이크입니다.</ASU_Pancake.description>
 
 
 </LanguageData>
