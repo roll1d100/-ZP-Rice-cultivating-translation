@@ -1,44 +1,44 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookPuffedRice.label>ポン菓子x4</CookPuffedRice.label>
-  <CookPuffedRice.description>米に圧力をかけた後に一気に解放することによって膨らませる。</CookPuffedRice.description>
-  <CookPuffedRice.jobString>ポン菓子を作成中。</CookPuffedRice.jobString>
+  <CookPuffedRice.label>뻥튀기x4</CookPuffedRice.label>
+  <CookPuffedRice.description>쌀에 압력을 가했다가 한번에 풀어 만듭니다.</CookPuffedRice.description>
+  <CookPuffedRice.jobString>뻥튀기 만드는 중</CookPuffedRice.jobString>
 
-  <CookOkoshi.label>おこしx4</CookOkoshi.label>
-  <CookOkoshi.description>穀物類を加工して飴でかためる。</CookOkoshi.description>
-  <CookOkoshi.jobString>おこしを作成中。</CookOkoshi.jobString>
+  <CookOkoshi.label>강정x4</CookOkoshi.label>
+  <CookOkoshi.description>곡물류를 가공해서 엿으로 굳힙니다. 오꼬시라 부릅니다.</CookOkoshi.description>
+  <CookOkoshi.jobString>강정 만드는 중</CookOkoshi.jobString>
 
-  <CookKasutera.label>ベビーカステラx4</CookKasutera.label>
-  <CookKasutera.description>穀物粉と牛乳、水飴を混ぜてを玉状に焼く。</CookKasutera.description>
-  <CookKasutera.jobString>ベビーカステラを作成中。</CookKasutera.jobString>
+  <CookKasutera.label>카스테라x4</CookKasutera.label>
+  <CookKasutera.description>곡물가루와 우유, 물엿을 섞어 둥글게 굽습니다.</CookKasutera.description>
+  <CookKasutera.jobString>카스테라 만드는 중</CookKasutera.jobString>
 
-  <CookKompeito.label>金平糖x4</CookKompeito.label>
-  <CookKompeito.description>米に水飴をかけながら熱を加えて金平糖をつくる。</CookKompeito.description>
-  <CookKompeito.jobString>金平糖を作成中。</CookKompeito.jobString>
+  <CookKompeito.label>별사탕x4</CookKompeito.label>
+  <CookKompeito.description>쌀에 물엿을 부으면서 가열해 별사탕을 만듭니다.</CookKompeito.description>
+  <CookKompeito.jobString>별사탕 만드는 중</CookKompeito.jobString>
 
-  <CookCottonCandy.label>わたあめx4</CookCottonCandy.label>
-  <CookCottonCandy.description>砂糖を細い糸状にしたものを集めて綿状にする。</CookCottonCandy.description>
-  <CookCottonCandy.jobString>わたあめを作成中。</CookCottonCandy.jobString>
+  <CookCottonCandy.label>솜사탕x4</CookCottonCandy.label>
+  <CookCottonCandy.description>실처럼 뽑아낸 설탕을 모아 만듭니다.</CookCottonCandy.description>
+  <CookCottonCandy.jobString>솜사탕 뽑는 중。</CookCottonCandy.jobString>
 
-  <CookThreeColoredDumplings.label>三色団子x4</CookThreeColoredDumplings.label>
-  <CookThreeColoredDumplings.description>凍り餅に砂糖を練りこんで色づけし三色団子を4個作る</CookThreeColoredDumplings.description>
-  <CookThreeColoredDumplings.jobString>三色団子を作成中。</CookThreeColoredDumplings.jobString>
+  <CookThreeColoredDumplings.label>삼색 경단x4</CookThreeColoredDumplings.label>
+  <CookThreeColoredDumplings.description>언 떡에 설탕을 넣어 색을 입힌 삼색 경단을 네 개 만든다</CookThreeColoredDumplings.description>
+  <CookThreeColoredDumplings.jobString>삼색 경단 만드는 중</CookThreeColoredDumplings.jobString>
 
-  <CookZundaMochi.label>ずんだ餅x4</CookZundaMochi.label>
-  <CookZundaMochi.description>凍り餅を焼いてからペーストした枝豆のせたずんだ餅を4個作る</CookZundaMochi.description>
-  <CookZundaMochi.jobString>ずんだ餅を作成中。</CookZundaMochi.jobString>
+  <CookZundaMochi.label>즌다모찌x4</CookZundaMochi.label>
+  <CookZundaMochi.description>언 떡을 굽고 그 위에 풋콩 앙금을 올린 즌다모찌 4 개를 만듭니다.</CookZundaMochi.description>
+  <CookZundaMochi.jobString>즌다모찌 만드는 중。</CookZundaMochi.jobString>
 
-  <CookASUDorayaki.label>ドラ焼きx4</CookASUDorayaki.label>
-  <CookASUDorayaki.description>焼いたドラ焼きの生地に餡子を挟んでつくる。</CookASUDorayaki.description>
-  <CookASUDorayaki.jobString>ドラ焼きを作成中。</CookASUDorayaki.jobString>
+  <CookASUDorayaki.label>도라야끼x4</CookASUDorayaki.label>
+  <CookASUDorayaki.description>구운 반죽에 팥소를 끼워 만듭니다.</CookASUDorayaki.description>
+  <CookASUDorayaki.jobString>도라야끼 만드는 중。</CookASUDorayaki.jobString>
 
 
   <!-- add 1.1 -->
 
-  <CookASUPancake.label>ホットケーキx4</CookASUPancake.label>
-  <CookASUPancake.description>材料を混ぜて円盤状に焼く。</CookASUPancake.description>
-  <CookASUPancake.jobString>ホットケーキを作成中。</CookASUPancake.jobString>
+  <CookASUPancake.label>핫케이크x4</CookASUPancake.label>
+  <CookASUPancake.description>재료를 섞어 원반 모양으로 굽습니다.</CookASUPancake.description>
+  <CookASUPancake.jobString>핫케이크 굽는중</CookASUPancake.jobString>
 
 
 </LanguageData>
