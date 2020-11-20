@@ -3,13 +3,13 @@
 
   <!-- All add 1.1 -->
 
-  <MakeNPolishedRice10.label>玄米を白米にするx10</MakeNPolishedRice10.label>
-  <MakeNPolishedRice10.description>玄米を精米して白米と米ぬかにわける。</MakeNPolishedRice10.description>
-  <MakeNPolishedRice10.jobString>精米中</MakeNPolishedRice10.jobString>
+  <MakeNPolishedRice10.label>현미를 백미로x10</MakeNPolishedRice10.label>
+  <MakeNPolishedRice10.description>현미를 백미와 쌀겨로 나눕니다.</MakeNPolishedRice10.description>
+  <MakeNPolishedRice10.jobString>정미중</MakeNPolishedRice10.jobString>
 
-  <MakeNPolishedRice50.label>玄米を白米にするx50</MakeNPolishedRice50.label>
-  <MakeNPolishedRice50.description>玄米を精米して白米と米ぬかにわける。</MakeNPolishedRice50.description>
-  <MakeNPolishedRice50.jobString>精米中</MakeNPolishedRice50.jobString>
+  <MakeNPolishedRice50.label>현미를 백미로x50</MakeNPolishedRice50.label>
+  <MakeNPolishedRice50.description>현미를 백미와 쌀겨로 나눕니다.</MakeNPolishedRice50.description>
+  <MakeNPolishedRice50.jobString>정미중</MakeNPolishedRice50.jobString>
 
 
 </LanguageData>
