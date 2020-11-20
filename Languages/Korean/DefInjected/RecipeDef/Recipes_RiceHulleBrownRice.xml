@@ -3,40 +3,40 @@
 
   <!-- All add 1.1 -->
 
-  <MakeRiceHulleBR10.label>籾米を玄米にするx10</MakeRiceHulleBR10.label>
-  <MakeRiceHulleBR10.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR10.description>
-  <MakeRiceHulleBR10.jobString>籾摺りをする</MakeRiceHulleBR10.jobString>
+  <MakeRiceHulleBR10.label>이삭을 현미로x10</MakeRiceHulleBR10.label>
+  <MakeRiceHulleBR10.description>이삭을 분리하여 현미와 왕겨로 만듭니다.</MakeRiceHulleBR10.description>
+  <MakeRiceHulleBR10.jobString>탈곡 중</MakeRiceHulleBR10.jobString>
 
-  <MakeRiceHulleBR50.label>籾米を玄米にするx50</MakeRiceHulleBR50.label>
-  <MakeRiceHulleBR50.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR50.description>
-  <MakeRiceHulleBR50.jobString>籾摺りをする</MakeRiceHulleBR50.jobString>
+  <MakeRiceHulleBR50.label>이삭을 현미로x50</MakeRiceHulleBR50.label>
+  <MakeRiceHulleBR50.description>이삭을 분리하여 현미와 왕겨로 만듭니다.</MakeRiceHulleBR50.description>
+  <MakeRiceHulleBR50.jobString>탈곡 중</MakeRiceHulleBR50.jobString>
 
-  <MakeRiceHulleBR100.label>籾米を玄米にするx100</MakeRiceHulleBR100.label>
-  <MakeRiceHulleBR100.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR100.description>
-  <MakeRiceHulleBR100.jobString>籾摺りをする</MakeRiceHulleBR100.jobString>
+  <MakeRiceHulleBR100.label>이삭을 현미로x100</MakeRiceHulleBR100.label>
+  <MakeRiceHulleBR100.description>이삭을 분리하여 현미와 왕겨로 만듭니다.</MakeRiceHulleBR100.description>
+  <MakeRiceHulleBR100.jobString>탈곡 중</MakeRiceHulleBR100.jobString>
 
-  <MakeRiceHulleBR300.label>籾米を玄米にするx300</MakeRiceHulleBR300.label>
-  <MakeRiceHulleBR300.description>籾を外して玄米と籾殻にわける。</MakeRiceHulleBR300.description>
-  <MakeRiceHulleBR300.jobString>籾摺りをする</MakeRiceHulleBR300.jobString>
+  <MakeRiceHulleBR300.label>이삭을 현미로x300</MakeRiceHulleBR300.label>
+  <MakeRiceHulleBR300.description>이삭을 분리하여 현미와 왕겨로 만듭니다.</MakeRiceHulleBR300.description>
+  <MakeRiceHulleBR300.jobString>탈곡 중</MakeRiceHulleBR300.jobString>
 
 
   <!-- 籾摺り　籾米⇒もち米 -->
 
-  <MakeRiceHulleGR10.label>籾米(もち米)をもち米にするx10</MakeRiceHulleGR10.label>
-  <MakeRiceHulleGR10.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR10.description>
-  <MakeRiceHulleGR10.jobString>籾摺りをする</MakeRiceHulleGR10.jobString>
+  <MakeRiceHulleGR10.label>이삭(찹쌀)을 찹쌀로x10</MakeRiceHulleGR10.label>
+  <MakeRiceHulleGR10.description>이삭을 분리하여 찹쌀과 왕겨로 만듭니다.</MakeRiceHulleGR10.description>
+  <MakeRiceHulleGR10.jobString>탈곡 중</MakeRiceHulleGR10.jobString>
 
-  <MakeRiceHulleGR50.label>籾米(もち米)をもち米にするx50</MakeRiceHulleGR50.label>
-  <MakeRiceHulleGR50.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR50.description>
-  <MakeRiceHulleGR50.jobString>籾摺りをする</MakeRiceHulleGR50.jobString>
+  <MakeRiceHulleGR50.label>이삭(찹쌀)을 찹쌀로x50</MakeRiceHulleGR50.label>
+  <MakeRiceHulleGR50.description>이삭을 분리하여 찹쌀과 왕겨로 만듭니다.</MakeRiceHulleGR50.description>
+  <MakeRiceHulleGR50.jobString>탈곡 중</MakeRiceHulleGR50.jobString>
 
-  <MakeRiceHulleGR100.label>籾米(もち米)をもち米にするx100</MakeRiceHulleGR100.label>
-  <MakeRiceHulleGR100.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR100.description>
-  <MakeRiceHulleGR100.jobString>籾摺りをする</MakeRiceHulleGR100.jobString>
+  <MakeRiceHulleGR100.label>이삭(찹쌀)을 찹쌀로x100</MakeRiceHulleGR100.label>
+  <MakeRiceHulleGR100.description>이삭을 분리하여 찹쌀과 왕겨로 만듭니다.</MakeRiceHulleGR100.description>
+  <MakeRiceHulleGR100.jobString>탈곡 중</MakeRiceHulleGR100.jobString>
 
-  <MakeRiceHulleGR300.label>籾米(もち米)をもち米にするx300</MakeRiceHulleGR300.label>
-  <MakeRiceHulleGR300.description>籾を外してもち米と籾殻にわける。</MakeRiceHulleGR300.description>
-  <MakeRiceHulleGR300.jobString>籾摺りをする</MakeRiceHulleGR300.jobString>
+  <MakeRiceHulleGR300.label>이삭(찹쌀)을 찹쌀로x300</MakeRiceHulleGR300.label>
+  <MakeRiceHulleGR300.description>이삭을 분리하여 찹쌀과 왕겨로 만듭니다.</MakeRiceHulleGR300.description>
+  <MakeRiceHulleGR300.jobString>탈곡 중</MakeRiceHulleGR300.jobString>
 
 
 </LanguageData>
