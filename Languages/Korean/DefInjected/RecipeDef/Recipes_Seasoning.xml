@@ -3,32 +3,32 @@
 
   <!-- 調味料 -->
 
-  <Make_Mizuame.label>米飴x20</Make_Mizuame.label>
-  <Make_Mizuame.description>米を煮詰めて糖化させ米飴を作る※注：出来るのは水飴です。</Make_Mizuame.description>
-  <Make_Mizuame.jobString>米飴を作成中</Make_Mizuame.jobString>
+  <Make_Mizuame.label>쌀엿x20</Make_Mizuame.label>
+  <Make_Mizuame.description>쌀을 졸여서 당화시켜 쌀엿을 만듭니다. 결과물은 물엿입니다.</Make_Mizuame.description>
+  <Make_Mizuame.jobString>쌀을 졸이는중</Make_Mizuame.jobString>
 
-  <Make_Mizuame2nd.label>水飴x20</Make_Mizuame2nd.label>
-  <Make_Mizuame2nd.description>ジャガイモからでんぷんを取り出し、大根の搾り汁を混ぜて加熱する事で水飴ができる。</Make_Mizuame2nd.description>
-  <Make_Mizuame2nd.jobString>水飴を作成中</Make_Mizuame2nd.jobString>
+  <Make_Mizuame2nd.label>물엿x20</Make_Mizuame2nd.label>
+  <Make_Mizuame2nd.description>감자의 전분을 추출해 무즙을 넣어 졸이면 물엿이 만들어집니다. </Make_Mizuame2nd.description>
+  <Make_Mizuame2nd.jobString>물엿 졸이는중</Make_Mizuame2nd.jobString>
 
 
   <!-- add 1.1 -->
 
-  <Make_SoupStock.label>出汁x20</Make_SoupStock.label>
-  <Make_SoupStock.description>肉や野菜を煮詰めて出汁をつくる。</Make_SoupStock.description>
-  <Make_SoupStock.jobString>出汁を作成中</Make_SoupStock.jobString>
+  <Make_SoupStock.label>국물x20</Make_SoupStock.label>
+  <Make_SoupStock.description>고기나 야채를 고아 국물을 만듭니다.</Make_SoupStock.description>
+  <Make_SoupStock.jobString>국물 끓이는중</Make_SoupStock.jobString>
 
-  <Make_VinegarMoromi.label>もろみ(酢)</Make_VinegarMoromi.label>
-  <Make_VinegarMoromi.description>酢の原料であるもろみ(酢)を作る。※注：材料は混合できません。</Make_VinegarMoromi.description>
-  <Make_VinegarMoromi.jobString>もろみ(酢)を作成中。。</Make_VinegarMoromi.jobString>
+  <Make_VinegarMoromi.label>누룩(식초)</Make_VinegarMoromi.label>
+  <Make_VinegarMoromi.description>식초의 원료인 누룩(식초)를 만듭니다. ※주: 재료는 혼합할 수 없습니다.</Make_VinegarMoromi.description>
+  <Make_VinegarMoromi.jobString>누룩(식초) 만드는 중</Make_VinegarMoromi.jobString>
 
-  <Make_SoySauceMoromi.label>もろみ(醤油)</Make_SoySauceMoromi.label>
-  <Make_SoySauceMoromi.description>醤油の原料であるもろみ(醤油)を作る。※注：材料は混合できません。</Make_SoySauceMoromi.description>
-  <Make_SoySauceMoromi.jobString>もろみ(醤油)を作成中。。</Make_SoySauceMoromi.jobString>
+  <Make_SoySauceMoromi.label>누룩(간장)</Make_SoySauceMoromi.label>
+  <Make_SoySauceMoromi.description>간장의 원료인 누룩(간장)를 만듭니다.※주: 재료는 혼합할 수 없습니다.</Make_SoySauceMoromi.description>
+  <Make_SoySauceMoromi.jobString>누룩(간장) 만드는 중</Make_SoySauceMoromi.jobString>
 
-  <Make_MisoMoromi.label>もろみ(味噌)</Make_MisoMoromi.label>
-  <Make_MisoMoromi.description>味噌の原料であるもろみ(味噌)を作る。</Make_MisoMoromi.description>
-  <Make_MisoMoromi.jobString>味噌樽を作成中。</Make_MisoMoromi.jobString>
+  <Make_MisoMoromi.label>누룩(된장)</Make_MisoMoromi.label>
+  <Make_MisoMoromi.description>된장의 원료인 누룩(된장)을 만듭니다.</Make_MisoMoromi.description>
+  <Make_MisoMoromi.jobString>누룩(된장) 만드는 중</Make_MisoMoromi.jobString>
 
 
 </LanguageData>
