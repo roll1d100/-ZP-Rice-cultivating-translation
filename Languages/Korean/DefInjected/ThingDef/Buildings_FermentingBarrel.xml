@@ -74,16 +74,16 @@
   <ZP_FermentingBarrelIceBox_Frame.description>【용량:25】\n시간을 들여 물을 얼음으로 만듭니다.</ZP_FermentingBarrelIceBox_Frame.description>
 
   <ZP_FermentingBarrelChickenCoop.label>닭장(무정란)</ZP_FermentingBarrelChickenCoop.label>
-  <ZP_FermentingBarrelChickenCoop.description>【연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 무정란이 4개 섭취됩니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop.description>
+  <ZP_FermentingBarrelChickenCoop.description>【연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 무정란이 4개 나옵니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop.description>
   <ZP_FermentingBarrelChickenCoop_Blueprint.label>닭장(무정란) (blueprint)</ZP_FermentingBarrelChickenCoop_Blueprint.label>
   <ZP_FermentingBarrelChickenCoop_Frame.label>닭장(무정란) (building)</ZP_FermentingBarrelChickenCoop_Frame.label>
-  <ZP_FermentingBarrelChickenCoop_Frame.description>연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 무정란이 4개 섭취됩니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop_Frame.description>
+  <ZP_FermentingBarrelChickenCoop_Frame.description>연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 무정란이 4개 나옵니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop_Frame.description>
 
   <ZP_FermentingBarrelChickenCoop2nd.label>닭장(유정란)</ZP_FermentingBarrelChickenCoop2nd.label>
-  <ZP_FermentingBarrelChickenCoop2nd.description>【연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 유정란이 4개 섭취됩니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop2nd.description>
+  <ZP_FermentingBarrelChickenCoop2nd.description>【연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 유정란이 4개 나옵니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop2nd.description>
   <ZP_FermentingBarrelChickenCoop2nd_Blueprint.label>닭장(유정란) (blueprint)</ZP_FermentingBarrelChickenCoop2nd_Blueprint.label>
   <ZP_FermentingBarrelChickenCoop2nd_Frame.label>닭장(유정란) (building)</ZP_FermentingBarrelChickenCoop2nd_Frame.label>
-  <ZP_FermentingBarrelChickenCoop2nd_Frame.description>【연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 유정란이 4개 섭취됩니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop2nd_Frame.description>
+  <ZP_FermentingBarrelChickenCoop2nd_Frame.description>【연료:동물사료, 증량 동물사료, 물고기의 먹이, 음료수 용량:4】\n사료를 주면 2일 후에 유정란이 4개 나옵니다.설치 후 해체 불가합니다.</ZP_FermentingBarrelChickenCoop2nd_Frame.description>
 
 
 </LanguageData>
