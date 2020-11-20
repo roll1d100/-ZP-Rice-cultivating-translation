@@ -3,32 +3,32 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_GinjoSakeMoromi.label>もろみ(吟醸酒)</ZP_GinjoSakeMoromi.label>
-  <ZP_GinjoSakeMoromi.description>醸造することで吟醸酒ができる。</ZP_GinjoSakeMoromi.description>
+  <ZP_GinjoSakeMoromi.label>모주(음양주)</ZP_GinjoSakeMoromi.label>
+  <ZP_GinjoSakeMoromi.description>양조하여 음양주를 만들 수 있습니다.</ZP_GinjoSakeMoromi.description>
 
-  <ZP_JunmaiSakeMoromi.label>もろみ(純米酒)</ZP_JunmaiSakeMoromi.label>
-  <ZP_JunmaiSakeMoromi.description>醸造することで純米酒ができる。</ZP_JunmaiSakeMoromi.description>
+  <ZP_JunmaiSakeMoromi.label>모주(순미주)</ZP_JunmaiSakeMoromi.label>
+  <ZP_JunmaiSakeMoromi.description>양조하여 순미주를 만들 수 있습니다.</ZP_JunmaiSakeMoromi.description>
 
-  <ZP_UmeshuUnfinished.label>梅酒(未完成)</ZP_UmeshuUnfinished.label>
-  <ZP_UmeshuUnfinished.description>梅を吟醸酒に漬けて寝かせることで梅酒ができる。</ZP_UmeshuUnfinished.description>
+  <ZP_UmeshuUnfinished.label>매실주(미완성)</ZP_UmeshuUnfinished.label>
+  <ZP_UmeshuUnfinished.description>매실을 음양주에 담가서 재움으로써 매실주를 만들 수 있습니다.</ZP_UmeshuUnfinished.description>
 
-  <ZP_VinegarMoromi.label>もろみ(酢)</ZP_VinegarMoromi.label>
-  <ZP_VinegarMoromi.description>発酵させることで酢ができる。</ZP_VinegarMoromi.description>
+  <ZP_VinegarMoromi.label>누룩(식초)</ZP_VinegarMoromi.label>
+  <ZP_VinegarMoromi.description>발효해 식초를 만들 수 있습니다.</ZP_VinegarMoromi.description>
 
-  <ZP_SoySauceMoromi.label>もろみ(醤油)</ZP_SoySauceMoromi.label>
-  <ZP_SoySauceMoromi.description>発酵させることで醤油ができる。</ZP_SoySauceMoromi.description>
+  <ZP_SoySauceMoromi.label>누룩(간장)</ZP_SoySauceMoromi.label>
+  <ZP_SoySauceMoromi.description>발효해 간장을 만들 수 있습니다.</ZP_SoySauceMoromi.description>
 
-  <ZP_MisoMoromi.label>もろみ(味噌)</ZP_MisoMoromi.label>
-  <ZP_MisoMoromi.description>発酵させることで味噌ができる。</ZP_MisoMoromi.description>
+  <ZP_MisoMoromi.label>누룩(된장)</ZP_MisoMoromi.label>
+  <ZP_MisoMoromi.description>발효해 된장을 만들 수 있습니다.</ZP_MisoMoromi.description>
 
-  <ZP_RiceBranPickled-Unfinished.label>ぬか漬け(未完成)</ZP_RiceBranPickled-Unfinished.label>
-  <ZP_RiceBranPickled-Unfinished.description>発酵させることでぬか漬けができる。</ZP_RiceBranPickled-Unfinished.description>
+  <ZP_RiceBranPickled-Unfinished.label>겨절임(미완성)</ZP_RiceBranPickled-Unfinished.label>
+  <ZP_RiceBranPickled-Unfinished.description>발효해 겨절임을 만들 수 있습니다.</ZP_RiceBranPickled-Unfinished.description>
 
-  <ZP_FermentedSoybeans-Unfinished.label>納豆(未完成)</ZP_FermentedSoybeans-Unfinished.label>
-  <ZP_FermentedSoybeans-Unfinished.description>1日待つことで納豆に変化します。\n完成時に太鼓の音がなります。</ZP_FermentedSoybeans-Unfinished.description>
+  <ZP_FermentedSoybeans-Unfinished.label>낫토(미완성)</ZP_FermentedSoybeans-Unfinished.label>
+  <ZP_FermentedSoybeans-Unfinished.description>하루 기다리면 낫토로 변합니다. 완성시에 북 소리가 납니다.</ZP_FermentedSoybeans-Unfinished.description>
 
-  <ZP_DriedFish-Unfinished.label>魚の干物(未完成)</ZP_DriedFish-Unfinished.label>
-  <ZP_DriedFish-Unfinished.description>3日待つことで魚の干物に変化します。\n完成時に太鼓の音がなります。</ZP_DriedFish-Unfinished.description>
+  <ZP_DriedFish-Unfinished.label>건어물(미완성)</ZP_DriedFish-Unfinished.label>
+  <ZP_DriedFish-Unfinished.description>3일 기다리면 건어물이 됩니다. 완성시에 북 소리가 납니다.</ZP_DriedFish-Unfinished.description>
 
 
 </LanguageData>
