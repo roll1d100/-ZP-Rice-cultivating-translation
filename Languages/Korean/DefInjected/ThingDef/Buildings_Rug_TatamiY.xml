@@ -3,50 +3,51 @@
 
   <!-- 畳 -->
 
-  <ZP_Rug_TatamiY.label>畳(黄縁)</ZP_Rug_TatamiY.label>
-  <ZP_Rug_TatamiY.description>【Size：1×2】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiY.description>
-  <ZP_Rug_TatamiY_Blueprint.label>畳(黄縁) (blueprint)</ZP_Rug_TatamiY_Blueprint.label>
-  <ZP_Rug_TatamiY_Blueprint_Install.label>畳(黄縁) (blueprint)</ZP_Rug_TatamiY_Blueprint_Install.label>
-  <ZP_Rug_TatamiY_Frame.label>畳(黄縁) (building)</ZP_Rug_TatamiY_Frame.label>
-  <ZP_Rug_TatamiY_Frame.description>【Size：1×2】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiY_Frame.description>
+  <ZP_Rug_TatamiY.label>다다미(황색)</ZP_Rug_TatamiY.label>
+  <ZP_Rug_TatamiY.description>【Size：1×2】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_TatamiY.description>
+  <ZP_Rug_TatamiY_Blueprint.label>다다미(황색) (blueprint)</ZP_Rug_TatamiY_Blueprint.label>
+  <ZP_Rug_TatamiY_Blueprint_Install.label>다다미(황색) (blueprint)</ZP_Rug_TatamiY_Blueprint_Install.label>
+  <ZP_Rug_TatamiY_Frame.label>다다미(황색) (building)</ZP_Rug_TatamiY_Frame.label>
+  <ZP_Rug_TatamiY_Frame.description>【Size：1×2】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_TatamiY_Frame.description>
 
-  <ZP_Rug_TatamiHY.label>半畳(黄縁)</ZP_Rug_TatamiHY.label>
-  <ZP_Rug_TatamiHY.description>【Size：1×1】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiHY.description>
-  <ZP_Rug_TatamiHY_Blueprint.label>半畳(黄縁) (blueprint)</ZP_Rug_TatamiHY_Blueprint.label>
-  <ZP_Rug_TatamiHY_Blueprint_Install.label>半畳(黄縁) (blueprint)</ZP_Rug_TatamiHY_Blueprint_Install.label>
-  <ZP_Rug_TatamiHY_Frame.label>半畳(黄縁) (building)</ZP_Rug_TatamiHY_Frame.label>
-  <ZP_Rug_TatamiHY_Frame.description>【Size：1×1】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_TatamiHY_Frame.description>
+  <ZP_Rug_TatamiHY.label>절반 다다미(황색)</ZP_Rug_TatamiHY.label>
+  <ZP_Rug_TatamiHY.description>【Size：1×1】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_TatamiHY.description>
+  <ZP_Rug_TatamiHY_Blueprint.label>절반 다다미(황색) (blueprint)</ZP_Rug_TatamiHY_Blueprint.label>
+  <ZP_Rug_TatamiHY_Blueprint_Install.label>절반 다다미(황색) (blueprint)</ZP_Rug_TatamiHY_Blueprint_Install.label>
+  <ZP_Rug_TatamiHY_Frame.label>절반 다다미(황색) (building)</ZP_Rug_TatamiHY_Frame.label>
+  <ZP_Rug_TatamiHY_Frame.description>【Size：1×1】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_TatamiHY_Frame.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Rug_Tatami4HY.label>4.5畳(黄縁)</ZP_Rug_Tatami4HY.label>
-  <ZP_Rug_Tatami4HY.description>【Size：3×3】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami4HY.description>
-  <ZP_Rug_Tatami4HY_Blueprint.label>4.5畳(黄縁) (blueprint)</ZP_Rug_Tatami4HY_Blueprint.label>
-  <ZP_Rug_Tatami4HY_Blueprint_Install.label>4.5畳(黄縁) (blueprint)</ZP_Rug_Tatami4HY_Blueprint_Install.label>
-  <ZP_Rug_Tatami4HY_Frame.label>4.5畳(黄縁) (building)</ZP_Rug_Tatami4HY_Frame.label>
-  <ZP_Rug_Tatami4HY_Frame.description>【Size：3×3】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami4HY_Frame.description>
+  <ZP_Rug_Tatami4HY.label>4.5다다미(황색)</ZP_Rug_Tatami4HY.label>
+  <ZP_Rug_Tatami4HY.description>【Size：3×3】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami4HY.description>
+  <ZP_Rug_Tatami4HY_Blueprint.label>4.5다다미(황색) (blueprint)</ZP_Rug_Tatami4HY_Blueprint.label>
+  <ZP_Rug_Tatami4HY_Blueprint_Install.label>4.5다다미(황색) (blueprint)</ZP_Rug_Tatami4HY_Blueprint_Install.label>
+  <ZP_Rug_Tatami4HY_Frame.label>4.5다다미(황색) (building)</ZP_Rug_Tatami4HY_Frame.label>
+  <ZP_Rug_Tatami4HY_Frame.description>【Size：3×3】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami4HY_Frame.description>
 
-  <ZP_Rug_Tatami8Y.label>8畳(黄縁)</ZP_Rug_Tatami8Y.label>
-  <ZP_Rug_Tatami8Y.description>【Size：4×4】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami8Y.description>
-  <ZP_Rug_Tatami8Y_Blueprint.label>8畳(黄縁) (blueprint)</ZP_Rug_Tatami8Y_Blueprint.label>
-  <ZP_Rug_Tatami8Y_Blueprint_Install.label>8畳(黄縁) (blueprint)</ZP_Rug_Tatami8Y_Blueprint_Install.label>
-  <ZP_Rug_Tatami8Y_Frame.label>8畳(黄縁) (building)</ZP_Rug_Tatami8Y_Frame.label>
-  <ZP_Rug_Tatami8Y_Frame.description>【Size：4×4】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami8Y_Frame.description>
+  <ZP_Rug_Tatami8Y.label>8다다미(황색)</ZP_Rug_Tatami8Y.label>
+  <ZP_Rug_Tatami8Y.description>【Size：4×4】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami8Y.description>
+  <ZP_Rug_Tatami8Y_Blueprint.label>8다다미(황색) (blueprint)</ZP_Rug_Tatami8Y_Blueprint.label>
+  <ZP_Rug_Tatami8Y_Blueprint_Install.label>8다다미(황색) (blueprint)</ZP_Rug_Tatami8Y_Blueprint_Install.label>
+  <ZP_Rug_Tatami8Y_Frame.label>8다다미(황색) (building)</ZP_Rug_Tatami8Y_Frame.label>
+  <ZP_Rug_Tatami8Y_Frame.description>【Size：4×4】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami8Y_Frame.description>
 
-  <ZP_Rug_Tatami12HY.label>12.5畳(黄縁)</ZP_Rug_Tatami12HY.label>
-  <ZP_Rug_Tatami12HY.description>【Size：5×5】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami12HY.description>
-  <ZP_Rug_Tatami12HY_Blueprint.label>12.5畳(黄縁) (blueprint)</ZP_Rug_Tatami12HY_Blueprint.label>
-  <ZP_Rug_Tatami12HY_Blueprint_Install.label>12.5畳(黄縁) (blueprint)</ZP_Rug_Tatami12HY_Blueprint_Install.label>
-  <ZP_Rug_Tatami12HY_Frame.label>12.5畳(黄縁) (building)</ZP_Rug_Tatami12HY_Frame.label>
-  <ZP_Rug_Tatami12HY_Frame.description>【Size：5×5】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami12HY_Frame.description>
+  <ZP_Rug_Tatami12HY.label>12.5다다미(황색)</ZP_Rug_Tatami12HY.label>
+  <ZP_Rug_Tatami12HY.description>【Size：5×5】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami12HY.description>
+  <ZP_Rug_Tatami12HY_Blueprint.label>12.5다다미(황색) (blueprint)</ZP_Rug_Tatami12HY_Blueprint.label>
+  <ZP_Rug_Tatami12HY_Blueprint_Install.label>12.5다다미(황색) (blueprint)</ZP_Rug_Tatami12HY_Blueprint_Install.label>
+  <ZP_Rug_Tatami12HY_Frame.label>12.5다다미(황색) (building)</ZP_Rug_Tatami12HY_Frame.label>
+  <ZP_Rug_Tatami12HY_Frame.description>【Size：5×5】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami12HY_Frame.description>
 
-  <ZP_Rug_Tatami18Y.label>18畳(黄縁)</ZP_Rug_Tatami18Y.label>
-  <ZP_Rug_Tatami18Y.description>【Size：6×6】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami18Y.description>
-  <ZP_Rug_Tatami18Y_Blueprint.label>18畳(黄縁) (blueprint)</ZP_Rug_Tatami18Y_Blueprint.label>
-  <ZP_Rug_Tatami18Y_Blueprint_Install.label>18畳(黄縁) (blueprint)</ZP_Rug_Tatami18Y_Blueprint_Install.label>
-  <ZP_Rug_Tatami18Y_Frame.label>18畳(黄縁) (building)</ZP_Rug_Tatami18Y_Frame.label>
-  <ZP_Rug_Tatami18Y_Frame.description>【Size：6×6】\n畳は空気を浄化し湿度を調整する機能を持っている。\nまた難燃性も大変優れているので火事がおきても燃えない。</ZP_Rug_Tatami18Y_Frame.description>
+  <ZP_Rug_Tatami18Y.label>18다다미(황색)</ZP_Rug_Tatami18Y.label>
+  <ZP_Rug_Tatami18Y.description>【Size：6×6】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami18Y.description>
+  <ZP_Rug_Tatami18Y_Blueprint.label>18다다미(황색) (blueprint)</ZP_Rug_Tatami18Y_Blueprint.label>
+  <ZP_Rug_Tatami18Y_Blueprint_Install.label>18다다미(황색) (blueprint)</ZP_Rug_Tatami18Y_Blueprint_Install.label>
+  <ZP_Rug_Tatami18Y_Frame.label>18다다미(황색) (building)</ZP_Rug_Tatami18Y_Frame.label>
+  <ZP_Rug_Tatami18Y_Frame.description>【Size：6×6】\n짚으로 만들 수 있는 바닥재입니다.다다미는 공기를 정화하고 습도를 조정하는 기능을 가지고 있습니다.또한 난연성도 매우 우수하기 때문에 불이 나도 타지 않습니다.</ZP_Rug_Tatami18Y_Frame.description>
+
 
 
 </LanguageData>
