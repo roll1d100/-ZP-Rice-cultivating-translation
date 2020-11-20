@@ -3,20 +3,20 @@
 
   <!-- 米俵 -->
 
-  <StrawRiceBag_RawRice.label>米俵(米)</StrawRiceBag_RawRice.label>
-  <StrawRiceBag_RawRice.description>米(生)を大量に保管できる。また、特産品として売れる。</StrawRiceBag_RawRice.description>
+  <StrawRiceBag_RawRice.label>쌀가마니</StrawRiceBag_RawRice.label>
+  <StrawRiceBag_RawRice.description>쌀(삶)을 대량으로 보관할 수 있습니다.특산품으로 팔립니다.</StrawRiceBag_RawRice.description>
 
-  <StrawRiceBag_RiceMomi.label>米俵(籾米)</StrawRiceBag_RiceMomi.label>
-  <StrawRiceBag_RiceMomi.description>籾米を保管できる。また、特産品として売れる。</StrawRiceBag_RiceMomi.description>
+  <StrawRiceBag_RiceMomi.label>이삭 가마니</StrawRiceBag_RiceMomi.label>
+  <StrawRiceBag_RiceMomi.description>이삭을 보관할 수 있습니다.특산품으로 팔립니다.</StrawRiceBag_RiceMomi.description>
 
-  <StrawRiceBag_BrownRice.label>米俵(玄米)</StrawRiceBag_BrownRice.label>
-  <StrawRiceBag_BrownRice.description>玄米を保管できる。また、特産品として高く売れる。</StrawRiceBag_BrownRice.description>
+  <StrawRiceBag_BrownRice.label>현미 가마니</StrawRiceBag_BrownRice.label>
+  <StrawRiceBag_BrownRice.description>현미를 보관할 수 있습니다.특산품으로 비싸게 팔립니다.</StrawRiceBag_BrownRice.description>
 
-  <StrawRiceBag_GlutinousRice.label>米俵(もち米)</StrawRiceBag_GlutinousRice.label>
-  <StrawRiceBag_GlutinousRice.description>もち米を保管できる。また、特産品として高く売れる。</StrawRiceBag_GlutinousRice.description>
+  <StrawRiceBag_GlutinousRice.label>찹쌀 가마니</StrawRiceBag_GlutinousRice.label>
+  <StrawRiceBag_GlutinousRice.description>찹쌀을 보관할 수 있습니다.특산품으로 비싸게 팔립니다.</StrawRiceBag_GlutinousRice.description>
 
-  <StrawRiceBag_WhiteRice.label>米俵(白米)</StrawRiceBag_WhiteRice.label>
-  <StrawRiceBag_WhiteRice.description>白米を保管できる。また、特産品として非常に高く売れる。</StrawRiceBag_WhiteRice.description>
+  <StrawRiceBag_WhiteRice.label>백미 가마니</StrawRiceBag_WhiteRice.label>
+  <StrawRiceBag_WhiteRice.description>백미를 보관할 수 있습니다.특산품으로 매우 비싸게 팔립니다.</StrawRiceBag_WhiteRice.description>
 
 
 </LanguageData>
