@@ -3,45 +3,45 @@
 
   <!-- MealFine -->
 
-  <CookBRBento4.label>雑穀 日の丸弁当x4</CookBRBento4.label>
-  <CookBRBento4.description>米類,野菜(果菜,葉茎菜,豆菌),野菜(根菜,野菜加工,果物),肉類,調味料をバランスよく調理することで美味しい弁当を作る。</CookBRBento4.description>
-  <CookBRBento4.jobString>日の丸弁当を作成中。</CookBRBento4.jobString>
+  <CookBRBento4.label>잡곡 일식도시락x4</CookBRBento4.label>
+  <CookBRBento4.description>쌀류, 야채(과채, 잎채소, 콩, 버섯), 야채(뿌리채소, 가공야채, 과일), 육류, 조미료를 골고루 조리하여 맛있는 도시락을 만듭니다.</CookBRBento4.description>
+  <CookBRBento4.jobString>일본식 도시락 담는중</CookBRBento4.jobString>
 
-  <CookWRBento4.label>日の丸弁当x4</CookWRBento4.label>
-  <CookWRBento4.description>白米,野菜(果菜,葉茎菜,豆菌),野菜(根菜,野菜加工,果物),肉類,調味料をバランスよく調理することで美味しい弁当を作る。</CookWRBento4.description>
-  <CookWRBento4.jobString>日の丸弁当を作成中。</CookWRBento4.jobString>
+  <CookWRBento4.label>일식도시락x4</CookWRBento4.label>
+  <CookWRBento4.description>백미, 야채(과채, 잎채소, 콩, 버섯), 야채(뿌리채소, 가공야채, 과일), 육류, 조미료를 골고루 조리하여 맛있는 도시락을 만듭니다.</CookWRBento4.description>
+  <CookWRBento4.jobString>일본식 도시락 담는중</CookWRBento4.jobString>
 
-  <CookBRTKG.label>玄米 卵かけご飯</CookBRTKG.label>
-  <CookBRTKG.description>卵かけご飯を作る</CookBRTKG.description>
-  <CookBRTKG.jobString>卵かけご飯を作成中。</CookBRTKG.jobString>
+  <CookBRTKG.label>현미 계란밥</CookBRTKG.label>
+  <CookBRTKG.description>계란밥을 만듭니다.</CookBRTKG.description>
+  <CookBRTKG.jobString>밥에 계란 얹는중</CookBRTKG.jobString>
 
-  <CookBRTKG4.label>玄米 卵かけご飯x4</CookBRTKG4.label>
-  <CookBRTKG4.description>卵かけご飯を４個作る</CookBRTKG4.description>
-  <CookBRTKG4.jobString>卵かけご飯を作成中。</CookBRTKG4.jobString>
+  <CookBRTKG4.label>현미 계란밥x4</CookBRTKG4.label>
+  <CookBRTKG4.description>계란밥을 4개 만듭니다.</CookBRTKG4.description>
+  <CookBRTKG4.jobString>밥에 계란 얹는중</CookBRTKG4.jobString>
 
-  <CookWRTKG.label>卵かけご飯</CookWRTKG.label>
-  <CookWRTKG.description>卵かけご飯を作る</CookWRTKG.description>
-  <CookWRTKG.jobString>卵かけご飯を作成中。</CookWRTKG.jobString>
+  <CookWRTKG.label>계란밥</CookWRTKG.label>
+  <CookWRTKG.description>계란밥을 만듭니다.</CookWRTKG.description>
+  <CookWRTKG.jobString>밥에 계란 얹는중</CookWRTKG.jobString>
 
-  <CookWRTKG4.label>卵かけご飯x4</CookWRTKG4.label>
-  <CookWRTKG4.description>卵かけご飯を４個作る</CookWRTKG4.description>
-  <CookWRTKG4.jobString>卵かけご飯を作成中。</CookWRTKG4.jobString>
+  <CookWRTKG4.label>계란밥x4</CookWRTKG4.label>
+  <CookWRTKG4.description>계란밥을 4개 만듭니다.</CookWRTKG4.description>
+  <CookWRTKG4.jobString>밥에 계란 얹는중</CookWRTKG4.jobString>
 
-  <CookBRGyudon.label>玄米 肉丼</CookBRGyudon.label>
-  <CookBRGyudon.description>肉丼を作る</CookBRGyudon.description>
-  <CookBRGyudon.jobString>肉丼を作成中。</CookBRGyudon.jobString>
+  <CookBRGyudon.label>현미 고기덮밥</CookBRGyudon.label>
+  <CookBRGyudon.description>고기덮밥을 만든다</CookBRGyudon.description>
+  <CookBRGyudon.jobString>밥에 고기를 얹는 중</CookBRGyudon.jobString>
 
-  <CookBRGyudon4.label>玄米 肉丼x4</CookBRGyudon4.label>
-  <CookBRGyudon4.description>肉丼を４個作る</CookBRGyudon4.description>
-  <CookBRGyudon4.jobString>肉丼を作成中。</CookBRGyudon4.jobString>
+  <CookBRGyudon4.label>현미 고기덮밥x4</CookBRGyudon4.label>
+  <CookBRGyudon4.description>고기덮밥을 4개 만든다.</CookBRGyudon4.description>
+  <CookBRGyudon4.jobString>밥에 고기를 얹는 중</CookBRGyudon4.jobString>
 
-  <CookWRGyudon.label>肉丼</CookWRGyudon.label>
-  <CookWRGyudon.description>肉丼を作る</CookWRGyudon.description>
-  <CookWRGyudon.jobString>肉丼を作成中。</CookWRGyudon.jobString>
+  <CookWRGyudon.label>고기덮밥</CookWRGyudon.label>
+  <CookWRGyudon.description>고기덮밥을 만든다</CookWRGyudon.description>
+  <CookWRGyudon.jobString>밥에 고기를 얹는 중</CookWRGyudon.jobString>
 
-  <CookWRGyudon4.label>肉丼x4</CookWRGyudon4.label>
-  <CookWRGyudon4.description>肉丼を４個作る</CookWRGyudon4.description>
-  <CookWRGyudon4.jobString>肉丼を作成中。</CookWRGyudon4.jobString>
+  <CookWRGyudon4.label>고기덮밥x4</CookWRGyudon4.label>
+  <CookWRGyudon4.description>고기덮밥을 4개 만든다.</CookWRGyudon4.description>
+  <CookWRGyudon4.jobString>밥에 고기를 얹는 중</CookWRGyudon4.jobString>
 
 
 </LanguageData>
