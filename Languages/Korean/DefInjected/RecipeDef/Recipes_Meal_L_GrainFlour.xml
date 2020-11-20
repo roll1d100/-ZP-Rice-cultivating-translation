@@ -3,9 +3,9 @@
 
   <!-- MealLavish -->
 
-  <CookRamen4.label>ラーメンx4</CookRamen4.label>
-  <CookRamen4.description>穀物粉、味付け肉、野菜、調味料を使ってラーメンを作る。隠し味の香辛料も忘れずに入れよう。</CookRamen4.description>
-  <CookRamen4.jobString>ラーメンを作成中。。</CookRamen4.jobString>
+  <CookRamen4.label>라면x4</CookRamen4.label>
+  <CookRamen4.description>곡물 가루, 양념 고기, 야채, 양념을 사용하여 라면을 끓입니다. 숨은맛을 내는 향신료도 잊지 말고 넣자.</CookRamen4.description>
+  <CookRamen4.jobString>라면 보글보글</CookRamen4.jobString>
 
 
 </LanguageData>
