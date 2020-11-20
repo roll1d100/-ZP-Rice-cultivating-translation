@@ -3,28 +3,28 @@
 
   <!-- MealFine -->
 
-  <CookGRTakikomi4.label>炊き込みご飯x4</CookGRTakikomi4.label>
-  <CookGRTakikomi4.description>もち米と一緒に野菜と肉を炊き込んで作るご飯。</CookGRTakikomi4.description>
-  <CookGRTakikomi4.jobString>炊き込みご飯を作成中。</CookGRTakikomi4.jobString>
+  <CookGRTakikomi4.label>모둠밥x4</CookGRTakikomi4.label>
+  <CookGRTakikomi4.description>찹쌀과 함께 채소와 고기를 넣어 만든 밥</CookGRTakikomi4.description>
+  <CookGRTakikomi4.jobString>모둠밥 만드는 중。</CookGRTakikomi4.jobString>
 
 
   <!-- add 1.1 -->
 
-  <CookNattoRice.label>納豆ごはん</CookNattoRice.label>
-  <CookNattoRice.description>納豆ごはんを作る</CookNattoRice.description>
-  <CookNattoRice.jobString>納豆ごはんを作成中。</CookNattoRice.jobString>
+  <CookNattoRice.label>낫토밥</CookNattoRice.label>
+  <CookNattoRice.description>밥에 낫토를 올립니다.</CookNattoRice.description>
+  <CookNattoRice.jobString>낫토 얹는 중</CookNattoRice.jobString>
 
-  <CookNattoRice4.label>納豆ごはんx4</CookNattoRice4.label>
-  <CookNattoRice4.description>ごはんに納豆をのせる。</CookNattoRice4.description>
-  <CookNattoRice4.jobString>納豆ごはんを作成中。</CookNattoRice4.jobString>
+  <CookNattoRice4.label>낫토밥x4</CookNattoRice4.label>
+  <CookNattoRice4.description>밥에 낫토를 올립니다.</CookNattoRice4.description>
+  <CookNattoRice4.jobString>낫토 얹는 중</CookNattoRice4.jobString>
 
-  <CookSalmonRiceBall4.label>鮭おにぎりx4</CookSalmonRiceBall4.label>
-  <CookSalmonRiceBall4.description>米,魚の切り身,塩でどこでも食べれる鮭おにぎりを作る。</CookSalmonRiceBall4.description>
-  <CookSalmonRiceBall4.jobString>鮭おにぎりを作成中。</CookSalmonRiceBall4.jobString>
+  <CookSalmonRiceBall4.label>연어 주먹밥x4</CookSalmonRiceBall4.label>
+  <CookSalmonRiceBall4.description>쌀, 생선, 소금으로 어디서나 먹을 수 있는 연어 주먹밥을 만듭니다.</CookSalmonRiceBall4.description>
+  <CookSalmonRiceBall4.jobString>연어 주먹밥 만드는 중</CookSalmonRiceBall4.jobString>
 
-  <CookTempuraRiceBall4.label>天むすx4</CookTempuraRiceBall4.label>
-  <CookTempuraRiceBall4.description>天ぷらに白米を包んででどこでも食べれる天むすを作る。</CookTempuraRiceBall4.description>
-  <CookTempuraRiceBall4.jobString>天むすを作成中。</CookTempuraRiceBall4.jobString>
+  <CookTempuraRiceBall4.label>튀김 주먹밥x4</CookTempuraRiceBall4.label>
+  <CookTempuraRiceBall4.description>튀김을 백미로 싸서 어디서나 먹을 수 있는 튀김 주먹밥(텐무스)를 만듭니다.</CookTempuraRiceBall4.description>
+  <CookTempuraRiceBall4.jobString>튀김 주먹밥 만드는 중</CookTempuraRiceBall4.jobString>
 
 
 </LanguageData>
