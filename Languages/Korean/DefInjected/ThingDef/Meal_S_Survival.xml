@@ -3,14 +3,14 @@
 
   <!-- MealSimple -->
 
-  <ZP_aRice.label>アルファ米</ZP_aRice.label>
-  <ZP_aRice.description>【特産品】非常用食品。いつでもお米が食べられるように乾燥させたもの。食べる時は水かお湯で戻せば美味しいご飯ができる。</ZP_aRice.description>
+  <ZP_aRice.label>즉석밥</ZP_aRice.label>
+  <ZP_aRice.description>【특산품】비상용 식품입니다.언제든지 쌀을 먹을 수 있도록 건조시킨 것입니다.먹을 때는 물이나 따뜻한 물에 우려내면 맛있는 밥을 할 수 있어요.</ZP_aRice.description>
 
-  <ZP_Hardtack.label>乾パン</ZP_Hardtack.label>
-  <ZP_Hardtack.description>【特産品】非常用食品。長期保存のために固く焼き上げたビスケットの一種。</ZP_Hardtack.description>
+  <ZP_Hardtack.label>건빵</ZP_Hardtack.label>
+  <ZP_Hardtack.description>【특산품】비상용 식품입니다.장기보존을 위해 단단하게 구워낸 비스킷의 일종입니다.</ZP_Hardtack.description>
 
-  <ZP_Timaki.label>ちまき</ZP_Timaki.label>
-  <ZP_Timaki.description>【特産品】非常用食品。もち米を植物の葉に包み蒸したもの。事前に灰汁でもち米を煮込む事で保存性を高めてる。</ZP_Timaki.description>
+  <ZP_Timaki.label>치마키</ZP_Timaki.label>
+  <ZP_Timaki.description>【특산품】 비상용 식품입니다.찹쌀을 식물 잎에 싸서 찐 것입니다.미리 잿물로 찹쌀을 끓임으로써 보존성을 높여줍니다.</ZP_Timaki.description>
 
 
 </LanguageData>
