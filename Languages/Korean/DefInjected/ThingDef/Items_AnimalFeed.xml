@@ -3,20 +3,20 @@
 
   <!-- 飼料 -->
 
-  <Manger.label>飼い葉</Manger.label>
-  <Manger.description>腹持ちのすごくいい家畜用の飼料。</Manger.description>
+  <Manger.label>여물</Manger.label>
+  <Manger.description>짚과 곡물을 섞은 끈기가 있는 동물사료.</Manger.description>
 
-  <PetFood.label>増量ペットフード</PetFood.label>
-  <PetFood.description>かさ増しされたペットフード。</PetFood.description>
+  <PetFood.label>증량 동물 사료</PetFood.label>
+  <PetFood.description>양이 늘어난 동물사료.</PetFood.description>
 
-  <ZP_FishFood.label>魚の餌</ZP_FishFood.label>
-  <ZP_FishFood.description>米ぬかとジャガイモを水で練り合わせて作った魚の練り餌。\n動物も食べることが出来る。</ZP_FishFood.description>
+  <ZP_FishFood.label>물고기 밥</ZP_FishFood.label>
+  <ZP_FishFood.description>쌀겨와 으깬 감자를 물에 반죽하여 만듭니다.\n 동물들도 먹을 수 있습니다.</ZP_FishFood.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Earthworm.label>ミミズ</ZP_Earthworm.label>
-  <ZP_Earthworm.description>養殖魚の餌に必要。</ZP_Earthworm.description>
+  <ZP_Earthworm.label>지렁이</ZP_Earthworm.label>
+  <ZP_Earthworm.description>물고기 밥으로 쓰입니다.</ZP_Earthworm.description>
 
 
 </LanguageData>
