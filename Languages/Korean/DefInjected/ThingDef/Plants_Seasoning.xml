@@ -3,14 +3,14 @@
 
   <!-- 調味料類 -->
 
-  <ZP_PrantSpice.label>香辛料</ZP_PrantSpice.label>
-  <ZP_PrantSpice.description>調味料に使える香辛料を収穫できる。ラーメンやカレー等を作る際に必要です。</ZP_PrantSpice.description>
+  <ZP_PrantSpice.label>향신료</ZP_PrantSpice.label>
+  <ZP_PrantSpice.description>조미료로 사용할 수 있는 향신료를 수확할 수 있습니다.라면이나 카레 등을 끓일 때 필요합니다.</ZP_PrantSpice.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PrantSalt.label>塩</ZP_PrantSalt.label>
-  <ZP_PrantSalt.description>調味料に使える天然塩を収穫できる。塩田で生水を蒸発させて作る。重労働だが朝に栽培できれば夕方には収穫できる。</ZP_PrantSalt.description>
+  <ZP_PrantSalt.label>소금</ZP_PrantSalt.label>
+  <ZP_PrantSalt.description>조미료로 사용할 수 있는 천일염을 수확할 수 있습니다.염전에서 생수를 증발시켜 만듭니다.중노동이지만 아침에 재배할 수 있으면 저녁에는 수확할 수 있습니다.</ZP_PrantSalt.description>
 
 
 </LanguageData>
