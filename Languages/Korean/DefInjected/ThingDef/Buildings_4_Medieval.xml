@@ -3,9 +3,9 @@
 
 <ZP_ThreshingMachine.label> 발판식 탈곡기 </ZP_ThreshingMachine.label>
   <ZP_ThreshingMachine.description> [역할 : 탈곡] \n 벼를 탈곡해서 이삭을 생산하는 농기구. 인력을 사용해 효율이 나쁘다. </ZP_ThreshingMachine.description>
-  <ZP_ThreshingMachine_Blueprint.label> 발판식 탈곡기 (blueprint) </ ZP_ThreshingMachine_Blueprint.label>
-  <ZP_ThreshingMachine_Blueprint_Install.label> 발판식 탈곡기 (blueprint) </ ZP_ThreshingMachine_Blueprint_Install.label>
-  <ZP_ThreshingMachine_Frame.label> 발판식 탈곡기 (building) </ ZP_ThreshingMachine_Frame.label>
+  <ZP_ThreshingMachine_Blueprint.label> 발판식 탈곡기 (blueprint) </ZP_ThreshingMachine_Blueprint.label>
+  <ZP_ThreshingMachine_Blueprint_Install.label> 발판식 탈곡기 (blueprint) </ZP_ThreshingMachine_Blueprint_Install.label>
+  <ZP_ThreshingMachine_Frame.label> 발판식 탈곡기 (building) </ZP_ThreshingMachine_Frame.label>
   <ZP_ThreshingMachine_Frame.description> [역할 : 탈곡] \n 벼를 탈곡해서 이삭을 생산하는 농기구. 인력을 사용해 효율이 나쁘다. </ZP_ThreshingMachine_Frame.description>
 
   <ZP_RiceStoneSlurry.label>맷돌</ZP_RiceStoneSlurry.label>
