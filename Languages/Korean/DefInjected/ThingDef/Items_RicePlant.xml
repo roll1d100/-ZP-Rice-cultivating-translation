@@ -1,29 +1,29 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Inaho.label>稲穂</Inaho.label>
-  <Inaho.description>白米を美味しく食べるための五箇条\n１、【脱穀】稲穂を脱穀して籾米と藁にわける\n２、【籾摺り】籾米を籾摺りして玄米と籾殻にわける\n３、【精米】玄米を精米機にかけて白米と米ぬかにわける\n４、【調理】美味しく調理をする\n５、【食事】大地の恵みに感謝していただきます!!</Inaho.description>
+  <Inaho.label>벼</Inaho.label>
+  <Inaho.description>백미를 맛있게 먹기 위한 다섯 단계 \n1,[탈곡]벼를 탈곡하여 이삭과 짚으로 나눈다\n2,[정미]이삭을 현미와 왕겨로 나눈다\n3,[정미] 현미를 정미기에 걸쳐 흰쌀과 쌀겨에 나눈\n4,[조리] 맛있게 조리를 한다\n5,[식사] 대지의 은혜에 감사드립니다!!</Inaho.description>
 
-  <Inaho_Mochi.label>稲穂(もち米)</Inaho_Mochi.label>
-  <Inaho_Mochi.description>もち米を美味しく食べるための四箇条\n１、【脱穀】稲穂(もち米)を脱穀して籾米(もち米)と藁にわける\n２、【籾摺り】籾米(もち米)を籾摺りしてもち米と籾殻にわける\n３、【調理】美味しく調理をする\n４、【食事】大地の恵みに感謝していただきます!!</Inaho_Mochi.description>
+  <Inaho_Mochi.label>찹쌀벼</Inaho_Mochi.label>
+  <Inaho_Mochi.description>찹쌀을 맛있게 먹기 위한 4개조 \n1, 【탈곡】찹쌀벼를 탈곡하여 이삭(찹쌀)과 짚으로 나눈다 \n2, 【정미】 찹쌀 이삭을 정미하여 왕겨와 찹쌀로 나눈다\n3, 【조리】맛있게 조리를 한다 \n4, 【식사】대지의 은혜에 감사드립니다!!</Inaho_Mochi.description>
 
-  <RiceMomi.label>籾米</RiceMomi.label>
-  <RiceMomi.description>籾付きのお米。このまま食べることは出来ないので籾摺りしよう!!\n籾摺りすることで、玄米と副産物が手に入る。</RiceMomi.description>
+  <RiceMomi.label>이삭</RiceMomi.label>
+  <RiceMomi.description>외피인 왕겨가 남아있는 쌀입니다. 이대로는 못 먹으니 왕겨를 벗겨내야 합니다.</RiceMomi.description>
 
-  <RiceMomi_Mochi.label>籾米(もち米)</RiceMomi_Mochi.label>
-  <RiceMomi_Mochi.description>籾付きのもち米。このまま食べることは出来ないので籾摺りしよう!!\n籾摺りすることで、もち米と副産物が手に入る。</RiceMomi_Mochi.description>
+  <RiceMomi_Mochi.label>찹쌀이삭</RiceMomi_Mochi.label>
+  <RiceMomi_Mochi.description>외피인 왕겨가 남아있는 쌀입니다. 이대로는 못 먹으니 왕겨를 벗겨내야 합니다.RiceMomi_Mochi.description>
 
-  <Straw.label>藁</Straw.label>
-  <Straw.description>脱穀したさいの副産物。\n動物の飼料、肥料、燃料または工芸品など様々な場面で活躍する。</Straw.description>
+  <Straw.label>짚</Straw.label>
+  <Straw.description> 탈곡 시 부산물입니다.\n동물의 사료, 비료, 연료 또는 공예품 등으로 쓰임새가 많습니다.</Straw.description>
 
-  <Chaff.label>籾殻</Chaff.label>
-  <Chaff.description>籾摺りをしたさいの副産物。\n使い道は肥料、燃料、動物の飼料などに加工できる。</Chaff.description>
+  <Chaff.label>왕겨</Chaff.label>
+  <Chaff.description>정미의 부산물입니다. 비료, 연료, 사료등으로 가공하여 쓰입니다.</Chaff.description>
 
-  <RiceBran.label>米ぬか</RiceBran.label>
-  <RiceBran.description>玄米を精米したさいの副産物。\n使い道は主に肥料、燃料、動物の飼料(低栄養)など。</RiceBran.description>
+  <RiceBran.label>쌀겨</RiceBran.label>
+  <RiceBran.description>현미를 정미했을 때의 부산물입니다. 비료, 연료, 사료등으로 가공하여 쓰입니다RiceBran.description>
 
-  <RiceByproduct.label>副産物袋</RiceByproduct.label>
-  <RiceByproduct.description>米ぬかと籾殻が詰まってる袋。堆肥や動物の飼料に加工できる。\n農作物加工所で米ぬかや籾殻に再仕分けできる。</RiceByproduct.description>
+  <RiceByproduct.label>부산물봉지</RiceByproduct.label>
+  <RiceByproduct.description>쌀겨와 왕겨가 채워진 자루입니다.퇴비나 동물의 사료로 가공할 수 있습니다.\n농작물 가공소에서 쌀겨나 왕겨로 재구분이 가능합니다.</RiceByproduct.description>
 
 
 </LanguageData>
