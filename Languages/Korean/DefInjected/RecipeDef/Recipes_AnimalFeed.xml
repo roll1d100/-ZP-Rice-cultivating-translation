@@ -16,9 +16,9 @@
   <MakeManger100.description>짚, 곡물을 섞어 동물사료를 만듭니다.</MakeManger100.description>
   <MakeManger100.jobString>여물을 만드는 중입니다.</MakeManger100.jobString>
 
-  <MakePetFood100.label>동물 사료</MakePetFood100.label>
+  <MakePetFood100.label>증량 동물 사료</MakePetFood100.label>
   <MakePetFood100.description>동물용 사료와 부산물 봉지를 섞어 양을 늘립니다.</MakePetFood100.description>
-  <MakePetFood100.jobString>동물 사료 만드는중.</MakePetFood100.jobString>
+  <MakePetFood100.jobString>증량 동물 사료 만드는중.</MakePetFood100.jobString>
 
   <MakeFishFood100.label>물고기밥x100</MakeFishFood100.label>
   <MakeFishFood100.description>쌀겨와 으깬 감자를 물에 반죽하여 만듭니다.</MakeFishFood100.description>
