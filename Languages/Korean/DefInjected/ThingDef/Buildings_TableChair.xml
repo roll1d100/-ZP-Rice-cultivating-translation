@@ -3,35 +3,35 @@
 
   <!-- 椅子 -->
 
-  <ZP_GroundSit.label>地べたに座る</ZP_GroundSit.label>
-  <ZP_GroundSit.description>地べたに座ることができるのでレジャーシートと一緒に使おう</ZP_GroundSit.description>
-  <ZP_GroundSit_Blueprint.label>地べたに座る (blueprint)</ZP_GroundSit_Blueprint.label>
-  <ZP_GroundSit_Frame.label>地べたに座る (building)</ZP_GroundSit_Frame.label>
-  <ZP_GroundSit_Frame.description>地べたに座ることができるのでレジャーシートと一緒に使おう</ZP_GroundSit_Frame.description>
+  <ZP_GroundSit.label>바닥에 앉기</ZP_GroundSit.label>
+  <ZP_GroundSit.description>바닥에 앉을 수 있다. 소풍용 깔개와 함께 사용하자.</ZP_GroundSit.description>
+  <ZP_GroundSit_Blueprint.label>바닥에 앉기 (blueprint)</ZP_GroundSit_Blueprint.label>
+  <ZP_GroundSit_Frame.label>바닥에 앉기 (building)</ZP_GroundSit_Frame.label>
+  <ZP_GroundSit_Frame.description>바닥에 앉을 수 있다. 소풍용 깔개와 함께 사용하자.</ZP_GroundSit_Frame.description>
 
-  <ZP_WaraZabuton.label>筵</ZP_WaraZabuton.label>
-  <ZP_WaraZabuton.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZP_WaraZabuton.description>
+  <ZP_WaraZabuton.label>멍석 </ZP_WaraZabuton.label>
+  <ZP_WaraZabuton.description>짚으로 엮은 간소한 좌석입니다.\n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주기 위한 깔개입니다.성능은 의자와 동등합니다. </ZP_WaraZabuton.description>
 
-  <ZP_WaraZabuton2nd.label>筵2</ZP_WaraZabuton2nd.label>
-  <ZP_WaraZabuton2nd.description>藁で編んだ簡素な座席。\n床に座る際にお尻や脚の負担を軽減するための敷物です。性能はスツールと同等です。</ZP_WaraZabuton2nd.description>
+  <ZP_WaraZabuton2nd.label>멍석 2</ZP_WaraZabuton2nd.label>
+  <ZP_WaraZabuton2nd.description>짚으로 엮은 간소한 좌석입니다.\n바닥에 앉을 때 엉덩이나 다리의 부담을 덜어주기 위한 깔개입니다.성능은 의자와 동등합니다. </ZP_WaraZabuton2nd.description>
 
-  <ZP_Zabuton.label>座布団</ZP_Zabuton.label>
-  <ZP_Zabuton.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton.description>
+  <ZP_Zabuton.label>방석</ZP_Zabuton.label>
+  <ZP_Zabuton.description>쿠션의 일종입니다.\n다다미나 바닥에 앉을 때 엉덩이와 다리의 부담을 줄여주는 이불입니다.\n성능은 식당 의자와 동등합니다.\nLost Forest 작자님에게 차용 허가를 받았습니다.</ZP_Zabuton.description>
 
-  <ZP_Zabuton1st.label>座布団(赤)</ZP_Zabuton1st.label>
-  <ZP_Zabuton1st.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton1st.description>
+  <ZP_Zabuton1st.label>방석(빨강)</ZP_Zabuton1st.label>
+  <ZP_Zabuton1st.description>쿠션의 일종입니다.\n다다미나 바닥에 앉을 때 엉덩이와 다리의 부담을 줄여주는 이불입니다.\n성능은 식당 의자와 동등합니다.\nLost Forest 작자님에게 차용 허가를 받았습니다.</ZP_Zabuton1st.description>
 
-  <ZP_Zabuton2nd.label>座布団(青)</ZP_Zabuton2nd.label>
-  <ZP_Zabuton2nd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton2nd.description>
+  <ZP_Zabuton2nd.label>방석(파랑)</ZP_Zabuton2nd.label>
+  <ZP_Zabuton2nd.description>쿠션의 일종입니다.\n다다미나 바닥에 앉을 때 엉덩이와 다리의 부담을 줄여주는 이불입니다.\n성능은 식당 의자와 동등합니다.\nLost Forest 작자님에게 차용 허가를 받았습니다.</ZP_Zabuton2nd.description>
 
-  <ZP_Zabuton3rd.label>座布団(紫)</ZP_Zabuton3rd.label>
-  <ZP_Zabuton3rd.description>クッションの一種。\n畳や床の上に座る際にお尻や脚の負担を軽減するための布団です。\n性能はダイニングチェアと同等です。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Zabuton3rd.description>
+  <ZP_Zabuton3rd.label>방석(보라)</ZP_Zabuton3rd.label>
+  <ZP_Zabuton3rd.description>쿠션의 일종입니다.\n다다미나 바닥에 앉을 때 엉덩이와 다리의 부담을 줄여주는 이불입니다.\n성능은 식당 의자와 동등합니다.\nLost Forest 작자님에게 차용 허가를 받았습니다.</ZP_Zabuton3rd.description>
 
 
   <!-- 机 -->
 
-  <ZP_Tyabudai.label>ちゃぶ台</ZP_Tyabudai.label>
-  <ZP_Tyabudai.description>イスを向き合うように配置すると、ここで食事を摂るようになります。\n Lost Forestの作者様より借用許可を頂きました。</ZP_Tyabudai.description>
+  <ZP_Tyabudai.label>밥상</ZP_Tyabudai.label>
+  <ZP_Tyabudai.description>의자를 마주보게 배치하면 여기서 식사를 하게 됩니다.\nLost Forest 작가님께 차용 허가를 받았습니다. </ZP_Tyabudai.description>
 
 
 </LanguageData>
