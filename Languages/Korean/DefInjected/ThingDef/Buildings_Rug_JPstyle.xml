@@ -3,89 +3,89 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_Rug_JPstyle.label>敷物(和柄)</ZP_Rug_JPstyle.label>
-  <ZP_Rug_JPstyle.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle.description>
-  <ZP_Rug_JPstyle_Blueprint.label>敷物(和柄) (blueprint)</ZP_Rug_JPstyle_Blueprint.label>
-  <ZP_Rug_JPstyle_Blueprint_Install.label>敷物(和柄) (blueprint)</ZP_Rug_JPstyle_Blueprint_Install.label>
-  <ZP_Rug_JPstyle_Frame.label>敷物(和柄) (building)</ZP_Rug_JPstyle_Frame.label>
-  <ZP_Rug_JPstyle_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle_Frame.description>
+  <ZP_Rug_JPstyle.label>고급 깔개(일본풍)</ZP_Rug_JPstyle.label>
+  <ZP_Rug_JPstyle.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle.description>
+  <ZP_Rug_JPstyle_Blueprint.label>고급 깔개(일본풍) (blueprint)</ZP_Rug_JPstyle_Blueprint.label>
+  <ZP_Rug_JPstyle_Blueprint_Install.label>고급 깔개(일본풍) (blueprint)</ZP_Rug_JPstyle_Blueprint_Install.label>
+  <ZP_Rug_JPstyle_Frame.label>고급 깔개(일본풍) (building)</ZP_Rug_JPstyle_Frame.label>
+  <ZP_Rug_JPstyle_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle_Frame.description>
 
-  <ZP_Rug_JPstyle2nd.label>敷物(和柄2)</ZP_Rug_JPstyle2nd.label>
-  <ZP_Rug_JPstyle2nd.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle2nd.description>
-  <ZP_Rug_JPstyle2nd_Blueprint.label>敷物(和柄2) (blueprint)</ZP_Rug_JPstyle2nd_Blueprint.label>
-  <ZP_Rug_JPstyle2nd_Blueprint_Install.label>敷物(和柄2) (blueprint)</ZP_Rug_JPstyle2nd_Blueprint_Install.label>
-  <ZP_Rug_JPstyle2nd_Frame.label>敷物(和柄2) (building)</ZP_Rug_JPstyle2nd_Frame.label>
-  <ZP_Rug_JPstyle2nd_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle2nd_Frame.description>
+  <ZP_Rug_JPstyle2nd.label>고급 깔개(일본풍2)</ZP_Rug_JPstyle2nd.label>
+  <ZP_Rug_JPstyle2nd.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle2nd.description>
+  <ZP_Rug_JPstyle2nd_Blueprint.label>고급 깔개(일본풍2) (blueprint)</ZP_Rug_JPstyle2nd_Blueprint.label>
+  <ZP_Rug_JPstyle2nd_Blueprint_Install.label>고급 깔개(일본풍2) (blueprint)</ZP_Rug_JPstyle2nd_Blueprint_Install.label>
+  <ZP_Rug_JPstyle2nd_Frame.label>고급 깔개(일본풍2) (building)</ZP_Rug_JPstyle2nd_Frame.label>
+  <ZP_Rug_JPstyle2nd_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle2nd_Frame.description>
 
-  <ZP_Rug_JPstyle3rd.label>敷物(和柄3)</ZP_Rug_JPstyle3rd.label>
-  <ZP_Rug_JPstyle3rd.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle3rd.description>
-  <ZP_Rug_JPstyle3rd_Blueprint.label>敷物(和柄3) (blueprint)</ZP_Rug_JPstyle3rd_Blueprint.label>
-  <ZP_Rug_JPstyle3rd_Blueprint_Install.label>敷物(和柄3) (blueprint)</ZP_Rug_JPstyle3rd_Blueprint_Install.label>
-  <ZP_Rug_JPstyle3rd_Frame.label>敷物(和柄3) (building)</ZP_Rug_JPstyle3rd_Frame.label>
-  <ZP_Rug_JPstyle3rd_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle3rd_Frame.description>
+  <ZP_Rug_JPstyle3rd.label>고급 깔개(일본풍3)</ZP_Rug_JPstyle3rd.label>
+  <ZP_Rug_JPstyle3rd.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle3rd.description>
+  <ZP_Rug_JPstyle3rd_Blueprint.label>고급 깔개(일본풍3) (blueprint)</ZP_Rug_JPstyle3rd_Blueprint.label>
+  <ZP_Rug_JPstyle3rd_Blueprint_Install.label>고급 깔개(일본풍3) (blueprint)</ZP_Rug_JPstyle3rd_Blueprint_Install.label>
+  <ZP_Rug_JPstyle3rd_Frame.label>고급 깔개(일본풍3) (building)</ZP_Rug_JPstyle3rd_Frame.label>
+  <ZP_Rug_JPstyle3rd_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle3rd_Frame.description>
 
-  <ZP_Rug_JPstyle4th.label>敷物(和柄4)</ZP_Rug_JPstyle4th.label>
-  <ZP_Rug_JPstyle4th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle4th.description>
-  <ZP_Rug_JPstyle4th_Blueprint.label>敷物(和柄4) (blueprint)</ZP_Rug_JPstyle4th_Blueprint.label>
-  <ZP_Rug_JPstyle4th_Blueprint_Install.label>敷物(和柄4) (blueprint)</ZP_Rug_JPstyle4th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle4th_Frame.label>敷物(和柄4) (building)</ZP_Rug_JPstyle4th_Frame.label>
-  <ZP_Rug_JPstyle4th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle4th_Frame.description>
+  <ZP_Rug_JPstyle4th.label>고급 깔개(일본풍4)</ZP_Rug_JPstyle4th.label>
+  <ZP_Rug_JPstyle4th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle4th.description>
+  <ZP_Rug_JPstyle4th_Blueprint.label>고급 깔개(일본풍4) (blueprint)</ZP_Rug_JPstyle4th_Blueprint.label>
+  <ZP_Rug_JPstyle4th_Blueprint_Install.label>고급 깔개(일본풍4) (blueprint)</ZP_Rug_JPstyle4th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle4th_Frame.label>고급 깔개(일본풍4) (building)</ZP_Rug_JPstyle4th_Frame.label>
+  <ZP_Rug_JPstyle4th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle4th_Frame.description>
 
-  <ZP_Rug_JPstyle5th.label>敷物(和柄5)</ZP_Rug_JPstyle5th.label>
-  <ZP_Rug_JPstyle5th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle5th.description>
-  <ZP_Rug_JPstyle5th_Blueprint.label>敷物(和柄5) (blueprint)</ZP_Rug_JPstyle5th_Blueprint.label>
-  <ZP_Rug_JPstyle5th_Blueprint_Install.label>敷物(和柄5) (blueprint)</ZP_Rug_JPstyle5th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle5th_Frame.label>敷物(和柄5) (building)</ZP_Rug_JPstyle5th_Frame.label>
-  <ZP_Rug_JPstyle5th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle5th_Frame.description>
+  <ZP_Rug_JPstyle5th.label>고급 깔개(일본풍5)</ZP_Rug_JPstyle5th.label>
+  <ZP_Rug_JPstyle5th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle5th.description>
+  <ZP_Rug_JPstyle5th_Blueprint.label>고급 깔개(일본풍5) (blueprint)</ZP_Rug_JPstyle5th_Blueprint.label>
+  <ZP_Rug_JPstyle5th_Blueprint_Install.label>고급 깔개(일본풍5) (blueprint)</ZP_Rug_JPstyle5th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle5th_Frame.label>고급 깔개(일본풍5) (building)</ZP_Rug_JPstyle5th_Frame.label>
+  <ZP_Rug_JPstyle5th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle5th_Frame.description>
 
-  <ZP_Rug_JPstyle6th.label>敷物(和柄6)</ZP_Rug_JPstyle6th.label>
-  <ZP_Rug_JPstyle6th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle6th.description>
-  <ZP_Rug_JPstyle6th_Blueprint.label>敷物(和柄6) (blueprint)</ZP_Rug_JPstyle6th_Blueprint.label>
-  <ZP_Rug_JPstyle6th_Blueprint_Install.label>敷物(和柄6) (blueprint)</ZP_Rug_JPstyle6th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle6th_Frame.label>敷物(和柄6) (building)</ZP_Rug_JPstyle6th_Frame.label>
-  <ZP_Rug_JPstyle6th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle6th_Frame.description>
+  <ZP_Rug_JPstyle6th.label>고급 깔개(일본풍6)</ZP_Rug_JPstyle6th.label>
+  <ZP_Rug_JPstyle6th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle6th.description>
+  <ZP_Rug_JPstyle6th_Blueprint.label>고급 깔개(일본풍6) (blueprint)</ZP_Rug_JPstyle6th_Blueprint.label>
+  <ZP_Rug_JPstyle6th_Blueprint_Install.label>고급 깔개(일본풍6) (blueprint)</ZP_Rug_JPstyle6th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle6th_Frame.label>고급 깔개(일본풍6) (building)</ZP_Rug_JPstyle6th_Frame.label>
+  <ZP_Rug_JPstyle6th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle6th_Frame.description>
 
-  <ZP_Rug_JPstyle7th.label>敷物(アイヌ)</ZP_Rug_JPstyle7th.label>
-  <ZP_Rug_JPstyle7th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle7th.description>
-  <ZP_Rug_JPstyle7th_Blueprint.label>敷物(アイヌ) (blueprint)</ZP_Rug_JPstyle7th_Blueprint.label>
-  <ZP_Rug_JPstyle7th_Blueprint_Install.label>敷物(アイヌ) (blueprint)</ZP_Rug_JPstyle7th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle7th_Frame.label>敷物(アイヌ) (building)</ZP_Rug_JPstyle7th_Frame.label>
-  <ZP_Rug_JPstyle7th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle7th_Frame.description>
+  <ZP_Rug_JPstyle7th.label>고급 깔개(아이누)</ZP_Rug_JPstyle7th.label>
+  <ZP_Rug_JPstyle7th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle7th.description>
+  <ZP_Rug_JPstyle7th_Blueprint.label>고급 깔개(아이누) (blueprint)</ZP_Rug_JPstyle7th_Blueprint.label>
+  <ZP_Rug_JPstyle7th_Blueprint_Install.label>고급 깔개(아이누) (blueprint)</ZP_Rug_JPstyle7th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle7th_Frame.label>고급 깔개(아이누) (building)</ZP_Rug_JPstyle7th_Frame.label>
+  <ZP_Rug_JPstyle7th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle7th_Frame.description>
 
-  <ZP_Rug_JPstyle8th.label>敷物(アイヌ2)</ZP_Rug_JPstyle8th.label>
-  <ZP_Rug_JPstyle8th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle8th.description>
-  <ZP_Rug_JPstyle8th_Blueprint.label>敷物(アイヌ2) (blueprint)</ZP_Rug_JPstyle8th_Blueprint.label>
-  <ZP_Rug_JPstyle8th_Blueprint_Install.label>敷物(アイヌ2) (blueprint)</ZP_Rug_JPstyle8th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle8th_Frame.label>敷物(アイヌ2) (building)</ZP_Rug_JPstyle8th_Frame.label>
-  <ZP_Rug_JPstyle8th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle8th_Frame.description>
+  <ZP_Rug_JPstyle8th.label>고급 깔개(아이누2)</ZP_Rug_JPstyle8th.label>
+  <ZP_Rug_JPstyle8th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle8th.description>
+  <ZP_Rug_JPstyle8th_Blueprint.label>고급 깔개(아이누2) (blueprint)</ZP_Rug_JPstyle8th_Blueprint.label>
+  <ZP_Rug_JPstyle8th_Blueprint_Install.label>고급 깔개(아이누2) (blueprint)</ZP_Rug_JPstyle8th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle8th_Frame.label>고급 깔개(아이누2) (building)</ZP_Rug_JPstyle8th_Frame.label>
+  <ZP_Rug_JPstyle8th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle8th_Frame.description>
 
-  <ZP_Rug_JPstyle9th.label>敷物(虎柄)</ZP_Rug_JPstyle9th.label>
-  <ZP_Rug_JPstyle9th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle9th.description>
-  <ZP_Rug_JPstyle9th_Blueprint.label>敷物(虎柄) (blueprint)</ZP_Rug_JPstyle9th_Blueprint.label>
-  <ZP_Rug_JPstyle9th_Blueprint_Install.label>敷物(虎柄) (blueprint)</ZP_Rug_JPstyle9th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle9th_Frame.label>敷物(虎柄) (building)</ZP_Rug_JPstyle9th_Frame.label>
-  <ZP_Rug_JPstyle9th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle9th_Frame.description>
+  <ZP_Rug_JPstyle9th.label>고급 깔개(호피)</ZP_Rug_JPstyle9th.label>
+  <ZP_Rug_JPstyle9th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle9th.description>
+  <ZP_Rug_JPstyle9th_Blueprint.label>고급 깔개(호피) (blueprint)</ZP_Rug_JPstyle9th_Blueprint.label>
+  <ZP_Rug_JPstyle9th_Blueprint_Install.label>고급 깔개(호피) (blueprint)</ZP_Rug_JPstyle9th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle9th_Frame.label>고급 깔개(호피) (building)</ZP_Rug_JPstyle9th_Frame.label>
+  <ZP_Rug_JPstyle9th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle9th_Frame.description>
 
-  <ZP_Rug_JPstyle10th.label>敷物(マッファロー)</ZP_Rug_JPstyle10th.label>
-  <ZP_Rug_JPstyle10th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle10th.description>
-  <ZP_Rug_JPstyle10th_Blueprint.label>敷物(マッファロー) (blueprint)</ZP_Rug_JPstyle10th_Blueprint.label>
-  <ZP_Rug_JPstyle10th_Blueprint_Install.label>敷物(マッファロー) (blueprint)</ZP_Rug_JPstyle10th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle10th_Frame.label>敷物(マッファロー) (building)</ZP_Rug_JPstyle10th_Frame.label>
-  <ZP_Rug_JPstyle10th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle10th_Frame.description>
+  <ZP_Rug_JPstyle10th.label>고급 깔개(머팔로)</ZP_Rug_JPstyle10th.label>
+  <ZP_Rug_JPstyle10th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle10th.description>
+  <ZP_Rug_JPstyle10th_Blueprint.label>고급 깔개(머팔로) (blueprint)</ZP_Rug_JPstyle10th_Blueprint.label>
+  <ZP_Rug_JPstyle10th_Blueprint_Install.label>고급 깔개(머팔로) (blueprint)</ZP_Rug_JPstyle10th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle10th_Frame.label>고급 깔개(머팔로) (building)</ZP_Rug_JPstyle10th_Frame.label>
+  <ZP_Rug_JPstyle10th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle10th_Frame.description>
 
-  <ZP_Rug_JPstyle11th.label>敷物(青海波)</ZP_Rug_JPstyle11th.label>
-  <ZP_Rug_JPstyle11th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle11th.description>
-  <ZP_Rug_JPstyle11th_Blueprint.label>敷物(青海波) (blueprint)</ZP_Rug_JPstyle11th_Blueprint.label>
-  <ZP_Rug_JPstyle11th_Blueprint_Install.label>敷物(青海波) (blueprint)</ZP_Rug_JPstyle11th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle11th_Frame.label>敷物(青海波) (building)</ZP_Rug_JPstyle11th_Frame.label>
-  <ZP_Rug_JPstyle11th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle11th_Frame.description>
+  <ZP_Rug_JPstyle11th.label>고급 깔개(파도문양)</ZP_Rug_JPstyle11th.label>
+  <ZP_Rug_JPstyle11th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle11th.description>
+  <ZP_Rug_JPstyle11th_Blueprint.label>고급 깔개(파도문양) (blueprint)</ZP_Rug_JPstyle11th_Blueprint.label>
+  <ZP_Rug_JPstyle11th_Blueprint_Install.label>고급 깔개(파도문양) (blueprint)</ZP_Rug_JPstyle11th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle11th_Frame.label>고급 깔개(파도문양) (building)</ZP_Rug_JPstyle11th_Frame.label>
+  <ZP_Rug_JPstyle11th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle11th_Frame.description>
 
-  <ZP_Rug_JPstyle12th.label>敷物(手裏剣)</ZP_Rug_JPstyle12th.label>
-  <ZP_Rug_JPstyle12th.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle12th.description>
-  <ZP_Rug_JPstyle12th_Blueprint.label>敷物(手裏剣) (blueprint)</ZP_Rug_JPstyle12th_Blueprint.label>
-  <ZP_Rug_JPstyle12th_Blueprint_Install.label>敷物(手裏剣) (blueprint)</ZP_Rug_JPstyle12th_Blueprint_Install.label>
-  <ZP_Rug_JPstyle12th_Frame.label>敷物(手裏剣) (building)</ZP_Rug_JPstyle12th_Frame.label>
-  <ZP_Rug_JPstyle12th_Frame.description>【Size：4×4】\n高級な敷物。作るのは手間だが床の上に敷けば部屋を豪華にし高値で売買することもできる。</ZP_Rug_JPstyle12th_Frame.description>
+  <ZP_Rug_JPstyle12th.label>고급 깔개(수리검)</ZP_Rug_JPstyle12th.label>
+  <ZP_Rug_JPstyle12th.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle12th.description>
+  <ZP_Rug_JPstyle12th_Blueprint.label>고급 깔개(수리검) (blueprint)</ZP_Rug_JPstyle12th_Blueprint.label>
+  <ZP_Rug_JPstyle12th_Blueprint_Install.label>고급 깔개(수리검) (blueprint)</ZP_Rug_JPstyle12th_Blueprint_Install.label>
+  <ZP_Rug_JPstyle12th_Frame.label>고급 깔개(수리검) (building)</ZP_Rug_JPstyle12th_Frame.label>
+  <ZP_Rug_JPstyle12th_Frame.description>【Size：4×4】\n고급스러운 깔개. 만드는 것은 수고스럽지만 바닥에 깔면 방을 호화롭게 만들며 비싼 값에 사고 팔 수도 있습니다.</ZP_Rug_JPstyle12th_Frame.description>
 
 
 </LanguageData>
