@@ -3,13 +3,13 @@
 
   <!-- MealSimple -->
 
-  <CookASUHotDogBun.label>こっぺぱん</CookASUHotDogBun.label>
-  <CookASUHotDogBun.description>穀物粉,塩,水飴,牛乳でこっぺぱんを作る。</CookASUHotDogBun.description>
-  <CookASUHotDogBun.jobString>こっぺぱんを作成中。</CookASUHotDogBun.jobString>
+  <CookASUHotDogBun.label>핫도그빵</CookASUHotDogBun.label>
+  <CookASUHotDogBun.description>곡물가루와 소금, 물엿, 우유로 핫도그빵을 만듭니다.</CookASUHotDogBun.description>
+  <CookASUHotDogBun.jobString>핫도그빵을 만듭니다</CookASUHotDogBun.jobString>
 
-  <CookASUHotDogBun10.label>こっぺぱんx10</CookASUHotDogBun10.label>
-  <CookASUHotDogBun10.description>穀物粉,塩,水飴,牛乳でこっぺぱんを作る。</CookASUHotDogBun10.description>
-  <CookASUHotDogBun10.jobString>こっぺぱんを作成中。</CookASUHotDogBun10.jobString>
+  <CookASUHotDogBun10.label>핫도그빵x10</CookASUHotDogBun10.label>
+  <CookASUHotDogBun10.description>곡물가루와 소금, 물엿, 우유로 핫도그빵을 만듭니다.</CookASUHotDogBun10.description>
+  <CookASUHotDogBun10.jobString>핫도그빵을 만듭니다</CookASUHotDogBun10.jobString>
 
 
 </LanguageData>
