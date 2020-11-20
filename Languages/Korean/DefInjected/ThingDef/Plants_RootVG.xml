@@ -3,23 +3,23 @@
 
   <!-- 根菜類 -->
 
-  <ZP_PrantJapaneseRadish.label>大根</ZP_PrantJapaneseRadish.label>
-  <ZP_PrantJapaneseRadish.description>ダイコン。生育期間が短くたくさん収穫できるが大きいので保存場所に困る。</ZP_PrantJapaneseRadish.description>
+  <ZP_PrantJapaneseRadish.label>무</ZP_PrantJapaneseRadish.label>
+  <ZP_PrantJapaneseRadish.description>무입니다.생육기간이 짧고 많이 수확할 수 있지만 크기가 크기 때문에 저장 장소가 부족해질 수 있습니다.</ZP_PrantJapaneseRadish.description>
 
-  <ZP_PrantTaro.label>里芋</ZP_PrantTaro.label>
-  <ZP_PrantTaro.description>サトイモ。生育期間は長いが収穫量も多い。煮物や汁物などの料理に使える。</ZP_PrantTaro.description>
+  <ZP_PrantTaro.label>토란</ZP_PrantTaro.label>
+  <ZP_PrantTaro.description>토란입니다.생육기간은 길지만 수확량도 많아요.조림이나 국물 등의 요리에 사용할 수 있습니다.</ZP_PrantTaro.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_PrantCarrot.label>人参</ZP_PrantCarrot.label>
-  <ZP_PrantCarrot.description>ニンジン。寒さに強い作物。カレーライスの具材にぴったり。</ZP_PrantCarrot.description>
+  <ZP_PrantCarrot.label>당근</ZP_PrantCarrot.label>
+  <ZP_PrantCarrot.description>당근입니다.추위에 강한 작물입니다.카레라이스 재료에 딱 맞습니다.</ZP_PrantCarrot.description>
 
-  <ZP_PrantTreeBamboo.label>竹</ZP_PrantTreeBamboo.label>
-  <ZP_PrantTreeBamboo.description>タケノコがとれる。食用に特化しているため竹はとれない。</ZP_PrantTreeBamboo.description>
+  <ZP_PrantTreeBamboo.label>대나무</ZP_PrantTreeBamboo.label>
+  <ZP_PrantTreeBamboo.description>죽순이 나옵니다.식용에 특화되어 있기 때문에 대나무는 나오지 않습니다.</ZP_PrantTreeBamboo.description>
 
-  <ZP_PrantSweetPotato.label>薩摩芋</ZP_PrantSweetPotato.label>
-  <ZP_PrantSweetPotato.description>サツマイモ。江戸時代の食糧危機の救世主。痩せた土地でも育つので重宝する。</ZP_PrantSweetPotato.description>
+  <ZP_PrantSweetPotato.label>고구마</ZP_PrantSweetPotato.label>
+  <ZP_PrantSweetPotato.description>고구마입니다.에도시대 식량위기의 구세주. 메마른 땅에서도 자라기 때문에 애용합니다.</ZP_PrantSweetPotato.description>
 
 
 </LanguageData>
