@@ -3,25 +3,25 @@
 
   <!-- All add 1.1 -->
 
-  <Make_StoneBlocksAny2nd.label>石材に切り出す×3</Make_StoneBlocksAny2nd.label>
-  <Make_StoneBlocksAny2nd.description>岩の塊を使いやすい石材に切り出します。</Make_StoneBlocksAny2nd.description>
-  <Make_StoneBlocksAny2nd.jobString>岩塊を加工中</Make_StoneBlocksAny2nd.jobString>
+  <Make_StoneBlocksAny2nd.label>석재로 만든다×3</Make_StoneBlocksAny2nd.label>
+  <Make_StoneBlocksAny2nd.description>바위덩어리를 사용하기 쉬운 석재로 잘라냅니다.</Make_StoneBlocksAny2nd.description>
+  <Make_StoneBlocksAny2nd.jobString>바위 가공중</Make_StoneBlocksAny2nd.jobString>
 
-  <MakeBMStoneBlocks.label>建築石材x10</MakeBMStoneBlocks.label>
-  <MakeBMStoneBlocks.description>各種石材を建築用に使いやすいように規格統一する。</MakeBMStoneBlocks.description>
-  <MakeBMStoneBlocks.jobString>岩塊を加工中</MakeBMStoneBlocks.jobString>
+  <MakeBMStoneBlocks.label>건축석재x10</MakeBMStoneBlocks.label>
+  <MakeBMStoneBlocks.description>각종 석재를 건축용으로 사용하기 쉽도록 규격을 통일합니다.</MakeBMStoneBlocks.description>
+  <MakeBMStoneBlocks.jobString>바위 가공중</MakeBMStoneBlocks.jobString>
 
-  <MakeBMStoneBlocks2nd.label>建築石材x50</MakeBMStoneBlocks2nd.label>
-  <MakeBMStoneBlocks2nd.description>各種石材を建築用に使いやすいように規格統一する。</MakeBMStoneBlocks2nd.description>
-  <MakeBMStoneBlocks2nd.jobString>岩塊を加工中</MakeBMStoneBlocks2nd.jobString>
+  <MakeBMStoneBlocks2nd.label>건축석재x50</MakeBMStoneBlocks2nd.label>
+  <MakeBMStoneBlocks2nd.description>각종 석재를 건축용으로 사용하기 쉽도록 규격을 통일합니다.</MakeBMStoneBlocks2nd.description>
+  <MakeBMStoneBlocks2nd.jobString>바위 가공중</MakeBMStoneBlocks2nd.jobString>
 
-  <Make_BMStoneBlocksAny.label>建築石材に切り出す</Make_BMStoneBlocksAny.label>
-  <Make_BMStoneBlocksAny.description>岩の塊を使いやすい建築石材に切り出します。</Make_BMStoneBlocksAny.description>
-  <Make_BMStoneBlocksAny.jobString>岩塊を加工中</Make_BMStoneBlocksAny.jobString>
+  <Make_BMStoneBlocksAny.label>건축 석재로 만든다</Make_BMStoneBlocksAny.label>
+  <Make_BMStoneBlocksAny.description>바위 덩어리를 사용하기 쉬운 건축 석재로 잘라냅니다.</Make_BMStoneBlocksAny.description>
+  <Make_BMStoneBlocksAny.jobString>바위 가공중</Make_BMStoneBlocksAny.jobString>
 
-  <MakeRPCGravel.label>砂利x50</MakeRPCGravel.label>
-  <MakeRPCGravel.description>各種石材を破砕して砂利を作る。</MakeRPCGravel.description>
-  <MakeRPCGravel.jobString>岩塊を加工中</MakeRPCGravel.jobString>
+  <MakeRPCGravel.label>자갈x50</MakeRPCGravel.label>
+  <MakeRPCGravel.description>각종 석재를 파쇄하여 자갈을 만듭니다.</MakeRPCGravel.description>
+  <MakeRPCGravel.jobString>바위 가공중</MakeRPCGravel.jobString>
 
 
 </LanguageData>
