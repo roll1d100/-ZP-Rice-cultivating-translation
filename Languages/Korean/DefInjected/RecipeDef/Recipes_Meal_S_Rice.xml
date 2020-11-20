@@ -3,29 +3,29 @@
 
   <!-- MealSimple -->
 
-  <CookBRGohan.label>雑穀 ご飯</CookBRGohan.label>
-  <CookBRGohan.description>ご飯を作る</CookBRGohan.description>
-  <CookBRGohan.jobString>ご飯を作成中。</CookBRGohan.jobString>
+  <CookBRGohan.label>잡곡 밥 짓기</CookBRGohan.label>
+  <CookBRGohan.description>밥 짓기</CookBRGohan.description>
+  <CookBRGohan.jobString>밥 짓는 중</CookBRGohan.jobString>
 
-  <CookBRGohan4.label>雑穀 ご飯 x4</CookBRGohan4.label>
-  <CookBRGohan4.description>ご飯を４個作る</CookBRGohan4.description>
-  <CookBRGohan4.jobString>ご飯を作成中。</CookBRGohan4.jobString>
+  <CookBRGohan4.label>잡곡 밥 짓기 x4</CookBRGohan4.label>
+  <CookBRGohan4.description>밥 4인분 짓기</CookBRGohan4.description>
+  <CookBRGohan4.jobString>밥 짓는 중</CookBRGohan4.jobString>
 
-  <CookGohan.label>ご飯</CookGohan.label>
-  <CookGohan.description>ご飯を作る</CookGohan.description>
-  <CookGohan.jobString>ご飯を作成中。</CookGohan.jobString>
+  <CookGohan.label>밥 짓기</CookGohan.label>
+  <CookGohan.description>밥 짓기</CookGohan.description>
+  <CookGohan.jobString>밥 짓는 중</CookGohan.jobString>
 
-  <CookGohan4.label>ご飯x4</CookGohan4.label>
-  <CookGohan4.description>ご飯を４個作る</CookGohan4.description>
-  <CookGohan4.jobString>ご飯を作成中。</CookGohan4.jobString>
+  <CookGohan4.label>밥 짓기x4</CookGohan4.label>
+  <CookGohan4.description>밥 4인분 짓기</CookGohan4.description>
+  <CookGohan4.jobString>밥 짓는 중</CookGohan4.jobString>
 
-  <CookBROnigiri4.label>雑穀 おにぎりx4</CookBROnigiri4.label>
-  <CookBROnigiri4.description>米類,調味料でどこでも食べれるおにぎりを作る。</CookBROnigiri4.description>
-  <CookBROnigiri4.jobString>おにぎりを作成中。</CookBROnigiri4.jobString>
+  <CookBROnigiri4.label>잡곡 주먹밥x4</CookBROnigiri4.label>
+  <CookBROnigiri4.description>쌀류, 조미료로 어디서나 먹을 수 있는 주먹밥을 만듭니다.。</CookBROnigiri4.description>
+  <CookBROnigiri4.jobString>주먹밥만드는 중</CookBROnigiri4.jobString>
 
-  <CookWROnigiri4.label>おにぎりx4</CookWROnigiri4.label>
-  <CookWROnigiri4.description>白米,調味料でどこでも食べれるおにぎりを作る。</CookWROnigiri4.description>
-  <CookWROnigiri4.jobString>おにぎりを作成中。</CookWROnigiri4.jobString>
+  <CookWROnigiri4.label>주먹밥x4</CookWROnigiri4.label>
+  <CookWROnigiri4.description>쌀류, 조미료로 어디서나 먹을 수 있는 주먹밥을 만듭니다.。</CookWROnigiri4.description>
+  <CookWROnigiri4.jobString>주먹밥만드는 중</CookWROnigiri4.jobString>
 
 
 </LanguageData>
