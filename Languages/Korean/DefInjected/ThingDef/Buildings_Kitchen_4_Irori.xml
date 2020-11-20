@@ -3,10 +3,10 @@
 
   <ZP_Irori.label>화덕</ZP_Irori.label>
   <ZP_Irori.description>【연료: 장작, 짚, 왕겨장작, 숯】\n일본 가옥에 설치되는 화로의 일종.주로 난방과 조리가 목적이지만 사람들의 모임과 휴식의 장소이기도 하다.</ZP_Irori.description>
-  <ZP_Irori_Blueprint.label>囲炉裏 (blueprint)</ZP_Irori_Blueprint.label>
-  <ZP_Irori_Blueprint_Install.label>囲炉裏 (blueprint)</ZP_Irori_Blueprint_Install.label>
-  <ZP_Irori_Frame.label>囲炉裏 (building)</ZP_Irori_Frame.label>
-  <ZP_Irori_Frame.description>【燃料:薪,藁,モミガライト,炭】\n日本家屋に設けられる炉の一種。主に暖房と調理が目的だが人々の集いの場所でもありリラクゼーションをもたらしてくれる。</ZP_Irori_Frame.description>
+  <ZP_Irori_Blueprint.label>화덕 (blueprint)</ZP_Irori_Blueprint.label>
+  <ZP_Irori_Blueprint_Install.label>화덕 (blueprint)</ZP_Irori_Blueprint_Install.label>
+  <ZP_Irori_Frame.label>화덕 (building)</ZP_Irori_Frame.label>
+  <ZP_Irori_Frame.description>【연료: 장작, 짚, 왕겨장작, 숯】\n일본 가옥에 설치되는 화로의 일종.주로 난방과 조리가 목적이지만 사람들의 모임과 휴식의 장소이기도 하다.</ZP_Irori_Frame.description>
 
 
 </LanguageData>
