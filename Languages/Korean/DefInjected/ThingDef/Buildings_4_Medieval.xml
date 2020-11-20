@@ -18,10 +18,10 @@
 
   <!-- add 1.1 -->
 
-  <ZP_AgriculturalWaterMill.label>농업용 수차</ZP_AgriculturalWaterMill.label>
+  <ZP_AgriculturalWaterMill.label>농업용 물레바퀴</ZP_AgriculturalWaterMill.label>
   <ZP_AgriculturalWaterMill.description>물살의 힘을 이용해 기계를 작동시킴으로써 지금까지 인력으로 해온 탈곡정미나 각종 가공식품 등의 제작을 쉽게 할 수 있게 됩니다.\n주의: 발전량이 표기되어 있지만 발전하지 않습니다.</ZP_AgriculturalWaterMill.description>
-  <ZP_AgriculturalWaterMill_Blueprint.label>농업용 수차 (blueprint)</ZP_AgriculturalWaterMill_Blueprint.label>
-  <ZP_AgriculturalWaterMill_Frame.label>농업용 수차 (building)</ZP_AgriculturalWaterMill_Frame.label>
+  <ZP_AgriculturalWaterMill_Blueprint.label>농업용 물레바퀴 (blueprint)</ZP_AgriculturalWaterMill_Blueprint.label>
+  <ZP_AgriculturalWaterMill_Frame.label>농업용 물레바퀴 (building)</ZP_AgriculturalWaterMill_Frame.label>
   <ZP_AgriculturalWaterMill_Frame.description>물살의 힘을 이용해 기계를 작동시킴으로써 지금까지 인력으로 해온 탈곡정미나 각종 가공식품 등의 제작을 쉽게 할 수 있게 됩니다.\n주의: 발전량이 표기되어 있지만 발전하지 않습니다.</ZP_AgriculturalWaterMill_Frame.description>
 
 
