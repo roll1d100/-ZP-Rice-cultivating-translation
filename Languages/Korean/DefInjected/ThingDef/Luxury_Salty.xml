@@ -3,20 +3,20 @@
 
   <!-- 塩味 -->
 
-  <ZP_RiceCracker.label>煎餅</ZP_RiceCracker.label>
-  <ZP_RiceCracker.description>【特産品】とても歯ごたえのあるお菓子。醤油、味噌等で好きな味付けを楽しもう。</ZP_RiceCracker.description>
+  <ZP_RiceCracker.label>전병</ZP_RiceCracker.label>
+  <ZP_RiceCracker.description>【특산품】아주 쫄깃한 과자입니다.된장맛같은 좋아하는 맛을 즐겨보세요.</ZP_RiceCracker.description>
 
-  <ZP_BoiledEdamame.label>塩茹で枝豆</ZP_BoiledEdamame.label>
-  <ZP_BoiledEdamame.description>枝豆を塩茹でした日本の定番おつまみ。暑い日に冷えたビールのお供にすることが多い。</ZP_BoiledEdamame.description>
+  <ZP_BoiledEdamame.label>삶은 풋콩</ZP_BoiledEdamame.label>
+  <ZP_BoiledEdamame.description>풋콩을 삶아낸 일본의 단골 안주입니다. 더운 날 차가워진 맥주를 곁들이는 경우가 많습니다.</ZP_BoiledEdamame.description>
 
-  <ZP_Yakitori.label>焼き鳥</ZP_Yakitori.label>
-  <ZP_Yakitori.description>肉を一口大に切った後に串に刺して焼いた日本の定番おつまみ。味は塩かタレを選べます。</ZP_Yakitori.description>
+  <ZP_Yakitori.label>닭꼬치</ZP_Yakitori.label>
+  <ZP_Yakitori.description>고기를 한입 크기로 자른 후 꼬치에 꽂아 구운 일본의 단골 안주입니다. 소금이나 양념맛을 선택할 수 있습니다.</ZP_Yakitori.description>
 
-  <ZP_Hiyayakko.label>冷奴</ZP_Hiyayakko.label>
-  <ZP_Hiyayakko.description>豆腐に薬味をのせ醤油をかけたシンプルな料理。酒の肴やおかずに1品足したい時に便利。</ZP_Hiyayakko.description>
+  <ZP_Hiyayakko.label>냉두부</ZP_Hiyayakko.label>
+  <ZP_Hiyayakko.description>두부에 양념을 얹고 간장을 뿌린 간단한 요리입니다.술안주나 반찬을 하나 더하고 싶을 때 유용합니다.</ZP_Hiyayakko.description>
 
-  <ZP_Misotanpo.label>みそたんぽ</ZP_Misotanpo.label>
-  <ZP_Misotanpo.description>焼いたたんぽに味噌をつけたもの。秋田県の郷土料理。</ZP_Misotanpo.description>
+  <ZP_Misotanpo.label>된장 떡꼬치</ZP_Misotanpo.label>
+  <ZP_Misotanpo.description>된장을 바른 떡꼬치를 구운 것입니다. 일본 아키타현의 향토 요리입니다.</ZP_Misotanpo.description>
 
 
 </LanguageData>
