@@ -1,23 +1,23 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_FreezeMochi.label>凍り餅</ZP_FreezeMochi.label>
-  <ZP_FreezeMochi.description>餅を水に浸して凍らせたものを寒風に晒して乾燥させた保存食。\n心情を害することなく生で食べれて、調理にも使える。</ZP_FreezeMochi.description>
+  <ZP_FreezeMochi.label>언 떡</ZP_FreezeMochi.label>
+  <ZP_FreezeMochi.description>떡을 물에 적셔 얼렸다가 찬바람을 쐬어 건조시킨 보존식입니다.\n날로도 먹을 수 있고 조리에도 사용할 수 있습니다.</ZP_FreezeMochi.description>
 
-  <ZP_RiceBranPickled.label>ぬか漬け</ZP_RiceBranPickled.label>
-  <ZP_RiceBranPickled.description>野菜をぬかにつけ漬物にした保存食。\n心情を害することなく生で食べれて、調理にも使える。</ZP_RiceBranPickled.description>
+  <ZP_RiceBranPickled.label>겨절임</ZP_RiceBranPickled.label>
+  <ZP_RiceBranPickled.description>야채를 겨에 찍어 절인 보존식입니다.\n날로도 먹을 수 있고 조리에도 사용할 수 있음.</ZP_RiceBranPickled.description>
 
-  <ZP_FermentedSoybeans.label>納豆</ZP_FermentedSoybeans.label>
-  <ZP_FermentedSoybeans.description>大豆を納豆菌で発酵させた日本の発酵食品。\n生で食べれて、調理にも使える。</ZP_FermentedSoybeans.description>
+  <ZP_FermentedSoybeans.label>낫토</ZP_FermentedSoybeans.label>
+  <ZP_FermentedSoybeans.description>콩을 낫토균으로 발효시킨 일본의 발효식품입니다.\n날 것으로 먹을 수 있고 조리에도 사용할 수 있습니다.</ZP_FermentedSoybeans.description>
 
-  <ZP_Tanpo.label>たんぽ</ZP_Tanpo.label>
-  <ZP_Tanpo.description>つぶしたお米を棒に巻きつけて焼いたもの。棒から外して切ったものを「きりたんぽ」という。\n心情を害することなく生で食べれて、調理にも使える。</ZP_Tanpo.description>
+  <ZP_Tanpo.label>떡꼬치</ZP_Tanpo.label>
+  <ZP_Tanpo.description> 으깬 쌀을 막대기에 말아 구운 것으로 탄포라고 부릅니다.막대기에서 떼어낸 것을 키리탄포라고 합니다.\n날로도 맛있게 먹을 수 있고 조리에도 사용할 수 있다.<</ZP_Tanpo.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_Konnyaku.label>こんにゃく</ZP_Konnyaku.label>
-  <ZP_Konnyaku.description>里芋から作った加工食品。\n生でも食べれて、調理にも使える。</ZP_Konnyaku.description>
+  <ZP_Konnyaku.label>곤약</ZP_Konnyaku.label>
+  <ZP_Konnyaku.description>토란으로 만든 가공식품입니다.\n생으로도 먹을 수 있고 요리에도 사용할 수 있습니다.</ZP_Konnyaku.description>
 
 
 </LanguageData>
