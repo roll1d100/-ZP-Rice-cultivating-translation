@@ -3,29 +3,29 @@
 
   <!-- 調味料 -->
 
-  <ZP_Salt.label>天然塩</ZP_Salt.label>
-  <ZP_Salt.description>料理に使える塩。</ZP_Salt.description>
+  <ZP_Salt.label>천연염</ZP_Salt.label>
+  <ZP_Salt.description>요리에 사용할 수 있는 소금입니다. </ZP_Salt.description>
 
-  <ZP_Spice.label>香辛料</ZP_Spice.label>
-  <ZP_Spice.description>料理に使える香辛料</ZP_Spice.description>
+  <ZP_Spice.label> 향신료</ZP_Spice.label>
+  <ZP_Spice.description>요리에 사용할 수 있는 향신료.</ZP_Spice.description>
 
-  <ZP_Mizuame.label>水飴</ZP_Mizuame.label>
-  <ZP_Mizuame.description>伝統的な甘味料。\n原料となる米の種類や加工方法により、黄金色から赤銅色を呈する。\n砂糖が普及する前は日本全国どこでも利用されていた。</ZP_Mizuame.description>
+  <ZP_Mizuame.label>물엿</ZP_Mizuame.label>
+  <ZP_Mizuame.description>전통 감미료입니다.\n원료가 되는 쌀의 종류와 가공방법에 따라 황금색에서 구릿빛을 띠게 됩니다.\n설탕이 보급되기 전에는 일본 전국 어디서나 이용되었다.</ZPMizuame.description>
 
-  <ZP_Vinegar.label>酢</ZP_Vinegar.label>
-  <ZP_Vinegar.description>料理に使える酢。</ZP_Vinegar.description>
+  <ZP_Vinegar.label> 식초</ZP_Vinegar.label>
+  <ZP_Vinegar.description>요리에 사용할 수 있는 식초입니다. </ZP_Vinegar.description>
 
-  <ZP_SoySauce.label>醤油</ZP_SoySauce.label>
-  <ZP_SoySauce.description>料理に使える醤油</ZP_SoySauce.description>
+  <ZP_SoySauce.label> 간장</ZP_SoySauce.label>
+  <ZP_SoySauce.description>요리에 사용할 수 있는 간장</ZP_SoySauce.description>>
 
-  <ZP_Miso.label>味噌</ZP_Miso.label>
-  <ZP_Miso.description>料理に使える味噌</ZP_Miso.description>
+  <ZPMiso.label> 된장</ZPMiso.label>
+  <ZP_Miso.description> 요리에 사용할 수 있는 된장</ZP_Miso.description>
 
 
-  <!-- add 1.1 -->
+! -- add 1.1 -- >
 
-  <ZP_SoupStock.label>出汁</ZP_SoupStock.label>
-  <ZP_SoupStock.description>肉や野菜から作った出汁。</ZP_SoupStock.description>
+  <ZP_SoupStock.label>육수</ZP_SoupStock.label>
+  <ZP_SoupStock.description>고기나 채소로 만든 육수입니다.</ZP_SoupStock.description>
 
 
 </LanguageData>
