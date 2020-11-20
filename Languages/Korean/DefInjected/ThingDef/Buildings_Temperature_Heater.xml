@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Brazier.label>火鉢</ZP_Brazier.label>
-  <ZP_Brazier.description>【燃料:薪,藁,モミガライト,炭 最高気温:28℃ 容量:120】\n日本の伝統的な暖房器具。火鉢を囲んでみんなで団欒できる。</ZP_Brazier.description>
-  <ZP_Brazier_Blueprint.label>火鉢 (blueprint)</ZP_Brazier_Blueprint.label>
-  <ZP_Brazier_Frame.label>火鉢 (building)</ZP_Brazier_Frame.label>
-  <ZP_Brazier_Frame.description>【燃料:薪,藁,モミガライト,炭 最高気温:28℃ 容量:120】\n日本の伝統的な暖房器具。火鉢を囲んでみんなで団欒できる。</ZP_Brazier_Frame.description>
+  <ZP_Brazier.label>화로</ZP_Brazier.label>
+  <ZP_Brazier.description>【연료:장작, 짚, 왕겨장작, 숯 최고기온:28℃ 용량:120】\n일본의 전통적인 난방기구입니다.화로를 둘러싸고 모두 단란할 수 있습니다.</ZP_Brazier.description>
+  <ZP_Brazier_Blueprint.label>화로 (blueprint)</ZP_Brazier_Blueprint.label>
+  <ZP_Brazier_Frame.label>화로 (building)</ZP_Brazier_Frame.label>
+  <ZP_Brazier_Frame.description>【연료:장작, 짚, 왕겨장작, 숯 최고기온:28℃ 용량:120】\n일본의 전통적인 난방기구입니다.화로를 둘러싸고 모두 단란할 수 있습니다.</ZP_Brazier_Frame.description>
 
-  <ZP_Kotatu.label>炬燵</ZP_Kotatu.label>
-  <ZP_Kotatu.description>日本の伝統的な暖房器具。机の上に布団を被せその中に熱源を置く事で暖かくする。</ZP_Kotatu.description>
+  <ZP_Kotatu.label>코타츠</ZP_Kotatu.label>
+  <ZP_Kotatu.description>일본의 전통적인 난방기구입니다.책상 위에 이불을 덮고 그 안에 열원을 두면 따뜻해집니다.</ZP_Kotatu.description>
 
 
 </LanguageData>
