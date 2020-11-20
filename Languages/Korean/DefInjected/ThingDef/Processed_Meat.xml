@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_Rawtofu.label>豆腐</ZP_Rawtofu.label>
-  <ZP_Rawtofu.description>タンパク質が豊富な大豆の加工食品。肉の代用品としても使える。\n心情を害することなく生で食べれて、調理にも使える。</ZP_Rawtofu.description>
+  <ZP_Rawtofu.label>두부</ZP_Rawtofu.label>
+  <ZP_Rawtofu.description>단백질이 풍부한 콩 가공식품입니다.고기의 대용품으로도 사용할 수 있습니다.\n생으로도 맛있게 먹을 수 있고 조리에도 사용할 수 있습니다.</ZP_Rawtofu.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_ChoppedMeat.label>ぶつ切り肉</ZP_ChoppedMeat.label>
-  <ZP_ChoppedMeat.description>様々な種類の肉を食べやすい大きさに切った肉。</ZP_ChoppedMeat.description>
+  <ZP_ChoppedMeat.label>고기 토막</ZP_ChoppedMeat.label>
+  <ZP_ChoppedMeat.description>다양한 종류의 고기를 먹기 좋은 크기로 자른 고기입니다.</ZP_ChoppedMeat.description>
 
-  <ZP_SeasonedMeat.label>味付け肉</ZP_SeasonedMeat.label>
-  <ZP_SeasonedMeat.description>調味料で肉の臭みを消して保存性を少し高めたお肉。調理にも使える。</ZP_SeasonedMeat.description>
+  <ZP_SeasonedMeat.label>양념 고기</ZP_SeasonedMeat.label>
+  <ZP_SeasonedMeat.description>조미료로 고기의 비린내를 없애주고 저장성을 조금 높인 고기입니다.조리에도 사용할 수 있습니다.</ZP_SeasonedMeat.description>
 
-  <ZP_FishFillet.label>魚の切り身</ZP_FishFillet.label>
-  <ZP_FishFillet.description>料理に使いやすいようにさばいた魚の切り身。\n心情を害することなく生で食べれて、調理にも使える。</ZP_FishFillet.description>
+  <ZP_FishFillet.label>생선 토막</ZP_FishFillet.label>
+  <ZP_FishFillet.description>요리에 사용하기 쉽도록 손질한 생선 토막입니다.\n생으로도 맛있게 먹을 수 있고 조리에도 사용할 수 있습니다.</ZP_FishFillet.description>
 
-  <ZP_Tikuwa.label>ちくわ</ZP_Tikuwa.label>
-  <ZP_Tikuwa.description>魚から作った加工食品。肉の代用品としても使える。\n生でも食べれて、調理にも使える。</ZP_Tikuwa.description>
+  <ZP_Tikuwa.label>어묵</ZP_Tikuwa.label>
+  <ZP_Tikuwa.description>생선으로 만든 가공식품입니다.고기의 대용품으로도 사용할 수 있습니다.\n생으로도 먹을 수 있고 요리에도 사용할 수 있습니다.</ZP_Tikuwa.description>
 
-  <ZP_DriedFish.label>魚の干物</ZP_DriedFish.label>
-  <ZP_DriedFish.description>生魚を腐らせないよう干した保存食。調理にも使える。</ZP_DriedFish.description>
+  <ZP_DriedFish.label>건어물</ZP_DriedFish.label>
+  <ZP_DriedFish.description>날생선이 썩지 않도록 말린 보존식입니다.조리에도 사용할 수 있습니다.</ZP_DriedFish.description>
 
 
 </LanguageData>
