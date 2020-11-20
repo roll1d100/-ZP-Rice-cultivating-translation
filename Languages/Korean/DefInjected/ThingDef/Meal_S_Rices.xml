@@ -3,17 +3,17 @@
 
   <!-- MealSimple -->
 
-  <ZP_BRGohan.label>ご飯(雑穀)</ZP_BRGohan.label>
-  <ZP_BRGohan.description>オカズが欲しいなんて言わずにお米そのままの味を楽しもう!!</ZP_BRGohan.description>
+  <ZP_BRGohan.label>잡곡밥</ZP_BRGohan.label>
+  <ZP_BRGohan.description>반찬없이 밥 그대로의 맛을 즐기자.</ZP_BRGohan.description>
 
-  <ZP_WRGohan.label>ご飯</ZP_WRGohan.label>
-  <ZP_WRGohan.description>白米をじっくりと楽しむためにお椀によそられた最高の1杯</ZP_WRGohan.description>
+  <ZP_WRGohan.label>밥</ZP_WRGohan.label>
+  <ZP_WRGohan.description>백미를 차분히 즐기기 위해 그릇에 담았다.</ZP_WRGohan.description>
 
-  <ZP_BROnigiri.label>おにぎり(雑穀)</ZP_BROnigiri.label>
-  <ZP_BROnigiri.description>【特産品】どこでも食べれる塩味のきいたおにぎり</ZP_BROnigiri.description>
+  <ZP_BROnigiri.label>잡곡 주먹밥</ZP_BROnigiri.label>
+  <ZP_BROnigiri.description>【특산품】어디서나 먹을 수 있는 짠맛이 나는 주먹밥</ZP_BROnigiri.description>
 
-  <ZP_WROnigiri.label>おにぎり</ZP_WROnigiri.label>
-  <ZP_WROnigiri.description>【特産品】どこでも食べれる塩味のきいた白米のおにぎり</ZP_WROnigiri.description>
+  <ZP_WROnigiri.label>주먹밥</ZP_WROnigiri.label>
+  <ZP_WROnigiri.description>【특산품】어디서나 먹을 수 있는 짠맛이 나는 흰쌀 주먹밥</ZP_WROnigiri.description>
 
 
 </LanguageData>
