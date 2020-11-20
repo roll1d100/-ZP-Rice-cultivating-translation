@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_ArtificialWaterShallow.label>인공 여울</ZP_ArtificialWaterShallow.label>
-  <ZP_ArtificialWaterShallow.description>개울물을 매립하여 어장에 최적인 얕은 여울을 만듭니다.</ZP_ArtificialWaterShallow.description>
+  <ZP_ArtificialWaterShallow.label>인공 얕게 흐르는 물</ZP_ArtificialWaterShallow.label>
+  <ZP_ArtificialWaterShallow.description>개울물을 매립하여 어장에 최적인 얕게 흐르는 물을 만듭니다.</ZP_ArtificialWaterShallow.description>
 
 
 </LanguageData>
