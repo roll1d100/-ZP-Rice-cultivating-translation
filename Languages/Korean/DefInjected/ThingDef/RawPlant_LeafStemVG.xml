@@ -3,20 +3,20 @@
 
   <!-- 葉茎菜類 -->
 
-  <ZP_RawGreenOnion.label>長ねぎ</ZP_RawGreenOnion.label>
-  <ZP_RawGreenOnion.description>生の長ねぎ。</ZP_RawGreenOnion.description>
+  <ZP_RawGreenOnion.label>대파</ZP_RawGreenOnion.label>
+  <ZP_RawGreenOnion.description>생 대파입니다.</ZP_RawGreenOnion.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_RawCabbage.label>きゃべつ</ZP_RawCabbage.label>
-  <ZP_RawCabbage.description>生のキャベツ。生で食べられる。</ZP_RawCabbage.description>
+  <ZP_RawCabbage.label>양배추</ZP_RawCabbage.label>
+  <ZP_RawCabbage.description>생 양배추입니다. 생으로 먹을 수 있습니다.</ZP_RawCabbage.description>
 
-  <ZP_RawSpinach.label>ほうれん草</ZP_RawSpinach.label>
-  <ZP_RawSpinach.description>生のホウレンソウ。</ZP_RawSpinach.description>
+  <ZP_RawSpinach.label>시금치</ZP_RawSpinach.label>
+  <ZP_RawSpinach.description>생 시금치입니다.</ZP_RawSpinach.description>
 
-  <ZP_RawOnion.label>玉ねぎ</ZP_RawOnion.label>
-  <ZP_RawOnion.description>生のタマネギ。</ZP_RawOnion.description>
+  <ZP_RawOnion.label>양파</ZP_RawOnion.label>
+  <ZP_RawOnion.description>생 양파입니다.</ZP_RawOnion.description>
 
 
 </LanguageData>
