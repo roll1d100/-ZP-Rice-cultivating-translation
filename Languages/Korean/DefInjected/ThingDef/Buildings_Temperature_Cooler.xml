@@ -1,27 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZP_RoundHandFan.label>うちわ</ZP_RoundHandFan.label>
-  <ZP_RoundHandFan.description>【最低気温:20℃,使用期間:15日】日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</ZP_RoundHandFan.description>
-  <ZP_RoundHandFan_Blueprint.label>うちわ (blueprint)</ZP_RoundHandFan_Blueprint.label>
-  <ZP_RoundHandFan_Blueprint_Install.label>うちわ (blueprint)</ZP_RoundHandFan_Blueprint_Install.label>
-  <ZP_RoundHandFan_Frame.label>うちわ (building)</ZP_RoundHandFan_Frame.label>
-  <ZP_RoundHandFan_Frame.description>【最低気温:20℃,使用期間:15日】日本の伝統的な冷房器具。\n手で扇いで風を起こすことで涼む事ができる。うちわは暑い日を乗り切る必需品だが、ひと夏が終る頃には見向きもされなくなりどこかに消え去る。</ZP_RoundHandFan_Frame.description>
+  <ZP_RoundHandFan.label>부채</ZP_RoundHandFan.label>
+  <ZP_RoundHandFan.description【최저기온:20℃, 사용기간:15일】일본의 전통적인 냉방기구.\n손으로 부채질하여 바람을 일으킴으로써 더위를 식힐 수 있습니다.부채는 무더위를 이겨내는 필수품이지만 한여름이 끝날 무렵에는 쳐다보지도 않고 어디론가 사라집니다.</ZP_RoundHandFan.description>
+  <ZP_RoundHandFan_Blueprint.label>부채 (blueprint)</ZP_RoundHandFan_Blueprint.label>
+  <ZP_RoundHandFan_Blueprint_Install.label>부채 (blueprint)</ZP_RoundHandFan_Blueprint_Install.label>
+  <ZP_RoundHandFan_Frame.label>부채 (building)</ZP_RoundHandFan_Frame.label>
+  <ZP_RoundHandFan_Frame.description【최저기온:20℃, 사용기간:15일】일본의 전통적인 냉방기구.\n손으로 부채질하여 바람을 일으킴으로써 더위를 식힐 수 있습니다.부채는 무더위를 이겨내는 필수품이지만 한여름이 끝날 무렵에는 쳐다보지도 않고 어디론가 사라집니다.</ZP_RoundHandFan_Frame.description>
 
 
   <!-- add 1.1 -->
 
   <ZP_IcePillar.label>氷柱</ZP_IcePillar.label>
-  <ZP_IcePillar.description>【燃料:氷,最低気温:-3℃,容量:150】\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。向きを回転すると氷柱の種類を変えられる。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IcePillar.description>
+  <ZP_IcePillar.description>【연료:얼음, 최저기온: -3℃, 용량:150】\n음식을 차게 할 수 있을 정도로 큰 얼음입니다. 상하기 쉬운 여름철 등에 편리합니다. 회전하면 얼음기둥 종류를 바꿀 수 있습니다.\n연료의 얼음이 없어지면 사라집니다.연료의 얼음이 소진되면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IcePillar.description>
   <ZP_IcePillar_Blueprint.label>氷柱 (blueprint)</ZP_IcePillar_Blueprint.label>
   <ZP_IcePillar_Frame.label>氷柱 (building)</ZP_IcePillar_Frame.label>
-  <ZP_IcePillar_Frame.description>【燃料:氷,最低気温:-3℃,容量:150】\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。向きを回転すると氷柱の種類を変えられる。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IcePillar_Frame.description>
+  <ZP_IcePillar_Frame.description>【연료:얼음, 최저기온: -3℃, 용량:150】\n음식을 차게 할 수 있을 정도로 큰 얼음입니다. 상하기 쉬운 여름철 등에 편리합니다. 회전하면 얼음기둥 종류를 바꿀 수 있습니다.\n연료의 얼음이 없어지면 사라집니다.연료의 얼음이 소진되면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IcePillar_Frame.description>
 
-  <ZP_IceSculpture.label>マファッローの氷像</ZP_IceSculpture.label>
-  <ZP_IceSculpture.description>【燃料:氷,最低気温:-3℃,容量:300】\nマッファローの氷像。\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IceSculpture.description>
-  <ZP_IceSculpture_Blueprint.label>マファッローの氷像 (blueprint)</ZP_IceSculpture_Blueprint.label>
-  <ZP_IceSculpture_Frame.label>マファッローの氷像 (building)</ZP_IceSculpture_Frame.label>
-  <ZP_IceSculpture_Frame.description>【燃料:氷,最低気温:-3℃,容量:300】\nマッファローの氷像。\n食べ物を冷やせるほど大きな氷。腐りやすい夏場などに重宝する。\n燃料の氷が無くなると消える。燃料の氷が無くなると消える。寒い時に大量に氷を採集して、専用の氷室部屋で温度管理を徹底すると長期間使用できます。</ZP_IceSculpture_Frame.description>
+  <ZP_IceSculpture.label>머팔로 얼음조각상</ZP_IceSculpture.label>
+  <ZP_IceSculpture.description>【연료:얼음, 최저기온: -3℃, 용량:300】\n매팔로 얼음상입니다.\n음식을 식힐 수 있을 정도로 큰 얼음입니다.상하기 쉬운 여름철 등에 편리합니다.\n연료의 얼음이 없어지면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IceSculpture.description>
+  <ZP_IceSculpture_Blueprint.label>머팔로 얼음조각상 (blueprint)</ZP_IceSculpture_Blueprint.label>
+  <ZP_IceSculpture_Frame.label>머팔로 얼음조각상 (building)</ZP_IceSculpture_Frame.label>
+  <ZP_IceSculpture_Frame.description>【연료:얼음, 최저기온: -3℃, 용량:300】\n매팔로 얼음상입니다.\n음식을 식힐 수 있을 정도로 큰 얼음입니다.상하기 쉬운 여름철 등에 편리합니다.\n연료의 얼음이 없어지면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IceSculpture_Frame.description>
 
 
 </LanguageData>
