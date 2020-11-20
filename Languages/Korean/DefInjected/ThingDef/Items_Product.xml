@@ -3,17 +3,17 @@
 
   <!-- 燃料 -->
 
-  <Momigalite.label>モミガライト</Momigalite.label>
-  <Momigalite.description>籾殻を燃料用に加工したもの。</Momigalite.description>
+  <Momigalite.label>왕겨장작</Momigalite.label>
+  <Momigalite.description>왕겨를 연료용으로 가공한 것입니다.</Momigalite.description>
 
-  <TatamiStraw.label>製作用藁</TatamiStraw.label>
-  <TatamiStraw.description>藁を各種製作用に加工したもの。</TatamiStraw.description>
+  <TatamiStraw.label>제작용 짚</TatamiStraw.label>
+  <TatamiStraw.description>짚을 각종 제작용으로 가공한 것입니다.</TatamiStraw.description>
 
-  <TatamiHG.label>半畳</TatamiHG.label>
-  <TatamiHG.description>１マス分の大きさの畳。敷き方にこだわりたい人用。</TatamiHG.description>
+  <TatamiHG.label>절반 다다미</TatamiHG.label>
+  <TatamiHG.description>한 칸 크기의 다다미입니다. 깔개를 좋아하는 사람용입니다.</TatamiHG.description>
 
-  <TatamiG.label>畳</TatamiG.label>
-  <TatamiG.description>２マス分の大きさの畳。敷き方にこだわりたい人用。</TatamiG.description>
+  <TatamiG.label>다다미</TatamiG.label>
+  <TatamiG.description>두 칸 크기의 다다미입니다. 깔개를 좋아하는 사람용입니다.</TatamiG.description>
 
 
 </LanguageData>
