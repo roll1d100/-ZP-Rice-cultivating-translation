@@ -3,17 +3,17 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_PlantTomato.label>トマト</ZP_PlantTomato.label>
-  <ZP_PlantTomato.description>トマト。成熟すると真っ赤な実をつける。</ZP_PlantTomato.description>
+  <ZP_PlantTomato.label>토마토</ZP_PlantTomato.label>
+  <ZP_PlantTomato.description>토마토. 성숙하면 새빨간 열매를 맺습니다.</ZP_PlantTomato.description>
 
-  <ZP_PlantEggplant.label>茄子</ZP_PlantEggplant.label>
-  <ZP_PlantEggplant.description>ナス。肥沃な土壌でしか育たないが一度実れば手間が少ない作物。</ZP_PlantEggplant.description>
+  <ZP_PlantEggplant.label>가지</ZP_PlantEggplant.label>
+  <ZP_PlantEggplant.description>가지입니다. 비옥한 토양에서만 자라지만 한 번 익으면 손이 덜 가는 작물입니다.</ZP_PlantEggplant.description>
 
-  <ZP_PlantPumpkin.label>南瓜</ZP_PlantPumpkin.label>
-  <ZP_PlantPumpkin.description>カボチャ。収穫数は少ないが栄養価が高い野菜。</ZP_PlantPumpkin.description>
+  <ZP_PlantPumpkin.label>수박</ZP_PlantPumpkin.label>
+  <ZP_PlantPumpkin.description>호박입니다. 수확량은 적지만 영양가가 높은 채소입니다.</ZP_PlantPumpkin.description>
 
-  <ZP_PlantCucumber.label>キュウリ</ZP_PlantCucumber.label>
-  <ZP_PlantCucumber.description>栄養価は低いが沢山収穫できる。</ZP_PlantCucumber.description>
+  <ZP_PlantCucumber.label>오이</ZP_PlantCucumber.label>
+  <ZP_PlantCucumber.description>영양가는 낮지만 많이 수확할 수 있습니다.</ZP_PlantCucumber.description>
 
 
 </LanguageData>
