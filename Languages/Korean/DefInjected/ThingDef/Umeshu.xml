@@ -3,8 +3,8 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_Umeshu.label>梅酒</ZP_Umeshu.label>
-  <ZP_Umeshu.description>梅を吟醸酒に漬け込んで作る果実酒の一種。</ZP_Umeshu.description>
+  <ZP_Umeshu.label>매실주</ZP_Umeshu.label>
+  <ZP_Umeshu.description>매실을 담가 만드는 과실주의 일종입니다.</ZP_Umeshu.description>
   <ZP_Umeshu.ingestible.ingestCommandString>Drink {0}</ZP_Umeshu.ingestible.ingestCommandString>
   <ZP_Umeshu.ingestible.ingestReportString>Drinking {0}.</ZP_Umeshu.ingestible.ingestReportString>
 
