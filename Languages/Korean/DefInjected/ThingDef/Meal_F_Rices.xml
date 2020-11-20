@@ -3,38 +3,38 @@
 
   <!-- MealFine -->
 
-  <ZP_BRBento.label>日の丸弁当(雑穀)</ZP_BRBento.label>
-  <ZP_BRBento.description>【特産品】どこでも食べれるお弁当。</ZP_BRBento.description>
+  <ZP_BRBento.label>잡곡 일식도시락</ZP_BRBento.label>
+  <ZP_BRBento.description>【특산품】어디서나 먹을 수 있는 도시락.</ZP_BRBento.description>
 
-  <ZP_WRBento.label>日の丸弁当</ZP_WRBento.label>
-  <ZP_WRBento.description>【特産品】どこでも食べれる白米のお弁当。</ZP_WRBento.description>
+  <ZP_WRBento.label>일식도시락</ZP_WRBento.label>
+  <ZP_WRBento.description>【특산품】어디서나 먹을 수 있는 백미도시락.</ZP_WRBento.description>
 
-  <ZP_BRTKG.label>卵かけご飯(玄米)</ZP_BRTKG.label>
-  <ZP_BRTKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</ZP_BRTKG.description>
+  <ZP_BRTKG.label>현미계란밥</ZP_BRTKG.label>
+  <ZP_BRTKG.description>밥만으로도 맛있는데 계란까지 올렸습니다.</ZP_BRTKG.description>
 
-  <ZP_WRTKG.label>卵かけご飯</ZP_WRTKG.label>
-  <ZP_WRTKG.description>ご飯のままでも美味しいのに生卵をのせるという悪魔の所業の一品。</ZP_WRTKG.description>
+  <ZP_WRTKG.label>계란밥/ZP_WRTKG.label>
+  <ZP_WRTKG.description>밥만으로도 맛있는데 계란까지 올렸습니다.</ZP_WRTKG.description>
 
-  <ZP_BRGyudon.label>肉丼(玄米)</ZP_BRGyudon.label>
-  <ZP_BRGyudon.description>ご飯の上にがっつり肉を盛り付けたどんぶり。</ZP_BRGyudon.description>
+  <ZP_BRGyudon.label>현미 고기덮밥</ZP_BRGyudon.label>
+  <ZP_BRGyudon.description>밥 위에 푸짐하게 고기를 담은 현미덮밥입니다.</ZP_BRGyudon.description>
 
-  <ZP_WRGyudon.label>肉丼</ZP_WRGyudon.label>
-  <ZP_WRGyudon.description>ご飯の上にがっつり肉を盛り付けた白米のどんぶり。</ZP_WRGyudon.description>
+  <ZP_WRGyudon.label>고기덮밥</ZP_WRGyudon.label>
+  <ZP_WRGyudon.description>밥 위에 든든하게 고기를 담은 백미덮밥입니다.</ZP_WRGyudon.description>
 
-  <ZP_GRTakikomi.label>炊き込みご飯</ZP_GRTakikomi.label>
-  <ZP_GRTakikomi.description>もち米と具を一緒に炊き込んで作るご飯。</ZP_GRTakikomi.description>
+  <ZP_GRTakikomi.label>모둠밥</ZP_GRTakikomi.label>
+  <ZP_GRTakikomi.description>찹쌀과 건더기를 함께 넣어 만드는 밥입니다.</ZP_GRTakikomi.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_NattoRice.label>納豆ごはん</ZP_NattoRice.label>
-  <ZP_NattoRice.description>ご飯の上に納豆を盛り付けたシンプルなどんぶり。</ZP_NattoRice.description>
+  <ZP_NattoRice.label>낫토밥</ZP_NattoRice.label>
+  <ZP_NattoRice.description>밥위에 낫토를 담은 심플한 덮밥입니다.</ZP_NattoRice.description>
 
-  <ZP_SalmonRiceBall.label>鮭おにぎり</ZP_SalmonRiceBall.label>
-  <ZP_SalmonRiceBall.description>【特産品】塩味のきいた鮭の入ったちょっと豪華なおにぎり。</ZP_SalmonRiceBall.description>
+  <ZP_SalmonRiceBall.label>연어 주먹밥</ZP_SalmonRiceBall.label>
+  <ZP_SalmonRiceBall.description>【특산품】짠맛이 나는 연어가 들어간 약간 호화로운 주먹밥.</ZP_SalmonRiceBall.description>
 
-  <ZP_TempuraRiceBall.label>天むす</ZP_TempuraRiceBall.label>
-  <ZP_TempuraRiceBall.description>【特産品】天ぷらの入ったちょっと豪華なおにぎり。</ZP_TempuraRiceBall.description>
+  <ZP_TempuraRiceBall.label>튀김 주먹밥</ZP_TempuraRiceBall.label>
+  <ZP_TempuraRiceBall.description>【특산품】튀김이 들어간 약간 호화로운 주먹밥.</ZP_TempuraRiceBall.description>
 
 
 </LanguageData>
