@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ZPRecycleApparel.label>服装のリサイクル</ZPRecycleApparel.label>
-  <ZPRecycleApparel.description>限られた資源を有効に活用するためにリサイクルする。</ZPRecycleApparel.description>
-  <ZPRecycleApparel.jobString>リサイクル中</ZPRecycleApparel.jobString>
+  <ZPRecycleApparel.label>의복 재활용</ZPRecycleApparel.label>
+  <ZPRecycleApparel.description>제한된 자원을 유효하게 활용하기 위해 재활용합니다. </ZPRecycleApparel.description>
+  <ZPRecycleApparel.jobString>재활용 중</ZPRecycleApparel.jobString>
 
-  <BurnZipangu.label>副産物を焼却する</BurnZipangu.label>
-  <BurnZipangu.description>副産物を焼却する。</BurnZipangu.description>
-  <BurnZipangu.jobString>副産物を焼却する。</BurnZipangu.jobString>
+  <BurnZipangu.label>부산물을 소각</BurnZipangu.label>
+  <BurnZipangu.description>부산물을 소각합니다.</BurnZipangu.description>
+  <BurnZipangu.jobString>부산물을 소각중</BurnZipangu.jobString>
 
-  <BurnZipangu2nd.label>副産物を大量焼却する。</BurnZipangu2nd.label>
-  <BurnZipangu2nd.description>副産物を大量焼却する。</BurnZipangu2nd.description>
-  <BurnZipangu2nd.jobString>副産物を大量焼却する。</BurnZipangu2nd.jobString>
+  <BurnZipangu2nd.label>부산물을 대량 소각</BurnZipangu2nd.label>
+  <BurnZipangu2nd.description>부산물을 대량 소각합니다.</BurnZipangu2nd.description>
+  <BurnZipangu2nd.jobString>부산물을 대량 소각중</BurnZipangu2nd.jobString>
 
 
 </LanguageData>
