@@ -3,68 +3,68 @@
 
   <!-- All add 1.1 -->
 
-  <InahoStorageArea.label>稲穂備蓄所</InahoStorageArea.label>
-  <InahoStorageArea.description>稲穂と籾米の専用備蓄ゾーン。</InahoStorageArea.description>
-  <InahoStorageArea_Blueprint.label>稲穂備蓄所 (blueprint)</InahoStorageArea_Blueprint.label>
-  <InahoStorageArea_Blueprint_Install.label>稲穂備蓄所 (blueprint)</InahoStorageArea_Blueprint_Install.label>
-  <InahoStorageArea_Frame.label>稲穂備蓄所 (building)</InahoStorageArea_Frame.label>
-  <InahoStorageArea_Frame.description>稲穂と籾米の専用備蓄ゾーン。</InahoStorageArea_Frame.description>
+  <InahoStorageArea.label>이삭 보관소</InahoStorageArea.label>
+  <InahoStorageArea.description>벼와 이삭을 보관하는 곳입니다.</InahoStorageArea.description>
+  <InahoStorageArea_Blueprint.label>이삭 보관소 (blueprint)</InahoStorageArea_Blueprint.label>
+  <InahoStorageArea_Blueprint_Install.label>이삭 보관소 (blueprint)</InahoStorageArea_Blueprint_Install.label>
+  <InahoStorageArea_Frame.label>이삭 보관소 (building)</InahoStorageArea_Frame.label>
+  <InahoStorageArea_Frame.description>벼와 이삭을 보관하는 곳입니다.</InahoStorageArea_Frame.description>
 
-  <RiceByproductStorageArea.label>副産物備蓄所</RiceByproductStorageArea.label>
-  <RiceByproductStorageArea.description>脱穀精米の過程で出た副産物の専用備蓄ゾーン。</RiceByproductStorageArea.description>
-  <RiceByproductStorageArea_Blueprint.label>副産物備蓄所 (blueprint)</RiceByproductStorageArea_Blueprint.label>
-  <RiceByproductStorageArea_Blueprint_Install.label>副産物備蓄所 (blueprint)</RiceByproductStorageArea_Blueprint_Install.label>
-  <RiceByproductStorageArea_Frame.label>副産物備蓄所 (building)</RiceByproductStorageArea_Frame.label>
-  <RiceByproductStorageArea_Frame.description>脱穀精米の過程で出た副産物の専用備蓄ゾーン。</RiceByproductStorageArea_Frame.description>
+  <RiceByproductStorageArea.label>부산물 보관소</RiceByproductStorageArea.label>
+  <RiceByproductStorageArea.description>탈곡 및 정미 과정에서 나온 부산물을 저장하는 곳입니다.</RiceByproductStorageArea.description>
+  <RiceByproductStorageArea_Blueprint.label>부산물 보관소 (blueprint)</RiceByproductStorageArea_Blueprint.label>
+  <RiceByproductStorageArea_Blueprint_Install.label>부산물 보관소 (blueprint)</RiceByproductStorageArea_Blueprint_Install.label>
+  <RiceByproductStorageArea_Frame.label>부산물 보관소 (building)</RiceByproductStorageArea_Frame.label>
+  <RiceByproductStorageArea_Frame.description>탈곡 및 정미 과정에서 나온 부산물을 저장하는 곳입니다.</RiceByproductStorageArea_Frame.description>
 
-  <RiceBin.label>米びつ</RiceBin.label>
-  <RiceBin.description>米の専用備蓄ゾーン。</RiceBin.description>
-  <RiceBin_Blueprint.label>米びつ (blueprint)</RiceBin_Blueprint.label>
-  <RiceBin_Blueprint_Install.label>米びつ (blueprint)</RiceBin_Blueprint_Install.label>
-  <RiceBin_Frame.label>米びつ (building)</RiceBin_Frame.label>
-  <RiceBin_Frame.description>米の専用備蓄ゾーン。</RiceBin_Frame.description>
+  <RiceBin.label>뒤주</RiceBin.label>
+  <RiceBin.description>쌀을 보관하는 곳입니다.</RiceBin.description>
+  <RiceBin_Blueprint.label>뒤주 (blueprint)</RiceBin_Blueprint.label>
+  <RiceBin_Blueprint_Install.label>뒤주 (blueprint)</RiceBin_Blueprint_Install.label>
+  <RiceBin_Frame.label>뒤주 (building)</RiceBin_Frame.label>
+  <RiceBin_Frame.description>쌀을 보관하는 곳입니다.</RiceBin_Frame.description>
 
-  <SeasoningShelf.label>調味料棚</SeasoningShelf.label>
-  <SeasoningShelf.description>調味料用の専用備蓄ゾーン。</SeasoningShelf.description>
-  <SeasoningShelf_Blueprint.label>調味料棚 (blueprint)</SeasoningShelf_Blueprint.label>
-  <SeasoningShelf_Blueprint_Install.label>調味料棚 (blueprint)</SeasoningShelf_Blueprint_Install.label>
-  <SeasoningShelf_Frame.label>調味料棚 (building)</SeasoningShelf_Frame.label>
-  <SeasoningShelf_Frame.description>調味料用の専用備蓄ゾーン。</SeasoningShelf_Frame.description>
+  <SeasoningShelf.label>조미료 선반</SeasoningShelf.label>
+  <SeasoningShelf.description>조미료를 보관하는 곳입니다.</SeasoningShelf.description>
+  <SeasoningShelf_Blueprint.label>조미료 선반 (blueprint)</SeasoningShelf_Blueprint.label>
+  <SeasoningShelf_Blueprint_Install.label>조미료 선반 (blueprint)</SeasoningShelf_Blueprint_Install.label>
+  <SeasoningShelf_Frame.label>조미료 선반 (building)</SeasoningShelf_Frame.label>
+  <SeasoningShelf_Frame.description>조미료를 보관하는 곳입니다.</SeasoningShelf_Frame.description>
 
-  <ProcessedFoodShelf.label>加工食品棚</ProcessedFoodShelf.label>
-  <ProcessedFoodShelf.description>加工食品用の専用備蓄ゾーン。</ProcessedFoodShelf.description>
-  <ProcessedFoodShelf_Blueprint.label>加工食品棚 (blueprint)</ProcessedFoodShelf_Blueprint.label>
-  <ProcessedFoodShelf_Blueprint_Install.label>加工食品棚 (blueprint)</ProcessedFoodShelf_Blueprint_Install.label>
-  <ProcessedFoodShelf_Frame.label>加工食品棚 (building)</ProcessedFoodShelf_Frame.label>
-  <ProcessedFoodShelf_Frame.description>加工食品用の専用備蓄ゾーン。</ProcessedFoodShelf_Frame.description>
+  <ProcessedFoodShelf.label>가공식품 선반</ProcessedFoodShelf.label>
+  <ProcessedFoodShelf.description>가공식품을 보관하는 곳입니다.</ProcessedFoodShelf.description>
+  <ProcessedFoodShelf_Blueprint.label>가공식품 선반 (blueprint)</ProcessedFoodShelf_Blueprint.label>
+  <ProcessedFoodShelf_Blueprint_Install.label>가공식품 선반 (blueprint)</ProcessedFoodShelf_Blueprint_Install.label>
+  <ProcessedFoodShelf_Frame.label>가공식품 선반 (building)</ProcessedFoodShelf_Frame.label>
+  <ProcessedFoodShelf_Frame.description>가공식품을 보관하는 곳입니다.</ProcessedFoodShelf_Frame.description>
 
-  <FoodMealsShelf.label>配膳台</FoodMealsShelf.label>
-  <FoodMealsShelf.description>日本食の専用備蓄ゾーン。</FoodMealsShelf.description>
-  <FoodMealsShelf_Blueprint.label>配膳台 (blueprint)</FoodMealsShelf_Blueprint.label>
-  <FoodMealsShelf_Blueprint_Install.label>配膳台 (blueprint)</FoodMealsShelf_Blueprint_Install.label>
-  <FoodMealsShelf_Frame.label>配膳台 (building)</FoodMealsShelf_Frame.label>
-  <FoodMealsShelf_Frame.description>日本食の専用備蓄ゾーン。</FoodMealsShelf_Frame.description>
+  <FoodMealsShelf.label>배식대</FoodMealsShelf.label>
+  <FoodMealsShelf.description>일본 음식 전용의 보관소입니다.</FoodMealsShelf.description>
+  <FoodMealsShelf_Blueprint.label>배식대 (blueprint)</FoodMealsShelf_Blueprint.label>
+  <FoodMealsShelf_Blueprint_Install.label>배식대 (blueprint)</FoodMealsShelf_Blueprint_Install.label>
+  <FoodMealsShelf_Frame.label>배식대 (building)</FoodMealsShelf_Frame.label>
+  <FoodMealsShelf_Frame.description>일본 음식 전용의 보관소입니다.</FoodMealsShelf_Frame.description>
 
-  <SurvivalMealsStorageBox.label>非常食備蓄庫</SurvivalMealsStorageBox.label>
-  <SurvivalMealsStorageBox.description>非常食の専用備蓄ゾーン。</SurvivalMealsStorageBox.description>
-  <SurvivalMealsStorageBox_Blueprint.label>非常食備蓄庫 (blueprint)</SurvivalMealsStorageBox_Blueprint.label>
-  <SurvivalMealsStorageBox_Blueprint_Install.label>非常食備蓄庫 (blueprint)</SurvivalMealsStorageBox_Blueprint_Install.label>
-  <SurvivalMealsStorageBox_Frame.label>非常食備蓄庫 (building)</SurvivalMealsStorageBox_Frame.label>
-  <SurvivalMealsStorageBox_Frame.description>非常食の専用備蓄ゾーン。</SurvivalMealsStorageBox_Frame.description>
+  <SurvivalMealsStorageBox.label>비상식량 보관소</SurvivalMealsStorageBox.label>
+  <SurvivalMealsStorageBox.description>비상식량을 보관하는 곳입니다.</SurvivalMealsStorageBox.description>
+  <SurvivalMealsStorageBox_Blueprint.label>비상식량 보관소 (blueprint)</SurvivalMealsStorageBox_Blueprint.label>
+  <SurvivalMealsStorageBox_Blueprint_Install.label>비상식량 보관소 (blueprint)</SurvivalMealsStorageBox_Blueprint_Install.label>
+  <SurvivalMealsStorageBox_Frame.label>비상식량 보관소 (building)</SurvivalMealsStorageBox_Frame.label>
+  <SurvivalMealsStorageBox_Frame.description>비상식량을 보관하는 곳입니다.</SurvivalMealsStorageBox_Frame.description>
 
-  <FuelPalette.label>燃料置き場</FuelPalette.label>
-  <FuelPalette.description>燃料の専用備蓄ゾーン。</FuelPalette.description>
-  <FuelPalette_Blueprint.label>燃料置き場 (blueprint)</FuelPalette_Blueprint.label>
-  <FuelPalette_Blueprint_Install.label>燃料置き場 (blueprint)</FuelPalette_Blueprint_Install.label>
-  <FuelPalette_Frame.label>燃料置き場 (building)</FuelPalette_Frame.label>
-  <FuelPalette_Frame.description>燃料の専用備蓄ゾーン。</FuelPalette_Frame.description>
+  <FuelPalette.label>연료 보관소</FuelPalette.label>
+  <FuelPalette.description>연료를 보관하는 곳입니다.</FuelPalette.description>
+  <FuelPalette_Blueprint.label>연료 보관소 (blueprint)</FuelPalette_Blueprint.label>
+  <FuelPalette_Blueprint_Install.label>연료 보관소 (blueprint)</FuelPalette_Blueprint_Install.label>
+  <FuelPalette_Frame.label>연료 보관소 (building)</FuelPalette_Frame.label>
+  <FuelPalette_Frame.description>연료 보관소</FuelPalette_Frame.description>
 
-  <PetFeedingBox.label>飼い葉桶</PetFeedingBox.label>
-  <PetFeedingBox.description>動物のエサを入れるための専用の桶。</PetFeedingBox.description>
-  <PetFeedingBox_Blueprint.label>飼い葉桶 (blueprint)</PetFeedingBox_Blueprint.label>
-  <PetFeedingBox_Blueprint_Install.label>飼い葉桶 (blueprint)</PetFeedingBox_Blueprint_Install.label>
-  <PetFeedingBox_Frame.label>飼い葉桶 (building)</PetFeedingBox_Frame.label>
-  <PetFeedingBox_Frame.description>動物のエサを入れるための専用の桶。</PetFeedingBox_Frame.description>
+  <PetFeedingBox.label>사료 보관소</PetFeedingBox.label>
+  <PetFeedingBox.description>동물 먹이를 보관하는 곳입니다.</PetFeedingBox.description>
+  <PetFeedingBox_Blueprint.label>사료 보관소 (blueprint)</PetFeedingBox_Blueprint.label>
+  <PetFeedingBox_Blueprint_Install.label>사료 보관소 (blueprint)</PetFeedingBox_Blueprint_Install.label>
+  <PetFeedingBox_Frame.label>사료 보관소 (building)</PetFeedingBox_Frame.label>
+  <PetFeedingBox_Frame.description>동물 먹이를 보관하는 곳입니다.</PetFeedingBox_Frame.description>
 
 
 </LanguageData>
