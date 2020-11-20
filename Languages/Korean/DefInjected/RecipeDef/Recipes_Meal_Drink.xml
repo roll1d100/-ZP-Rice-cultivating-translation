@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookMisosiru.label>味噌汁x4</CookMisosiru.label>
-  <CookMisosiru.description>味噌を溶かしただし汁にお好みの具材を入れよう。</CookMisosiru.description>
-  <CookMisosiru.jobString>味噌汁を作成中。</CookMisosiru.jobString>
+  <CookMisosiru.label>된장국x4</CookMisosiru.label>
+  <CookMisosiru.description>된장을 녹인 국물에 좋아하는 재료를 넣습니다.</CookMisosiru.description>
+  <CookMisosiru.jobString>된장국 보글보글</CookMisosiru.jobString>
 
-  <CookSoyMilkShake.label>豆乳シェイクx4</CookSoyMilkShake.label>
-  <CookSoyMilkShake.description>豆乳と果物を混ぜて豆乳シェイクを作る。</CookSoyMilkShake.description>
-  <CookSoyMilkShake.jobString>豆乳シェイクを作成中。</CookSoyMilkShake.jobString>
+  <CookSoyMilkShake.label>두유 쉐이크x4</CookSoyMilkShake.label>
+  <CookSoyMilkShake.description>두유와 과일을 섞어 두유 쉐이크를 만듭니다.</CookSoyMilkShake.description>
+  <CookSoyMilkShake.jobString>두유 쉐이크 만드는 중</CookSoyMilkShake.jobString>
 
 
 </LanguageData>
