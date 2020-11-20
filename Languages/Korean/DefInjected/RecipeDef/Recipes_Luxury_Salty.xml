@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookRiceCracker.label>煎餅x4</CookRiceCracker.label>
-  <CookRiceCracker.description>凍り餅(穀物粉)で煎餅を作る。</CookRiceCracker.description>
-  <CookRiceCracker.jobString>煎餅を作成中。。</CookRiceCracker.jobString>
+  <CookRiceCracker.label>전병x4</CookRiceCracker.label>
+  <CookRiceCracker.description>언 떡으로 전병을을 만듭니다.</CookRiceCracker.description>
+  <CookRiceCracker.jobString>전병 만드는중</CookRiceCracker.jobString>
 
-  <CookBoiledEdamame.label>塩茹で枝豆x4</CookBoiledEdamame.label>
-  <CookBoiledEdamame.description>枝豆を茹でててから塩を振る。</CookBoiledEdamame.description>
-  <CookBoiledEdamame.jobString>塩茹で枝豆を作成中。。</CookBoiledEdamame.jobString>
+  <CookBoiledEdamame.label>소금에 데친 완두콩x4</CookBoiledEdamame.label>
+  <CookBoiledEdamame.description>완두콩을 삶아서 소금을 칩니다.</CookBoiledEdamame.description>
+  <CookBoiledEdamame.jobString>소금에 완두콩을 데치는중</CookBoiledEdamame.jobString>
 
-  <CookYakitori.label>焼き鳥x4</CookYakitori.label>
-  <CookYakitori.description>味付け肉と長ネギを串に刺して焼く。</CookYakitori.description>
-  <CookYakitori.jobString>焼き鳥を作成中。。</CookYakitori.jobString>
+  <CookYakitori.label>닭꼬치x4</CookYakitori.label>
+  <CookYakitori.description>양념고기와 대파를 꼬치에 꽂아 굽습니다.</CookYakitori.description>
+  <CookYakitori.jobString>닭꼬치 만드는중</CookYakitori.jobString>
 
-  <CookHiyayakko.label>冷奴x4</CookHiyayakko.label>
-  <CookHiyayakko.description>豆腐に薬味をのせて醤油をかける。</CookHiyayakko.description>
-  <CookHiyayakko.jobString>冷奴を作成中。。</CookHiyayakko.jobString>
+  <CookHiyayakko.label>냉두부x4</CookHiyayakko.label>
+  <CookHiyayakko.description>두부에 고명을 얹고 간장을 칩니다.</CookHiyayakko.description>
+  <CookHiyayakko.jobString>냉두부 만드는중</CookHiyayakko.jobString>
 
-  <CookMisotanpo.label>みそたんぽx4</CookMisotanpo.label>
-  <CookMisotanpo.description>たんぽに味噌をぬって焼く。</CookMisotanpo.description>
-  <CookMisotanpo.jobString>みそたんぽを作成中。</CookMisotanpo.jobString>
+  <CookMisotanpo.label>떡꼬치 된장구이x4</CookMisotanpo.label>
+  <CookMisotanpo.description>떡꼬치에 된장을 발라 굽습니다. 미소탄포라고 부릅니다.</CookMisotanpo.description>
+  <CookMisotanpo.jobString>떡꼬치에 된장을 발라 굽는중</CookMisotanpo.jobString>
 
 
 </LanguageData>
