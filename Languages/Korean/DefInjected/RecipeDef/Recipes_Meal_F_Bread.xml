@@ -3,33 +3,33 @@
 
   <!-- MealFine -->
 
-  <CookASUCroquetteBread.label>コロッケぱんx6</CookASUCroquetteBread.label>
-  <CookASUCroquetteBread.description>コロッケぱんを作る</CookASUCroquetteBread.description>
-  <CookASUCroquetteBread.jobString>コロッケぱんを作成中。</CookASUCroquetteBread.jobString>
+  <CookASUCroquetteBread.label>고로케 빵x6</CookASUCroquetteBread.label>
+  <CookASUCroquetteBread.description>고로케 빵을 만듭니다.</CookASUCroquetteBread.description>
+  <CookASUCroquetteBread.jobString>고로케 빵 만드는 중</CookASUCroquetteBread.jobString>
 
-  <CookASUFriedNoodleSandwich.label>焼きそばぱんx6</CookASUFriedNoodleSandwich.label>
-  <CookASUFriedNoodleSandwich.description>焼きそばぱんを作る</CookASUFriedNoodleSandwich.description>
-  <CookASUFriedNoodleSandwich.jobString>焼きそばぱんを作成中。</CookASUFriedNoodleSandwich.jobString>
+  <CookASUFriedNoodleSandwich.label>야키소바 빵x6</CookASUFriedNoodleSandwich.label>
+  <CookASUFriedNoodleSandwich.description>야키소바 빵을 만든다.</CookASUFriedNoodleSandwich.description>
+  <CookASUFriedNoodleSandwich.jobString>야키소바 빵 만드는 중</CookASUFriedNoodleSandwich.jobString>
 
-  <CookASUSweetBeanPasteBun.label>あんぱんx6</CookASUSweetBeanPasteBun.label>
-  <CookASUSweetBeanPasteBun.description>あんぱんを作る</CookASUSweetBeanPasteBun.description>
-  <CookASUSweetBeanPasteBun.jobString>あんぱんを作成中。</CookASUSweetBeanPasteBun.jobString>
+  <CookASUSweetBeanPasteBun.label>단팥빵x6</CookASUSweetBeanPasteBun.label>
+  <CookASUSweetBeanPasteBun.description>단팥빵을 만든다.</CookASUSweetBeanPasteBun.description>
+  <CookASUSweetBeanPasteBun.jobString>단팥빵 만드는 중</CookASUSweetBeanPasteBun.jobString>
 
-  <CookASUCreamBun.label>クリームぱんx6</CookASUCreamBun.label>
-  <CookASUCreamBun.description>ミルク(豆乳)と卵でクリームを調理後にクリームぱんを作る。</CookASUCreamBun.description>
-  <CookASUCreamBun.jobString>クリームぱんを作成中。</CookASUCreamBun.jobString>
+  <CookASUCreamBun.label>크림빵x6</CookASUCreamBun.label>
+  <CookASUCreamBun.description>우유(두유)와 달걀로 크림을 저어 크림빵을 만든다.</CookASUCreamBun.description>
+  <CookASUCreamBun.jobString>크림빵 만드는 중。</CookASUCreamBun.jobString>
 
-  <CookASUChocolateCorne.label>チョココロネx6</CookASUChocolateCorne.label>
-  <CookASUChocolateCorne.description>チョココロネを作る</CookASUChocolateCorne.description>
-  <CookASUChocolateCorne.jobString>チョココロネを作成中。</CookASUChocolateCorne.jobString>
+  <CookASUChocolateCorne.label>초코소라빵x6</CookASUChocolateCorne.label>
+  <CookASUChocolateCorne.description>초코소라빵을 만든다.</CookASUChocolateCorne.description>
+  <CookASUChocolateCorne.jobString>초코소라빵 만드는 중</CookASUChocolateCorne.jobString>
 
-  <CookASUMelonpan.label>メロンパンx6</CookASUMelonpan.label>
-  <CookASUMelonpan.description>メロンパンを作る</CookASUMelonpan.description>
-  <CookASUMelonpan.jobString>メロンパンを作成中。</CookASUMelonpan.jobString>
+  <CookASUMelonpan.label>멜론빵x6</CookASUMelonpan.label>
+  <CookASUMelonpan.description>멜론빵을 만든다.</CookASUMelonpan.description>
+  <CookASUMelonpan.jobString>멜론빵 만드는 중</CookASUMelonpan.jobString>
 
-  <CookASUCurryBun.label>カレーパンx6</CookASUCurryBun.label>
-  <CookASUCurryBun.description>カレーパンを作る</CookASUCurryBun.description>
-  <CookASUCurryBun.jobString>カレーパンを作成中。</CookASUCurryBun.jobString>
+  <CookASUCurryBun.label>카레빵x6</CookASUCurryBun.label>
+  <CookASUCurryBun.description>카레빵을 만든다.</CookASUCurryBun.description>
+  <CookASUCurryBun.jobString>카레빵 만드는 중</CookASUCurryBun.jobString>
 
 
 </LanguageData>
