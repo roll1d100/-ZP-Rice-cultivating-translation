@@ -3,17 +3,17 @@
 
   <!-- add 1.1 -->
 
-  <ZP_GatheringSpot_water.label>물채집장</ZP_GatheringSpot_water.label>
+   <ZP_GatheringSpot_water.label>물채집장</ZP_GatheringSpot_water.label>
   <ZP_GatheringSpot_water.description>[설치장소: 얕은 물, 얕은 바다, 흐르는 물, 늪]\n생수를 채집하는 장소입니다.</ZP_GatheringSpot_water.description>
   <ZP_GatheringSpot_water_Blueprint.label> 물채집장(blueprint) </ZP_GatheringSpot_water_Blueprint.label>
   <ZP_Gathering Spot_water_Frame.label> 물채집장(building) </ZP_Gathering Spot_water_Frame.label>
   <ZP_GatheringSpot_water_Frame.description>[설치장소: 얕은 여울, 얕은 바다, 흐르는 물, 늪]\n생수를 채집하는 곳. </ZP_GatheringSpot_water_Frame.description>
 
   <ZP_GatheringSpot_Earthworm.label>지렁이수집장</ZP_GatheringSpot_Earthworm.label>
-  <ZP_Gathering Spot_Earthworm.description>[설치장소: 흙, 이끼 낀 흙, 기름진 흙, 밟아 다진 흙]\n지렁이를 채집하는 곳. </ZP_Gathering Spot_Earthworm.description>
+  <ZP_Gathering Spot_Earthworm.description>[설치장소: 흙, 이끼 낀 흙, 기름진 흙, 밟아 다진 흙]\n지렁이를 채집하는 곳. </ZP_GatheringSpot_Earthworm.description>
   <ZP_GatheringSpot_Earthworm_Blueprint.label>지렁이수집장(blueprint)</ZP_GatheringSpot_Earthworm_Blueprint.label>
   <ZP_GatheringSpot_Earthworm_Frame.label>지렁이수집장(building)</ZP_GatheringSpot_Earthworm_Frame.label>
-  <ZP_Gathering Spot_Earthworm_Frame.description>[설치장소: 흙, 이끼 낀 흙, 비옥한 흙, 밟아 다져진 흙]\n지렁이를 채집하는 곳. </ZP_Gathering Spot_Earthworm_Frame.description>
+  <ZP_Gathering Spot_Earthworm_Frame.description>[설치장소: 흙, 이끼 낀 흙, 비옥한 흙, 밟아 다져진 흙]\n지렁이를 채집하는 곳. </ZP_GatheringSpot_Earthworm_Frame.description>
 
   <ZP_SaltEvaporationPond.label> 염전(3×3)</ZP_SaltEvaporationPond.label>
   <ZP_SaltEvaporationPond.description>[연료:생수]\n천연염을 만들기 위한 전용 재배장소입니다.정기적으로 관리하지 않으면 역할을 마치고 사라집니다. </ZP_SaltEvaporationPond.description>
@@ -21,11 +21,11 @@
   <ZP_SaltEvaporationPond_Frame.label> 염전(3×3) (building)</ZP_SaltEvaporationPond_Frame.label>
   <ZP_SaltEvaporationPond_Frame.description>[연료:생수]\n천연염을 만들기 위한 전용 재배장소입니다.정기적으로 관리하지 않으면 역할을 마치고 사라집니다. </ZP_SaltEvaporationPond_Frame.description>
 
-  <ZP_Large Cultivation Planter.label> 대형 화분</ZLarge Cultivation Planter.label>
-  <ZP_Large Cultivation Planter.description>[연료:생수, 퇴비 비옥토:200%]\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter.description>
-  <ZP_Large Cultivation Planter_Blueprint.label> 대형 화분 (blueprint) </ZLarge Cultivation Planter_Blueprint.label>
-  <ZP_Large Cultivation Planter_Frame.label> 대형 화분 (building) </ZP Large Cultivation Planter_Frame.label>
-  <ZP_Large Cultivation Planter_Frame.description >【연료: 생수, 퇴비 비옥토: 200%】\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter_Frame.description>
+  <ZP_LargeCultivationPlanter.label> 대형 화분</ZLargeCultivationPlanter.label>
+  <ZP_LargeCultivationPlanter.description>[연료:생수, 퇴비 비옥토:200%]\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter.description>
+  <ZP_LargeCultivationPlanter_Blueprint.label> 대형 화분 (blueprint) </ZP_LargeCultivationPlanter_Blueprint.label>
+  <ZP_LargeCultivationPlanter_Frame.label> 대형 화분 (building) </ZP LargeCultivationPlanter_Frame.label>
+  <ZP_LargeCultivationPlanter_Frame.description >【연료: 생수, 퇴비 비옥토: 200%】\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter_Frame.description>
 
   <ZPaddyField.label> 논</ZPaddyField.label>
   <ZPaddyField.description>[비옥토:200%설치장소:다리와 동일]\n논벼를 키울 수 있는 논. 벼농사를 휴경하는 동안에는 이작으로 다른 작물도 재배할 수 있다.</ZPaddyField.description>
