@@ -3,25 +3,25 @@
 
   <!-- All add 1.1 -->
 
-  <ZP_PicnicSheet.label>レジャーシート(和柄)</ZP_PicnicSheet.label>
-  <ZP_PicnicSheet.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet.description>
+  <ZP_PicnicSheet.label>소풍 깔개(일본풍)</ZP_PicnicSheet.label>
+  <ZP_PicnicSheet.description>밖에서 먹을 때 테이블 대용이 되어주는 깔개.\n철거가 불가능하지만 소재는 거의 반환됩니다.</ZP_PicnicSheet.description>
   <ZP_PicnicSheet_Blueprint.label>レジャーシート(和柄) (blueprint)</ZP_PicnicSheet_Blueprint.label>
   <ZP_PicnicSheet_Frame.label>レジャーシート(和柄) (building)</ZP_PicnicSheet_Frame.label>
   <ZP_PicnicSheet_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet_Frame.description>
 
-  <ZP_PicnicSheet2nd.label>レジャーシート(和柄2)</ZP_PicnicSheet2nd.label>
-  <ZP_PicnicSheet2nd.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet2nd.description>
-  <ZP_PicnicSheet2nd_Blueprint.label>レジャーシート(和柄2) (blueprint)</ZP_PicnicSheet2nd_Blueprint.label>
-  <ZP_PicnicSheet2nd_Frame.label>レジャーシート(和柄2) (building)</ZP_PicnicSheet2nd_Frame.label>
-  <ZP_PicnicSheet2nd_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet2nd_Frame.description>
+  <ZP_PicnicSheet2nd.label>소풍 깔개(일본풍2)</ZP_PicnicSheet2nd.label>
+  <ZP_PicnicSheet2nd.description>밖에서 먹을 때 테이블 대용이 되어주는 깔개.\n철거가 불가능하지만 소재는 거의 반환됩니다.</ZP_PicnicSheet2nd.description>
+  <ZP_PicnicSheet2nd_Blueprint.label>소풍 깔개(일본풍2) (blueprint)</ZP_PicnicSheet2nd_Blueprint.label>
+  <ZP_PicnicSheet2nd_Frame.label>소풍 깔개(일본풍2) (building)</ZP_PicnicSheet2nd_Frame.label>
+  <ZP_PicnicSheet2nd_Frame.description>밖에서 먹을 때 테이블 대용이 되어주는 시트.\n철거가 불가능하지만 소재는 거의 반환됩니다.</ZP_PicnicSheet2nd_Frame.description>
 
-  <ZP_PicnicSheet3rd.label>レジャーシート(和柄3)</ZP_PicnicSheet3rd.label>
-  <ZP_PicnicSheet3rd.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet3rd.description>
-  <ZP_PicnicSheet3rd_Blueprint.label>レジャーシート(和柄3) (blueprint)</ZP_PicnicSheet3rd_Blueprint.label>
-  <ZP_PicnicSheet3rd_Frame.label>レジャーシート(和柄3) (building)</ZP_PicnicSheet3rd_Frame.label>
+  <ZP_PicnicSheet3rd.label>소풍 깔개(일본풍)</ZP_PicnicSheet3rd.label>
+  <ZP_PicnicSheet3rd.description>밖에서 먹을 때 테이블 대용이 되어주는 시트.\n철거가 불가능하지만 소재는 거의 반환됩니다.</ZP_PicnicSheet3rd.description>
+  <ZP_PicnicSheet3rd_Blueprint.label>소풍 깔개(일본풍) (blueprint)</ZP_PicnicSheet3rd_Blueprint.label>
+  <ZP_PicnicSheet3rd_Frame.label>소풍 깔개(일본풍) (building)</ZP_PicnicSheet3rd_Frame.label>
   <ZP_PicnicSheet3rd_Frame.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet3rd_Frame.description>
 
-  <ZP_PicnicSheet4th.label>レジャーシート(和柄4)</ZP_PicnicSheet4th.label>
+  <ZP_PicnicSheet4th.label>소풍 깔개(일본풍)</ZP_PicnicSheet4th.label>
   <ZP_PicnicSheet4th.description>外で食べるさいにテーブル代わりになるレジャーシート。\n撤去不可だが素材はほぼ返ってきます。</ZP_PicnicSheet4th.description>
   <ZP_PicnicSheet4th_Blueprint.label>レジャーシート(和柄4) (blueprint)</ZP_PicnicSheet4th_Blueprint.label>
   <ZP_PicnicSheet4th_Frame.label>レジャーシート(和柄4) (building)</ZP_PicnicSheet4th_Frame.label>
