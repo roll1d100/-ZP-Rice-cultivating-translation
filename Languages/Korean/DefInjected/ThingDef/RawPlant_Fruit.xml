@@ -3,23 +3,23 @@
 
   <!-- 果物類 -->
 
-  <RawAgave.label>agave fruit</RawAgave.label>
-  <RawAgave.description>Raw agave fruit.</RawAgave.description>
+  <RawAgave.label>용설란</RawAgave.label>
+  <RawAgave.description>생 용설란입니다.</RawAgave.description>
 
-  <RawBerries.label>berries</RawBerries.label>
-  <RawBerries.description>Assorted berries. Nice to eat, even when raw.</RawBerries.description>
+  <RawBerries.label>딸기</RawBerries.label>
+  <RawBerries.description>생 딸기입니다. 생으로 먹어도 맛있습니다.</RawBerries.description>
 
-  <ZP_RawMandarinOrange.label>みかん</ZP_RawMandarinOrange.label>
-  <ZP_RawMandarinOrange.description>甘酸っぱくて美味しいミカン。</ZP_RawMandarinOrange.description>
+  <ZP_RawMandarinOrange.label>감귤</ZP_RawMandarinOrange.label>
+  <ZP_RawMandarinOrange.description>새콤달콤 맛있는 귤.</ZP_RawMandarinOrange.description>
 
 
   <!-- add 1.1 -->
 
-  <ZP_RawPlum.label>梅</ZP_RawPlum.label>
-  <ZP_RawPlum.description>生のウメ。生の梅はそのまま食べても美味しくない。</ZP_RawPlum.description>
+  <ZP_RawPlum.label>매실</ZP_RawPlum.label>
+  <ZP_RawPlum.description>생 매실입니다. 생으로 먹으면 맛없습니다.</ZP_RawPlum.description>
 
-  <ZP_RawPersimmon.label>柿</ZP_RawPersimmon.label>
-  <ZP_RawPersimmon.description>生の柿。栄養価が高く生で食べても美味しい。</ZP_RawPersimmon.description>
+  <ZP_RawPersimmon.label>감</ZP_RawPersimmon.label>
+  <ZP_RawPersimmon.description>생 감입니다. 생으로 먹어도 맛있고 영양가도 좋습니다.</ZP_RawPersimmon.description>
 
 
 </LanguageData>
