@@ -3,9 +3,9 @@
 
   <!-- add 1.1 -->
 
-  <CookASUBreakfastBreadSet.label>朝食ぱんセットx4</CookASUBreakfastBreadSet.label>
-  <CookASUBreakfastBreadSet.description>朝食ぱんセットを作る</CookASUBreakfastBreadSet.description>
-  <CookASUBreakfastBreadSet.jobString>朝食ぱんセットを作成中。</CookASUBreakfastBreadSet.jobString>
+  <CookASUBreakfastBreadSet.label>아침용 빵 모음x4</CookASUBreakfastBreadSet.label>
+  <CookASUBreakfastBreadSet.description>아침용 빵 모음을 4개 만듭니다.</CookASUBreakfastBreadSet.description>
+  <CookASUBreakfastBreadSet.jobString>아침용 빵 만드는 중</CookASUBreakfastBreadSet.jobString>
 
 
 </LanguageData>
