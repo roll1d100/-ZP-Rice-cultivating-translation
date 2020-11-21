@@ -11,17 +11,17 @@
 
   <!-- add 1.1 -->
 
-  <ZP_IcePillar.label>氷柱</ZP_IcePillar.label>
+  <ZP_IcePillar.label>얼음 기둥</ZP_IcePillar.label>
   <ZP_IcePillar.description>【연료:얼음, 최저기온: -3℃, 용량:150】\n음식을 차게 할 수 있을 정도로 큰 얼음입니다. 상하기 쉬운 여름철 등에 편리합니다. 회전하면 얼음기둥 종류를 바꿀 수 있습니다.\n연료의 얼음이 없어지면 사라집니다.연료의 얼음이 소진되면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IcePillar.description>
-  <ZP_IcePillar_Blueprint.label>氷柱 (blueprint)</ZP_IcePillar_Blueprint.label>
-  <ZP_IcePillar_Frame.label>氷柱 (building)</ZP_IcePillar_Frame.label>
+  <ZP_IcePillar_Blueprint.label>얼음 기둥 (blueprint)</ZP_IcePillar_Blueprint.label>
+  <ZP_IcePillar_Frame.label>얼음 기둥 (building)</ZP_IcePillar_Frame.label>
   <ZP_IcePillar_Frame.description>【연료:얼음, 최저기온: -3℃, 용량:150】\n음식을 차게 할 수 있을 정도로 큰 얼음입니다. 상하기 쉬운 여름철 등에 편리합니다. 회전하면 얼음기둥 종류를 바꿀 수 있습니다.\n연료의 얼음이 없어지면 사라집니다.연료의 얼음이 소진되면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IcePillar_Frame.description>
 
   <ZP_IceSculpture.label>머팔로 얼음조각상</ZP_IceSculpture.label>
-  <ZP_IceSculpture.description>【연료:얼음, 최저기온: -3℃, 용량:300】\n매팔로 얼음상입니다.\n음식을 식힐 수 있을 정도로 큰 얼음입니다.상하기 쉬운 여름철 등에 편리합니다.\n연료의 얼음이 없어지면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IceSculpture.description>
+  <ZP_IceSculpture.description>【연료:얼음, 최저기온: -3℃, 용량:300】\n머팔로 얼음상입니다.\n음식을 식힐 수 있을 정도로 큰 얼음입니다.상하기 쉬운 여름철 등에 편리합니다.\n연료의 얼음이 없어지면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IceSculpture.description>
   <ZP_IceSculpture_Blueprint.label>머팔로 얼음조각상 (blueprint)</ZP_IceSculpture_Blueprint.label>
   <ZP_IceSculpture_Frame.label>머팔로 얼음조각상 (building)</ZP_IceSculpture_Frame.label>
-  <ZP_IceSculpture_Frame.description>【연료:얼음, 최저기온: -3℃, 용량:300】\n매팔로 얼음상입니다.\n음식을 식힐 수 있을 정도로 큰 얼음입니다.상하기 쉬운 여름철 등에 편리합니다.\n연료의 얼음이 없어지면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IceSculpture_Frame.description>
+  <ZP_IceSculpture_Frame.description>【연료:얼음, 최저기온: -3℃, 용량:300】\n머팔로 얼음상입니다.\n음식을 식힐 수 있을 정도로 큰 얼음입니다.상하기 쉬운 여름철 등에 편리합니다.\n연료의 얼음이 없어지면 사라집니다.추울 때 대량으로 얼음을 채집하여 전용 얼음방에서 철저히 온도관리를 하면 장기간 사용할 수 있습니다.</ZP_IceSculpture_Frame.description>
 
 
 </LanguageData>
