@@ -9,7 +9,7 @@
 
   <MakeMPTWhiteRice300.label>벼를 백미로x300</MakeMPTWhiteRice300.label>
   <MakeMPTWhiteRice300.description>벼를 탈곡정미하여 백미, 짚, 부산물 봉지로 나눕니다.</MakeMPTWhiteRice300.description>
-  <MakeMPTWhiteRice300.jobString>탈곡정미중/MakeMPTWhiteRice300.jobString>
+  <MakeMPTWhiteRice300.jobString>탈곡정미중</MakeMPTWhiteRice300.jobString>
 
 
   <!-- 稲穂⇒玄米 -->
