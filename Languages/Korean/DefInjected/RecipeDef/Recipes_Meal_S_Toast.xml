@@ -15,7 +15,7 @@
   <!-- 簡単な食事 単品 -->
 
   <CookASUButterWhiteBread.label>버터토스트x2</CookASUButterWhiteBread.label>
-  <CookASUButterWhiteBread.description>버터를 바른 식빵입니다./CookASUButterWhiteBread.description>
+  <CookASUButterWhiteBread.description>버터를 바른 식빵입니다.</CookASUButterWhiteBread.description>
   <CookASUButterWhiteBread.jobString>버터토스트 굽는 중</CookASUButterWhiteBread.jobString>
 
   <CookASUJamWhiteBread.label>잼 토스트x3</CookASUJamWhiteBread.label>
