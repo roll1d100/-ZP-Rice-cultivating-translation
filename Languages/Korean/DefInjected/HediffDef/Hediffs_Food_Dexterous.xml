@@ -3,11 +3,11 @@
 
   <!-- All add 1.1 -->
 
-  <Hediffs_Dexterous Lv1.label>재주 Lv.1</Hediffs_Dexterous Lv1.label>
-  <Hediffs_Dexterous Lv1.description>Tips9:공들여진 식사를 1일 2끼로 30일간 먹으면 Lv3의 영구형 버프를 획득할 수 있습니다.</Hediffs_Dexterous Lv1.description>
+  <Hediffs_DexterousLv1.label>재주 Lv.1</Hediffs_DexterousLv1.label>
+  <Hediffs_DexterousLv1.description>Tips9:공들여진 식사를 1일 2끼로 30일간 먹으면 Lv3의 영구형 버프를 획득할 수 있습니다.</Hediffs_DexterousLv1.description>
   <Hediffs_DexterousLv1.stages.0.label></Hediffs_DexterousLv1.stages.0.label>
 
-  <Hediffs_Dexterous Lv2.label>재주 Lv.2</Hediffs_Dexterous Lv2.label>
+  <Hediffs_DexterousLv2.label>재주 Lv.2</Hediffs_DexterousLv2.label>
   <Hediffs_DexterousLv2.description>Tips11:Lv3의 영구형 능력 상승 버프는 Skill2up분 상당입니다.</Hediffs_DexterousLv2.description>
   <Hediffs_DexterousLv2.stages.0.label></Hediffs_DexterousLv2.stages.0.label>
 
