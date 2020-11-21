@@ -3,16 +3,16 @@
 
   <ZP_RiceCraftingSpot.label>농작물가공소</ZP_RiceCraftingSpot.label>
   <ZP_RiceCraftingSpot.description>농작물이나 부산물을 가공하는 전용 작업장</ZP_RiceCraftingSpot.description>
-  <ZP_RiceCraftingSpot_Blueprint.label> 농작물 가공소(blueprint) </ZP_RiceCraftingSpot_Blueprint.label>
-  <ZP_RiceCraftingSpot_Frame.label> 농작물 가공소(building) </ZP_RiceCraftingSpot_Frame.label>
-  <ZP_RiceCraftingSpot_Frame.description> 농작물이나 부산물을 가공하는 전용 작업장</ZRiceCraftingSpot_Frame.description>
+  <ZP_RiceCraftingSpot_Blueprint.label>농작물 가공소(blueprint)</ZP_RiceCraftingSpot_Blueprint.label>
+  <ZP_RiceCraftingSpot_Frame.label>농작물 가공소(building) </ZP_RiceCraftingSpot_Frame.label>
+  <ZP_RiceCraftingSpot_Frame.description>농작물이나 부산물을 가공하는 전용 작업장</ZRiceCraftingSpot_Frame.description>
 
-  <ZP_PestleAndMortar.label> 절구</ZP_PestleAndMortar.label>
-  <ZP_PestleAndMortar.description> 절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다.</ZP_PestleAndMortar.description>
-  <ZP_PestleAndMortar_Blueprint.label> 절구(blueprint)</ZP_PestleAndMortar_Blueprint.label>
-  <ZP_PestleAndMortar_Blueprint_Install.label> 절구(blueprint) </ZP_PestleAndMortar_Blueprint_Install.label>
+  <ZP_PestleAndMortar.label>절구</ZP_PestleAndMortar.label>
+  <ZP_PestleAndMortar.description>절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다.</ZP_PestleAndMortar.description>
+  <ZP_PestleAndMortar_Blueprint.label>절구(blueprint)</ZP_PestleAndMortar_Blueprint.label>
+  <ZP_PestleAndMortar_Blueprint_Install.label>절구(blueprint) </ZP_PestleAndMortar_Blueprint_Install.label>
   <ZP_PestleAndMortar_Frame.label>절구(building)</ZP_PestleAndMortar_Frame.label>
-  <ZP_PestleAndMortar_Frame.description> 절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다.</ZP_PestleAndMortar_Frame.description>
+  <ZP_PestleAndMortar_Frame.description>절굿공이와 절구. 이삭이나 떡을 찧을 때 사용합니다.</ZP_PestleAndMortar_Frame.description>
 
 
 </LanguageData>
