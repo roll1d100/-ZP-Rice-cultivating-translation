@@ -4,11 +4,11 @@
   <!-- add 1.1 -->
 
   <ZP_ElectricThreshingMachine.label>전동탈곡기</ZP_ElectricThreshingMachine.label>
-  <ZP_ElectricThreshingMachine.description>[역할:탈곡]\n벼를 탈곡하여 쌀(벼)를 생산하는 농기구입니다.전기로 움직이기 하기 때문에 효율은 상당히 좋습니다.</ZP_ElectricThreshingMachine.description>
+  <ZP_ElectricThreshingMachine.description>[역할:탈곡]\n벼를 탈곡하여 쌀(벼)를 생산하는 농기구입니다.전기로 움직이기 때문에 효율은 상당히 좋습니다.</ZP_ElectricThreshingMachine.description>
   <ZP_ElectricThreshingMachine_Blueprint.label>전동탈곡기 (blueprint)</ZP_ElectricThreshingMachine_Blueprint.label>
   <ZP_ElectricThreshingMachine_Blueprint_Install.label>전동탈곡기 (blueprint)</ZP_ElectricThreshingMachine_Blueprint_Install.label>
   <ZP_ElectricThreshingMachine_Frame.label>전동탈곡기 (building)</ZP_ElectricThreshingMachine_Frame.label>
-  <ZP_ElectricThreshingMachine_Frame.description>[역할:탈곡]\n벼를 탈곡하여 쌀(벼)를 생산하는 농기구입니다.전기로 움직이기 하기 때문에 효율은 상당히 좋습니다.</ZP_ElectricThreshingMachine_Frame.description>
+  <ZP_ElectricThreshingMachine_Frame.description>[역할:탈곡]\n벼를 탈곡하여 쌀(벼)를 생산하는 농기구입니다.전기로 움직이기 때문에 효율은 상당히 좋습니다.</ZP_ElectricThreshingMachine_Frame.description>
 
   <ZP_RiceMillingMachine.label>정미기</ZP_RiceMillingMachine.label>
   <ZP_RiceMillingMachine.description>[역할:정미]\n이삭이나 현미를 가공할 때 사용합니다.맛있는 흰쌀을 먹고 싶은 욕구 때문에 생겨난 기계입니다.</ZP_RiceMillingMachine.description>
