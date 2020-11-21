@@ -3,7 +3,7 @@
 
   <!-- add 1.1 -->
 
-   <ZP_GatheringSpot_water.label>물채집장</ZP_GatheringSpot_water.label>
+  <ZP_GatheringSpot_water.label>물채집장</ZP_GatheringSpot_water.label>
   <ZP_GatheringSpot_water.description>[설치장소: 얕은 물, 얕은 바다, 흐르는 물, 늪]\n생수를 채집하는 장소입니다.</ZP_GatheringSpot_water.description>
   <ZP_GatheringSpot_water_Blueprint.label> 물채집장(blueprint) </ZP_GatheringSpot_water_Blueprint.label>
   <ZP_GatheringSpot_water_Frame.label> 물채집장(building) </ZP_Gathering Spot_water_Frame.label>
