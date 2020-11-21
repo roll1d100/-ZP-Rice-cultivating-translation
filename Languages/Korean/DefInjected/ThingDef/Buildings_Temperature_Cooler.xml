@@ -2,11 +2,11 @@
 <LanguageData>
 
   <ZP_RoundHandFan.label>부채</ZP_RoundHandFan.label>
-  <ZP_RoundHandFan.description【최저기온:20℃, 사용기간:15일】일본의 전통적인 냉방기구.\n손으로 부채질하여 바람을 일으킴으로써 더위를 식힐 수 있습니다.부채는 무더위를 이겨내는 필수품이지만 한여름이 끝날 무렵에는 쳐다보지도 않고 어디론가 사라집니다.</ZP_RoundHandFan.description>
+  <ZP_RoundHandFan.description>【최저기온:20℃, 사용기간:15일】일본의 전통적인 냉방기구.\n손으로 부채질하여 바람을 일으킴으로써 더위를 식힐 수 있습니다.부채는 무더위를 이겨내는 필수품이지만 한여름이 끝날 무렵에는 쳐다보지도 않고 어디론가 사라집니다.</ZP_RoundHandFan.description>
   <ZP_RoundHandFan_Blueprint.label>부채 (blueprint)</ZP_RoundHandFan_Blueprint.label>
   <ZP_RoundHandFan_Blueprint_Install.label>부채 (blueprint)</ZP_RoundHandFan_Blueprint_Install.label>
   <ZP_RoundHandFan_Frame.label>부채 (building)</ZP_RoundHandFan_Frame.label>
-  <ZP_RoundHandFan_Frame.description【최저기온:20℃, 사용기간:15일】일본의 전통적인 냉방기구.\n손으로 부채질하여 바람을 일으킴으로써 더위를 식힐 수 있습니다.부채는 무더위를 이겨내는 필수품이지만 한여름이 끝날 무렵에는 쳐다보지도 않고 어디론가 사라집니다.</ZP_RoundHandFan_Frame.description>
+  <ZP_RoundHandFan_Frame.description>【최저기온:20℃, 사용기간:15일】일본의 전통적인 냉방기구.\n손으로 부채질하여 바람을 일으킴으로써 더위를 식힐 수 있습니다.부채는 무더위를 이겨내는 필수품이지만 한여름이 끝날 무렵에는 쳐다보지도 않고 어디론가 사라집니다.</ZP_RoundHandFan_Frame.description>
 
 
   <!-- add 1.1 -->
