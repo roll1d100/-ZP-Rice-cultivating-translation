@@ -24,7 +24,7 @@
   <ZP_LargeCultivationPlanter.label> 대형 화분</ZLargeCultivationPlanter.label>
   <ZP_LargeCultivationPlanter.description>[연료:생수, 퇴비 비옥토:200%]\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter.description>
   <ZP_LargeCultivationPlanter_Blueprint.label> 대형 화분 (blueprint) </ZP_LargeCultivationPlanter_Blueprint.label>
-  <ZP_LargeCultivationPlanter_Frame.label> 대형 화분 (building) </ZP LargeCultivationPlanter_Frame.label>
+  <ZP_LargeCultivationPlanter_Frame.label> 대형 화분 (building) </ZP_LargeCultivationPlanter_Frame.label>
   <ZP_LargeCultivationPlanter_Frame.description >【연료: 생수, 퇴비 비옥토: 200%】\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter_Frame.description>
 
   <ZPaddyField.label> 논</ZPaddyField.label>
