@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<ZP_ThreshingMachine.label> 발판식 탈곡기 </ZP_ThreshingMachine.label>
-  <ZP_ThreshingMachine.description> [역할 : 탈곡] \n 벼를 탈곡해서 이삭을 생산하는 농기구. 인력을 사용해 효율이 나쁘다. </ZP_ThreshingMachine.description>
-  <ZP_ThreshingMachine_Blueprint.label> 발판식 탈곡기 (blueprint) </ZP_ThreshingMachine_Blueprint.label>
-  <ZP_ThreshingMachine_Blueprint_Install.label> 발판식 탈곡기 (blueprint) </ZP_ThreshingMachine_Blueprint_Install.label>
-  <ZP_ThreshingMachine_Frame.label> 발판식 탈곡기 (building) </ZP_ThreshingMachine_Frame.label>
-  <ZP_ThreshingMachine_Frame.description> [역할 : 탈곡] \n 벼를 탈곡해서 이삭을 생산하는 농기구. 인력을 사용해 효율이 나쁘다. </ZP_ThreshingMachine_Frame.description>
+  <ZP_ThreshingMachine.label>발판식 탈곡기 </ZP_ThreshingMachine.label>
+  <ZP_ThreshingMachine.description>[역할 : 탈곡] \n 벼를 탈곡해서 이삭을 생산하는 농기구. 인력을 사용해 효율이 나쁘다. </ZP_ThreshingMachine.description>
+  <ZP_ThreshingMachine_Blueprint.label>발판식 탈곡기 (blueprint) </ZP_ThreshingMachine_Blueprint.label>
+  <ZP_ThreshingMachine_Blueprint_Install.label>발판식 탈곡기 (blueprint) </ZP_ThreshingMachine_Blueprint_Install.label>
+  <ZP_ThreshingMachine_Frame.label>발판식 탈곡기 (building) </ZP_ThreshingMachine_Frame.label>
+  <ZP_ThreshingMachine_Frame.description>[역할 : 탈곡] \n 벼를 탈곡해서 이삭을 생산하는 농기구. 인력을 사용해 효율이 나쁘다. </ZP_ThreshingMachine_Frame.description>
 
   <ZP_RiceStoneSlurry.label>맷돌</ZP_RiceStoneSlurry.label>
-  <ZP_RiceStoneSlurry.description>[역할: 현미 정미]\n현미정미를 위한 절구입니다.인력으로 하기 때문에 효율은 나쁩니다.</ZP_RiceStoneSlurry.description>
+  <ZP_RiceStoneSlurry.description>[역할: 현미 정미]\n현미정미를 위한 맷돌입니다.인력으로 하기 때문에 효율은 나쁩니다.</ZP_RiceStoneSlurry.description>
   <ZP_RiceStoneSlurry_Blueprint.label>맷돌(blueprint)</ZP_RiceStoneSlurry_Blueprint.label>
   <ZP_RiceStoneSlurry_Blueprint_Install.label>맷돌 (blueprint)</ZP_RiceStoneSlurry_Blueprint_Install.label>
   <ZP_RiceStoneSlurry_Frame.label>맷돌(building)</ZP_RiceStoneSlurry_Frame.label>
-  <ZP_RiceStoneSlurry_Frame.description>[역할: 현미 정미]\n현미정미를 위한 절구입니다.인력으로 하기 때문에 효율은 나쁩니다.</ZP_RiceStoneSlurry_Frame.description>
+  <ZP_RiceStoneSlurry_Frame.description>[역할: 현미 정미]\n현미정미를 위한 맷돌입니다.인력으로 하기 때문에 효율은 나쁩니다.</ZP_RiceStoneSlurry_Frame.description>
 
 
   <!-- add 1.1 -->
