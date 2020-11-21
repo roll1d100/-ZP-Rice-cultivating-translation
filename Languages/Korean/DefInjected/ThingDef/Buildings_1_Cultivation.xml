@@ -5,8 +5,8 @@
 
   <ZP_GatheringSpot_water.label>물채집장</ZP_GatheringSpot_water.label>
   <ZP_GatheringSpot_water.description>[설치장소: 얕은 물, 얕은 바다, 흐르는 물, 늪]\n생수를 채집하는 장소입니다.</ZP_GatheringSpot_water.description>
-  <ZP_GatheringSpot_water_Blueprint.label> 물채집장(blueprint) </ZP_GatheringSpot_water_Blueprint.label>
-  <ZP_GatheringSpot_water_Frame.label> 물채집장(building) </ZP_GatheringSpot_water_Frame.label>
+  <ZP_GatheringSpot_water_Blueprint.label>물채집장(blueprint) </ZP_GatheringSpot_water_Blueprint.label>
+  <ZP_GatheringSpot_water_Frame.label>물채집장(building) </ZP_GatheringSpot_water_Frame.label>
   <ZP_GatheringSpot_water_Frame.description>[설치장소: 얕은 여울, 얕은 바다, 흐르는 물, 늪]\n생수를 채집하는 곳. </ZP_GatheringSpot_water_Frame.description>
 
   <ZP_GatheringSpot_Earthworm.label>지렁이수집장</ZP_GatheringSpot_Earthworm.label>
@@ -15,28 +15,28 @@
   <ZP_GatheringSpot_Earthworm_Frame.label>지렁이수집장(building)</ZP_GatheringSpot_Earthworm_Frame.label>
   <ZP_GatheringSpot_Earthworm_Frame.description>[설치장소: 흙, 이끼 낀 흙, 비옥한 흙, 밟아 다져진 흙]\n지렁이를 채집하는 곳. </ZP_GatheringSpot_Earthworm_Frame.description>
 
-  <ZP_SaltEvaporationPond.label> 염전(3×3)</ZP_SaltEvaporationPond.label>
+  <ZP_SaltEvaporationPond.label>염전(3×3)</ZP_SaltEvaporationPond.label>
   <ZP_SaltEvaporationPond.description>[연료:생수]\n천연염을 만들기 위한 전용 재배장소입니다.정기적으로 관리하지 않으면 역할을 마치고 사라집니다. </ZP_SaltEvaporationPond.description>
-  <ZP_SaltEvaporationPond_Blueprint.label> 염전(3×3) (blueprint) </ZP_SaltEvaporationPond_Blueprint.label>
-  <ZP_SaltEvaporationPond_Frame.label> 염전(3×3) (building)</ZP_SaltEvaporationPond_Frame.label>
+  <ZP_SaltEvaporationPond_Blueprint.label>염전(3×3) (blueprint) </ZP_SaltEvaporationPond_Blueprint.label>
+  <ZP_SaltEvaporationPond_Frame.label>염전(3×3) (building)</ZP_SaltEvaporationPond_Frame.label>
   <ZP_SaltEvaporationPond_Frame.description>[연료:생수]\n천연염을 만들기 위한 전용 재배장소입니다.정기적으로 관리하지 않으면 역할을 마치고 사라집니다. </ZP_SaltEvaporationPond_Frame.description>
 
-  <ZP_LargeCultivationPlanter.label> 대형 화분</ZLargeCultivationPlanter.label>
+  <ZP_LargeCultivationPlanter.label>대형 화분</ZP_LargeCultivationPlanter.label>
   <ZP_LargeCultivationPlanter.description>[연료:생수, 퇴비 비옥토:200%]\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter.description>
-  <ZP_LargeCultivationPlanter_Blueprint.label> 대형 화분 (blueprint) </ZP_LargeCultivationPlanter_Blueprint.label>
-  <ZP_LargeCultivationPlanter_Frame.label> 대형 화분 (building) </ZP_LargeCultivationPlanter_Frame.label>
-  <ZP_LargeCultivationPlanter_Frame.description >【연료: 생수, 퇴비 비옥토: 200%】\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter_Frame.description>
+  <ZP_LargeCultivationPlanter_Blueprint.label>대형 화분 (blueprint) </ZP_LargeCultivationPlanter_Blueprint.label>
+  <ZP_LargeCultivationPlanter_Frame.label>대형 화분 (building) </ZP_LargeCultivationPlanter_Frame.label>
+  <ZP_LargeCultivationPlanter_Frame.description>연료: 생수, 퇴비 비옥토: 200%】\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter_Frame.description>
 
-  <ZPaddyField.label> 논</ZPaddyField.label>
-  <ZPaddyField.description>[비옥토:200%설치장소:다리와 동일]\n논벼를 키울 수 있는 논. 벼농사를 휴경하는 동안에는 이작으로 다른 작물도 재배할 수 있다.</ZPaddyField.description>
-  <ZPaddyField_Blueprint.label> 논 (blueprint) </ZPaddyField_Blueprint.label>
-  <ZPaddyField_Frame.label> 논 (building) </ZPaddyField_Frame.label>
-  <ZPaddyField_Frame.description>[비옥토:200%설치장소:다리와 동일]\n논벼를 키울 수 있는 논. 벼농사를 휴경하는 동안에는 이작으로 다른 작물을 재배할 수 있다.</ZaddyField_Frame.description>
+  <ZP_PaddyField.label>논</ZPaddyField.label>
+  <ZP_PaddyField.description>[비옥토:200%설치장소:다리와 동일]\n논벼를 키울 수 있는 논. 벼농사를 휴경하는 동안에는 이작으로 다른 작물도 재배할 수 있다.<ZP_PaddyField.description>
+  <ZP_PaddyField_Blueprint.label>논 (blueprint) <ZP_PaddyField_Blueprint.label>
+  <ZP_PaddyField_Frame.label>논 (building) <ZP_PaddyField_Frame.label>
+  <ZP_PaddyField_Frame.description>[비옥토:200%설치장소:다리와 동일]\n논벼를 키울 수 있는 논. 벼농사를 휴경하는 동안에는 이작으로 다른 작물을 재배할 수 있다.<ZP_PaddyField_Frame.description>
 
-  <ZP_AquacultureNet.label> 양식망(3×3)</ZP_AquacultureNet.label>
+  <ZP_AquacultureNet.label>양식망(3×3)</ZP_AquacultureNet.label>
   <ZP_AquacultureNet.description>[연료:물고기 먹이, 지렁이, 벌레 고기 비옥도:100% 설치장소:얕은 물, 얕은 바다, 흐르는 물, 늪]\n 물고기를 기를 수 있는 활어조.</ZP_AquacultureNet.description>
-  <ZP_AquacultureNet_Blueprint.label> 양식망(3×3) (blueprint) </ZP_AquacultureNet_Blueprint.label>
-  <ZP_AquacultureNet_Frame.label> 양식망(3×3) (building) </ZP_AquacultureNet_Frame.label>
+  <ZP_AquacultureNet_Blueprint.label>양식망(3×3) (blueprint) </ZP_AquacultureNet_Blueprint.label>
+  <ZP_AquacultureNet_Frame.label>양식망(3×3) (building) </ZP_AquacultureNet_Frame.label>
   <ZP_AquacultureNet_Frame.description>[연료:물고기 먹이, 지렁이, 벌레 고기 비옥도: 100% 설치장소: 얕은 물, 얕은 바다, 흐르는 물, 늪]\n 물고기를 기를 수 있는 활어조. </ZP_AquacultureNet_Frame.description>
 
   <ZP_AquacultureNet_Large.label>양식망(4×5)</ZP_AquacultureNet_Large.label>
@@ -62,7 +62,7 @@
   <ZP_FloatingSunLamp.comps.2.offMessage>Off for plant resting period</ZP_FloatingSunLamp.comps.2.offMessage>
 
   <ZP_DeepDrill.label>심부토양채취기</ZP_DeepDrill.label>
-  <ZP_DeepDrill.description>심부에서 다양한 토양자원을 채취합니다.</ZPDeepDrill.description>
+  <ZP_DeepDrill.description>심부에서 다양한 토양자원을 채취합니다.</ZP_DeepDrill.description>
   <ZP_DeepDrill_Blueprint.label> 심부토양채취기(blueprint) </ZP_DeepDrill_Blueprint.label>
   <ZP_DeepDrill_Blueprint_Install.label> 심부토양채취기(blueprint) </ZP_DeepDrill_Blueprint_Install.label>
   <ZP_DeepDrill_Frame.label> 심부토양채취기(building) </ZP_DeepDrill_Frame.label>
