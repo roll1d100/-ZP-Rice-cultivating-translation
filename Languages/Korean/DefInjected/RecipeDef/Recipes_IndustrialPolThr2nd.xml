@@ -26,7 +26,7 @@
   <MakeITGlutinousMomiC300.description>벼이삭을 탈곡정미하여 찹쌀로 만듭니다. 부산물을 소량의 바이오 연료로 변환합니다.</MakeITGlutinousMomiC300.description>
   <MakeITGlutinousMomiC300.jobString>탈곡정미중</MakeITGlutinousMomiC300.jobString>
 
-  <MakeIPTBrownRiceC300.label>C:벼 이삭을 현미로(200)</MakeIPTBrownRiceC300.label>
+  <MakeIPTBrownRiceC300.label>C:벼 이삭을 현미로x300</MakeIPTBrownRiceC300.label>
   <MakeIPTBrownRiceC300.description>벼이삭을 탈곡정미하여 현미로 만듭니다. 부산물을 소량의 바이오 연료로 변환합니다.</MakeIPTBrownRiceC300.description>
   <MakeIPTBrownRiceC300.jobString>탈곡정미중</MakeIPTBrownRiceC300.jobString>
 
