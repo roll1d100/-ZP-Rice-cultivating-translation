@@ -15,11 +15,11 @@
 
   <!-- add 1.1 -->
 
-  <ZP_Glowstool.label>붉은 버섯</ZP_Glowstool.label>
-  <ZP_Glowstool.description>대개는 동굴속에서 발견되는 작은 갈색 버섯. 그 냄새는 부패가 진행되는 매펄로의 위에서 꺼낸 낡고 더러워진 걸레와 같습니다 - 하지만, 조리하면 놀랄 만큼 맛있어집니다. 햇빛에 노출되면 죽습니다.</ZP_Glowstool.description>
+  <ZP_Glowstool.label>발광버섯</ZP_Glowstool.label>
+  <ZP_Glowstool.description>대개는 동굴속에서 발견되는 작은 갈색 버섯. 썩은 머팔로 내장 냄새가 납니다. 그러나 요리하면 놀랍게도 맛이 좋아집니다. 밝은 빛에 노출되면 죽습니다.</ZP_Glowstool.description>
 
-  <ZP_Agarilux.label>발광버섯</ZP_Agarilux.label>
-  <ZP_Agarilux.description>매우 큰 보라색 버섯입니다. 큰 크기와 우산을 뻗는 모습이 아름답습니다. 햇빛에 쬐면 죽습니다.</ZP_Agarilux.description>
+  <ZP_Agarilux.label>대형 발광버섯</ZP_Agarilux.label>
+  <ZP_Agarilux.description>크고 아름다운 보라색 버섯입니다. 밝은 빛에 노출되면 죽습니다.</ZP_Agarilux.description>
 
 
 </LanguageData>
