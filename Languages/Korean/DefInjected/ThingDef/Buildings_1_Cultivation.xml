@@ -27,7 +27,7 @@
   <ZP_LargeCultivationPlanter_Frame.label>대형 화분 (building) </ZP_LargeCultivationPlanter_Frame.label>
   <ZP_LargeCultivationPlanter_Frame.description>연료: 생수, 퇴비 비옥토: 200%】\n작물을 재배할 수 있는 화분입니다.정기적으로 관리하지 않으면 썩어 없어집니다.</ZP_LargeCultivationPlanter_Frame.description>
 
-  <ZP_PaddyField.label>논</ZPaddyField.label>
+  <ZP_PaddyField.label>논</ZP_PaddyField.label>
   <ZP_PaddyField.description>[비옥토:200%설치장소:다리와 동일]\n논벼를 키울 수 있는 논. 벼농사를 휴경하는 동안에는 이작으로 다른 작물도 재배할 수 있다.<ZP_PaddyField.description>
   <ZP_PaddyField_Blueprint.label>논 (blueprint) <ZP_PaddyField_Blueprint.label>
   <ZP_PaddyField_Frame.label>논 (building) <ZP_PaddyField_Frame.label>
